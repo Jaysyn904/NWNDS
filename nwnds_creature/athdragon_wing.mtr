@@ -1,0 +1,9 @@
+ 
+renderhint NormalAndSpecMapped 
+ 
+// Textures 
+texture0 AthDragon_Wing 
+texture1 AthDragon_Wing_n 
+texture2 null 
+texture3 null 
+texture4 null 

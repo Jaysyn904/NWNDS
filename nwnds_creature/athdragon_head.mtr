@@ -1,0 +1,9 @@
+ 
+renderhint NormalAndSpecMapped 
+ 
+// Textures 
+texture0 AthDragon_Head 
+texture1 AthDragon_Head_n 
+texture2 AthDragon_Head_S 
+texture3 null 
+texture4 null 

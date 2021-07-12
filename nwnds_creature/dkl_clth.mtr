@@ -1,0 +1,9 @@
+ 
+renderhint NormalAndSpecMapped 
+ 
+// Textures 
+texture0 DKL_Clth 
+texture1 DKL_Clth_n 
+texture2 null 
+texture3 null 
+texture4 null 

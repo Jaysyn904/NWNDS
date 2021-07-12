@@ -1,0 +1,12 @@
+// Shaders
+customshadervs vslitc_nm
+//customshaderfs fslit_nm_r
+customshaderfs fslit_nm
+renderhint NormalAndSpecMapped
+
+// Textures
+texture0 sloth_d
+texture1 sloth_n
+texture2 sloth_s_dark
+//texture3 sloth_g_dark
+//texture4 sloth_h
