@@ -1,2 +1,2 @@
-# NWNDS_Haks
-Repository for the compiled hak files for NWN Dark Sun
+# NWNDS
+Repository for the code & various resources for the NWN Dark Sun project.
