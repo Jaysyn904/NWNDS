@@ -1,0 +1,9 @@
+ 
+renderhint NormalAndSpecMapped 
+ 
+// Textures 
+texture0 hive06 
+texture1 hive06_N 
+texture2 hive06_S 
+texture3 null 
+texture4 null 

@@ -1,0 +1,74 @@
+# Rewritten by CleanModels 3 Version 3.2.2.1 Tue Apr 14 19:38:27 2009
+#MAXMODEL ASCII
+filedependency Unknown
+newmodel isc02_a00_01
+setsupermodel isc02_a00_01 null
+setanimationscale 1
+classification TILE
+#MAXGEOM ASCII
+beginmodelgeom isc02_a00_01
+node dummy isc02_a00_01
+  parent NULL
+endnode
+node light isc02_a00_01ml1
+  parent isc02_a00_01
+  position 0.765804 -2.74913 1.23601
+  wirecolor 0.486275 0.321569 0.321569
+  radius 14
+  multiplier 1
+  color 0 0 0
+  ambientonly 0
+  ndynamictype 0
+  affectdynamic 1
+  shadow 0
+  lightpriority 5
+  fadinglight 1
+  orientation 0 0 0 0
+endnode
+node light isc02_a00_01ml2
+  parent isc02_a00_01
+  position -0.571375 2.61692 1.23601
+  wirecolor 0.486275 0.321569 0.321569
+  radius 5
+  multiplier 1
+  color 0 0 0
+  ambientonly 0
+  ndynamictype 0
+  affectdynamic 1
+  shadow 0
+  lightpriority 5
+  fadinglight 1
+  orientation 0 0 0 0
+endnode
+node trimesh black
+  parent isc02_a00_01
+  position 0 0 0.85
+  orientation 0 0 0 0
+  wirecolor 0.321569 0.411765 0.486275
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 0 0 0
+  diffuse 0 0 0
+  specular 0 0 0
+  shininess 1
+  center 0 0 215
+  bitmap isc02_brick01
+  verts 4
+    5 5 2.15
+    5 -5 2.15
+    -5 5 2.15
+    -5 -5 2.15
+  faces 2
+    2 3 1 0 0 0 0 1
+    2 1 0 0 0 0 0 1
+endnode
+endmodelgeom isc02_a00_01
+donemodel isc02_a00_01
