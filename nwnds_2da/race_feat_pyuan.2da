@@ -1,0 +1,23 @@
+2DA V2.0
+
+   FeatLabel               FeatIndex 
+0  darkvision              228       
+1  BlindFight              408       
+2  Alertness               0         
+3  Shield                  32        
+4  WeapProfSim             46        
+5  WeapProfSim_Dart        7914      
+6  WeapProfSim_Light_Mace  7908      
+7  WeapProfSim_Morningstar 7923      
+8  WeapProfSim_Shortspear  7927      
+9  WeapProfSim_Sickle      7929      
+10 WeapProfSim_Sling       7930      
+11 ArmProfLgt              3         
+12 Spell_Resist_14         4705      
+13 Natural_Armor_1         4733      
+14 FEAT_PYUAN_CHARM        4658      
+15 FEAT_PYUAN_DARKNESS     4659      
+16 FEAT_PYUAN_ENTANGLE     4660      
+17 FEAT_PYUAN_FEAR         4661      
+18 Race_Monstrous          4720      
+19 Wild_Talent             4831      
