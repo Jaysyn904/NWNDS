@@ -1,0 +1,308 @@
+#MAXMODEL ASCII
+# model: vdr_explblind
+filedependancy vdr_explblind.max
+newmodel vdr_explblind
+setsupermodel vdr_explblind NULL
+classification effect
+setanimationscale 1
+#MAXGEOM  ASCII
+beginmodelgeom vdr_explblind
+node dummy vdr_explblind
+  parent NULL
+  #part-number 0
+endnode
+node dummy Dummy01
+  parent vdr_explblind
+  #part-number 1
+  position 0 0 -0.491643012
+  orientation 0 0 0 0
+endnode
+node emitter FXcj_MoteRS_01
+  parent Dummy01
+  #part-number 2
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 1
+  inherit 0
+  inheritvel 0
+  inherit_local 1
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Fountain
+  render Normal
+  blend Lighten
+  texture fxpa_Flare1
+  xgrid 2
+  ygrid 2
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0.631079018 0 2.13407993
+  orientation 0 0 0 0
+  colorStart 1 1 1
+  colorEnd 1 1 1
+  alphaStart 1
+  alphaEnd 1
+  sizeStart 3
+  sizeEnd 0
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 3
+  birthrate 200
+  lifeExp 0.200000003
+  mass 0
+  spread 0.872664988
+  particleRot 1.60000002
+  velocity 0.5
+  randvel 0.200000003
+  fps 60
+  xsize 660
+  ysize 660
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node emitter FXcj_MoteRS_02
+  parent Dummy01
+  #part-number 3
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 1
+  inherit 0
+  inheritvel 0
+  inherit_local 1
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Fountain
+  render Normal
+  blend Lighten
+  texture fxpa_Flare1
+  xgrid 2
+  ygrid 2
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position -0.651193023 0.00252794009 2.13407993
+  orientation 0 0 0 0
+  colorStart 1 1 1
+  colorEnd 0.533333004 0.686275005 1
+  alphaStart 1
+  alphaEnd 1
+  sizeStart 5
+  sizeEnd 0.800000012
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 3
+  birthrate 200
+  lifeExp 0.100000001
+  mass 0
+  spread 0.872664988
+  particleRot 0
+  velocity 0.200000003
+  randvel 0.200000003
+  fps 0
+  xsize 660
+  ysize 660
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node light AuroraLight01
+  parent vdr_explblind
+  #part-number 4
+  ambientonly 0
+  shadow 0
+  isdynamic 1
+  affectdynamic 1
+  lightpriority 2
+  fadingLight 1
+  flareradius 0
+  position 0 0 1.70000005
+  orientation -0.577350259 0.577350259 0.577350259 -2.09439993
+  radius 9
+  multiplier 2
+  color 1 1 1
+endnode
+endmodelgeom vdr_explblind
+
+#MAXANIM ASCII
+newanim impact vdr_explblind
+  length 4.30000019
+  transtime 0
+  animroot vdr_explblind
+node dummy vdr_explblind
+  parent NULL
+  #part-number 0
+endnode
+node dummy Dummy01
+  parent vdr_explblind
+  #part-number 1
+  orientationkey 13
+    0 0 0 0 0
+    0.300000012 0 0 -1 -1.57079995
+    0.666666985 0 0 -1 -3.14159012
+    1.06666994 0 0 -1 -4.71238995
+    1.43333006 0 0 0 0
+    1.79999995 0 0 1 -4.71238995
+    2.20000005 0 0 1 -3.14159012
+    2.53332996 0 0 1 -1.57079995
+    2.9000001 0 0 0 0
+    3.26666999 0 0 -1 -1.57079995
+    3.63333011 0 0 -1 -3.14159012
+    3.96667004 0 0 -1 -4.71238995
+    4.30000019 0 0 0 0
+endnode
+node emitter FXcj_MoteRS_01
+  parent Dummy01
+  #part-number 2
+  birthratekey 3
+    0 200
+    3.29999995 200
+    3.96667004 200
+endnode
+node emitter FXcj_MoteRS_02
+  parent Dummy01
+  #part-number 3
+  birthratekey 3
+    0 200
+    3.63333011 200
+    3.96667004 200
+endnode
+node light AuroraLight01
+  parent vdr_explblind
+  #part-number 4
+  colorkey 10
+    0 1 1 1
+    0.0333333015 1 1 1
+    0.56666702 1 1 1
+    1.20000005 0.611765027 0.611765027 0.611765027
+    1.79999995 1 1 1
+    2.43333006 0.584313989 0.584313989 0.584313989
+    2.70000005 1 1 1
+    2.93333006 1 1 1
+    2.96667004 0.968627989 0.968627989 0.968627989
+    3.96667004 1 1 1
+endnode
+doneanim impact vdr_explblind
+
+newanim duration vdr_explblind
+  length 1.43333006
+  transtime 0
+  animroot vdr_explblind
+node dummy vdr_explblind
+  parent NULL
+  #part-number 0
+endnode
+node dummy Dummy01
+  parent vdr_explblind
+  #part-number 1
+  orientationkey 5
+    0 0 0 0 0
+    0.300000012 0 0 -1 -1.57079995
+    0.666666985 0 0 -1 -3.14159012
+    1.06666994 0 0 -1 -4.71238995
+    1.43333006 0 0 0 0
+endnode
+node emitter FXcj_MoteRS_01
+  parent Dummy01
+  #part-number 2
+  birthratekey 2
+    0 200
+    1.43333006 200
+endnode
+node emitter FXcj_MoteRS_02
+  parent Dummy01
+  #part-number 3
+  birthratekey 2
+    0 200
+    1.43333006 200
+endnode
+node light AuroraLight01
+  parent vdr_explblind
+  #part-number 4
+  colorkey 5
+    0 1 1 1
+    0.0333333015 1 1 1
+    0.56666702 1 1 1
+    1.20000005 0.611765027 0.611765027 0.611765027
+    1.43333006 1 1 1
+endnode
+doneanim duration vdr_explblind
+
+newanim cessation vdr_explblind
+  length 1.43333006 
+  transtime 0
+  animroot vdr_explblind
+node dummy vdr_explblind
+  parent NULL
+  #part-number 0
+endnode
+node dummy Dummy01
+  parent vdr_explblind
+  #part-number 1
+  orientationkey 5
+    0 0 0 0 0
+    0.300000012 0 0 -1 -1.57079995
+    0.666666985 0 0 -1 -3.14159012
+    1.06666994 0 0 -1 -4.71238995
+    1.43333006 0 0 0 0
+endnode
+node emitter FXcj_MoteRS_01
+  parent Dummy01
+  #part-number 2
+  birthratekey 2
+    0 200
+    1.43333006 0
+endnode
+node emitter FXcj_MoteRS_02
+  parent Dummy01
+  #part-number 3
+  birthratekey 2
+    0 200
+    1.43333006 0
+endnode
+node light AuroraLight01
+  parent vdr_explblind
+  #part-number 4
+  colorkey 5
+    0 1 1 1
+    0.0333333015 1 1 1
+    0.56666702 1 1 1
+    1.20000005 0.611765027 0.611765027 0.611765027
+    1.43333006 0 0 0
+endnode
+doneanim cessation vdr_explblind
+
+donemodel vdr_explblind

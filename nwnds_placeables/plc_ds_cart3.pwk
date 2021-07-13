@@ -1,0 +1,26 @@
+# Exported from NWmax 0.8 b61 at 6/28/2020 3:00:34 PM
+# pwk file
+#
+#NWmax PWKMESH  ASCII
+node trimesh pwk
+  parent plc_ds_wart3_pwk
+  position 0.0 0.0 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.721569 0.894118 0.6 
+  bitmap NULL
+  verts 7
+    -1.25977 1.53483 0.0
+    1.28514 -3.15032 0.0
+    1.29755 1.53501 0.0
+    -1.21031 -3.25516 0.0
+    0.0646884 -3.20159 0.0
+    -0.00799683 -0.0544667 0.0
+    -0.0779346 0.819578 0.0
+  faces 6
+    0 3 5  1  0 0 0  7
+    3 4 5  1  0 0 0  7
+    4 1 2  1  0 0 0  7
+    5 4 2  1  0 0 0  7
+    0 5 6  1  0 0 0  7
+    6 5 2  1  0 0 0  7
+endnode

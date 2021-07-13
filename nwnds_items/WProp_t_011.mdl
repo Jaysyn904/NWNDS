@@ -1,0 +1,14 @@
+# Exported from Wayland's NWN Maxscript v0.3b at 27/08/2004 5:54:16 PM
+# mdl file
+#
+filedependancy Unknown
+newmodel WProp_t_011
+setsupermodel WProp_t_011 NULL
+classification Character
+setanimationscale 1.0
+beginmodelgeom WProp_t_011
+node dummy WProp_t_011
+    parent NULL
+endnode
+endmodelgeom WProp_t_011
+donemodel WProp_t_011

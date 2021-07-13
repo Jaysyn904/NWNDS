@@ -1,0 +1,836 @@
+# Exported from NWMax Plus v6.11.28 at 11/27/2019 5:46:21 PM
+# mdl file
+#
+#NWMax Plus MODEL  ASCII
+# model: plc_ds_Fd010
+filedependancy wowstuff_NWN.max
+newmodel plc_ds_Fd010
+setsupermodel plc_ds_Fd010 NULL
+classification Character
+setanimationscale 1.0
+#NWMax Plus GEOM  ASCII
+beginmodelgeom plc_ds_Fd010
+node dummy plc_ds_Fd010
+  parent NULL
+endnode
+node trimesh Lnkundr
+  parent plc_ds_Fd010
+  position 0.0 0.0 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 1.0 1.0 1.0 
+  tilefade 0
+  scale 1.0
+  render 0
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfillumcolor 0.0 0.0 0.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  center 1.17466 -0.000883102 -381.731 
+  ambient 0.588 0.588 0.588 
+  diffuse 0.588 0.588 0.588 
+  specular 0.0 0.0 0.0 
+  shininess 10.0
+  bitmap plc_ds_food1
+  verts 4
+    -0.623715 0.0325682 -4.10725
+    0.574674 -0.0329348 -3.52428
+    0.647208 0.0329172 -4.11035
+    -0.549127 -0.0321838 -3.53096
+  faces 2
+    0 1 2  1  4 5 6  5
+    3 1 0  1  7 5 4  5
+  tverts 8
+    0.270027 0.708578 0
+    0.292365 -0.211237 0
+    1.22942 0.711149 0
+    1.21399 -0.217522 0
+    0.287952 -0.208465 0
+    1.23042 0.722939 0
+    1.21591 -0.213419 0
+    0.274248 0.712267 0
+endnode
+node trimesh food
+  parent Lnkundr
+  position 0.0 0.0 0.0453794
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.694118 0.109804 0.584314 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 1
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfillumcolor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 1
+  center 0.000137329 0.000379562 -0.000368118 
+  bitmap plc_ds_food1
+  verts 16
+    0.0325255 0.0351966 -0.0172981
+    0.00534477 0.0476457 0.017232
+    0.0388434 0.0347028 0.0180613
+    0.0501787 0.00196053 0.00858114
+    0.022586 -0.00356026 -0.041716
+    0.0330204 -0.0336401 -0.00637579
+    -0.0053396 -0.0476381 -0.0172407
+    -0.0229951 -0.0144025 -0.0431186
+    -0.0104334 0.0300827 -0.035346
+    -0.0388382 -0.0346948 -0.018067
+    -0.0501759 -0.00195381 -0.0085882
+    -0.033017 0.0336483 0.006367
+    -0.0325199 -0.0351893 0.0172894
+    -0.0225833 0.00356705 0.0417089
+    0.0104362 -0.030076 0.0353389
+    0.0230002 0.0144086 0.0431113
+  faces 28
+    0 1 2  1  0 1 2  1
+    0 2 3  1  3 4 5  1
+    3 4 0  1  6 7 8  1
+    3 5 4  1  9 10 11  1
+    4 5 6  1  12 13 14  1
+    6 7 4  1  15 16 17  1
+    8 4 7  1  18 19 20  1
+    4 8 0  1  21 22 23  1
+    1 0 8  1  24 25 26  1
+    7 6 9  1  27 28 29  1
+    10 7 9  1  30 31 32  1
+    8 7 10  1  33 34 35  1
+    10 11 8  1  36 37 38  1
+    8 11 1  1  39 40 41  1
+    12 10 9  1  42 43 44  1
+    6 12 9  1  45 46 47  1
+    13 11 10  1  48 49 50  1
+    10 12 13  1  51 52 53  1
+    14 13 12  1  54 55 56  1
+    14 12 6  1  57 58 59  1
+    6 5 14  1  60 61 62  1
+    15 3 2  1  63 64 65  1
+    1 15 2  1  66 67 68  1
+    14 5 3  1  69 70 71  1
+    3 15 14  1  72 73 74  1
+    13 14 15  1  75 76 77  1
+    13 15 1  1  78 79 80  1
+    1 11 13  1  81 82 83  1
+  tverts 84
+    0.9351 0.5914 0
+    0.8973 0.5782 0
+    0.9351 0.5625 0
+    0.9351 0.5914 0
+    0.9351 0.5625 0
+    0.9729 0.5782 0
+    0.9729 0.5782 0
+    0.9543 0.6232 0
+    0.9351 0.5914 0
+    0.9729 0.5782 0
+    0.993 0.6232 0
+    0.9543 0.6232 0
+    0.9543 0.6232 0
+    0.993 0.6232 0
+    0.9729 0.6682 0
+    0.9729 0.6682 0
+    0.9351 0.655 0
+    0.9543 0.6232 0
+    0.9159 0.6232 0
+    0.9543 0.6232 0
+    0.9351 0.655 0
+    0.9543 0.6232 0
+    0.9159 0.6232 0
+    0.9351 0.5914 0
+    0.8973 0.5782 0
+    0.9351 0.5914 0
+    0.9159 0.6232 0
+    0.9351 0.655 0
+    0.9729 0.6682 0
+    0.9351 0.6839 0
+    0.8973 0.6682 0
+    0.9351 0.655 0
+    0.9351 0.6839 0
+    0.9159 0.6232 0
+    0.9351 0.655 0
+    0.8973 0.6682 0
+    0.8973 0.6682 0
+    0.8771 0.6232 0
+    0.9159 0.6232 0
+    0.9159 0.6232 0
+    0.8771 0.6232 0
+    0.8973 0.5782 0
+    0.9351 0.655 0
+    0.9729 0.6682 0
+    0.9351 0.6839 0
+    0.8973 0.6682 0
+    0.9351 0.655 0
+    0.9351 0.6839 0
+    0.9543 0.6232 0
+    0.993 0.6232 0
+    0.9729 0.6682 0
+    0.9729 0.6682 0
+    0.9351 0.655 0
+    0.9543 0.6232 0
+    0.9159 0.6232 0
+    0.9543 0.6232 0
+    0.9351 0.655 0
+    0.9159 0.6232 0
+    0.9351 0.655 0
+    0.8973 0.6682 0
+    0.8973 0.6682 0
+    0.8771 0.6232 0
+    0.9159 0.6232 0
+    0.9351 0.5914 0
+    0.8973 0.5782 0
+    0.9351 0.5625 0
+    0.9729 0.5782 0
+    0.9351 0.5914 0
+    0.9351 0.5625 0
+    0.9159 0.6232 0
+    0.8771 0.6232 0
+    0.8973 0.5782 0
+    0.8973 0.5782 0
+    0.9351 0.5914 0
+    0.9159 0.6232 0
+    0.9543 0.6232 0
+    0.9159 0.6232 0
+    0.9351 0.5914 0
+    0.9543 0.6232 0
+    0.9351 0.5914 0
+    0.9729 0.5782 0
+    0.9729 0.5782 0
+    0.993 0.6232 0
+    0.9543 0.6232 0
+endnode
+node emitter fire!15
+  parent plc_ds_Fd010
+  position 0.00845276 -0.0260181 0.39126
+  orientation 1.0 0.0 0.0 -4.71239
+  wirecolor 1.0 1.0 1.0 
+  update_sel 3
+  update Explosion
+  render_sel 1
+  render Normal
+  blend_sel 1
+  Blend Normal
+  spawnType 0
+  xSize 100.0
+  ySize 99.0
+  inherit 1
+  inherit_local 0
+  inheritvel 0
+  inherit_part 0
+  renderorder 0
+  threshold 0.0
+  combinetime 0.0
+  deadspace 0.0
+  opacity 0.5
+  colorStart 0.431373 0.0588235 0.0588235 
+  colorEnd 0.945098 0.529412 0.364706 
+  alphaStart 1.0
+  alphaEnd 0.0
+  sizeStart 4.0
+  sizeEnd 1.0
+  sizeStart_y 0.0
+  sizeEnd_y 0.0
+  birthrate 10
+  lifeExp 2.5
+  mass 0.09
+  spread 2.96706
+  particleRot 0.5
+  velocity 2.0
+  randvel 0.5
+  bounce_co 0.0
+  blurlength 10.0
+  loop 0
+  bounce 0
+  m_isTinted 1
+  Splat 0
+  affectedByWind false
+  texture fxpa_smoke01
+  twosidedtex 1
+  xgrid 4
+  ygrid 4
+  fps 10
+  frameStart 0
+  frameEnd 24
+  random 0
+  lightningDelay 0.0
+  lightningRadius 0.0
+  lightningSubDiv 0
+  lightningScale 0.0
+  blastRadius 0.2
+  blastLength 1.0
+  p2p 0
+  p2p_type Bezier
+  p2p_sel 1
+  p2p_bezier2 0.0
+  p2p_bezier3 0.0
+  grav 0.0
+  Drag 0.0
+endnode
+node emitter ChunkyWood17
+  parent plc_ds_Fd010
+  position 0.00845276 -0.0260181 0.571526
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 1.0 1.0 1.0 
+  update_sel 3
+  update Explosion
+  render_sel 1
+  render Normal
+  blend_sel 1
+  Blend Normal
+  spawnType 0
+  xSize 89.0
+  ySize 40.0
+  inherit 1
+  inherit_local 0
+  inheritvel 0
+  inherit_part 0
+  renderorder 0
+  threshold 0.0
+  combinetime 0.0
+  deadspace 0.0
+  opacity 0.5
+  colorStart 0.482353 0.435294 0.317647 
+  colorEnd 0.584314 0.533333 0.407843 
+  alphaStart 1.0
+  alphaEnd 1.0
+  sizeStart 0.1
+  sizeEnd 0.1
+  sizeStart_y 0.0
+  sizeEnd_y 0.0
+  birthrate 3
+  lifeExp 0.75
+  mass 3.0
+  spread 1.22173
+  particleRot 2.9
+  velocity 8.0
+  randvel 0.3
+  bounce_co 0.5
+  blurlength 10.0
+  loop 0
+  bounce 1
+  m_isTinted 0
+  Splat 0
+  affectedByWind false
+  texture fxpa_cloud02
+  twosidedtex 1
+  xgrid 5
+  ygrid 5
+  fps 0
+  frameStart 0
+  frameEnd 24
+  random 0
+  chunkName PLC_Chunk_W02
+  lightningDelay 0.0
+  lightningRadius 0.0
+  lightningSubDiv 0
+  lightningScale 0.0
+  blastRadius 0.0
+  blastLength 0.0
+  p2p 0
+  p2p_type Bezier
+  p2p_sel 1
+  p2p_bezier2 0.0
+  p2p_bezier3 0.0
+  grav 0.0
+  Drag 0.0
+endnode
+node emitter ChunkyWood18
+  parent plc_ds_Fd010
+  position 0.00845276 -0.0260181 0.465304
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 1.0 1.0 1.0 
+  update_sel 3
+  update Explosion
+  render_sel 1
+  render Normal
+  blend_sel 1
+  Blend Normal
+  spawnType 0
+  xSize 89.0
+  ySize 40.0
+  inherit 1
+  inherit_local 0
+  inheritvel 0
+  inherit_part 0
+  renderorder 0
+  threshold 0.0
+  combinetime 0.0
+  deadspace 0.0
+  opacity 0.5
+  colorStart 0.431373 0.152941 0.133333 
+  colorEnd 0.494118 0.364706 0.262745 
+  alphaStart 1.0
+  alphaEnd 1.0
+  sizeStart 0.1
+  sizeEnd 0.1
+  sizeStart_y 0.0
+  sizeEnd_y 0.0
+  birthrate 3
+  lifeExp 0.75
+  mass 3.0
+  spread 1.22173
+  particleRot 5.0
+  velocity 8.0
+  randvel 0.3
+  bounce_co 0.5
+  blurlength 10.0
+  loop 0
+  bounce 1
+  m_isTinted 1
+  Splat 0
+  affectedByWind false
+  texture fxpa_cloud02
+  twosidedtex 0
+  xgrid 5
+  ygrid 5
+  fps 0
+  frameStart 0
+  frameEnd 24
+  random 0
+  chunkName PLC_Chunk_W01
+  lightningDelay 0.0
+  lightningRadius 0.0
+  lightningSubDiv 0
+  lightningScale 0.0
+  blastRadius 0.0
+  blastLength 0.0
+  p2p 0
+  p2p_type Bezier
+  p2p_sel 1
+  p2p_bezier2 0.0
+  p2p_bezier3 0.0
+  grav 0.0
+  Drag 0.0
+endnode
+node dummy ChunkyWood18_XYdimension
+  parent ChunkyWood18
+  position 0.0 0.0 0.0
+  orientation 1.0 0.0 0.0 -6.28319
+  wirecolor 1.0 1.0 0.0 
+endnode
+node dummy A09_hand
+  parent plc_ds_Fd010
+  position 0.00398437 -1.13699 0.628682
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.345098 0.694118 0.105882 
+endnode
+node dummy A09_head
+  parent plc_ds_Fd010
+  position 0.00398437 0.0108252 1.55678
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.345098 0.694118 0.105882 
+endnode
+node dummy A09_head_hit
+  parent plc_ds_Fd010
+  position 0.00398437 0.0108252 1.03203
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.694118 0.345098 0.105882 
+endnode
+node dummy A09_impact
+  parent plc_ds_Fd010
+  position 0.00398437 0.011001 0.562415
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.541176 0.0313726 0.431373 
+endnode
+node dummy A09_ground
+  parent plc_ds_Fd010
+  position -0.00363281 0.0069873 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.541176 0.0313726 0.431373 
+endnode
+endmodelgeom plc_ds_Fd010
+
+#NWMax Plus ANIM  ASCII
+newanim open plc_ds_Fd010
+  length 0.0333333
+  transtime 0.25
+  animroot plc_ds_Fd010
+    node dummy plc_ds_Fd010
+        parent NULL
+    endnode
+    node trimesh Lnkundr
+        parent plc_ds_Fd010
+    endnode
+    node trimesh food
+        parent Lnkundr
+    endnode
+    node emitter fire!15
+        parent plc_ds_Fd010
+    endnode
+    node emitter ChunkyWood17
+        parent plc_ds_Fd010
+    endnode
+    node emitter ChunkyWood18
+        parent plc_ds_Fd010
+    endnode
+    node dummy ChunkyWood18_XYdimension
+        parent ChunkyWood18
+    endnode
+    node dummy A09_hand
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_head
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_head_hit
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_impact
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_ground
+        parent plc_ds_Fd010
+    endnode
+doneanim open plc_ds_Fd010
+
+
+#NWMax Plus ANIM  ASCII
+newanim close2open plc_ds_Fd010
+  length 0.633333
+  transtime 0.25
+  animroot plc_ds_Fd010
+    node dummy plc_ds_Fd010
+        parent NULL
+    endnode
+    node trimesh Lnkundr
+        parent plc_ds_Fd010
+    endnode
+    node trimesh food
+        parent Lnkundr
+    endnode
+    node emitter fire!15
+        parent plc_ds_Fd010
+    endnode
+    node emitter ChunkyWood17
+        parent plc_ds_Fd010
+    endnode
+    node emitter ChunkyWood18
+        parent plc_ds_Fd010
+    endnode
+    node dummy ChunkyWood18_XYdimension
+        parent ChunkyWood18
+    endnode
+    node dummy A09_hand
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_head
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_head_hit
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_impact
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_ground
+        parent plc_ds_Fd010
+    endnode
+doneanim close2open plc_ds_Fd010
+
+
+#NWMax Plus ANIM  ASCII
+newanim open2close plc_ds_Fd010
+  length 0.633333
+  transtime 0.25
+  animroot plc_ds_Fd010
+    node dummy plc_ds_Fd010
+        parent NULL
+    endnode
+    node trimesh Lnkundr
+        parent plc_ds_Fd010
+        positionkey
+            0.633333 0.0 0.0 0.0
+        endlist
+        orientationkey
+            0.633333 0.0 0.0 0.0 0.0
+        endlist
+    endnode
+    node trimesh food
+        parent Lnkundr
+    endnode
+    node emitter fire!15
+        parent plc_ds_Fd010
+    endnode
+    node emitter ChunkyWood17
+        parent plc_ds_Fd010
+    endnode
+    node emitter ChunkyWood18
+        parent plc_ds_Fd010
+    endnode
+    node dummy ChunkyWood18_XYdimension
+        parent ChunkyWood18
+    endnode
+    node dummy A09_hand
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_head
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_head_hit
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_impact
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_ground
+        parent plc_ds_Fd010
+    endnode
+doneanim open2close plc_ds_Fd010
+
+
+#NWMax Plus ANIM  ASCII
+newanim close plc_ds_Fd010
+  length 0.0333333
+  transtime 0.25
+  animroot plc_ds_Fd010
+    node dummy plc_ds_Fd010
+        parent NULL
+    endnode
+    node trimesh Lnkundr
+        parent plc_ds_Fd010
+    endnode
+    node trimesh food
+        parent Lnkundr
+    endnode
+    node emitter fire!15
+        parent plc_ds_Fd010
+    endnode
+    node emitter ChunkyWood17
+        parent plc_ds_Fd010
+    endnode
+    node emitter ChunkyWood18
+        parent plc_ds_Fd010
+    endnode
+    node dummy ChunkyWood18_XYdimension
+        parent ChunkyWood18
+    endnode
+    node dummy A09_hand
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_head
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_head_hit
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_impact
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_ground
+        parent plc_ds_Fd010
+    endnode
+doneanim close plc_ds_Fd010
+
+
+#NWMax Plus ANIM  ASCII
+newanim die plc_ds_Fd010
+  length 0.133333
+  transtime 0.0
+  animroot plc_ds_Fd010
+  event 0.0333333 detonate
+  event 0.0333333 detonate
+  event 0.0333333 detonate
+  event 0.0333333 detonate
+  event 0.0333333 detonate
+  event 0.0333333 detonate
+  event 0.0333333 detonate
+  event 0.0333333 detonate
+  event 0.0333333 detonate
+  event 0.0333333 detonate
+  event 0.0333333 detonate
+  event 0.0333333 detonate
+    node dummy plc_ds_Fd010
+        parent NULL
+    endnode
+    node trimesh Lnkundr
+        parent plc_ds_Fd010
+    endnode
+    node trimesh food
+        parent Lnkundr
+    endnode
+    node emitter fire!15
+        parent plc_ds_Fd010
+    endnode
+    node emitter ChunkyWood17
+        parent plc_ds_Fd010
+    endnode
+    node emitter ChunkyWood18
+        parent plc_ds_Fd010
+    endnode
+    node dummy ChunkyWood18_XYdimension
+        parent ChunkyWood18
+    endnode
+    node dummy A09_hand
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_head
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_head_hit
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_impact
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_ground
+        parent plc_ds_Fd010
+    endnode
+doneanim die plc_ds_Fd010
+
+
+#NWMax Plus ANIM  ASCII
+newanim dead plc_ds_Fd010
+  length 0.0333333
+  transtime 0.0
+  animroot plc_ds_Fd010
+    node dummy plc_ds_Fd010
+        parent NULL
+    endnode
+    node trimesh Lnkundr
+        parent plc_ds_Fd010
+        positionkey
+            0.0333333 0.0 0.0 -3.66914
+        endlist
+        orientationkey
+            0.0333333 0.0 0.0 0.0 0.0
+        endlist
+    endnode
+    node trimesh food
+        parent Lnkundr
+    endnode
+    node emitter fire!15
+        parent plc_ds_Fd010
+    endnode
+    node emitter ChunkyWood17
+        parent plc_ds_Fd010
+    endnode
+    node emitter ChunkyWood18
+        parent plc_ds_Fd010
+    endnode
+    node dummy ChunkyWood18_XYdimension
+        parent ChunkyWood18
+    endnode
+    node dummy A09_hand
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_head
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_head_hit
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_impact
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_ground
+        parent plc_ds_Fd010
+    endnode
+doneanim dead plc_ds_Fd010
+
+
+#NWMax Plus ANIM  ASCII
+newanim damage plc_ds_Fd010
+  length 0.0666667
+  transtime 0.0
+  animroot plc_ds_Fd010
+    node dummy plc_ds_Fd010
+        parent NULL
+    endnode
+    node trimesh Lnkundr
+        parent plc_ds_Fd010
+        positionkey
+            0.0 0.0 0.0 0.012281
+            0.0333333 0.0 0.0 0.0071109
+            0.0666667 0.0 0.0 0.0
+        endlist
+        orientationkey
+            0.0 1.0 0.0 0.0 -0.0174533
+            0.0333333 -1.0 0.0 0.0 -0.0174533
+            0.0666667 0.0 0.0 0.0 0.0
+        endlist
+    endnode
+    node trimesh food
+        parent Lnkundr
+    endnode
+    node emitter fire!15
+        parent plc_ds_Fd010
+    endnode
+    node emitter ChunkyWood17
+        parent plc_ds_Fd010
+    endnode
+    node emitter ChunkyWood18
+        parent plc_ds_Fd010
+    endnode
+    node dummy ChunkyWood18_XYdimension
+        parent ChunkyWood18
+    endnode
+    node dummy A09_hand
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_head
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_head_hit
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_impact
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_ground
+        parent plc_ds_Fd010
+    endnode
+doneanim damage plc_ds_Fd010
+
+
+#NWMax Plus ANIM  ASCII
+newanim default plc_ds_Fd010
+  length 0.0
+  transtime 0.25
+  animroot plc_ds_Fd010
+    node dummy plc_ds_Fd010
+        parent NULL
+    endnode
+    node trimesh Lnkundr
+        parent plc_ds_Fd010
+    endnode
+    node trimesh food
+        parent Lnkundr
+    endnode
+    node emitter fire!15
+        parent plc_ds_Fd010
+    endnode
+    node emitter ChunkyWood17
+        parent plc_ds_Fd010
+    endnode
+    node emitter ChunkyWood18
+        parent plc_ds_Fd010
+    endnode
+    node dummy ChunkyWood18_XYdimension
+        parent ChunkyWood18
+    endnode
+    node dummy A09_hand
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_head
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_head_hit
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_impact
+        parent plc_ds_Fd010
+    endnode
+    node dummy A09_ground
+        parent plc_ds_Fd010
+    endnode
+doneanim default plc_ds_Fd010
+
+donemodel plc_ds_Fd010

@@ -1,0 +1,112 @@
+#MAXMODEL ASCII
+# model: vpr_cone_sonic
+filedependancy vpr_cone_sonic.max
+newmodel vpr_cone_sonic
+setsupermodel vpr_cone_sonic NULL
+classification effect
+setanimationscale 1
+#MAXGEOM  ASCII
+beginmodelgeom vpr_cone_sonic
+node dummy vpr_cone_sonic
+  parent NULL
+  #part-number 0
+endnode
+node dummy Dummy01
+  parent vpr_cone_sonic
+  #part-number 1
+  position 0 0 0
+  orientation 0.0 0.0 1.0 -1.5707
+endnode
+node dummy Rotator
+  parent Dummy01
+  #part-number 2
+  position 0 0 0
+  orientation 0 1.0 0.0 1.5707
+endnode
+node emitter star
+  parent Rotator
+  #part-number 3
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 0
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 1
+  update Fountain
+  render Billboard_to_Local_Z
+  blend Lighten
+  texture fxpa_Ring02
+  xgrid 1
+  ygrid 1
+  loop 0
+  deadspace 0
+  twosidedtex 1
+  blastRadius 0
+  blastLength 0
+  position 0 0 0
+  orientation 0 0 0 0
+  colorStart 1 1 1
+  colorEnd 0.435294002 0.819607973 1
+  alphaStart 1
+  alphaEnd 0.0
+  sizeStart 0
+  sizeEnd 2.0
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 0
+  birthrate 3
+  lifeExp 0.3
+  mass 0
+  spread 0
+  particleRot 0
+  velocity 0.200000003
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 2
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+endmodelgeom vpr_cone_sonic
+
+#MAXANIM ASCII
+newanim travel01 vpr_cone_sonic
+  length 3.33332992
+  transtime 0.25
+  animroot vpr_cone_sonic
+node dummy vpr_cone_sonic
+  parent NULL
+  #part-number 0
+endnode
+node dummy Dummy01
+  parent vpr_cone_sonic
+  #part-number 1
+endnode
+node dummy Rotator
+  parent Dummy01
+  #part-number 2
+endnode
+node emitter star
+  parent Rotator
+  #part-number 3
+endnode
+doneanim travel01 vpr_cone_sonic
+
+donemodel vpr_cone_sonic

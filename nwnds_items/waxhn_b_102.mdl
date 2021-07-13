@@ -1,0 +1,45 @@
+# Exported from NWmax 0.8 b60 at 10/17/2006 2:12:41 PM
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: WaxHn_b_102
+#local file: Unknown
+filedependancy Unknown
+newmodel WaxHn_b_102
+setsupermodel WaxHn_b_102 NULL
+classification Item
+setanimationscale 1.0
+#NWmax GEOM  ASCII
+beginmodelgeom WaxHn_b_102
+node dummy WaxHn_b_102
+  parent NULL
+endnode
+node trimesh g_WAxBt_b_102
+  parent WaxHn_b_102
+  position -5.69684e-005 0.1998 -0.110701
+  orientation 0.577265 0.577525 0.577261 -4.18906
+  wirecolor 0.337255 0.87451 0.337255 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 1
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfillumcolor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  diffuse 1.0 1.0 1.0 
+  specular 0.0 0.0 0.0 
+  shininess 1
+  center 0.0 0.0 0.0 
+  bitmap wood
+  verts 0
+  faces 0
+  tverts 0
+endnode
+endmodelgeom WaxHn_b_102
+donemodel WaxHn_b_102
+
+

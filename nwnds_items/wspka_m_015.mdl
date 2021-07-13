@@ -1,0 +1,18 @@
+# Exported from NWmax 0.8 b61 at 07/09/2014 12:43:22
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: WSpKa_m_015
+#local file: C:\Users\Pablo\Documents\3DS\XXL.max
+filedependancy XXL.max
+newmodel WSpKa_m_015
+setsupermodel WSpKa_m_015 NULL
+classification Character
+setanimationscale 1.0
+#NWmax GEOM  ASCII
+beginmodelgeom WSpKa_m_015
+node dummy WSpKa_m_015
+  parent NULL
+endnode
+endmodelgeom WSpKa_m_015
+donemodel WSpKa_m_015

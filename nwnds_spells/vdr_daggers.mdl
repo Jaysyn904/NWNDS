@@ -1,0 +1,1547 @@
+#MAXMODEL ASCII
+# model: vdr_daggers
+filedependancy vdr_daggers.max
+newmodel vdr_daggers
+setsupermodel vdr_daggers NULL
+classification effect
+setanimationscale 1
+#MAXGEOM  ASCII
+beginmodelgeom vdr_daggers
+node dummy vdr_daggers
+  parent NULL
+  #part-number 0
+endnode
+node dummy Rotator
+  parent vdr_daggers
+  #part-number 1
+  position 0.0 0 1.2
+  orientation 0 0 0 0
+endnode
+node dummy D1
+  parent Rotator
+  #part-number 2
+  position 1.0 0 0
+  orientation 0 0 0 0
+endnode
+node dummy D2
+  parent Rotator
+  #part-number 3
+  position 0 1.0 0
+  orientation 0 0 0 0
+endnode
+node dummy D3
+  parent Rotator
+  #part-number 4
+  position -1.0 0 0
+  orientation 0 0 0 0
+endnode
+node dummy D4
+  parent Rotator
+  #part-number 5
+  position 0 -1.0 0
+  orientation 0 0 0 0
+endnode
+node trimesh D1part1
+  parent D1
+  #part-number 6
+  shadow 0
+  bitmap W_metal_tex
+  verts 12
+    -0.0193608999 0.0962126032 -0.0598067008
+    -0.0193608999 0.119704001 -0.0598067008
+    0.0189078003 0.119704001 -0.0598067008
+    0.0189078003 0.0962126032 -0.0598067008
+    -0.0193608999 0.0962126032 0.0704445988
+    0.0189078003 0.0962126032 0.0704445988
+    0.0189078003 0.119704001 0.0704445988
+    -0.0193608999 0.119704001 0.0704445988
+    0.0277095996 0.0902530998 0.00531896017
+    -0.0281626992 0.0902530998 0.00531896017
+    0.0277095996 0.119704001 0.00531896017
+    -0.0281626992 0.119704001 0.00531896017
+  tverts 18
+    0.0469081998 0.709477007 0
+    0.229669005 0.709477007 0
+    0.229669005 0.548344016 0
+    0.046908401 0.548344016 0
+    0.0469079018 0.548344016 0
+    0.0469079018 0.709477007 0
+    0.224760994 0.548344016 0
+    0.224760994 0.709477007 0
+    0.0201495998 0.74653703 0
+    0.0201495998 0.511283994 0
+    0.224760994 0.558887005 0
+    0.224760994 0.74653703 0
+    0.229669005 0.74653703 0
+    0.229669005 0.558888018 0
+    0.224760994 0.511283994 0
+    0.224760994 0.698934019 0
+    0.229669005 0.698934019 0
+    0.229669005 0.511283994 0
+  faces 20
+    0 1 2 1 0 1 2 2
+    2 3 0 1 2 3 0 2
+    4 5 6 1 4 5 1 1
+    6 7 4 1 1 2 4 1
+    0 3 8 2 6 7 8 5
+    8 9 0 2 8 9 6 5
+    9 8 5 2 9 8 1 5
+    5 4 9 2 1 2 9 5
+    3 2 10 4 10 11 8 4
+    10 8 3 4 8 9 10 4
+    8 10 6 4 9 8 12 4
+    6 5 8 4 12 13 9 4
+    2 1 11 2 6 7 8 6
+    11 10 2 2 8 9 6 6
+    10 11 7 2 9 8 1 6
+    7 6 10 2 1 2 9 6
+    1 0 9 4 14 15 8 3
+    9 11 1 4 8 9 14 3
+    11 9 4 4 9 8 16 3
+    4 7 11 4 16 17 9 3
+  position 0.0 0.00106134 -0.128958
+  orientation -1.0 0.0 0.0 -1.5708
+endnode
+node trimesh D1part2
+  parent D1
+  #part-number 7
+  shadow 0
+  bitmap W_metal_tex
+  verts 9
+    0 -0.130412996 -0.032660801
+    0 0.107377 -0.0243129991
+    0.0108433003 0.106674999 -0.00234504999
+    0.0146385999 -0.130412996 -0.00234506
+    0 0.107377 0.0196228996
+    0 -0.130412996 0.0279706996
+    -0.0108433999 0.106674999 -0.00234504999
+    -0.00029721699 0.243958995 -0.00234504999
+    -0.0146385999 -0.130412996 -0.00234506
+  tverts 7
+    0.241916001 0.760610998 0
+    0.179005995 0.916630983 0
+    0.00991536025 0.915757 0
+    0.00991526991 0.760610998 0
+    0.178828999 0.916630983 0
+    0.243016005 0.760610998 0
+    0.00991536025 0.992511988 0
+  faces 12
+    0 1 2 1 0 1 2 4
+    2 3 0 1 2 3 0 4
+    3 2 4 2 3 2 4 4
+    4 5 3 2 4 5 3 4
+    6 7 1 4 2 6 1 6
+    7 6 4 8 6 2 4 6
+    1 0 8 4 1 0 3 3
+    8 6 1 4 3 2 1 3
+    6 8 5 8 2 3 5 3
+    5 4 6 8 5 4 2 3
+    2 7 4 2 2 6 4 6
+    7 2 1 1 6 2 1 6
+  position 0.0 0.00106134 0.113507
+  orientation -1.0 0.0 0.0 -1.5708
+endnode
+node trimesh D1part3
+  parent D1
+  #part-number 8
+  shadow 0
+  bitmap W_metal_tex
+  verts 14
+    0 0.0375741012 0
+    0 -0.00046555599 0.0369829014
+    0.0369829014 -0.000465571007 0
+    -0.0369829014 -0.000465571007 0
+    0 -0.000465577003 -0.0369829014
+    0 -0.0385053009 0
+    7.68924001e-005 0.0144681996 -0.0208733007
+    0.0207726993 0.0144683002 -0.000177524998
+    7.68995014e-005 0.0144683002 0.0205182992
+    -0.0206189007 0.0144683002 -0.000177527996
+    7.69090984e-005 0.183955997 -0.0208733995
+    0.0207726993 0.183955997 -0.000177555004
+    7.69161998e-005 0.183955997 0.0205182005
+    -0.0206189007 0.183955997 -0.000177556998
+  tverts 21
+    0.00855308026 0.515069008 0
+    0.00855308026 0.741545975 0
+    0.120063998 0.741545975 0
+    0.231553003 0.741545975 0
+    0.231839001 0.741545975 0
+    0.231574997 0.741545975 0
+    0.00855308026 0.518746972 0
+    2.32478996e-007 0.000499546994 0
+    0.75 0.000499546994 0
+    0.5 0.000499696005 0
+    0.25 0.000499606016 0
+    0.245416 0.491847992 0
+    0.169545993 0.491847992 0
+    0.169545993 0.262169987 0
+    0.168852001 0.262169987 0
+    0.0933294967 0.262169987 0
+    0.244720995 0.491847992 0
+    0.093676798 0.491847992 0
+    0.0936765969 0.262169987 0
+    0.169199005 0.491847992 0
+    0.0178072006 0.262169987 0
+  faces 18
+    0 1 2 1 0 1 2 2
+    0 3 1 1 0 3 1 2
+    0 4 3 1 0 4 3 2
+    0 2 4 1 0 2 5 2
+    5 2 1 1 6 2 1 1
+    5 1 3 1 6 1 3 1
+    5 3 4 1 6 3 4 1
+    5 4 2 1 6 5 2 1
+    6 7 8 1 7 8 9 1
+    8 9 6 1 9 10 7 1
+    10 11 7 2 11 12 13 5
+    7 6 10 2 14 15 16 5
+    11 12 8 4 12 17 18 4
+    8 7 11 4 18 13 12 4
+    12 13 9 2 17 19 20 6
+    9 8 12 2 20 18 17 6
+    13 10 6 4 19 16 15 3
+    6 9 13 4 15 20 19 3
+  position 0.0 0.00106134 -0.216053
+  orientation -1.0 0.0 0.0 -1.5708
+endnode
+node trimesh D2part1
+  parent D2
+  #part-number 9
+  shadow 0
+  bitmap W_metal_tex
+  verts 12
+    -0.0193608999 0.0962126032 -0.0598067008
+    -0.0193608999 0.119704001 -0.0598067008
+    0.0189078003 0.119704001 -0.0598067008
+    0.0189078003 0.0962126032 -0.0598067008
+    -0.0193608999 0.0962126032 0.0704445988
+    0.0189078003 0.0962126032 0.0704445988
+    0.0189078003 0.119704001 0.0704445988
+    -0.0193608999 0.119704001 0.0704445988
+    0.0277095996 0.0902530998 0.00531896017
+    -0.0281626992 0.0902530998 0.00531896017
+    0.0277095996 0.119704001 0.00531896017
+    -0.0281626992 0.119704001 0.00531896017
+  tverts 18
+    0.0469081998 0.709477007 0
+    0.229669005 0.709477007 0
+    0.229669005 0.548344016 0
+    0.046908401 0.548344016 0
+    0.0469079018 0.548344016 0
+    0.0469079018 0.709477007 0
+    0.224760994 0.548344016 0
+    0.224760994 0.709477007 0
+    0.0201495998 0.74653703 0
+    0.0201495998 0.511283994 0
+    0.224760994 0.558887005 0
+    0.224760994 0.74653703 0
+    0.229669005 0.74653703 0
+    0.229669005 0.558888018 0
+    0.224760994 0.511283994 0
+    0.224760994 0.698934019 0
+    0.229669005 0.698934019 0
+    0.229669005 0.511283994 0
+  faces 20
+    0 1 2 1 0 1 2 2
+    2 3 0 1 2 3 0 2
+    4 5 6 1 4 5 1 1
+    6 7 4 1 1 2 4 1
+    0 3 8 2 6 7 8 5
+    8 9 0 2 8 9 6 5
+    9 8 5 2 9 8 1 5
+    5 4 9 2 1 2 9 5
+    3 2 10 4 10 11 8 4
+    10 8 3 4 8 9 10 4
+    8 10 6 4 9 8 12 4
+    6 5 8 4 12 13 9 4
+    2 1 11 2 6 7 8 6
+    11 10 2 2 8 9 6 6
+    10 11 7 2 9 8 1 6
+    7 6 10 2 1 2 9 6
+    1 0 9 4 14 15 8 3
+    9 11 1 4 8 9 14 3
+    11 9 4 4 9 8 16 3
+    4 7 11 4 16 17 9 3
+  position 0.0 0.00106134 -0.128958
+  orientation -1.0 0.0 0.0 -1.5708
+endnode
+node trimesh D2part2
+  parent D2
+  #part-number 10
+  shadow 0
+  bitmap W_metal_tex
+  verts 9
+    0 -0.130412996 -0.032660801
+    0 0.107377 -0.0243129991
+    0.0108433003 0.106674999 -0.00234504999
+    0.0146385999 -0.130412996 -0.00234506
+    0 0.107377 0.0196228996
+    0 -0.130412996 0.0279706996
+    -0.0108433999 0.106674999 -0.00234504999
+    -0.00029721699 0.243958995 -0.00234504999
+    -0.0146385999 -0.130412996 -0.00234506
+  tverts 7
+    0.241916001 0.760610998 0
+    0.179005995 0.916630983 0
+    0.00991536025 0.915757 0
+    0.00991526991 0.760610998 0
+    0.178828999 0.916630983 0
+    0.243016005 0.760610998 0
+    0.00991536025 0.992511988 0
+  faces 12
+    0 1 2 1 0 1 2 4
+    2 3 0 1 2 3 0 4
+    3 2 4 2 3 2 4 4
+    4 5 3 2 4 5 3 4
+    6 7 1 4 2 6 1 6
+    7 6 4 8 6 2 4 6
+    1 0 8 4 1 0 3 3
+    8 6 1 4 3 2 1 3
+    6 8 5 8 2 3 5 3
+    5 4 6 8 5 4 2 3
+    2 7 4 2 2 6 4 6
+    7 2 1 1 6 2 1 6
+  position 0.0 0.00106134 0.113507
+  orientation -1.0 0.0 0.0 -1.5708
+endnode
+node trimesh D2part3
+  parent D2
+  #part-number 11
+  shadow 0
+  bitmap W_metal_tex
+  verts 14
+    0 0.0375741012 0
+    0 -0.00046555599 0.0369829014
+    0.0369829014 -0.000465571007 0
+    -0.0369829014 -0.000465571007 0
+    0 -0.000465577003 -0.0369829014
+    0 -0.0385053009 0
+    7.68924001e-005 0.0144681996 -0.0208733007
+    0.0207726993 0.0144683002 -0.000177524998
+    7.68995014e-005 0.0144683002 0.0205182992
+    -0.0206189007 0.0144683002 -0.000177527996
+    7.69090984e-005 0.183955997 -0.0208733995
+    0.0207726993 0.183955997 -0.000177555004
+    7.69161998e-005 0.183955997 0.0205182005
+    -0.0206189007 0.183955997 -0.000177556998
+  tverts 21
+    0.00855308026 0.515069008 0
+    0.00855308026 0.741545975 0
+    0.120063998 0.741545975 0
+    0.231553003 0.741545975 0
+    0.231839001 0.741545975 0
+    0.231574997 0.741545975 0
+    0.00855308026 0.518746972 0
+    2.32478996e-007 0.000499546994 0
+    0.75 0.000499546994 0
+    0.5 0.000499696005 0
+    0.25 0.000499606016 0
+    0.245416 0.491847992 0
+    0.169545993 0.491847992 0
+    0.169545993 0.262169987 0
+    0.168852001 0.262169987 0
+    0.0933294967 0.262169987 0
+    0.244720995 0.491847992 0
+    0.093676798 0.491847992 0
+    0.0936765969 0.262169987 0
+    0.169199005 0.491847992 0
+    0.0178072006 0.262169987 0
+  faces 18
+    0 1 2 1 0 1 2 2
+    0 3 1 1 0 3 1 2
+    0 4 3 1 0 4 3 2
+    0 2 4 1 0 2 5 2
+    5 2 1 1 6 2 1 1
+    5 1 3 1 6 1 3 1
+    5 3 4 1 6 3 4 1
+    5 4 2 1 6 5 2 1
+    6 7 8 1 7 8 9 1
+    8 9 6 1 9 10 7 1
+    10 11 7 2 11 12 13 5
+    7 6 10 2 14 15 16 5
+    11 12 8 4 12 17 18 4
+    8 7 11 4 18 13 12 4
+    12 13 9 2 17 19 20 6
+    9 8 12 2 20 18 17 6
+    13 10 6 4 19 16 15 3
+    6 9 13 4 15 20 19 3
+  position 0.0 0.00106134 -0.216053
+  orientation -1.0 0.0 0.0 -1.5708
+endnode
+node trimesh D3part1
+  parent D3
+  #part-number 12
+  shadow 0
+  bitmap W_metal_tex
+  verts 12
+    -0.0193608999 0.0962126032 -0.0598067008
+    -0.0193608999 0.119704001 -0.0598067008
+    0.0189078003 0.119704001 -0.0598067008
+    0.0189078003 0.0962126032 -0.0598067008
+    -0.0193608999 0.0962126032 0.0704445988
+    0.0189078003 0.0962126032 0.0704445988
+    0.0189078003 0.119704001 0.0704445988
+    -0.0193608999 0.119704001 0.0704445988
+    0.0277095996 0.0902530998 0.00531896017
+    -0.0281626992 0.0902530998 0.00531896017
+    0.0277095996 0.119704001 0.00531896017
+    -0.0281626992 0.119704001 0.00531896017
+  tverts 18
+    0.0469081998 0.709477007 0
+    0.229669005 0.709477007 0
+    0.229669005 0.548344016 0
+    0.046908401 0.548344016 0
+    0.0469079018 0.548344016 0
+    0.0469079018 0.709477007 0
+    0.224760994 0.548344016 0
+    0.224760994 0.709477007 0
+    0.0201495998 0.74653703 0
+    0.0201495998 0.511283994 0
+    0.224760994 0.558887005 0
+    0.224760994 0.74653703 0
+    0.229669005 0.74653703 0
+    0.229669005 0.558888018 0
+    0.224760994 0.511283994 0
+    0.224760994 0.698934019 0
+    0.229669005 0.698934019 0
+    0.229669005 0.511283994 0
+  faces 20
+    0 1 2 1 0 1 2 2
+    2 3 0 1 2 3 0 2
+    4 5 6 1 4 5 1 1
+    6 7 4 1 1 2 4 1
+    0 3 8 2 6 7 8 5
+    8 9 0 2 8 9 6 5
+    9 8 5 2 9 8 1 5
+    5 4 9 2 1 2 9 5
+    3 2 10 4 10 11 8 4
+    10 8 3 4 8 9 10 4
+    8 10 6 4 9 8 12 4
+    6 5 8 4 12 13 9 4
+    2 1 11 2 6 7 8 6
+    11 10 2 2 8 9 6 6
+    10 11 7 2 9 8 1 6
+    7 6 10 2 1 2 9 6
+    1 0 9 4 14 15 8 3
+    9 11 1 4 8 9 14 3
+    11 9 4 4 9 8 16 3
+    4 7 11 4 16 17 9 3
+  position 0.0 0.00106134 -0.128958
+  orientation -1.0 0.0 0.0 -1.5708
+endnode
+node trimesh D3part2
+  parent D3
+  #part-number 13
+  shadow 0
+  bitmap W_metal_tex
+  verts 9
+    0 -0.130412996 -0.032660801
+    0 0.107377 -0.0243129991
+    0.0108433003 0.106674999 -0.00234504999
+    0.0146385999 -0.130412996 -0.00234506
+    0 0.107377 0.0196228996
+    0 -0.130412996 0.0279706996
+    -0.0108433999 0.106674999 -0.00234504999
+    -0.00029721699 0.243958995 -0.00234504999
+    -0.0146385999 -0.130412996 -0.00234506
+  tverts 7
+    0.241916001 0.760610998 0
+    0.179005995 0.916630983 0
+    0.00991536025 0.915757 0
+    0.00991526991 0.760610998 0
+    0.178828999 0.916630983 0
+    0.243016005 0.760610998 0
+    0.00991536025 0.992511988 0
+  faces 12
+    0 1 2 1 0 1 2 4
+    2 3 0 1 2 3 0 4
+    3 2 4 2 3 2 4 4
+    4 5 3 2 4 5 3 4
+    6 7 1 4 2 6 1 6
+    7 6 4 8 6 2 4 6
+    1 0 8 4 1 0 3 3
+    8 6 1 4 3 2 1 3
+    6 8 5 8 2 3 5 3
+    5 4 6 8 5 4 2 3
+    2 7 4 2 2 6 4 6
+    7 2 1 1 6 2 1 6
+  position 0.0 0.00106134 0.113507
+  orientation -1.0 0.0 0.0 -1.5708
+endnode
+node trimesh D3part3
+  parent D3
+  #part-number 14
+  shadow 0
+  bitmap W_metal_tex
+  verts 14
+    0 0.0375741012 0
+    0 -0.00046555599 0.0369829014
+    0.0369829014 -0.000465571007 0
+    -0.0369829014 -0.000465571007 0
+    0 -0.000465577003 -0.0369829014
+    0 -0.0385053009 0
+    7.68924001e-005 0.0144681996 -0.0208733007
+    0.0207726993 0.0144683002 -0.000177524998
+    7.68995014e-005 0.0144683002 0.0205182992
+    -0.0206189007 0.0144683002 -0.000177527996
+    7.69090984e-005 0.183955997 -0.0208733995
+    0.0207726993 0.183955997 -0.000177555004
+    7.69161998e-005 0.183955997 0.0205182005
+    -0.0206189007 0.183955997 -0.000177556998
+  tverts 21
+    0.00855308026 0.515069008 0
+    0.00855308026 0.741545975 0
+    0.120063998 0.741545975 0
+    0.231553003 0.741545975 0
+    0.231839001 0.741545975 0
+    0.231574997 0.741545975 0
+    0.00855308026 0.518746972 0
+    2.32478996e-007 0.000499546994 0
+    0.75 0.000499546994 0
+    0.5 0.000499696005 0
+    0.25 0.000499606016 0
+    0.245416 0.491847992 0
+    0.169545993 0.491847992 0
+    0.169545993 0.262169987 0
+    0.168852001 0.262169987 0
+    0.0933294967 0.262169987 0
+    0.244720995 0.491847992 0
+    0.093676798 0.491847992 0
+    0.0936765969 0.262169987 0
+    0.169199005 0.491847992 0
+    0.0178072006 0.262169987 0
+  faces 18
+    0 1 2 1 0 1 2 2
+    0 3 1 1 0 3 1 2
+    0 4 3 1 0 4 3 2
+    0 2 4 1 0 2 5 2
+    5 2 1 1 6 2 1 1
+    5 1 3 1 6 1 3 1
+    5 3 4 1 6 3 4 1
+    5 4 2 1 6 5 2 1
+    6 7 8 1 7 8 9 1
+    8 9 6 1 9 10 7 1
+    10 11 7 2 11 12 13 5
+    7 6 10 2 14 15 16 5
+    11 12 8 4 12 17 18 4
+    8 7 11 4 18 13 12 4
+    12 13 9 2 17 19 20 6
+    9 8 12 2 20 18 17 6
+    13 10 6 4 19 16 15 3
+    6 9 13 4 15 20 19 3
+  position 0.0 0.00106134 -0.216053
+  orientation -1.0 0.0 0.0 -1.5708
+endnode
+node trimesh D4part1
+  parent D4
+  #part-number 15
+  shadow 0
+  bitmap W_metal_tex
+  verts 12
+    -0.0193608999 0.0962126032 -0.0598067008
+    -0.0193608999 0.119704001 -0.0598067008
+    0.0189078003 0.119704001 -0.0598067008
+    0.0189078003 0.0962126032 -0.0598067008
+    -0.0193608999 0.0962126032 0.0704445988
+    0.0189078003 0.0962126032 0.0704445988
+    0.0189078003 0.119704001 0.0704445988
+    -0.0193608999 0.119704001 0.0704445988
+    0.0277095996 0.0902530998 0.00531896017
+    -0.0281626992 0.0902530998 0.00531896017
+    0.0277095996 0.119704001 0.00531896017
+    -0.0281626992 0.119704001 0.00531896017
+  tverts 18
+    0.0469081998 0.709477007 0
+    0.229669005 0.709477007 0
+    0.229669005 0.548344016 0
+    0.046908401 0.548344016 0
+    0.0469079018 0.548344016 0
+    0.0469079018 0.709477007 0
+    0.224760994 0.548344016 0
+    0.224760994 0.709477007 0
+    0.0201495998 0.74653703 0
+    0.0201495998 0.511283994 0
+    0.224760994 0.558887005 0
+    0.224760994 0.74653703 0
+    0.229669005 0.74653703 0
+    0.229669005 0.558888018 0
+    0.224760994 0.511283994 0
+    0.224760994 0.698934019 0
+    0.229669005 0.698934019 0
+    0.229669005 0.511283994 0
+  faces 20
+    0 1 2 1 0 1 2 2
+    2 3 0 1 2 3 0 2
+    4 5 6 1 4 5 1 1
+    6 7 4 1 1 2 4 1
+    0 3 8 2 6 7 8 5
+    8 9 0 2 8 9 6 5
+    9 8 5 2 9 8 1 5
+    5 4 9 2 1 2 9 5
+    3 2 10 4 10 11 8 4
+    10 8 3 4 8 9 10 4
+    8 10 6 4 9 8 12 4
+    6 5 8 4 12 13 9 4
+    2 1 11 2 6 7 8 6
+    11 10 2 2 8 9 6 6
+    10 11 7 2 9 8 1 6
+    7 6 10 2 1 2 9 6
+    1 0 9 4 14 15 8 3
+    9 11 1 4 8 9 14 3
+    11 9 4 4 9 8 16 3
+    4 7 11 4 16 17 9 3
+  position 0.0 0.00106134 -0.128958
+  orientation -1.0 0.0 0.0 -1.5708
+endnode
+node trimesh D4part2
+  parent D4
+  #part-number 16
+  shadow 0
+  bitmap W_metal_tex
+  verts 9
+    0 -0.130412996 -0.032660801
+    0 0.107377 -0.0243129991
+    0.0108433003 0.106674999 -0.00234504999
+    0.0146385999 -0.130412996 -0.00234506
+    0 0.107377 0.0196228996
+    0 -0.130412996 0.0279706996
+    -0.0108433999 0.106674999 -0.00234504999
+    -0.00029721699 0.243958995 -0.00234504999
+    -0.0146385999 -0.130412996 -0.00234506
+  tverts 7
+    0.241916001 0.760610998 0
+    0.179005995 0.916630983 0
+    0.00991536025 0.915757 0
+    0.00991526991 0.760610998 0
+    0.178828999 0.916630983 0
+    0.243016005 0.760610998 0
+    0.00991536025 0.992511988 0
+  faces 12
+    0 1 2 1 0 1 2 4
+    2 3 0 1 2 3 0 4
+    3 2 4 2 3 2 4 4
+    4 5 3 2 4 5 3 4
+    6 7 1 4 2 6 1 6
+    7 6 4 8 6 2 4 6
+    1 0 8 4 1 0 3 3
+    8 6 1 4 3 2 1 3
+    6 8 5 8 2 3 5 3
+    5 4 6 8 5 4 2 3
+    2 7 4 2 2 6 4 6
+    7 2 1 1 6 2 1 6
+  position 0.0 0.00106134 0.113507
+  orientation -1.0 0.0 0.0 -1.5708
+endnode
+node trimesh D4part3
+  parent D4
+  #part-number 17
+  shadow 0
+  bitmap W_metal_tex
+  verts 14
+    0 0.0375741012 0
+    0 -0.00046555599 0.0369829014
+    0.0369829014 -0.000465571007 0
+    -0.0369829014 -0.000465571007 0
+    0 -0.000465577003 -0.0369829014
+    0 -0.0385053009 0
+    7.68924001e-005 0.0144681996 -0.0208733007
+    0.0207726993 0.0144683002 -0.000177524998
+    7.68995014e-005 0.0144683002 0.0205182992
+    -0.0206189007 0.0144683002 -0.000177527996
+    7.69090984e-005 0.183955997 -0.0208733995
+    0.0207726993 0.183955997 -0.000177555004
+    7.69161998e-005 0.183955997 0.0205182005
+    -0.0206189007 0.183955997 -0.000177556998
+  tverts 21
+    0.00855308026 0.515069008 0
+    0.00855308026 0.741545975 0
+    0.120063998 0.741545975 0
+    0.231553003 0.741545975 0
+    0.231839001 0.741545975 0
+    0.231574997 0.741545975 0
+    0.00855308026 0.518746972 0
+    2.32478996e-007 0.000499546994 0
+    0.75 0.000499546994 0
+    0.5 0.000499696005 0
+    0.25 0.000499606016 0
+    0.245416 0.491847992 0
+    0.169545993 0.491847992 0
+    0.169545993 0.262169987 0
+    0.168852001 0.262169987 0
+    0.0933294967 0.262169987 0
+    0.244720995 0.491847992 0
+    0.093676798 0.491847992 0
+    0.0936765969 0.262169987 0
+    0.169199005 0.491847992 0
+    0.0178072006 0.262169987 0
+  faces 18
+    0 1 2 1 0 1 2 2
+    0 3 1 1 0 3 1 2
+    0 4 3 1 0 4 3 2
+    0 2 4 1 0 2 5 2
+    5 2 1 1 6 2 1 1
+    5 1 3 1 6 1 3 1
+    5 3 4 1 6 3 4 1
+    5 4 2 1 6 5 2 1
+    6 7 8 1 7 8 9 1
+    8 9 6 1 9 10 7 1
+    10 11 7 2 11 12 13 5
+    7 6 10 2 14 15 16 5
+    11 12 8 4 12 17 18 4
+    8 7 11 4 18 13 12 4
+    12 13 9 2 17 19 20 6
+    9 8 12 2 20 18 17 6
+    13 10 6 4 19 16 15 3
+    6 9 13 4 15 20 19 3
+  position 0.0 0.00106134 -0.216053
+  orientation -1.0 0.0 0.0 -1.5708
+endnode
+node emitter shell1
+  parent D1
+  #part-number 18
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 0
+  inheritvel 0
+  inherit_local 1
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Fountain
+  render Normal
+  blend Lighten
+  texture fxpa_flare
+  xgrid 1
+  ygrid 1
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0.0 0.0 0.0
+  orientation 0 0 0 0
+  colorStart 0.196078002 0.654901981 0.92156899
+  colorEnd 1 1 1
+  alphaStart 0.899999976
+  alphaEnd 0
+  sizeStart 0.5
+  sizeEnd 0.5
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 0
+  birthrate 0
+  lifeExp 0.5
+  mass 0
+  spread 6.28318977
+  particleRot 0
+  velocity 0.100000001
+  randvel 0.100000001
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node emitter shell2
+  parent D2
+  #part-number 19
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 0
+  inheritvel 0
+  inherit_local 1
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Fountain
+  render Normal
+  blend Lighten
+  texture fxpa_flare
+  xgrid 1
+  ygrid 1
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0.0 0.0 0.0
+  orientation 0 0 0 0
+  colorStart 0.196078002 0.654901981 0.92156899
+  colorEnd 1 1 1
+  alphaStart 0.899999976
+  alphaEnd 0
+  sizeStart 0.5
+  sizeEnd 0.5
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 0
+  birthrate 0
+  lifeExp 0.5
+  mass 0
+  spread 6.28318977
+  particleRot 0
+  velocity 0.100000001
+  randvel 0.100000001
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node emitter shell3
+  parent D3
+  #part-number 20
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 0
+  inheritvel 0
+  inherit_local 1
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Fountain
+  render Normal
+  blend Lighten
+  texture fxpa_flare
+  xgrid 1
+  ygrid 1
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0.0 0.0 0.0
+  orientation 0 0 0 0
+  colorStart 0.196078002 0.654901981 0.92156899
+  colorEnd 1 1 1
+  alphaStart 0.899999976
+  alphaEnd 0
+  sizeStart 0.5
+  sizeEnd 0.5
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 0
+  birthrate 0
+  lifeExp 0.5
+  mass 0
+  spread 6.28318977
+  particleRot 0
+  velocity 0.100000001
+  randvel 0.100000001
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node emitter shell4
+  parent D4
+  #part-number 21
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 0
+  inheritvel 0
+  inherit_local 1
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Fountain
+  render Normal
+  blend Lighten
+  texture fxpa_flare
+  xgrid 1
+  ygrid 1
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0.0 0.0 0.0
+  orientation 0 0 0 0
+  colorStart 0.196078002 0.654901981 0.92156899
+  colorEnd 1 1 1
+  alphaStart 0.899999976
+  alphaEnd 0
+  sizeStart 0.5
+  sizeEnd 0.5
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 0
+  birthrate 0
+  lifeExp 0.5
+  mass 0
+  spread 6.28318977
+  particleRot 0
+  velocity 0.100000001
+  randvel 0.100000001
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+endmodelgeom vdr_daggers
+
+newanim impact vdr_daggers
+  length 2.0
+  transtime 0
+  animroot vdr_daggers
+node dummy vdr_daggers
+  parent NULL
+  #part-number 0
+endnode
+node dummy Rotator
+  parent vdr_daggers
+  #part-number 1
+endnode
+node dummy D1
+  parent Rotator
+  #part-number 2
+endnode
+node dummy D2
+  parent Rotator
+  #part-number 3
+endnode
+node dummy D3
+  parent Rotator
+  #part-number 4
+endnode
+node dummy D4
+  parent Rotator
+  #part-number 5
+endnode
+node trimesh D1part1
+  parent D1
+  #part-number 6
+endnode
+node trimesh D1part2
+  parent D1
+  #part-number 7
+  positionkey 2
+    0   0.0 0.00106134 1.113507
+    1.0 0.0 0.00106134 0.113507
+endnode
+node trimesh D1part3
+  parent D1
+  #part-number 8
+  positionkey 2
+    0   0.0 0.00106134 -1.216053
+    1.0 0.0 0.00106134 -0.216053
+endnode
+node trimesh D2part1
+  parent D2
+  #part-number 9
+endnode
+node trimesh D2part2
+  parent D2
+  #part-number 10
+  positionkey 2
+    0   0.0 0.00106134 1.113507
+    1.0 0.0 0.00106134 0.113507
+endnode
+node trimesh D2part3
+  parent D2
+  #part-number 11
+  positionkey 2
+    0   0.0 0.00106134 -1.216053
+    1.0 0.0 0.00106134 -0.216053
+endnode
+node trimesh D3part1
+  parent D3
+  #part-number 12
+endnode
+node trimesh D3part2
+  parent D3
+  #part-number 13
+  positionkey 2
+    0   0.0 0.00106134 1.113507
+    1.0 0.0 0.00106134 0.113507
+endnode
+node trimesh D3part3
+  parent D3
+  #part-number 14
+  positionkey 2
+    0   0.0 0.00106134 -1.216053
+    1.0 0.0 0.00106134 -0.216053
+endnode
+node trimesh D4part1
+  parent D4
+  #part-number 15
+endnode
+node trimesh D4part2
+  parent D4
+  #part-number 16
+  positionkey 2
+    0   0.0 0.00106134 1.113507
+    1.0 0.0 0.00106134 0.113507
+endnode
+node trimesh D4part3
+  parent D4
+  #part-number 17
+  positionkey 2
+    0   0.0 0.00106134 -1.216053
+    1.0 0.0 0.00106134 -0.216053
+endnode
+node emitter shell1
+  parent D1
+  #part-number 18
+  birthratekey 7
+    0 0
+    0.8 0
+    1.0 20
+    1.2 20
+    1.5 200
+    1.6 0
+    2.0 0
+  velocitykey 4
+    1.300000012 0.100000001
+    1.8 0.200000003
+    1.9 1
+    2.0 0
+endnode
+node emitter shell2
+  parent D2
+  #part-number 19
+  birthratekey 7
+    0 0
+    0.8 0
+    1.0 20
+    1.2 20
+    1.5 200
+    1.6 0
+    2.0 0
+  velocitykey 4
+    1.300000012 0.100000001
+    1.8 0.200000003
+    1.9 1
+    2.0 0
+endnode
+node emitter shell3
+  parent D3
+  #part-number 20
+  birthratekey 7
+    0 0
+    0.8 0
+    1.0 20
+    1.2 20
+    1.5 200
+    1.6 0
+    2.0 0
+  velocitykey 4
+    1.300000012 0.100000001
+    1.8 0.200000003
+    1.9 1
+    2.0 0
+endnode
+node emitter shell4
+  parent D4
+  #part-number 21
+  birthratekey 7
+    0 0
+    0.8 0
+    1.0 20
+    1.2 20
+    1.5 200
+    1.6 0
+    2.0 0
+  velocitykey 4
+    1.300000012 0.100000001
+    1.8 0.200000003
+    1.9 1
+    2.0 0
+endnode
+doneanim impact vdr_daggers
+
+newanim duration vdr_daggers
+  length 4.0
+  transtime 0
+  animroot vdr_daggers
+node dummy vdr_daggers
+  parent NULL
+  #part-number 0
+endnode
+node dummy Rotator
+  parent vdr_daggers
+  #part-number 1
+  orientationkey 5
+    0   0 0 1 0
+    1.0 0 0 1 1.57079995
+    2.0 0 0 1 3.14159012
+    3.0 0 0 1 4.71238995
+    4.0 0 0 1 0
+endnode
+node dummy D1
+  parent Rotator
+  #part-number 2
+  orientationkey 13
+    0      0 0 1 0
+    0.3333 0 0 1 1.57079995
+    0.6666 0 0 1 3.14159012
+    1.0    0 0 1 4.71238995
+    1.3333 0 0 1 0
+    1.6666 0 0 1 1.57079995
+    2.0    0 0 1 3.14159012
+    2.3333 0 0 1 4.71238995
+    2.6666 0 0 1 0
+    3.0    0 0 1 1.57079995
+    3.3333 0 0 1 3.14159012
+    3.6666 0 0 1 4.71238995
+    4.0    0 0 1 0
+  positionkey 17
+    0    1.0  0 0
+    0.25 0.975 0 0.075
+    0.5  0.95  0 0.1
+    0.75 0.925 0 0.075
+    1.0  0.9  0 0
+    1.25 0.875 0 -0.075
+    1.5  0.85  0 -0.1
+    1.75 0.825 0 -0.075
+    2.0  0.8  0 0
+    2.25 0.825 0 0.075
+    2.5  0.850  0 0.1
+    2.75 0.875 0 0.075
+    3.0  0.9  0 0
+    3.25 0.925 0 -0.075
+    3.5  0.95  0 -0.1
+    3.75 0.975 0 -0.075
+    4.0  1.0  0 0
+endnode
+node dummy D2
+  parent Rotator
+  #part-number 3
+  orientationkey 13
+    0      0 0 1 0
+    0.3333 0 0 1 1.57079995
+    0.6666 0 0 1 3.14159012
+    1.0    0 0 1 4.71238995
+    1.3333 0 0 1 0
+    1.6666 0 0 1 1.57079995
+    2.0    0 0 1 3.14159012
+    2.3333 0 0 1 4.71238995
+    2.6666 0 0 1 0
+    3.0    0 0 1 1.57079995
+    3.3333 0 0 1 3.14159012
+    3.6666 0 0 1 4.71238995
+    4.0    0 0 1 0
+  positionkey 17
+    0    0 1.0  0.1
+    0.25 0 0.975 0.075
+    0.5  0 0.95  0
+    0.75 0 0.925 -0.075
+    1.0  0 0.9  -0.1
+    1.25 0 0.875 -0.075
+    1.5  0 0.85  0
+    1.75 0 0.825 0.075
+    2.0  0 0.8  0.1
+    2.25 0 0.825 0.075
+    2.5  0 0.85  0
+    2.75 0 0.875 -0.075
+    3.0  0 0.9  -0.1
+    3.25 0 0.925 -0.075
+    3.5  0 0.95  0
+    3.75 0 0.975 0.075
+    4.0  0 1.0  0.1
+endnode
+node dummy D3
+  parent Rotator
+  #part-number 4
+  orientationkey 13
+    0      0 0 1 0
+    0.3333 0 0 1 1.57079995
+    0.6666 0 0 1 3.14159012
+    1.0    0 0 1 4.71238995
+    1.3333 0 0 1 0
+    1.6666 0 0 1 1.57079995
+    2.0    0 0 1 3.14159012
+    2.3333 0 0 1 4.71238995
+    2.6666 0 0 1 0
+    3.0    0 0 1 1.57079995
+    3.3333 0 0 1 3.14159012
+    3.6666 0 0 1 4.71238995
+    4.0    0 0 1 0
+  positionkey 17
+    0    -1.0   0 0
+    0.25 -0.975 0 -0.075
+    0.5  -0.95  0 -0.1
+    0.75 -0.925 0 -0.075
+    1.0  -0.9   0 0
+    1.25 -0.875 0 0.075
+    1.5  -0.85  0 0.1
+    1.75 -0.825 0 0.075
+    2.0  -0.8   0 0
+    2.25 -0.825 0 -0.075
+    2.5  -0.85  0 -0.1
+    2.75 -0.875 0 -0.075
+    3.0  -0.9   0 0
+    3.25 -0.925 0 0.075
+    3.5  -0.95  0 0.1
+    3.75 -0.975 0 0.075
+    4.0  -1.0   0 0
+endnode
+node dummy D4
+  parent Rotator
+  #part-number 5
+  orientationkey 13
+    0      0 0 1 0
+    0.3333 0 0 1 1.57079995
+    0.6666 0 0 1 3.14159012
+    1.0    0 0 1 4.71238995
+    1.3333 0 0 1 0
+    1.6666 0 0 1 1.57079995
+    2.0    0 0 1 3.14159012
+    2.3333 0 0 1 4.71238995
+    2.6666 0 0 1 0
+    3.0    0 0 1 1.57079995
+    3.3333 0 0 1 3.14159012
+    3.6666 0 0 1 4.71238995
+    4.0    0 0 1 0
+  positionkey 17
+    0    0 -1.0   -0.1
+    0.25 0 -0.975 -0.075
+    0.5  0 -0.95  0
+    0.75 0 -0.925 0.075
+    1.0  0 -0.9   0.1
+    1.25 0 -0.875 0.075
+    1.5  0 -0.85  0
+    1.75 0 -0.825 -0.075
+    2.0  0 -0.8   -0.1
+    2.25 0 -0.825 -0.075
+    2.5  0 -0.85  0
+    2.75 0 -0.875 0.075
+    3.0  0 -0.9   0.1
+    3.25 0 -0.925 0.075
+    3.5  0 -0.95  0
+    3.75 0 -0.975 -0.075
+    4.0  0 -1.0   -0.1
+endnode
+node trimesh D1part1
+  parent D1
+  #part-number 6
+endnode
+node trimesh D1part2
+  parent D1
+  #part-number 7
+endnode
+node trimesh D1part3
+  parent D1
+  #part-number 8
+endnode
+node trimesh D2part1
+  parent D2
+  #part-number 9
+endnode
+node trimesh D2part2
+  parent D2
+  #part-number 10
+endnode
+node trimesh D2part3
+  parent D2
+  #part-number 11
+endnode
+node trimesh D3part1
+  parent D3
+  #part-number 12
+endnode
+node trimesh D3part2
+  parent D3
+  #part-number 13
+endnode
+node trimesh D3part3
+  parent D3
+  #part-number 14
+endnode
+node trimesh D4part1
+  parent D4
+  #part-number 15
+  ambient 0 0 0
+endnode
+node trimesh D4part2
+  parent D4
+  #part-number 16
+endnode
+node trimesh D4part3
+  parent D4
+  #part-number 17
+endnode
+node emitter shell1
+  parent D1
+  #part-number 18
+  birthratekey 2
+    0 0
+    4.0 0
+endnode
+node emitter shell2
+  parent D2
+  #part-number 19
+  birthratekey 2
+    0 0
+    4.0 0
+endnode
+node emitter shell3
+  parent D3
+  #part-number 20
+  birthratekey 2
+    0 0
+    4.0 0
+endnode
+node emitter shell4
+  parent D4
+  #part-number 21
+  birthratekey 2
+    0 0
+    4.0 0
+endnode
+doneanim duration vdr_daggers
+
+newanim cessation vdr_daggers
+  length 2.0
+  transtime 0
+  animroot vdr_daggers
+node dummy vdr_daggers
+  parent NULL
+  #part-number 0
+endnode
+node dummy Rotator
+  parent vdr_daggers
+  #part-number 1
+endnode
+node dummy D1
+  parent Rotator
+  #part-number 2
+endnode
+node dummy D2
+  parent Rotator
+  #part-number 3
+endnode
+node dummy D3
+  parent Rotator
+  #part-number 4
+endnode
+node dummy D4
+  parent Rotator
+  #part-number 5
+endnode
+node trimesh D1part1
+  parent D1
+  #part-number 6
+  scalekey 3
+    0 1
+    0.5 1
+    0.6 0.01
+endnode
+node trimesh D1part2
+  parent D1
+  #part-number 7
+  scalekey 3
+    0 1
+    0.5 1
+    0.6 0.01
+endnode
+node trimesh D1part3
+  parent D1
+  #part-number 8
+  scalekey 3
+    0 1
+    0.5 1
+    0.6 0.01
+endnode
+node trimesh D2part1
+  parent D2
+  #part-number 9
+  scalekey 3
+    0 1
+    0.5 1
+    0.6 0.01
+endnode
+node trimesh D2part2
+  parent D2
+  #part-number 10
+  scalekey 3
+    0 1
+    0.5 1
+    0.6 0.01
+endnode
+node trimesh D2part3
+  parent D2
+  #part-number 11
+  scalekey 3
+    0 1
+    0.5 1
+    0.6 0.01
+endnode
+node trimesh D3part1
+  parent D3
+  #part-number 12
+  scalekey 3
+    0 1
+    0.5 1
+    0.6 0.01
+endnode
+node trimesh D3part2
+  parent D3
+  #part-number 13
+  scalekey 3
+    0 1
+    0.5 1
+    0.6 0.01
+endnode
+node trimesh D3part3
+  parent D3
+  #part-number 14
+  scalekey 3
+    0 1
+    0.5 1
+    0.6 0.01
+endnode
+node trimesh D4part1
+  parent D4
+  #part-number 15
+  scalekey 3
+    0 1
+    0.5 1
+    0.6 0.01
+endnode
+node trimesh D4part2
+  parent D4
+  #part-number 16
+  scalekey 3
+    0 1
+    0.5 1
+    0.6 0.01
+endnode
+node trimesh D4part3
+  parent D4
+  #part-number 17
+  scalekey 3
+    0 1
+    0.5 1
+    0.6 0.01
+endnode
+node emitter shell1
+  parent D1
+  #part-number 18
+  birthratekey 6
+    0.0 20
+    0.2 20
+    0.5 200
+    1.5 0
+    1.6 0
+    2.0 0
+  velocitykey 4
+    0.300000012 0.100000001
+    0.8 0.200000003
+    0.9 1
+    1.0 0
+endnode
+node emitter shell2
+  parent D2
+  #part-number 19
+  birthratekey 6
+    0.0 20
+    0.2 20
+    0.5 200
+    1.5 0
+    1.6 0
+    2.0 0
+  velocitykey 4
+    0.300000012 0.100000001
+    0.8 0.200000003
+    0.9 1
+    1.0 0
+endnode
+node emitter shell3
+  parent D3
+  #part-number 20
+  birthratekey 6
+    0.0 20
+    0.2 20
+    0.5 200
+    1.5 0
+    1.6 0
+    2.0 0
+  velocitykey 4
+    0.300000012 0.100000001
+    0.8 0.200000003
+    0.9 1
+    1.0 0
+endnode
+node emitter shell4
+  parent D4
+  #part-number 21
+  birthratekey 6
+    0.0 20
+    0.2 20
+    0.5 200
+    1.5 0
+    1.6 0
+    2.0 0
+  velocitykey 4
+    0.300000012 0.100000001
+    0.8 0.200000003
+    0.9 1
+    1.0 0
+endnode
+doneanim cessation vdr_daggers
+
+donemodel vdr_daggers

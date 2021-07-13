@@ -1,0 +1,426 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: bf_vfx_ioun_grn
+filedependancy bf_vfx_ioun_grn.max
+newmodel bf_vfx_ioun_grn
+setsupermodel bf_vfx_ioun_grn NULL
+classification Character
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom bf_vfx_ioun_grn
+node dummy bf_vfx_ioun_grn
+  parent NULL
+endnode
+node dummy Dummy07
+  parent bf_vfx_ioun_grn
+  position 0 0 0.193946
+  orientation 1 0 0 -1.5708
+  wirecolor 0.695313 0.695313 0.695313
+endnode
+node dummy Dummy03
+  parent Dummy07
+  position 0.23937 0.0939463 -0.144313
+  orientation 0 0 0 0
+  wirecolor 0.605469 0.605469 0.605469
+endnode
+node trimesh Ioun2
+  parent Dummy03
+  position -0.712315 0.922784 0.263857
+  orientation 0.995546 -0.020405 -0.0920406 -2.35935
+  wirecolor 0.347656 0.347656 0.347656
+  ambient 0.0823529 0.439216 0
+  diffuse 0.0823529 0.439216 0
+  specular 0 0 0
+  shininess 10
+  alpha 0
+  selfillumcolor 0.345098 0.521569 0.152941
+  bitmap NULL
+  render 1
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 7
+    0.00278059 0 -0.0420352
+    -0.0263379 0 0
+    -0.00621752 -0.0276934 0
+    0.026338 -0.0171154 0
+    0.026338 0.0171154 0
+    -0.00621752 0.0276933 0
+    0.00278059 0 0.0420353
+  faces 10
+    0 2 1  0  7 8 9  2
+    0 3 2  0  10 11 12  2
+    0 4 3  0  13 14 15  2
+    0 5 4  0  16 17 18  2
+    0 1 5  0  0 19 20  2
+    1 2 6  0  21 22 23  2
+    2 3 6  0  2 24 25  2
+    3 4 6  0  3 26 27  2
+    4 5 6  0  4 28 29  2
+    5 1 6  0  5 1 6  2
+  tverts 30
+    0.5 -0.15569 0.456627
+    0.5 0.5 0.910834
+    0.403015 0.5 0.0680233
+    0.233024 0.5 0.0891658
+    0.0891657 0.5 0.766976
+    0.0680233 0.5 0.596985
+    0.5 1.15569 0.456627
+    0.5 -0.15569 0.456627
+    0.931977 0.5 0.596985
+    0.5 0.5 0.910834
+    0.543373 -0.15569 0.5
+    0.910834 0.5 0.233024
+    0.403015 0.5 0.0680233
+    0.5 -0.15569 0.456627
+    0.766976 0.5 0.0891657
+    0.233024 0.5 0.0891658
+    0.456627 -0.15569 0.5
+    0.596985 0.5 0.931977
+    0.0891657 0.5 0.766976
+    0.5 0.5 0.910834
+    0.0680233 0.5 0.596985
+    0.5 0.5 0.910834
+    0.931977 0.5 0.596985
+    0.5 1.15569 0.456627
+    0.910834 0.5 0.233024
+    0.543373 1.15569 0.5
+    0.766976 0.5 0.0891657
+    0.5 1.15569 0.456627
+    0.596985 0.5 0.931977
+    0.456627 1.15569 0.5
+endnode
+node emitter NWNEmitter02
+  parent Ioun2
+  position 0 0 0
+  orientation 0.983106 -0.129429 -0.129428 -1.58783
+  wirecolor 0.691406 0.691406 0.691406
+    colorStart 0.12549 0.439216 0
+    colorEnd 0.12549 0.439216 0
+    alphaStart 0.75
+    alphaEnd 0.75
+    sizeStart 0.2
+    sizeEnd 0.2
+    sizeStart_y 0
+    sizeEnd_y 0
+    frameStart 0
+    frameEnd 15
+    birthrate 1
+    spawnType 0
+    lifeExp 0
+    mass 0
+    spread 0
+    particleRot 0
+    velocity 0
+    randvel 0
+    fps 1
+    random 0
+    inherit 1
+    inherit_local 0
+    inherit_part 0
+    inheritvel 0
+    xsize 0
+    ysize 0
+    bounce 0
+    bounce_co 0
+    loop 0
+    update Single
+    render Normal
+    Blend Lighten
+    update_sel 3
+    render_sel 1
+    blend_sel 3
+    deadspace 0
+    opacity 0.5
+    blurlength 1
+    lightningDelay 0
+    lightningRadius 0
+    lightningScale 0
+    blastRadius 0
+    blastLength 0
+    twosidedtex 0
+    p2p 0
+    p2p_sel 1
+    p2p_type Bezier
+    p2p_bezier2 0
+    p2p_bezier3 0
+    combinetime 0
+    drag 0
+    grav 0
+    threshold 0
+    texture fxpa_flare
+    xgrid 1
+    ygrid 1
+    affectedByWind 0
+    m_isTinted 0
+    renderorder 0
+    Splat 0
+endnode
+node emitter NWNEmitter10
+  parent Ioun2
+  position 0 0 0
+  orientation 0.983106 -0.129428 -0.129428 -1.58783
+  wirecolor 0.691406 0.691406 0.691406
+    colorStart 0.12549 0.439216 0
+    colorEnd 0.12549 0.439216 0
+    alphaStart 0.2
+    alphaEnd 0.2
+    sizeStart 0.03
+    sizeEnd 0
+    sizeStart_y 0
+    sizeEnd_y 0
+    frameStart 0
+    frameEnd 15
+    birthrate 9
+    spawnType 1
+    lifeExp 0.4
+    mass 0
+    spread 0
+    particleRot 0
+    velocity 0
+    randvel 0
+    fps 1
+    random 0
+    inherit 0
+    inherit_local 1
+    inherit_part 0
+    inheritvel 0
+    xsize 0
+    ysize 0
+    bounce 0
+    bounce_co 0
+    loop 0
+    update Fountain
+    render Linked
+    Blend Lighten
+    update_sel 1
+    render_sel 2
+    blend_sel 3
+    deadspace 0
+    opacity 0.5
+    blurlength 1
+    lightningDelay 0
+    lightningRadius 0
+    lightningScale 0
+    blastRadius 0
+    blastLength 0
+    twosidedtex 0
+    p2p 0
+    p2p_sel 1
+    p2p_type Bezier
+    p2p_bezier2 0
+    p2p_bezier3 0
+    combinetime 0
+    drag 0
+    grav 0
+    threshold 0
+    texture fxpa_white
+    xgrid 1
+    ygrid 1
+    affectedByWind 0
+    m_isTinted 0
+    renderorder 0
+    Splat 0
+endnode
+endmodelgeom bf_vfx_ioun_grn
+
+#MAXANIM ASCII
+newanim impact bf_vfx_ioun_grn
+  length 0.666667
+  transtime 0
+  animroot bf_vfx_ioun_grn
+node dummy bf_vfx_ioun_grn
+  parent NULL
+endnode
+node dummy Dummy07
+  parent bf_vfx_ioun_grn
+endnode
+node dummy Dummy03
+  parent Dummy07
+endnode
+node trimesh Ioun2
+  parent Dummy03
+    positionkey
+      0  -0.712315 0.922784 0.263857
+      0.0666667  -0.700891 0.828261 0.325292
+      0.166667  -0.672334 0.740647 0.461139
+      0.233333  -0.62885 0.632966 0.551704
+      0.266667  -0.565459 0.543797 0.627961
+      0.3  -0.449742 0.432997 0.680282
+      0.333333  -0.334024 0.365458 0.687551
+      0.4  -0.202285 0.297762 0.658634
+      0.433333  -0.0652821 0.179323 0.553681
+      0.5  -0.00467649 0.0319571 0.343776
+      0.666667  0 0 0
+    endlist
+    orientationkey
+      0  -0.995546 0.020405 0.0920406 2.35935
+      0.233333  -0.954276 0.0758391 0.289146 2.2192
+      0.333333  -0.674956 0.0838793 0.733074 2.546
+      0.666667  1 0 0 1.5708
+    endlist
+    alphakey
+      0  0
+      0.666667  0.9
+    endlist
+endnode
+node emitter NWNEmitter02
+  parent Ioun2
+    alphaStart 0.75
+    alphaEnd 0.75
+    birthrate 1
+endnode
+node emitter NWNEmitter10
+  parent Ioun2
+    alphaStart 0.2
+    alphaEnd 0.2
+    birthratekey
+      0  9
+      0.333333  10
+    endlist
+endnode
+doneanim impact bf_vfx_ioun_grn
+
+#MAXANIM ASCII
+newanim duration bf_vfx_ioun_grn
+  length 2
+  transtime 0
+  animroot bf_vfx_ioun_grn
+node dummy bf_vfx_ioun_grn
+  parent NULL
+endnode
+node dummy Dummy07
+  parent bf_vfx_ioun_grn
+    positionkey
+      0  0 0 0.193946
+      1  0 0 0.25001
+      2  0 0 0.193946
+    endlist
+    orientationkey
+      0  -1 0 0 1.5708
+      0.5  -0.57735 0.57735 -0.57735 2.09439
+      1  0 -0.707107 0.707107 3.14159
+      1.5  -0.57735 -0.57735 0.57735 2.0944
+      2  -1 0 0 1.5708
+    endlist
+endnode
+node dummy Dummy03
+  parent Dummy07
+    positionkey
+      0  0.23937 0.0939463 -0.144313
+      0.366667  0.23937 0.148946 -0.144313
+      0.5  0.23937 0.153946 -0.144313
+      0.633333  0.23937 0.148946 -0.144313
+      1  0.23937 0.0939463 -0.144313
+      1.36667  0.23937 0.0542463 -0.144313
+      1.5  0.23937 0.0499463 -0.144313
+      1.63333  0.23937 0.0542463 -0.144313
+      2  0.23937 0.0939463 -0.144313
+    endlist
+endnode
+node trimesh Ioun2
+  parent Dummy03
+    positionkey
+      0  0 0 0
+      2  0 0 0
+    endlist
+    orientationkey
+      0  1 0 0 1.5708
+      0.5  0.57735 0.57735 -0.57735 2.09439
+      1  0 -0.707107 0.707107 3.14159
+      1.5  0.57735 -0.57735 0.57735 2.0944
+      2  1 0 0 1.5708
+    endlist
+    alphakey
+      0  0.9
+      0.5  0.5
+      1  0.9
+      1.5  0.5
+      2  0.9
+    endlist
+endnode
+node emitter NWNEmitter02
+  parent Ioun2
+endnode
+node emitter NWNEmitter10
+  parent Ioun2
+endnode
+doneanim duration bf_vfx_ioun_grn
+
+#MAXANIM ASCII
+newanim cessation bf_vfx_ioun_grn
+  length 0.666667
+  transtime 3
+  animroot bf_vfx_ioun_grn
+node dummy bf_vfx_ioun_grn
+  parent NULL
+endnode
+node dummy Dummy07
+  parent bf_vfx_ioun_grn
+    positionkey
+      0  0 0 0.193946
+    endlist
+    orientationkey
+      0  -1 0 0 1.5708
+    endlist
+endnode
+node dummy Dummy03
+  parent Dummy07
+    positionkey
+      0  0.23937 0.0939463 -0.144313
+    endlist
+    orientationkey
+      0  0 0 0 0
+    endlist
+endnode
+node trimesh Ioun2
+  parent Dummy03
+    positionkey
+      0  0 0 0
+      0.2  -0.0128975 -0.0082697 -0.0944137
+      0.366667  -0.0236455 0.0190013 -0.173092
+      0.666667  -0.0588732 0.207932 -0.311101
+    endlist
+    orientationkey
+      0  1 0 0 1.5708
+      0.166667  -1 0 0 3.14159
+      0.333333  -1 0 0 1.5708
+      0.5  0 0 0 0
+      0.666667  1 0 0 1.5708
+    endlist
+    alphakey
+      0  0.9
+      0.666667  0
+    endlist
+endnode
+node emitter NWNEmitter02
+  parent Ioun2
+    alphaStartkey
+      0  0.75
+      0.666667  0
+    endlist
+    alphaEndkey
+      0  0.75
+      0.666667  0
+    endlist
+    birthratekey
+      0.233333  2
+    endlist
+endnode
+node emitter NWNEmitter10
+  parent Ioun2
+    alphaStartkey
+      0  0.2
+      0.666667  0
+    endlist
+    alphaEndkey
+      0  0.2
+      0.666667  0
+    endlist
+endnode
+event 0.166667  detonate
+doneanim cessation bf_vfx_ioun_grn
+donemodel bf_vfx_ioun_grn

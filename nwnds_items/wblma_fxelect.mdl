@@ -1,0 +1,254 @@
+# Exported from NWmax 0.5-beta at 3/8/2004 1:01:39 PM
+# mdl file
+#
+#NWmaxMODEL ASCII
+# model: WBlMa_fxelect
+filedependancy Unknown
+newmodel WBlMa_fxelect
+setsupermodel WBlMa_fxelect NULL
+classification Character
+setanimationscale 1.0
+#NWmaxGEOM  ASCII
+beginmodelgeom WBlMa_fxelect
+node dummy WBlMa_fxelect
+  parent NULL
+endnode
+node emitter g_WSwGs_V_Elec_b01
+  parent WBlMa_fxelect
+  position 0.000519028 0.697831 -0.00621171
+  orientation 1.0 0.0 0.0 -1.5708
+  wirecolor 0.603922 0.603922 0.894118 
+     update_sel 1
+     update Fountain
+     render_sel 2
+     render Linked
+     blend_sel 2
+     Blend Lighten
+     spawnType 0
+     iconSize 100.0
+     xSize 20.0
+     ySize 34.0
+     inherit 1
+     inherit_local 0
+     inheritvel 0
+     inherit_part 0
+     renderorder 0
+     threshold 0.0
+     combinetime 10.0
+     deadspace 0.0
+     colorStart 1.0 1.0 1.0 
+     colorEnd 0.572549 0.643137 1.0 
+     alphaStart 1.0
+     alphaEnd 0.0
+     sizeStart 0.0
+     sizeEnd 0.3
+     sizeStart_y 0.0
+     sizeEnd_y 0.0
+     birthrate 20.0
+     lifeExp 1.0
+     mass 0.0
+     spread 0.0
+     particleRot 0.0
+     velocity 0.0
+     randvel 0.0
+     bounce_co 0.0
+     blurlength 10.0
+     loop 0
+     bounce 0
+     m_isTinted 0
+     Splat 0
+     affectedbyWind false
+     texture fxpa_lightning2
+     twosidedtext 0
+     xgrid 2
+     ygrid 2
+     fps 12
+     frameStart 0
+     frameEnd 3
+     random 0
+     #chunk undefined
+     lightningDelay 0.05
+     lightningRadius 0.05
+     lightningSubDivkey 0
+     lightningScale 0.5
+     blastRadius 0.0
+     blastLength 0.0
+     opacity 0.5
+     p2p 1
+     p2p_type Bezier
+     p2p_sel 1
+     p2p_bezier2 0.0
+     p2p_bezier3 0.0
+     grav 0.0
+     drag 0.2
+     Cone_Angle_Manipulator SubAnim:Cone_Angle_Manipulator
+endnode
+node reference g_WSwGs_V_Elec_b_ref01
+  parent g_WSwGs_V_Elec_b01
+  position 0.0 0.0 0.0
+  orientation 0.0 1.0 0.0 -1.5708
+  wirecolor 0.101961 0.694118 0.580392 
+     refModel fx_ref
+     reattachable 1
+     Dummy Dummy
+endnode
+node emitter g_WSwGs_V_Elec
+  parent WBlMa_fxelect
+  position 0.00979515 0.705209 0.160996
+  orientation -1.0 3.27131e-007 -2.08736e-007 -3.14159
+  wirecolor 0.6 0.894118 0.6 
+     update_sel 4
+     update Lightning
+     render_sel 2
+     render Linked
+     blend_sel 2
+     Blend Lighten
+     spawnType 0
+     iconSize 100.0
+     xSize 6.0
+     ySize 6.0
+     inherit 1
+     inherit_local 0
+     inheritvel 0
+     inherit_part 0
+     renderorder 0
+     threshold 0.0
+     combinetime 0.0
+     deadspace 0.0
+     colorStart 1.0 1.0 1.0 
+     colorEnd 0.545098 0.976471 0.737255 
+     alphaStart 0.75
+     alphaEnd 0.5
+     sizeStart 0.1
+     sizeEnd 0.075
+     sizeStart_y 0.0
+     sizeEnd_y 0.0
+     birthrate 5.0
+     lifeExp 1.0
+     mass 0.0
+     spread 0.0
+     particleRot 200.0
+     velocity 0.0
+     randvel 0.0
+     bounce_co 0.0
+     blurlength 10.0
+     loop 0
+     bounce 0
+     m_isTinted 0
+     Splat 0
+     affectedbyWind false
+     texture fxpa_lightning2
+     twosidedtext 0
+     xgrid 2
+     ygrid 2
+     fps 0
+     frameStart 0
+     frameEnd 0
+     random 0
+     #chunk undefined
+     lightningDelay 0.09
+     lightningRadius 0.08
+     lightningSubDivkey 0
+     lightningScale 0.0
+     blastRadius 0.0
+     blastLength 0.0
+     opacity 0.5
+     p2p 0
+     p2p_type Bezier
+     p2p_sel 1
+     p2p_bezier2 0.0
+     p2p_bezier3 0.0
+     grav 0.0
+     drag 0.0
+     Cone_Angle_Manipulator SubAnim:Cone_Angle_Manipulator
+endnode
+node reference g_WSwGs_V_Elec_ref
+  parent g_WSwGs_V_Elec
+  position -0.00832369 -0.0048512 0.325345
+  orientation -1.0 3.31644e-007 -2.13432e-007 -3.14159
+  wirecolor 0.345098 0.780392 0.882353 
+     refModel fx_ref
+     reattachable 1
+     Dummy Dummy
+endnode
+node emitter g_WSwGs_V_Elec_b
+  parent WBlMa_fxelect
+  position 0.000518742 0.697831 3.02029e-005
+  orientation 0.57735 -0.57735 0.57735 -2.0944
+  wirecolor 0.603922 0.603922 0.894118 
+     update_sel 1
+     update Fountain
+     render_sel 2
+     render Linked
+     blend_sel 2
+     Blend Lighten
+     spawnType 0
+     iconSize 100.0
+     xSize 20.0
+     ySize 34.0
+     inherit 1
+     inherit_local 0
+     inheritvel 0
+     inherit_part 0
+     renderorder 0
+     threshold 0.0
+     combinetime 10.0
+     deadspace 0.0
+     colorStart 1.0 1.0 1.0 
+     colorEnd 0.572549 0.643137 1.0 
+     alphaStart 1.0
+     alphaEnd 0.0
+     sizeStart 0.0
+     sizeEnd 0.3
+     sizeStart_y 0.0
+     sizeEnd_y 0.0
+     birthrate 20.0
+     lifeExp 1.0
+     mass 0.0
+     spread 0.0
+     particleRot 0.0
+     velocity 0.0
+     randvel 0.0
+     bounce_co 0.0
+     blurlength 10.0
+     loop 0
+     bounce 0
+     m_isTinted 0
+     Splat 0
+     affectedbyWind false
+     texture fxpa_lightning2
+     twosidedtext 0
+     xgrid 2
+     ygrid 2
+     fps 12
+     frameStart 0
+     frameEnd 3
+     random 0
+     #chunk undefined
+     lightningDelay 0.05
+     lightningRadius 0.05
+     lightningSubDivkey 0
+     lightningScale 0.5
+     blastRadius 0.0
+     blastLength 0.0
+     opacity 0.5
+     p2p 1
+     p2p_type Bezier
+     p2p_sel 1
+     p2p_bezier2 0.0
+     p2p_bezier3 0.0
+     grav 0.0
+     drag 0.2
+     Cone_Angle_Manipulator SubAnim:Cone_Angle_Manipulator
+endnode
+node reference g_WSwGs_V_Elec_b_ref
+  parent g_WSwGs_V_Elec_b
+  position 0.0 0.0 0.0
+  orientation 0.0 1.0 0.0 -1.5708
+  wirecolor 0.894118 0.721569 0.6 
+     refModel fx_ref
+     reattachable 1
+     Dummy Dummy
+endnode
+endmodelgeom WBlMa_fxelect
+donemodel WBlMa_fxelect

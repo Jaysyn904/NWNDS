@@ -1,0 +1,2 @@
+envmaptexture PLC_Puddle
+alphamean 0.364

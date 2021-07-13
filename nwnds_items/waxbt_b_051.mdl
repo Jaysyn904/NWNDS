@@ -1,0 +1,18 @@
+# Exported from NWmax 0.8 b61 at 9/2/2019 11:35:58 AM
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: WAxBt_b_051
+#local file: Unknown
+filedependancy Unknown
+newmodel WAxBt_b_051
+setsupermodel WAxBt_b_051 NULL
+classification Character
+setanimationscale 1.0
+#NWmax GEOM  ASCII
+beginmodelgeom WAxBt_b_051
+node dummy WAxBt_b_051
+  parent NULL
+endnode
+endmodelgeom WAxBt_b_051
+donemodel WAxBt_b_051

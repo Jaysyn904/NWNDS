@@ -1,0 +1,18 @@
+# Exported from NWmax 0.8 b61 at 3. 6. 2015 14:26:53
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: wplsc_m_016
+#local file: Unknown
+filedependancy Unknown
+newmodel wplsc_m_016
+setsupermodel wplsc_m_016 NULL
+classification Character
+setanimationscale 1.0
+#NWmax GEOM  ASCII
+beginmodelgeom wplsc_m_016
+node dummy wplsc_m_016
+  parent NULL
+endnode
+endmodelgeom wplsc_m_016
+donemodel wplsc_m_016

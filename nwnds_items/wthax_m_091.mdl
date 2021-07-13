@@ -1,0 +1,18 @@
+# Exported from NWmax 0.8 b61 at 20/11/2013 12:45:27
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: WThAx_m_091
+#local file: C:\Users\Pablo\Documents\3DS\Z.max
+filedependancy Z.max
+newmodel WThAx_m_091
+setsupermodel WThAx_m_091 NULL
+classification Character
+setanimationscale 1.0
+#NWmax GEOM  ASCII
+beginmodelgeom WThAx_m_091
+node dummy WThAx_m_091
+  parent NULL
+endnode
+endmodelgeom WThAx_m_091
+donemodel WThAx_m_091

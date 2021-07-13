@@ -1,0 +1,30 @@
+#MAXDOOR ASCII
+# model: PLC_Mush01_pwk 
+filedependancy IoP-Mushroom_01.max
+node trimesh PLC_Mush01_wg 
+  parent PLC_Mush01_pwk 
+  position 0.0399888 0.0346611 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.345098 0.694118 0.101961  
+    bitmap NULL
+    verts 4
+     -0.321861 -0.340851 0.0
+     0.321861 -0.340851 0.0
+     -0.321861 0.340851 0.0
+     0.321861 0.340851 0.0
+    faces 2
+     2 0 3  1  0 0 0  1
+     1 3 0  1  0 0 0  1
+endnode
+node dummy IoP_pwk_use01 
+  parent PLC_Mush01_pwk 
+  position 0.319992 0.011265 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.109804 0.584314 0.694118  
+endnode
+node dummy IoP_pwk_use02 
+  parent PLC_Mush01_pwk 
+  position -0.316901 0.0185433 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.0235294 0.52549 0.443137  
+endnode

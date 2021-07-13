@@ -1,0 +1,100 @@
+# Exported from Wayland's NWN Maxscript v0.3b at 1/22/2004 3:33:59 AM
+# mdl file
+#
+filedependancy Unknown
+newmodel it_smlmisc_086
+setsupermodel it_smlmisc_086 NULL
+classification Character
+setanimationscale 1.0
+beginmodelgeom it_smlmisc_086
+node dummy it_smlmisc_086
+    parent NULL
+endnode
+node trimesh g_WBlFh_t_011a
+    parent it_smlmisc_086
+    position -0.02404 0.0280265 0.0264749
+    orientation 1.0 0.0 0.0 0.0
+    scale 1.0
+    bitmap W_metal_tex
+    render 1
+    shininess 1.0
+    diffuse 0.3 0.3 0.3
+    ambient 0.3 0.3 0.3
+    specular 0.0 0.0 0.0
+    selfillumcolor 0.0 0.0 0.0
+    alpha 1.0
+    verts 8
+        0.00739763 0.0944192 -0.010182
+        -0.00739763 0.0944192 0.010182
+        0.0336852 0.079972 0.0164763
+        -0.03465 0.079972 -0.0164763
+        -0.00739763 -0.0114696 0.010182
+        0.00739763 -0.0114696 -0.010182
+        0.0336852 0.0029784 0.0164763
+        -0.03465 0.0029784 -0.0164763
+    faces 12
+        0 1 2 1 0 0 1 2
+        1 0 3 1 0 0 2 2
+        4 5 6 1 3 3 4 1
+        5 4 7 1 3 3 5 1
+        3 0 5 1 2 0 3 5
+        5 7 3 1 3 5 2 5
+        0 2 6 1 0 1 4 4
+        6 5 0 1 4 3 0 4
+        2 1 4 1 1 0 3 6
+        4 6 2 1 3 4 1 6
+        1 3 7 1 0 2 5 3
+        7 4 1 1 5 3 0 3
+    tverts 6
+        0.063845 0.239431 0
+        0.112454 0.226234 0
+        0.015235 0.226234 0
+        0.063845 0.142211 0
+        0.112454 0.155409 0
+        0.015235 0.155409 0
+endnode
+node trimesh g_WBlFh_t_011b
+    parent it_smlmisc_086
+    position 0.0182 -0.0351336 0.02
+    orientation 1.0 0.0 0.0 0.0
+    scale 1.0
+    shininess 1.000000
+    bitmap W_metal_tex
+    render 1
+    diffuse 0.3 0.3 0.3
+    ambient 0.3 0.3 0.3
+    specular 0.0 0.0 0.0
+    selfillumcolor 0.0 0.0 0.0
+    alpha 1.0
+    verts 8
+        0.0 0.095072 -0.0125856
+        0.0 0.095072 0.0125856
+        0.0364752 0.0806248 0.0
+        -0.0383269 0.0806248 0.0
+        0.0 -0.0113744 0.0125856
+        0.0 -0.0113744 -0.0125856
+        0.0364752 0.0030728 0.0
+        -0.0383269 0.0030728 0.0
+    faces 12
+        0 1 2 1 0 0 1 2
+        1 0 3 1 0 0 2 2
+        4 5 6 1 3 3 4 1
+        5 4 7 1 3 3 5 1
+        3 0 5 1 2 0 3 5
+        5 7 3 1 3 5 2 5
+        0 2 6 1 0 1 4 4
+        6 5 0 1 4 3 0 4
+        2 1 4 1 1 0 3 6
+        4 6 2 1 3 4 1 6
+        1 3 7 1 0 2 5 3
+        7 4 1 1 5 3 0 3
+    tverts 6
+        0.063845 0.239431 0
+        0.112454 0.226234 0
+        0.015235 0.226234 0
+        0.063845 0.142211 0
+        0.112454 0.155409 0
+        0.015235 0.155409 0
+endnode
+endmodelgeom it_smlmisc_086
+donemodel it_smlmisc_086

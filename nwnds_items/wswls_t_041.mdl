@@ -1,0 +1,18 @@
+# Exported from NWmax 0.8 b61 at 8/3/2019 12:01:59 PM
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: WSwLs_t_041
+#local file: Unknown
+filedependancy Unknown
+newmodel WSwLs_t_041
+setsupermodel WSwLs_t_041 NULL
+classification Character
+setanimationscale 1.0
+#NWmax GEOM  ASCII
+beginmodelgeom WSwLs_t_041
+node dummy WSwLs_t_041
+  parent NULL
+endnode
+endmodelgeom WSwLs_t_041
+donemodel WSwLs_t_041

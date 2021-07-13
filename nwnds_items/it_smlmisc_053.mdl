@@ -1,0 +1,63 @@
+# Exported from Wayland's NWN Maxscript v0.3b at 1/22/2004 1:00:05 AM
+# mdl file
+#
+filedependancy Unknown
+newmodel it_smlmisc_053
+setsupermodel it_smlmisc_053 NULL
+classification Character
+setanimationscale 1.0
+beginmodelgeom it_smlmisc_053
+node dummy it_smlmisc_053
+    parent NULL
+endnode
+node trimesh Geom640
+    parent it_smlmisc_053
+    position -0.248788 -0.00252098 0.218598
+    orientation 1.0 0.0 0.0 0.0
+    scale 1.0
+    shininess 26.000000
+    bitmap TTF01_trim01
+    render 1
+    diffuse 1.0 1.0 1.0
+    ambient 1.0 1.0 1.0
+    specular 0.05 0.05 0.05
+    selfillumcolor 0.0 0.0 0.0
+    alpha 1.0
+    verts 9
+        0.103674 0.141613 -0.176363
+        0.163559 0.11018 -0.149421
+        0.0795735 0.123135 -0.18518
+        0.271885 -0.0857823 -0.102902
+        0.125214 -0.0602983 -0.118329
+        0.226188 0.00588019 -0.113379
+        0.314339 -0.233888 -0.180764
+        0.177223 -0.1185 -0.138519
+        0.0768906 0.0603459 -0.159679
+    faces 14
+        0 1 2 1 0 1 2 1
+        3 4 5 1 3 4 5 1
+        3 6 7 1 3 6 7 1
+        1 8 2 1 1 8 2 1
+        4 1 5 1 4 1 5 1
+        3 7 4 1 3 7 4 1
+        4 8 1 1 4 8 1 1
+        1 0 2 1 1 0 2 1
+        4 3 5 1 4 3 5 1
+        6 3 7 1 6 3 7 1
+        8 1 2 1 8 1 2 1
+        1 4 5 1 1 4 5 1
+        7 3 4 1 7 3 4 1
+        8 4 1 1 8 4 1 1
+    tverts 9
+        0.453589 0.597397 0
+        0.433956 0.651016 0
+        0.472201 0.597072 0
+        0.4379 0.822196 0
+        0.500896 0.752572 0
+        0.42964 0.752573 0
+        0.467993 0.889295 0
+        0.495356 0.800028 0
+        0.49368 0.649252 0
+endnode
+endmodelgeom it_smlmisc_053
+donemodel it_smlmisc_053

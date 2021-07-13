@@ -1,0 +1,469 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: bf_vfx_ioun_wht
+filedependancy bf_vfx_ioun_wht.max
+newmodel bf_vfx_ioun_wht
+setsupermodel bf_vfx_ioun_wht NULL
+classification Character
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom bf_vfx_ioun_wht
+node dummy bf_vfx_ioun_wht
+  parent NULL
+endnode
+node dummy Dummy09
+  parent bf_vfx_ioun_wht
+  position 0 0 0.23573
+  orientation 0.954202 0.211541 0.211541 -1.61766
+  wirecolor 0.695313 0.695313 0.695313
+endnode
+node trimesh Sphere03
+  parent Dummy09
+  position 0.0900016 1.09804 -0.0192276
+  orientation 1 0 0 -3.75246
+  wirecolor 0.691406 0.691406 0.691406
+  ambient 0.756863 0.976471 0.968628
+  diffuse 0.756863 0.976471 0.968628
+  specular 0 0 0
+  shininess 10
+  alpha 0
+  selfillumcolor 0.415686 0.741176 0.823529
+  bitmap NULL
+  render 1
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 26
+    0 0 0.0355846
+    0 -0.0162777 0.0251621
+    0.0115101 -0.0115101 0.0251621
+    0.0162777 0 0.0251621
+    0.0115101 0.0115101 0.0251621
+    0 0.0162777 0.0251621
+    -0.0115101 0.0115101 0.0251621
+    -0.0162777 0 0.0251621
+    -0.0115101 -0.0115101 0.0251621
+    0 -0.0230202 0
+    0.0162777 -0.0162777 0
+    0.0230202 0 0
+    0.0162777 0.0162777 0
+    0 0.0230202 0
+    -0.0162777 0.0162777 0
+    -0.0230202 0 0
+    -0.0162777 -0.0162777 0
+    0 -0.0162777 -0.0251621
+    0.0115101 -0.0115101 -0.0251621
+    0.0162777 0 -0.0251621
+    0.0115101 0.0115101 -0.0251621
+    0 0.0162777 -0.0251621
+    -0.0115101 0.0115101 -0.0251621
+    -0.0162777 0 -0.0251621
+    -0.0115101 -0.0115101 -0.0251621
+    0 0 -0.0355846
+  faces 48
+    0 1 2  1  26 27 2  1
+    0 2 3  1  28 2 3  1
+    0 3 4  1  29 3 4  1
+    0 4 5  1  30 4 5  1
+    0 5 6  1  31 5 6  1
+    0 6 7  1  32 6 7  1
+    0 7 8  1  33 7 8  1
+    0 8 1  1  0 8 1  1
+    1 9 10  1  34 35 10  1
+    1 10 2  1  36 10 2  1
+    2 10 11  1  2 10 11  1
+    2 11 3  1  2 11 3  1
+    3 11 12  1  3 11 12  1
+    3 12 4  1  3 12 4  1
+    4 12 13  1  4 12 13  1
+    4 13 5  1  4 13 5  1
+    5 13 14  1  5 13 14  1
+    5 14 6  1  5 14 6  1
+    6 14 15  1  6 14 15  1
+    6 15 7  1  6 15 7  1
+    7 15 16  1  7 15 16  1
+    7 16 8  1  7 16 8  1
+    8 16 9  1  8 16 9  1
+    8 9 1  1  8 9 1  1
+    9 17 18  1  37 38 18  1
+    9 18 10  1  39 18 10  1
+    10 18 19  1  10 18 19  1
+    10 19 11  1  10 19 11  1
+    11 19 20  1  11 19 20  1
+    11 20 12  1  11 20 12  1
+    12 20 21  1  12 20 21  1
+    12 21 13  1  12 21 13  1
+    13 21 22  1  13 21 22  1
+    13 22 14  1  13 22 14  1
+    14 22 23  1  14 22 23  1
+    14 23 15  1  14 23 15  1
+    15 23 24  1  15 23 24  1
+    15 24 16  1  15 24 16  1
+    16 24 17  1  16 24 17  1
+    16 17 9  1  16 17 9  1
+    25 18 17  1  40 18 41  1
+    25 19 18  1  42 19 18  1
+    25 20 19  1  43 20 19  1
+    25 21 20  1  44 21 20  1
+    25 22 21  1  45 22 21  1
+    25 23 22  1  46 23 22  1
+    25 24 23  1  47 24 23  1
+    25 17 24  1  25 17 24  1
+  tverts 48
+    0.9375 1 0.999001
+    1 0.75 0.999001
+    0.125 0.75 0.999001
+    0.25 0.75 0.999001
+    0.375 0.75 0.999001
+    0.5 0.75 0.999001
+    0.625 0.75 0.999001
+    0.75 0.75 0.999001
+    0.875 0.75 0.999001
+    1 0.5 0.999001
+    0.125 0.5 0.999001
+    0.25 0.5 0.999001
+    0.375 0.5 0.999001
+    0.5 0.5 0.999001
+    0.625 0.5 0.999001
+    0.75 0.5 0.999001
+    0.875 0.5 0.999001
+    1 0.25 0.999001
+    0.125 0.25 0.999001
+    0.25 0.25 0.999001
+    0.375 0.25 0.999001
+    0.5 0.25 0.999001
+    0.625 0.25 0.999001
+    0.75 0.25 0.999001
+    0.875 0.25 0.999001
+    0.9375 0 0.999001
+    0.0625 1 0.999001
+    0 0.75 0.999001
+    0.1875 1 0.999001
+    0.3125 1 0.999001
+    0.4375 1 0.999001
+    0.5625 1 0.999001
+    0.6875 1 0.999001
+    0.8125 1 0.999001
+    0 0.75 0.999001
+    0 0.5 0.999001
+    0 0.75 0.999001
+    0 0.5 0.999001
+    0 0.25 0.999001
+    0 0.5 0.999001
+    0.0625 0 0.999001
+    0 0.25 0.999001
+    0.1875 0 0.999001
+    0.3125 0 0.999001
+    0.4375 0 0.999001
+    0.5625 0 0.999001
+    0.6875 0 0.999001
+    0.8125 0 0.999001
+endnode
+node emitter NWNEmitter11
+  parent Sphere03
+  position 0 0 0
+  orientation 0 0 -1 -0.261799
+  wirecolor 0.691406 0.691406 0.691406
+    colorStart 0 0.968628 0.933333
+    colorEnd 0 0.968628 0.933333
+    alphaStart 0.3
+    alphaEnd 0.3
+    sizeStart 0.2
+    sizeEnd 0.2
+    sizeStart_y 0
+    sizeEnd_y 0
+    frameStart 0
+    frameEnd 15
+    birthrate 0
+    spawnType 0
+    lifeExp 0
+    mass 0
+    spread 0
+    particleRot 0
+    velocity 0
+    randvel 0
+    fps 1
+    random 0
+    inherit 1
+    inherit_local 0
+    inherit_part 0
+    inheritvel 0
+    xsize 0
+    ysize 0
+    bounce 0
+    bounce_co 0
+    loop 0
+    update Single
+    render Normal
+    Blend Lighten
+    update_sel 3
+    render_sel 1
+    blend_sel 3
+    deadspace 0
+    opacity 0.5
+    blurlength 1
+    lightningDelay 0
+    lightningRadius 0
+    lightningScale 0
+    blastRadius 0
+    blastLength 0
+    twosidedtex 0
+    p2p 0
+    p2p_sel 1
+    p2p_type Bezier
+    p2p_bezier2 0
+    p2p_bezier3 0
+    combinetime 0
+    drag 0
+    grav 0
+    threshold 0
+    texture fxpa_flare
+    xgrid 1
+    ygrid 1
+    affectedByWind 0
+    m_isTinted 0
+    renderorder 0
+    Splat 0
+endnode
+node emitter NWNEmitter12
+  parent Sphere03
+  position 0 0 0
+  orientation 0.983106 -0.129428 -0.129428 -1.58783
+  wirecolor 0.691406 0.691406 0.691406
+    colorStart 0 0.968628 0.933333
+    colorEnd 0 0.968628 0.933333
+    alphaStart 0.1
+    alphaEnd 0.1
+    sizeStart 0.03
+    sizeEnd 0
+    sizeStart_y 0
+    sizeEnd_y 0
+    frameStart 0
+    frameEnd 15
+    birthrate 9
+    spawnType 1
+    lifeExp 0.4
+    mass 0
+    spread 0
+    particleRot 0
+    velocity 0
+    randvel 0
+    fps 1
+    random 0
+    inherit 0
+    inherit_local 1
+    inherit_part 0
+    inheritvel 0
+    xsize 0
+    ysize 0
+    bounce 0
+    bounce_co 0
+    loop 0
+    update Fountain
+    render Linked
+    Blend Lighten
+    update_sel 1
+    render_sel 2
+    blend_sel 3
+    deadspace 0
+    opacity 0.5
+    blurlength 1
+    lightningDelay 0
+    lightningRadius 0
+    lightningScale 0
+    blastRadius 0
+    blastLength 0
+    twosidedtex 0
+    p2p 0
+    p2p_sel 1
+    p2p_type Bezier
+    p2p_bezier2 0
+    p2p_bezier3 0
+    combinetime 0
+    drag 0
+    grav 0
+    threshold 0
+    texture fxpa_white
+    xgrid 1
+    ygrid 1
+    affectedByWind 0
+    m_isTinted 0
+    renderorder 0
+    Splat 0
+endnode
+endmodelgeom bf_vfx_ioun_wht
+
+#MAXANIM ASCII
+newanim impact bf_vfx_ioun_wht
+  length 0.666667
+  transtime 0
+  animroot bf_vfx_ioun_wht
+node dummy bf_vfx_ioun_wht
+  parent NULL
+endnode
+node dummy Dummy09
+  parent bf_vfx_ioun_wht
+endnode
+node trimesh Sphere03
+  parent Dummy09
+    positionkey
+      0  0.0900016 1.09804 -0.0192276
+      0.166667  0.06956 0.825274 -0.309259
+      0.233333  0.0438541 0.707992 -0.394094
+      0.3  -0.0367134 0.549296 -0.472581
+      0.333333  -0.0860926 0.489454 -0.487942
+      0.4  -0.22832 0.350141 -0.485651
+      0.5  -0.44166 0.141171 -0.389018
+      0.533333  -0.478718 0.062808 -0.286994
+      0.566667  -0.489315 -0.0021389 -0.177819
+      0.6  -0.468949 -0.0378797 -0.0686446
+      0.633333  -0.396041 -0.0407755 0.0690149
+      0.666667  -0.314253 -0.00747865 0.156856
+    endlist
+    orientationkey
+      0  -1 0 0 3.75246
+      0.333333  0.956041 -0.100292 -0.27555 1.90587
+      0.533333  0.999089 0.0354454 0.0237506 0.816082
+      0.666667  0.954202 0.211541 0.211541 1.61766
+    endlist
+    alphakey
+      0  0
+      0.666667  0.9
+    endlist
+endnode
+node emitter NWNEmitter11
+  parent Sphere03
+    alphaStart 0.3
+    alphaEnd 0.3
+    birthratekey
+      0  0
+      0.333333  1
+    endlist
+endnode
+node emitter NWNEmitter12
+  parent Sphere03
+    alphaStart 0.1
+    alphaEnd 0.1
+    birthratekey
+      0  9
+      0.333333  10
+    endlist
+endnode
+doneanim impact bf_vfx_ioun_wht
+
+#MAXANIM ASCII
+newanim duration bf_vfx_ioun_wht
+  length 2
+  transtime 0
+  animroot bf_vfx_ioun_wht
+node dummy bf_vfx_ioun_wht
+  parent NULL
+endnode
+node dummy Dummy09
+  parent bf_vfx_ioun_wht
+    positionkey
+      0  0 0 0.23573
+      0.5  0.0374094 0 0.301158
+      1  0 0 0.23573
+      1.5  -0.0467638 0 0.162077
+      2  0 0 0.23573
+    endlist
+    orientationkey
+      0  -0.954202 -0.211541 -0.211541 1.61766
+      0.5  -0.473306 0.473306 -0.742942 1.86366
+      1  -0.15487 -0.698575 0.698575 3.44889
+      1.5  -0.644711 -0.644711 0.410726 2.36216
+      2  -0.954202 -0.211541 -0.211541 1.61766
+    endlist
+endnode
+node trimesh Sphere03
+  parent Dummy09
+    orientationkey
+      0  0.954202 0.211541 0.211541 1.61766
+      0.5  -0.976296 -0.21644 0 3.14159
+      1  -0.954202 -0.211541 0.211541 1.61766
+      1.5  0 0 1 0.436332
+      2  0.954202 0.211541 0.211541 1.61766
+    endlist
+    alphakey
+      0  0.9
+      0.5  0.5
+      1  0.9
+      1.5  0.5
+      2  0.9
+    endlist
+endnode
+node emitter NWNEmitter11
+  parent Sphere03
+endnode
+node emitter NWNEmitter12
+  parent Sphere03
+endnode
+doneanim duration bf_vfx_ioun_wht
+
+#MAXANIM ASCII
+newanim cessation bf_vfx_ioun_wht
+  length 0.666667
+  transtime 3
+  animroot bf_vfx_ioun_wht
+node dummy bf_vfx_ioun_wht
+  parent NULL
+endnode
+node dummy Dummy09
+  parent bf_vfx_ioun_wht
+    positionkey
+      0  0 0 0.23573
+    endlist
+    orientationkey
+      0  -0.954202 -0.211541 -0.211541 1.61766
+    endlist
+endnode
+node trimesh Sphere03
+  parent Dummy09
+    positionkey
+      0  -0.314253 -0.00747865 0.156856
+      0.266667  -0.180215 -0.031286 0.237183
+      0.333333  -0.165712 0.00352415 0.257265
+      0.4  -0.158813 0.0546391 0.277347
+      0.666667  -0.207248 0.422147 0.357674
+    endlist
+    orientationkey
+      0  0.954202 0.211541 0.211541 1.61766
+      0.166667  -0.186032 0.839136 0.511119 0.818507
+      0.333333  -0.854261 0.150629 0.497543 1.90603
+      0.5  -0.90509 -0.200654 0.374901 3.30744
+      0.666667  0.775399 0.594984 -0.211541 1.61766
+    endlist
+    alphakey
+      0  0.9
+      0.666667  0
+    endlist
+endnode
+node emitter NWNEmitter11
+  parent Sphere03
+    alphaStartkey
+      0  0.3
+      0.666667  0
+    endlist
+    alphaEndkey
+      0  0.3
+      0.666667  0
+    endlist
+endnode
+node emitter NWNEmitter12
+  parent Sphere03
+    alphaStartkey
+      0  0.1
+      0.666667  0
+    endlist
+    alphaEndkey
+      0  0.1
+      0.666667  0
+    endlist
+endnode
+event 0.166667  detonate
+doneanim cessation bf_vfx_ioun_wht
+donemodel bf_vfx_ioun_wht

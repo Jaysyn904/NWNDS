@@ -1,0 +1,157 @@
+# Exported from NWmax 0.5-beta at 3/8/2004 12:46:03 PM
+# mdl file
+#
+#NWmaxMODEL ASCII
+# model: WBlMa_fxfire
+filedependancy Unknown
+newmodel WBlMa_fxfire
+setsupermodel WBlMa_fxfire NULL
+classification Character
+setanimationscale 1.0
+#NWmaxGEOM  ASCII
+beginmodelgeom WBlMa_fxfire
+node dummy WBlMa_fxfire
+  parent NULL
+endnode
+node emitter g_WSwGs_V_Fire
+  parent WBlMa_fxfire
+  position 0.00184036 0.697969 3.01552e-005
+  orientation 0.0 -1.0 0.0 -1.5708
+  wirecolor 1.0 1.0 1.0 
+     update_sel 1
+     update Fountain
+     render_sel 1
+     render Normal
+     blend_sel 2
+     Blend Lighten
+     spawnType 0
+     iconSize 100.0
+     xSize 35.0
+     ySize 20.0
+     inherit 1
+     inherit_local 0
+     inheritvel 0
+     inherit_part 0
+     renderorder 0
+     threshold 0.0
+     combinetime 0.0
+     deadspace 0.0
+     colorStart 0.996079 1.0 0.894118 
+     colorEnd 0.886275 0.556863 0.0392157 
+     alphaStart 0.6
+     alphaEnd 0.0
+     sizeStart 0.0
+     sizeEnd 0.75
+     sizeStart_y 0.0
+     sizeEnd_y 0.0
+     birthrate 10.0
+     lifeExp 2.0
+     mass 0.0
+     spread 0.174533
+     particleRot 0.0
+     velocity 0.0
+     randvel 0.0
+     bounce_co 0.0
+     blurlength 10.0
+     loop 0
+     bounce 0
+     m_isTinted 0
+     Splat 0
+     affectedbyWind false
+     texture fxpa_flame00
+     twosidedtext 0
+     xgrid 4
+     ygrid 4
+     fps 16
+     frameStart 0
+     frameEnd 15
+     random 0
+     #chunk undefined
+     lightningDelay 0.0
+     lightningRadius 0.0
+     lightningSubDivkey 0
+     lightningScale 0.0
+     blastRadius 0.0
+     blastLength 0.0
+     opacity 0.0
+     p2p 0
+     p2p_type Bezier
+     p2p_sel 1
+     p2p_bezier2 0.0
+     p2p_bezier3 0.0
+     grav 0.0
+     drag 0.0
+     Cone_Angle_Manipulator SubAnim:Cone_Angle_Manipulator
+endnode
+node emitter g_WSwGs_V_Fire01
+  parent WBlMa_fxfire
+  position 0.00143829 0.698842 3.01552e-005
+  orientation 1.0 -5.42268e-007 0.0 -1.5708
+  wirecolor 1.0 1.0 1.0 
+     update_sel 1
+     update Fountain
+     render_sel 1
+     render Normal
+     blend_sel 2
+     Blend Lighten
+     spawnType 0
+     iconSize 100.0
+     xSize 20.0
+     ySize 35.0
+     inherit 1
+     inherit_local 0
+     inheritvel 0
+     inherit_part 0
+     renderorder 0
+     threshold 0.0
+     combinetime 0.0
+     deadspace 0.0
+     colorStart 0.996079 1.0 0.894118 
+     colorEnd 0.886275 0.556863 0.0392157 
+     alphaStart 0.6
+     alphaEnd 0.0
+     sizeStart 0.0
+     sizeEnd 0.75
+     sizeStart_y 0.0
+     sizeEnd_y 0.0
+     birthrate 10.0
+     lifeExp 2.0
+     mass 0.0
+     spread 0.174533
+     particleRot 0.0
+     velocity 0.0
+     randvel 0.0
+     bounce_co 0.0
+     blurlength 10.0
+     loop 0
+     bounce 0
+     m_isTinted 0
+     Splat 0
+     affectedbyWind false
+     texture fxpa_flame00
+     twosidedtext 0
+     xgrid 4
+     ygrid 4
+     fps 16
+     frameStart 0
+     frameEnd 15
+     random 0
+     #chunk undefined
+     lightningDelay 0.0
+     lightningRadius 0.0
+     lightningSubDivkey 0
+     lightningScale 0.0
+     blastRadius 0.0
+     blastLength 0.0
+     opacity 0.0
+     p2p 0
+     p2p_type Bezier
+     p2p_sel 1
+     p2p_bezier2 0.0
+     p2p_bezier3 0.0
+     grav 0.0
+     drag 0.0
+     Cone_Angle_Manipulator SubAnim:Cone_Angle_Manipulator
+endnode
+endmodelgeom WBlMa_fxfire
+donemodel WBlMa_fxfire

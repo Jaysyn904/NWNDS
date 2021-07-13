@@ -1,0 +1,18 @@
+# Exported from NWmax 0.8 b61 at 9/8/2019 9:28:09 AM
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: WBlMl_b_063
+#local file: Unknown
+filedependancy Unknown
+newmodel WBlMl_b_063
+setsupermodel WBlMl_b_063 NULL
+classification Character
+setanimationscale 1.0
+#NWmax GEOM  ASCII
+beginmodelgeom WBlMl_b_063
+node dummy WBlMl_b_063
+  parent NULL
+endnode
+endmodelgeom WBlMl_b_063
+donemodel WBlMl_b_063

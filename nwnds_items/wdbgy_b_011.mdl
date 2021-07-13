@@ -1,0 +1,18 @@
+# Exported from NWmax 0.8 b61 at 17/11/2013 15:55:55
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: WDbGy_b_011
+#local file: C:\Users\Pablo\Documents\3DS\Z.max
+filedependancy Z.max
+newmodel WDbGy_b_011
+setsupermodel WDbGy_b_011 NULL
+classification Character
+setanimationscale 1.0
+#NWmax GEOM  ASCII
+beginmodelgeom WDbGy_b_011
+node dummy WDbGy_b_011
+  parent NULL
+endnode
+endmodelgeom WDbGy_b_011
+donemodel WDbGy_b_011

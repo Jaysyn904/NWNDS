@@ -1,0 +1,46 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: timerift
+filedependancy Unknown
+newmodel timerift
+setsupermodel timerift NULL
+classification Character
+setanimationscale 0.0
+#MAXGEOM  ASCII
+beginmodelgeom timerift
+node dummy timerift
+  parent NULL
+endnode
+node dummy rootdummy
+  parent timerift
+  position 0 0 0.747237
+  orientation 0 0 0 0
+  wirecolor 0.894531 0.894531 0.894531
+endnode
+node trimesh blood
+  parent rootdummy
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.777344 0.777344 0.777344
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 1
+  bitmap timerift
+  verts 4
+    0 0.606621 1.1253
+    0 0.606621 0.00540464
+    0 -0.595084 1.1253
+    0 -0.595084 0.00540464
+  faces 2
+    0 1 2  1  0 1 2  0
+    3 2 1  1  3 2 1  0
+  tverts 4
+    1 1 0
+    1 0 0
+    0 1 0
+    0 0 0
+endnode
+endmodelgeom timerift
+donemodel timerift

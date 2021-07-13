@@ -1,0 +1,18 @@
+# Exported from NWmax 0.8 b61 at 11/21/2016 1:49:21 PM
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: NW2_Wallpost02
+#local file: E:\gmax\Scenes\NWN2 Buildings\NW2_Wallpost02.gmax
+filedependancy NW2_Wallpost02.gmax
+newmodel NW2_Wallpost02
+setsupermodel NW2_Wallpost02 NULL
+classification Character
+setanimationscale 1.0
+#NWmax GEOM  ASCII
+beginmodelgeom NW2_Wallpost02
+node dummy NW2_Wallpost02
+  parent NULL
+endnode
+endmodelgeom NW2_Wallpost02
+donemodel NW2_Wallpost02

@@ -1,0 +1,18 @@
+# Exported from NWmax 0.8 b61 at 11/21/2016 1:04:01 PM
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: NW2_WallGate01
+#local file: E:\gmax\Scenes\NWN2 Buildings\NW2_WallGate01.gmax
+filedependancy NW2_WallGate01.gmax
+newmodel NW2_WallGate01
+setsupermodel NW2_WallGate01 NULL
+classification Character
+setanimationscale 1.0
+#NWmax GEOM  ASCII
+beginmodelgeom NW2_WallGate01
+node dummy NW2_WallGate01
+  parent NULL
+endnode
+endmodelgeom NW2_WallGate01
+donemodel NW2_WallGate01

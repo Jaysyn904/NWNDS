@@ -1,0 +1,118 @@
+#Exported from 3ds max by MDL Import Plug-in Suite
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model TCN01_U16_01
+filedependancy Unknown
+newmodel TCN01_U16_01
+setsupermodel TCN01_U16_01 NULL
+classification Tile
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom TCN01_U16_01
+node dummy TCN01_U16_01
+  parent NULL
+endnode
+node trimesh Mesh76
+  parent TCN01_U16_01
+  position 2.95669 1.06385 2.18083
+  orientation 0 0 0 0
+  wirecolor 0.527344 0.527344 0.527344
+  ambient 0 0 0
+  diffuse 0 0 0
+  specular 0 0 0
+  shininess 1
+  bitmap TCN01_Black
+  verts 8
+    0 -2.03 -0.67
+    0 0.17 -0.67
+    0 0.17 1.33
+    -3 0.17 -0.67
+    -3 0.17 1.15
+    -6.5 0.17 -0.67
+    -6.5 0.17 1.33
+    -6.5 -2.03 -0.67
+  faces 6
+    0 1 2  1  0 0 0  0
+    3 4 2  1  0 0 0  0
+    2 1 3  1  0 0 0  0
+    5 6 4  1  0 0 0  0
+    4 3 5  1  0 0 0  0
+    6 5 7  1  0 0 0  0
+  tverts 1
+    0 0 0
+endnode
+node trimesh Mesh77
+  parent TCN01_U16_01
+  position 2.45669 1.18385 1.51083
+  orientation 0 0 0 0
+  wirecolor 0.898438 0.898438 0.898438
+  ambient 0.560784 0.466667 0.431373
+  diffuse 0.560784 0.466667 0.431373
+  specular 0 0 0
+  shininess 1
+  bitmap TCN01_roof11
+  verts 6
+    -6 -2.15 0
+    -2.5 -2.15 0
+    -6 0.05 2
+    -2.5 0.05 1.82
+    0.5 -2.15 0
+    0.5 0.05 2
+  faces 4
+    0 1 2  1  0 1 2  0
+    3 2 1  1  3 2 1  0
+    1 4 3  1  1 4 3  0
+    5 3 4  1  5 3 4  0
+  tverts 6
+    -0.3125 0.25 0
+    0.5625 0.25 0
+    -0.3125 0.75 0
+    0.5625 0.75 0
+    1.3125 0.25 0
+    1.3125 0.75 0
+endnode
+node trimesh Object94
+  parent TCN01_U16_01
+  position 4.06669 4.46385 1.51083
+  orientation 0 0 0 0
+  wirecolor 0.898438 0.898438 0.898438
+  ambient 0 0 0
+  diffuse 0 0 0
+  specular 0 0 0
+  shininess 1
+  bitmap TCN01_Black
+  verts 15
+    -1.61 -4.53 0
+    -1.61 -5.03 0
+    -1.11 -5.03 0
+    -4.71 -5.03 0
+    -4.01 -5.03 0
+    -4.01 -4.53 0
+    -4.71 -4.53 0
+    -7.61 -5.03 0
+    -7.21 -5.03 0
+    -7.21 -4.53 0
+    -7.61 -4.23 0
+    -5.61 -4.23 0
+    -5.61 -3.23 0
+    -1.11 -3.23 0
+    -1.11 -3.98 0
+  faces 13
+    0 1 2  1  0 0 0  0
+    3 4 5  1  0 0 0  0
+    6 3 5  1  0 0 0  0
+    7 8 9  1  0 0 0  0
+    10 7 9  1  0 0 0  0
+    11 9 6  1  0 0 0  0
+    6 12 11  1  0 0 0  0
+    5 12 6  1  0 0 0  0
+    0 12 5  1  0 0 0  0
+    13 12 0  1  0 0 0  0
+    14 0 2  1  0 0 0  0
+    13 0 14  1  0 0 0  0
+    11 10 9  1  0 0 0  0
+  tverts 1
+    0 0 0
+endnode
+endmodelgeom TCN01_U16_01
+donemodel TCN01_U16_01

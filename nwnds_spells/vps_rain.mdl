@@ -1,0 +1,133 @@
+# Exported from NWmax 0.8 b50 at 2/25/2006 1:10:16 AM
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: vps_rain
+#local file: Unknown
+filedependancy Unknown
+newmodel vps_rain
+setsupermodel vps_rain NULL
+classification Effect
+#NWmax GEOM  ASCII
+beginmodelgeom vps_rain
+node dummy vps_rain
+  parent NULL
+endnode
+node emitter OmenEmitter01
+  parent vps_rain
+  position 0.0 0.0 9.49105
+  orientation 1.0 0.0 0.0 -3.1416
+  wirecolor 1.0 1.0 1.0 
+  update_sel 1
+  update Fountain
+  render_sel 5
+  render Aligned_to_World_Z
+  blend_sel 3
+  Blend Lighten
+  spawnType 0
+  xSize 500.0
+  ySize 500.0
+  inherit 0
+  inherit_local 0
+  inheritvel 0
+  inherit_part 0
+  renderorder 0
+  threshold 0.0
+  combinetime 0.0
+  deadspace 0.0
+  opacity 0.5
+  colorStart 0.262745 0.643137 1.0 
+  colorEnd 0.0 0.0 0.0 
+  alphaStart 1.0
+  alphaEnd 1.0
+  sizeStart 0.24
+  sizeEnd 0.2
+  sizeStart_y 0.0
+  sizeEnd_y 0.0
+  birthrate 10
+  lifeExp 0.5
+  mass 0.0
+  spread 0.0
+  particleRot 0.0
+  velocity 30.0
+  randvel 5.0
+  bounce_co 0.0
+  blurlength 10.0
+  loop 0
+  bounce 0
+  m_isTinted 0
+  splat 0
+  affectedByWind false
+  texture fxpa_rain01
+  twosidedtex 0
+  xgrid 1
+  ygrid 1
+  fps 0
+  frameStart 0
+  frameEnd 0
+  random 0
+  lightningDelay 0.0
+  lightningRadius 0.0
+  lightningSubDiv 0
+  lightningScale 0.0
+  blastRadius 0.0
+  blastLength 0.0
+  p2p 0
+  p2p_type Bezier
+  p2p_sel 1
+  p2p_bezier2 0.0
+  p2p_bezier3 0.0
+  grav 0.0
+  drag 0.0
+endnode
+endmodelgeom vps_rain
+#NWmax ANIM ASCII
+newanim impact vps_rain
+  length 0.3
+  transtime 0.0
+  animroot vps_rain
+    node dummy vps_rain
+        parent NULL
+    endnode
+    node emitter OmenEmitter01
+        parent vps_rain
+        birthratekey
+            0.0 10 
+            0.3 10 
+        endlist
+    endnode
+doneanim impact vps_rain
+#NWmax ANIM ASCII
+newanim duration vps_rain
+  length 0.333333
+  transtime 0.0
+  animroot vps_rain
+    node dummy vps_rain
+        parent NULL
+    endnode
+    node emitter OmenEmitter01
+        parent vps_rain
+        birthratekey
+            0.0 10 
+            0.333333 10 
+        endlist
+    endnode
+doneanim duration vps_rain
+#NWmax ANIM ASCII
+newanim cessation vps_rain
+  length 0.166667
+  transtime 0.0
+  animroot vps_rain
+    node dummy vps_rain
+        parent NULL
+    endnode
+    node emitter OmenEmitter01
+        parent vps_rain
+        birthratekey
+            0.0 10 
+            0.0333333 10 
+            0.166667 0 
+        endlist
+    endnode
+doneanim cessation vps_rain
+donemodel vps_rain

@@ -1,0 +1,18 @@
+# Exported from NWmax 0.8 b61 at 23.09.2016 9:06:48
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: WSwDg_b_172
+#local file: Unknown
+filedependancy Unknown
+newmodel WSwDg_b_172
+setsupermodel WSwDg_b_172 NULL
+classification Character
+setanimationscale 1.0
+#NWmax GEOM  ASCII
+beginmodelgeom WSwDg_b_172
+node dummy WSwDg_b_172
+  parent NULL
+endnode
+endmodelgeom WSwDg_b_172
+donemodel WSwDg_b_172

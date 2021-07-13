@@ -1,0 +1,18 @@
+# Exported from NWmax 0.8 b61 at 06/11/2013 13:01:39
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: WAxBt_b_092
+#local file: C:\Users\Pablo\Documents\3DS\Z.max
+filedependancy Z.max
+newmodel WAxBt_b_092
+setsupermodel WAxBt_b_092 NULL
+classification Character
+setanimationscale 1.0
+#NWmax GEOM  ASCII
+beginmodelgeom WAxBt_b_092
+node dummy WAxBt_b_092
+  parent NULL
+endnode
+endmodelgeom WAxBt_b_092
+donemodel WAxBt_b_092

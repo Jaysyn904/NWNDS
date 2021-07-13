@@ -1,0 +1,74 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: wblcl_m_063
+filedependancy femur.max
+newmodel wblcl_m_063
+setsupermodel wblcl_m_063 NULL
+classification Tile
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom wblcl_m_063
+node dummy wblcl_m_063
+  parent NULL
+endnode
+node trimesh Femur_M
+  parent wblcl_m_063
+  position 0.0341622 -0.157143 -0.0117601
+  orientation -0.562169 -0.592403 0.577083 -2.04886
+  wirecolor 0.5625 0.5625 0.5625
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  bitmap w_bone_tex3
+  render 1
+  Shadow 1
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 9
+    -0.0422738 -0.0355149 -0.0923793
+    -0.0295841 -0.0415769 -0.300065
+    0.00223465 -0.0676874 -0.303932
+    0.0121318 -0.051087 -0.096919
+    -0.00771271 -0.0231208 -0.309873
+    -0.00694582 -0.0143224 -0.0979186
+    -0.0382487 -0.0542203 -0.464544
+    0.000761274 -0.104323 -0.468975
+    -0.0027566 -0.0280787 -0.473845
+  faces 12
+    0 1 2  1  4 5 6  0
+    0 2 3  1  4 6 7  0
+    3 2 4  1  7 6 8  0
+    3 4 5  1  7 8 9  0
+    5 4 1  1  9 8 5  0
+    4 6 1  1  8 10 5  0
+    4 8 6  1  8 16 10  0
+    2 8 4  1  6 16 8  0
+    2 7 8  1  6 15 16  0
+    1 7 2  1  5 15 6  0
+    1 6 7  1  5 10 15  0
+    5 1 0  1  9 5 4  0
+  tverts 17
+    0.428199 0.541034 0.9995
+    -0.0481202 0.659376 0.923177
+    0.831559 0.18482 0.924537
+    0.714889 0.817668 0.951734
+    0.111509 0.643085 0.852779
+    0.249791 0.511619 0.472089
+    0.545775 0.125633 0.464142
+    0.723607 0.195717 0.843448
+    0.606791 0.554475 0.451415
+    0.638801 0.613139 0.841006
+    0.100472 0.465201 0.16893
+    0.403411 0.375631 0.000499517
+    0.641712 -0.116026 0.0396256
+    -0.00561857 0.524857 0.0889674
+    0.678392 0.497977 0.0923591
+    0.39739 -0.140317 0.159822
+    0.632136 0.43882 0.149812
+endnode
+endmodelgeom wblcl_m_063
+donemodel wblcl_m_063

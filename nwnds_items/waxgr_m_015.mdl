@@ -1,0 +1,55 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: WAxGr_m_015
+filedependancy Grerataxe.max
+newmodel WAxGr_m_015
+setsupermodel WAxGr_m_015 NULL
+classification Character
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom WAxGr_m_015
+node dummy WAxGr_m_015
+  parent NULL
+endnode
+node trimesh WAxGr_m_015g
+  parent WAxGr_m_015
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.691406 0.691406 0.691406
+  ambient 0.6875 0.101563 0.101563
+  diffuse 0.6875 0.101563 0.101563
+  specular 0 0 0
+  shininess 1
+  bitmap NULL
+  render 0
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 8
+    0.05 0.05 0
+    -0.05 0.05 0
+    0.05 -0.05 0
+    -0.05 -0.05 0
+    0.05 0.05 0.1
+    -0.05 0.05 0.1
+    0.05 -0.05 0.1
+    -0.05 -0.05 0.1
+  faces 12
+    0 2 3  2  0 0 0  1
+    3 1 0  2  0 0 0  1
+    4 5 7  4  0 0 0  0
+    7 6 4  4  0 0 0  0
+    0 1 5  8  0 0 0  4
+    5 4 0  8  0 0 0  4
+    1 3 7  16  0 0 0  3
+    7 5 1  16  0 0 0  3
+    3 2 6  32  0 0 0  5
+    6 7 3  32  0 0 0  5
+    2 0 4  64  0 0 0  2
+    4 6 2  64  0 0 0  2
+endnode
+endmodelgeom WAxGr_m_015
+donemodel WAxGr_m_015

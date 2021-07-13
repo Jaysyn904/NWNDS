@@ -1,0 +1,10 @@
+# Exported from NWmax 0.8 c00 at 15/11/2019 22:35:04
+# pwk file
+#
+#NWmax PWKMESH  ASCII
+node dummy g01_pwk_use01
+  parent ak_frog04_pwk
+  position 0.0 0.0 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.0235294 0.529412 0.443137 
+endnode

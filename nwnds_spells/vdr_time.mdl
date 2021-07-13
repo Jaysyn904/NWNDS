@@ -1,0 +1,1817 @@
+#MAXMODEL ASCII
+# model: vdr_time
+filedependancy vdr_time.max
+newmodel vdr_time
+setsupermodel vdr_time NULL
+classification effect
+setanimationscale 1
+#MAXGEOM  ASCII
+beginmodelgeom vdr_time
+node dummy vdr_time
+  parent NULL
+  #part-number 0
+endnode
+node emitter OuterRing
+  parent vdr_time
+  #part-number 1
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 1
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Single
+  render Billboard_to_World_Z
+  blend Lighten
+  texture fxpa_Symbl_001
+  xgrid 2
+  ygrid 2
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0 0 0.587274015
+  orientation 0 0 0 0
+  colorStart 0 0.713725984 0.843137026
+  colorEnd 0 0.713725984 0.843137026
+  alphaStart 0
+  alphaEnd 0
+  sizeStart 10.5
+  sizeEnd 10.5
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 1
+  frameEnd 1
+  birthrate 1
+  lifeExp 4
+  mass 0
+  spread 0
+  particleRot -0.0500000007
+  velocity 0
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node emitter OuterRing01
+  parent vdr_time
+  #part-number 2
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 1
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Single
+  render Billboard_to_World_Z
+  blend Lighten
+  texture fxpa_Symbl_001
+  xgrid 2
+  ygrid 2
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0 0 0.251006007
+  orientation 0 0 0 0
+  colorStart 0 0.713725984 0.843137026
+  colorEnd 0 0.713725984 0.843137026
+  alphaStart 0
+  alphaEnd 0
+  sizeStart 8.5
+  sizeEnd 8.5
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 2
+  frameEnd 2
+  birthrate 1
+  lifeExp 4
+  mass 0
+  spread 0
+  particleRot -0.100000001
+  velocity 0
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node emitter OuterRing02
+  parent vdr_time
+  #part-number 3
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 1
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Single
+  render Billboard_to_World_Z
+  blend Lighten
+  texture fxpa_Symbl_001
+  xgrid 2
+  ygrid 2
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0 0 0.414525002
+  orientation 0 0 0 0
+  colorStart 0 0.713725984 0.843137026
+  colorEnd 0 0.713725984 0.843137026
+  alphaStart 0
+  alphaEnd 0
+  sizeStart 7
+  sizeEnd 7
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 3
+  frameEnd 3
+  birthrate 1
+  lifeExp 4
+  mass 0
+  spread 0
+  particleRot 0
+  velocity 0
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node emitter OuterRing03
+  parent vdr_time
+  #part-number 4
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 1
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Single
+  render Billboard_to_World_Z
+  blend Lighten
+  texture fxpa_Symbl_001
+  xgrid 2
+  ygrid 2
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0 0 0.251830012
+  orientation 0 0 0 0
+  colorStart 0 0.713725984 0.843137026
+  colorEnd 0 0.713725984 0.843137026
+  alphaStart 0
+  alphaEnd 0
+  sizeStart 4
+  sizeEnd 4
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 0
+  birthrate 1
+  lifeExp 4
+  mass 0
+  spread 0
+  particleRot -0.0299999993
+  velocity 0
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node emitter innerring
+  parent vdr_time
+  #part-number 5
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 1
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Single
+  render Billboard_to_Local_Z
+  blend Lighten
+  texture fxpa_Symbl_001
+  xgrid 2
+  ygrid 2
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 1.5 1.5 0.654910982
+  orientation 0.0893476456 -0.215704098 -0.972362459 -0.805411994
+  colorStart 0 0.713725984 0.843137026
+  colorEnd 0 0.713725984 0.843137026
+  alphaStart -0.100000001
+  alphaEnd -0.100000001
+  sizeStart 6
+  sizeEnd 6
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 1
+  frameEnd 1
+  birthrate 1
+  lifeExp 4
+  mass 0
+  spread 0
+  particleRot -1
+  velocity 0
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node emitter innerring01
+  parent vdr_time
+  #part-number 6
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 1
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Single
+  render Billboard_to_Local_Z
+  blend Lighten
+  texture fxpa_Symbl_001
+  xgrid 2
+  ygrid 2
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position -1.5 -1.5 0.654910982
+  orientation -0.0893476456 0.215704098 -0.972362459 -0.805411994
+  colorStart 0 0.713725984 0.843137026
+  colorEnd 0 0.713725984 0.843137026
+  alphaStart -0.200000003
+  alphaEnd -0.200000003
+  sizeStart 6
+  sizeEnd 6
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 1
+  frameEnd 1
+  birthrate 1
+  lifeExp 4
+  mass 0
+  spread 0
+  particleRot 1
+  velocity 0
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node emitter innerring02
+  parent vdr_time
+  #part-number 7
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 1
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Single
+  render Billboard_to_Local_Z
+  blend Lighten
+  texture fxpa_Symbl_001
+  xgrid 2
+  ygrid 2
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position -1.5 1.5 0.654910982
+  orientation 0.215704098 0.0893476456 -0.972362459 -0.805411994
+  colorStart 0 0.713725984 0.843137026
+  colorEnd 0 0.713725984 0.843137026
+  alphaStart -0.100000001
+  alphaEnd -0.100000001
+  sizeStart 6
+  sizeEnd 6
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 1
+  frameEnd 1
+  birthrate 1
+  lifeExp 4
+  mass 0
+  spread 0
+  particleRot -1
+  velocity 0
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node emitter innerring03
+  parent vdr_time
+  #part-number 8
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 1
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Single
+  render Billboard_to_Local_Z
+  blend Lighten
+  texture fxpa_Symbl_001
+  xgrid 2
+  ygrid 2
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 1.5 -1.5 0.654910982
+  orientation -0.215704098 -0.0893476456 -0.972362459 -0.805411994
+  colorStart 0 0.713725984 0.843137026
+  colorEnd 0 0.713725984 0.843137026
+  alphaStart -0.100000001
+  alphaEnd -0.100000001
+  sizeStart 6
+  sizeEnd 6
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 1
+  frameEnd 1
+  birthrate 1
+  lifeExp 4
+  mass 0
+  spread 0
+  particleRot 1
+  velocity 0
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node emitter handbal
+  parent vdr_time
+  #part-number 9
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 1
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Fountain
+  render Normal
+  blend Lighten
+  texture fxpa_flare
+  xgrid 1
+  ygrid 1
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0 -0.00481938012 2.36830997
+  orientation 0 0 0 0
+  colorStart 0.788235009 0.886274993 1
+  colorEnd 0.223528996 0.588235021 1
+  alphaStart 1
+  alphaEnd 1
+  sizeStart 0.600000024
+  sizeEnd 0
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 0
+  birthrate 100
+  lifeExp 0.5
+  mass 0
+  spread 6.28318977
+  particleRot 0
+  velocity 1
+  randvel 0.5
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node dummy Dummy02
+  parent handbal
+  #part-number 10
+  position 0 0 0
+  orientation 0 -1 0 -2.35618997
+endnode
+node emitter dom1
+  parent Dummy02
+  #part-number 11
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 1
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Single
+  render Billboard_to_Local_Z
+  blend Lighten
+  texture fxpa_Symbl_001
+  xgrid 2
+  ygrid 2
+  loop 0
+  deadspace 0
+  twosidedtex 1
+  blastRadius 0
+  blastLength 0
+  position -0.00235722004 0 -0.00235713995
+  orientation 0 -1 0 -3.15904999
+  colorStart 0.76078397 0.92156899 0.949020028
+  colorEnd 0.76078397 0.92156899 0.949020028
+  alphaStart 0
+  alphaEnd 0
+  sizeStart 2
+  sizeEnd 2
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 1
+  frameEnd 1
+  birthrate 1
+  lifeExp 2
+  mass 0
+  spread 0
+  particleRot 0
+  velocity 0
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node dummy Dummy01
+  parent handbal
+  #part-number 12
+  position 0 0 0
+  orientation 0 1 0 -0.785398006
+endnode
+node dummy Dummy04
+  parent handbal
+  #part-number 13
+  position 0 -0.00166677998 0.00166672003
+  orientation 0.840551734 0.383061886 -0.383061886 -1.74363005
+endnode
+node emitter dom2
+  parent Dummy04
+  #part-number 14
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 1
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Single
+  render Billboard_to_Local_Z
+  blend Lighten
+  texture fxpa_Symbl_001
+  xgrid 2
+  ygrid 2
+  loop 0
+  deadspace 0
+  twosidedtex 1
+  blastRadius 0
+  blastLength 0
+  position 0.00235718 0 0.00235718
+  orientation 0.694658041 0 0.719340086 -3.14159012
+  colorStart 0.745097995 0.929412007 0.960784018
+  colorEnd 0.745097995 0.929412007 0.960784018
+  alphaStart 0
+  alphaEnd 0
+  sizeStart 2
+  sizeEnd 2
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 1
+  frameEnd 1
+  birthrate 1
+  lifeExp 2
+  mass 0
+  spread 0
+  particleRot 0
+  velocity 0
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node dummy Dummy03
+  parent handbal
+  #part-number 15
+  position 0 -0.00166678999 0.00166672003
+  orientation -0.306715071 0.673025191 -0.673025191 -3.73679996
+endnode
+node emitter dom4
+  parent handbal
+  #part-number 16
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 1
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Single
+  render Billboard_to_Local_Z
+  blend Lighten
+  texture fxpa_Symbl_001
+  xgrid 2
+  ygrid 2
+  loop 0
+  deadspace 0
+  twosidedtex 1
+  blastRadius 0
+  blastLength 0
+  position -0.000232492996 0.00165865 0.00166672003
+  orientation 0.829023242 0.395424098 -0.395424098 -1.75721002
+  colorStart 0.729412019 0.909803987 0.941177011
+  colorEnd 0.729412019 0.909803987 0.941177011
+  alphaStart 0
+  alphaEnd 0
+  sizeStart 2.5
+  sizeEnd 2.5
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 1
+  frameEnd 1
+  birthrate 1
+  lifeExp 2
+  mass 0
+  spread 0
+  particleRot 1
+  velocity 0
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node emitter dom3
+  parent handbal
+  #part-number 17
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 1
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Single
+  render Billboard_to_World_Z
+  blend Lighten
+  texture fxpa_Symbl_001
+  xgrid 2
+  ygrid 2
+  loop 0
+  deadspace 0
+  twosidedtex 1
+  blastRadius 0
+  blastLength 0
+  position 0 0 0.00333358999
+  orientation -0.382683754 0 -0.923879385 -3.14159012
+  colorStart 0.729412019 0.929412007 0.964706004
+  colorEnd 0.729412019 0.929412007 0.964706004
+  alphaStart 0
+  alphaEnd 0
+  sizeStart 2.5
+  sizeEnd 2.5
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 1
+  frameEnd 1
+  birthrate 1
+  lifeExp 2
+  mass 0
+  spread 0
+  particleRot 1
+  velocity 0
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node emitter STAR
+  parent vdr_time
+  #part-number 18
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 1
+  inherit 0
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 6
+  spawntype 0
+  update Single
+  render Billboard_to_World_Z
+  blend Lighten
+  texture fxpa_StarBnW
+  xgrid 2
+  ygrid 2
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0 0 2.36362004
+  orientation 0 0 0 0
+  colorStart 1 1 1
+  colorEnd 1 1 1
+  alphaStart 1
+  alphaEnd 1
+  sizeStart 2
+  sizeEnd 2
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 3
+  birthrate 1
+  lifeExp 0.100000001
+  mass 0
+  spread 0
+  particleRot 0
+  velocity 0
+  randvel 0
+  fps 30
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+endmodelgeom vdr_time
+
+#MAXANIM ASCII
+newanim impact vdr_time
+  length 4.96667004
+  transtime 0
+  animroot vdr_time
+node dummy vdr_time
+  parent NULL
+  #part-number 0
+endnode
+node emitter OuterRing
+  parent vdr_time
+  #part-number 1
+  alphaStartkey 6
+    0.400000006 0
+    0.800000012 0.600000024
+    0.833333015 0.600000024
+    4.23332977 0.600000024
+    4.26667023 0.600000024
+    4.93333006 0.600000024
+  alphaEndkey 6
+    0.400000006 0
+    0.800000012 0.600000024
+    0.833333015 0.600000024
+    4.23332977 0.600000024
+    4.26667023 0.600000024
+    4.93333006 0.600000024
+endnode
+node emitter OuterRing01
+  parent vdr_time
+  #part-number 2
+  alphaStartkey 6
+    0.333332986 0
+    0.666666985 0.449999988
+    0.699999988 0.449999988
+    4.23332977 0.449999988
+    4.26667023 0.449999988
+    4.93333006 0.449999988
+  alphaEndkey 6
+    0.333332986 0
+    0.666666985 0.449999988
+    0.699999988 0.449999988
+    4.23332977 0.449999988
+    4.26667023 0.449999988
+    4.93333006 0.449999988
+endnode
+node emitter OuterRing02
+  parent vdr_time
+  #part-number 3
+  alphaStartkey 6
+    0.300000012 0
+    0.600000024 0.5
+    0.633333027 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0.5
+  alphaEndkey 6
+    0.300000012 0
+    0.600000024 0.5
+    0.633333027 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0.5
+endnode
+node emitter OuterRing03
+  parent vdr_time
+  #part-number 4
+  alphaStartkey 6
+    0.200000003 0
+    0.600000024 0.600000024
+    0.633333027 0.600000024
+    4.23332977 0.600000024
+    4.26667023 0.600000024
+    4.93333006 0.600000024
+  alphaEndkey 6
+    0.200000003 0
+    0.600000024 0.600000024
+    0.633333027 0.600000024
+    4.23332977 0.600000024
+    4.26667023 0.600000024
+    4.93333006 0.600000024
+endnode
+node emitter innerring
+  parent vdr_time
+  #part-number 5
+  alphaStartkey 6
+    0.466666996 -0.100000001
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0.5
+  alphaEndkey 6
+    0.466666996 -0.100000001
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0.5
+endnode
+node emitter innerring01
+  parent vdr_time
+  #part-number 6
+  alphaStartkey 6
+    0.466666996 -0.200000003
+    0.899999976 0.400000006
+    0.93333298 0.400000006
+    4.23332977 0.400000006
+    4.26667023 0.400000006
+    4.93333006 0.400000006
+  alphaEndkey 6
+    0.466666996 -0.200000003
+    0.899999976 0.400000006
+    0.93333298 0.400000006
+    4.23332977 0.400000006
+    4.26667023 0.400000006
+    4.93333006 0.400000006
+endnode
+node emitter innerring02
+  parent vdr_time
+  #part-number 7
+  alphaStartkey 6
+    0.466666996 -0.100000001
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0.5
+  alphaEndkey 6
+    0.466666996 -0.100000001
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0.5
+endnode
+node emitter innerring03
+  parent vdr_time
+  #part-number 8
+  alphaStartkey 6
+    0.466666996 -0.100000001
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0.5
+  alphaEndkey 6
+    0.466666996 -0.100000001
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0.5
+endnode
+node emitter handbal
+  parent vdr_time
+  #part-number 9
+  birthratekey 8
+    0 100
+    0.0333333015 100
+    3.0999999 100
+    3.13333011 100
+    3.5 150
+    3.76666999 100
+    3.79999995 100
+    3.86666989 100
+  velocitykey 7
+    0 1
+    0.0333333015 1
+    3.0999999 1
+    3.13333011 1
+    3.29999995 2
+    3.5 2.5
+    3.79999995 2.5
+endnode
+node dummy Dummy02
+  parent handbal
+  #part-number 10
+  orientationkey 9
+    0 0 -1 0 -2.35618997
+    0.620834 -0.678598225 -0.678598225 0.281085104 -2.59355998
+    1.24167 -0.923879743 0 0.38268292 -3.14159012
+    1.8625 -0.678598225 0.678598225 0.281085104 -3.68962002
+    2.48334 -0.0436123125 0.998885214 0.0180648044 -3.92619991
+    3.10417 0.678598225 0.678598225 -0.281085104 -3.68962002
+    3.725 0.923879743 0 -0.38268292 -3.14159012
+    4.34584 0.678598225 -0.678598225 -0.281085104 -2.59355998
+    4.96667004 0 -1 0 -2.35618997
+endnode
+node emitter dom1
+  parent Dummy02
+  #part-number 11
+  alphaStartkey 5
+    0 0
+    0.266667008 0.699999988
+    0.300000012 0.699999988
+    3.46667004 0.699999988
+    4.13332987 0.699999988
+  alphaEndkey 5
+    0 0
+    0.266667008 0.699999988
+    0.300000012 0.699999988
+    3.46667004 0.699999988
+    4.13332987 0.699999988
+endnode
+node dummy Dummy01
+  parent handbal
+  #part-number 12
+  orientationkey 9
+    0 0 1 0 -0.785398006
+    0.620834 -0.357407004 0.357407004 -0.862855971 -1.71776998
+    1.24167 -0.38268292 0 -0.923879743 -3.14159012
+    1.8625 -0.357407004 -0.357407004 -0.862855971 -4.56541014
+    2.48334 -0.0433795154 -0.993554354 -0.104728036 -5.49319983
+    3.10417 0.357407004 -0.357407004 0.862855971 -4.56541014
+    3.725 0.38268292 0 0.923879743 -3.14159012
+    4.34584 0.357407004 0.357407004 0.862855971 -1.71776998
+    4.96667004 0 1 0 -0.785398006
+endnode
+node dummy Dummy04
+  parent handbal
+  #part-number 13
+  orientationkey 9
+    0 0.840551734 0.383061886 -0.383061886 -1.74363005
+    0.620834 0.360420853 -0.33609888 -0.870134652 -1.77827001
+    1.24167 -0.255594999 -0.683619976 -0.683619022 -2.64111996
+    1.8625 -0.656313062 -0.703810036 -0.271854043 -3.70892
+    2.48334 -0.843449652 -0.415309817 0.34074989 -4.50992012
+    3.10417 -0.360421717 0.33609876 0.870134354 -4.50492001
+    3.725 0.255594999 0.683619916 0.683619022 -3.64207006
+    4.34584 0.656313062 0.703809977 0.271854043 -2.57426
+    4.96667004 0.840551734 0.383061886 -0.383061886 -1.74363005
+endnode
+node emitter dom2
+  parent Dummy04
+  #part-number 14
+  alphaStartkey 5
+    0 0
+    0.266667008 0.699999988
+    0.300000012 0.699999988
+    3.46667004 0.699999988
+    4.13332987 0.699999988
+  alphaEndkey 5
+    0 0
+    0.266667008 0.699999988
+    0.300000012 0.699999988
+    3.46667004 0.699999988
+    4.13332987 0.699999988
+endnode
+node dummy Dummy03
+  parent handbal
+  #part-number 15
+  orientationkey 9
+    0 -0.306715071 0.673025191 -0.673025191 -3.73679996
+    0.620834 0.35403198 0.379651964 -0.854708016 -4.62537003
+    1.24167 0.884028614 -0.330524862 -0.330524862 -4.58942986
+    1.8625 0.699941874 -0.652705848 0.289924949 -3.66968989
+    2.48334 0.333687931 -0.677682877 0.655284882 -2.60713005
+    3.10417 -0.35403198 -0.379651964 0.854707956 -1.65780997
+    3.725 -0.884028614 0.330524862 0.330524862 -1.69375002
+    4.34584 -0.699941814 0.652705848 -0.289924949 -2.61350012
+    4.96667004 -0.306715071 0.673025191 -0.673025191 -3.73679996
+endnode
+node emitter dom4
+  parent handbal
+  #part-number 16
+  alphaStartkey 5
+    0 0
+    0.266667008 0.899999976
+    0.300000012 0.899999976
+    3.63333011 0.899999976
+    4.30000019 0.899999976
+  alphaEndkey 5
+    0 0
+    0.266667008 0.899999976
+    0.300000012 0.899999976
+    3.63333011 0.899999976
+    4.30000019 0.899999976
+endnode
+node emitter dom3
+  parent handbal
+  #part-number 17
+  alphaStartkey 5
+    0 0
+    0.266667008 0.899999976
+    0.300000012 0.899999976
+    3.63333011 0.899999976
+    4.30000019 0.899999976
+  alphaEndkey 5
+    0 0
+    0.266667008 0.899999976
+    0.300000012 0.899999976
+    3.63333011 0.899999976
+    4.30000019 0.899999976
+endnode
+node emitter STAR
+  parent vdr_time
+  #part-number 18
+  sizeStartkey 3
+    0 2
+    0.266667008 20
+    0.400000006 2
+  sizeEndkey 3
+    0 2
+    0.266667008 20
+    0.400000006 2
+endnode
+doneanim impact vdr_time
+
+newanim duration vdr_time
+  length 4.96667004
+  transtime 0
+  animroot vdr_time
+node dummy vdr_time
+  parent NULL
+  #part-number 0
+endnode
+node emitter OuterRing
+  parent vdr_time
+  #part-number 1
+  alphaStartkey 6
+    0.400000006 0.600000024
+    0.800000012 0.600000024
+    0.833333015 0.600000024
+    4.23332977 0.600000024
+    4.26667023 0.600000024
+    4.93333006 0.600000024
+  alphaEndkey 6
+    0.400000006 0.600000024
+    0.800000012 0.600000024
+    0.833333015 0.600000024
+    4.23332977 0.600000024
+    4.26667023 0.600000024
+    4.93333006 0.600000024
+endnode
+node emitter OuterRing01
+  parent vdr_time
+  #part-number 2
+  alphaStartkey 6
+    0.333332986 0.449999988
+    0.666666985 0.449999988
+    0.699999988 0.449999988
+    4.23332977 0.449999988
+    4.26667023 0.449999988
+    4.93333006 0.449999988
+  alphaEndkey 6
+    0.333332986 0.449999988
+    0.666666985 0.449999988
+    0.699999988 0.449999988
+    4.23332977 0.449999988
+    4.26667023 0.449999988
+    4.93333006 0.449999988
+endnode
+node emitter OuterRing02
+  parent vdr_time
+  #part-number 3
+  alphaStartkey 6
+    0.300000012 0.5
+    0.600000024 0.5
+    0.633333027 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0.5
+  alphaEndkey 6
+    0.300000012 0.5
+    0.600000024 0.5
+    0.633333027 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0.5
+endnode
+node emitter OuterRing03
+  parent vdr_time
+  #part-number 4
+  alphaStartkey 6
+    0.200000003 0.600000024
+    0.600000024 0.600000024
+    0.633333027 0.600000024
+    4.23332977 0.600000024
+    4.26667023 0.600000024
+    4.93333006 0.600000024
+  alphaEndkey 6
+    0.200000003 0.600000024
+    0.600000024 0.600000024
+    0.633333027 0.600000024
+    4.23332977 0.600000024
+    4.26667023 0.600000024
+    4.93333006 0.600000024
+endnode
+node emitter innerring
+  parent vdr_time
+  #part-number 5
+  alphaStartkey 6
+    0.466666996 0.5
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0.5
+  alphaEndkey 6
+    0.466666996 0.5
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0.5
+endnode
+node emitter innerring01
+  parent vdr_time
+  #part-number 6
+  alphaStartkey 6
+    0.466666996 0.400000006
+    0.899999976 0.400000006
+    0.93333298 0.400000006
+    4.23332977 0.400000006
+    4.26667023 0.400000006
+    4.93333006 0.400000006
+  alphaEndkey 6
+    0.466666996 0.400000006
+    0.899999976 0.400000006
+    0.93333298 0.400000006
+    4.23332977 0.400000006
+    4.26667023 0.400000006
+    4.93333006 0.400000006
+endnode
+node emitter innerring02
+  parent vdr_time
+  #part-number 7
+  alphaStartkey 6
+    0.466666996 0.5
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0.5
+  alphaEndkey 6
+    0.466666996 0.5
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0.5
+endnode
+node emitter innerring03
+  parent vdr_time
+  #part-number 8
+  alphaStartkey 6
+    0.466666996 0.5
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0.5
+  alphaEndkey 6
+    0.466666996 0.5
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0.5
+endnode
+node emitter handbal
+  parent vdr_time
+  #part-number 9
+  birthratekey 8
+    0 100
+    0.0333333015 100
+    3.0999999 100
+    3.13333011 100
+    3.5 150
+    3.76666999 100
+    3.79999995 100
+    3.86666989 100
+  velocitykey 7
+    0 2.5
+    0.0333333015 2.5
+    3.0999999 2.5
+    3.13333011 2.5
+    3.29999995 2.5
+    3.5 2.5
+    3.79999995 2.5
+endnode
+node dummy Dummy02
+  parent handbal
+  #part-number 10
+  orientationkey 9
+    0 0 -1 0 -2.35618997
+    0.620834 -0.678598225 -0.678598225 0.281085104 -2.59355998
+    1.24167 -0.923879743 0 0.38268292 -3.14159012
+    1.8625 -0.678598225 0.678598225 0.281085104 -3.68962002
+    2.48334 -0.0436123125 0.998885214 0.0180648044 -3.92619991
+    3.10417 0.678598225 0.678598225 -0.281085104 -3.68962002
+    3.725 0.923879743 0 -0.38268292 -3.14159012
+    4.34584 0.678598225 -0.678598225 -0.281085104 -2.59355998
+    4.96667004 0 -1 0 -2.35618997
+endnode
+node emitter dom1
+  parent Dummy02
+  #part-number 11
+  alphaStartkey 5
+    0 0.699999988
+    0.266667008 0.699999988
+    0.300000012 0.699999988
+    3.46667004 0.699999988
+    4.13332987 0.699999988
+  alphaEndkey 5
+    0 0.699999988
+    0.266667008 0.699999988
+    0.300000012 0.699999988
+    3.46667004 0.699999988
+    4.13332987 0.699999988
+endnode
+node dummy Dummy01
+  parent handbal
+  #part-number 12
+  orientationkey 9
+    0 0 1 0 -0.785398006
+    0.620834 -0.357407004 0.357407004 -0.862855971 -1.71776998
+    1.24167 -0.38268292 0 -0.923879743 -3.14159012
+    1.8625 -0.357407004 -0.357407004 -0.862855971 -4.56541014
+    2.48334 -0.0433795154 -0.993554354 -0.104728036 -5.49319983
+    3.10417 0.357407004 -0.357407004 0.862855971 -4.56541014
+    3.725 0.38268292 0 0.923879743 -3.14159012
+    4.34584 0.357407004 0.357407004 0.862855971 -1.71776998
+    4.96667004 0 1 0 -0.785398006
+endnode
+node dummy Dummy04
+  parent handbal
+  #part-number 13
+  orientationkey 9
+    0 0.840551734 0.383061886 -0.383061886 -1.74363005
+    0.620834 0.360420853 -0.33609888 -0.870134652 -1.77827001
+    1.24167 -0.255594999 -0.683619976 -0.683619022 -2.64111996
+    1.8625 -0.656313062 -0.703810036 -0.271854043 -3.70892
+    2.48334 -0.843449652 -0.415309817 0.34074989 -4.50992012
+    3.10417 -0.360421717 0.33609876 0.870134354 -4.50492001
+    3.725 0.255594999 0.683619916 0.683619022 -3.64207006
+    4.34584 0.656313062 0.703809977 0.271854043 -2.57426
+    4.96667004 0.840551734 0.383061886 -0.383061886 -1.74363005
+endnode
+node emitter dom2
+  parent Dummy04
+  #part-number 14
+  alphaStartkey 5
+    0 0.699999988
+    0.266667008 0.699999988
+    0.300000012 0.699999988
+    3.46667004 0.699999988
+    4.13332987 0.699999988
+  alphaEndkey 5
+    0 0.699999988
+    0.266667008 0.699999988
+    0.300000012 0.699999988
+    3.46667004 0.699999988
+    4.13332987 0.699999988
+endnode
+node dummy Dummy03
+  parent handbal
+  #part-number 15
+  orientationkey 9
+    0 -0.306715071 0.673025191 -0.673025191 -3.73679996
+    0.620834 0.35403198 0.379651964 -0.854708016 -4.62537003
+    1.24167 0.884028614 -0.330524862 -0.330524862 -4.58942986
+    1.8625 0.699941874 -0.652705848 0.289924949 -3.66968989
+    2.48334 0.333687931 -0.677682877 0.655284882 -2.60713005
+    3.10417 -0.35403198 -0.379651964 0.854707956 -1.65780997
+    3.725 -0.884028614 0.330524862 0.330524862 -1.69375002
+    4.34584 -0.699941814 0.652705848 -0.289924949 -2.61350012
+    4.96667004 -0.306715071 0.673025191 -0.673025191 -3.73679996
+endnode
+node emitter dom4
+  parent handbal
+  #part-number 16
+  alphaStartkey 5
+    0 0.899999976
+    0.266667008 0.899999976
+    0.300000012 0.899999976
+    3.63333011 0.899999976
+    4.30000019 0.899999976
+  alphaEndkey 5
+    0 0.899999976
+    0.266667008 0.899999976
+    0.300000012 0.899999976
+    3.63333011 0.899999976
+    4.30000019 0.899999976
+endnode
+node emitter dom3
+  parent handbal
+  #part-number 17
+  alphaStartkey 5
+    0 0.899999976
+    0.266667008 0.899999976
+    0.300000012 0.899999976
+    3.63333011 0.899999976
+    4.30000019 0.899999976
+  alphaEndkey 5
+    0 0.899999976
+    0.266667008 0.899999976
+    0.300000012 0.899999976
+    3.63333011 0.899999976
+    4.30000019 0.899999976
+endnode
+node emitter STAR
+  parent vdr_time
+  #part-number 18
+  sizeStartkey 3
+    0 2
+    0.266667008 2
+    0.400000006 2
+  sizeEndkey 3
+    0 2
+    0.266667008 2
+    0.400000006 2
+endnode
+doneanim duration vdr_time
+
+newanim cessation vdr_time
+  length 4.96667004
+  transtime 0
+  animroot vdr_time
+node dummy vdr_time
+  parent NULL
+  #part-number 0
+endnode
+node emitter OuterRing
+  parent vdr_time
+  #part-number 1
+  alphaStartkey 6
+    0.400000006 0.600000024
+    0.800000012 0.600000024
+    0.833333015 0.600000024
+    4.23332977 0.600000024
+    4.26667023 0.600000024
+    4.93333006 0
+  alphaEndkey 6
+    0.400000006 0.600000024
+    0.800000012 0.600000024
+    0.833333015 0.600000024
+    4.23332977 0.600000024
+    4.26667023 0.600000024
+    4.93333006 0
+endnode
+node emitter OuterRing01
+  parent vdr_time
+  #part-number 2
+  alphaStartkey 6
+    0.333332986 0.449999988
+    0.666666985 0.449999988
+    0.699999988 0.449999988
+    4.23332977 0.449999988
+    4.26667023 0.449999988
+    4.93333006 0
+  alphaEndkey 6
+    0.333332986 0.449999988
+    0.666666985 0.449999988
+    0.699999988 0.449999988
+    4.23332977 0.449999988
+    4.26667023 0.449999988
+    4.93333006 0
+endnode
+node emitter OuterRing02
+  parent vdr_time
+  #part-number 3
+  alphaStartkey 6
+    0.300000012 0.5
+    0.600000024 0.5
+    0.633333027 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0
+  alphaEndkey 6
+    0.300000012 0.5
+    0.600000024 0.5
+    0.633333027 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0
+endnode
+node emitter OuterRing03
+  parent vdr_time
+  #part-number 4
+  alphaStartkey 6
+    0.200000003 0.600000024
+    0.600000024 0.600000024
+    0.633333027 0.600000024
+    4.23332977 0.600000024
+    4.26667023 0.600000024
+    4.93333006 0
+  alphaEndkey 6
+    0.200000003 0.600000024
+    0.600000024 0.600000024
+    0.633333027 0.600000024
+    4.23332977 0.600000024
+    4.26667023 0.600000024
+    4.93333006 0
+endnode
+node emitter innerring
+  parent vdr_time
+  #part-number 5
+  alphaStartkey 6
+    0.466666996 0.5
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0
+  alphaEndkey 6
+    0.466666996 0.5
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0
+endnode
+node emitter innerring01
+  parent vdr_time
+  #part-number 6
+  alphaStartkey 6
+    0.466666996 0.400000006
+    0.899999976 0.400000006
+    0.93333298 0.400000006
+    4.23332977 0.400000006
+    4.26667023 0.400000006
+    4.93333006 0
+  alphaEndkey 6
+    0.466666996 0.400000006
+    0.899999976 0.400000006
+    0.93333298 0.400000006
+    4.23332977 0.400000006
+    4.26667023 0.400000006
+    4.93333006 0
+endnode
+node emitter innerring02
+  parent vdr_time
+  #part-number 7
+  alphaStartkey 6
+    0.466666996 0.5
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0
+  alphaEndkey 6
+    0.466666996 0.5
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0
+endnode
+node emitter innerring03
+  parent vdr_time
+  #part-number 8
+  alphaStartkey 6
+    0.466666996 0.5
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0
+  alphaEndkey 6
+    0.466666996 0.5
+    0.899999976 0.5
+    0.93333298 0.5
+    4.23332977 0.5
+    4.26667023 0.5
+    4.93333006 0
+endnode
+node emitter handbal
+  parent vdr_time
+  #part-number 9
+  birthratekey 8
+    0 100
+    0.0333333015 100
+    3.0999999 100
+    3.13333011 100
+    3.5 150
+    3.76666999 100
+    3.79999995 100
+    3.86666989 0
+  velocitykey 7
+    0 2.5
+    0.0333333015 2.5
+    3.0999999 2.5
+    3.13333011 2.5
+    3.29999995 2.5
+    3.5 2.5
+    3.79999995 0
+endnode
+node dummy Dummy02
+  parent handbal
+  #part-number 10
+  orientationkey 9
+    0 0 -1 0 -2.35618997
+    0.620834 -0.678598225 -0.678598225 0.281085104 -2.59355998
+    1.24167 -0.923879743 0 0.38268292 -3.14159012
+    1.8625 -0.678598225 0.678598225 0.281085104 -3.68962002
+    2.48334 -0.0436123125 0.998885214 0.0180648044 -3.92619991
+    3.10417 0.678598225 0.678598225 -0.281085104 -3.68962002
+    3.725 0.923879743 0 -0.38268292 -3.14159012
+    4.34584 0.678598225 -0.678598225 -0.281085104 -2.59355998
+    4.96667004 0 -1 0 -2.35618997
+endnode
+node emitter dom1
+  parent Dummy02
+  #part-number 11
+  alphaStartkey 5
+    0 0.699999988
+    0.266667008 0.699999988
+    0.300000012 0.699999988
+    3.46667004 0.699999988
+    4.13332987 0
+  alphaEndkey 5
+    0 0.699999988
+    0.266667008 0.699999988
+    0.300000012 0.699999988
+    3.46667004 0.699999988
+    4.13332987 0
+endnode
+node dummy Dummy01
+  parent handbal
+  #part-number 12
+  orientationkey 9
+    0 0 1 0 -0.785398006
+    0.620834 -0.357407004 0.357407004 -0.862855971 -1.71776998
+    1.24167 -0.38268292 0 -0.923879743 -3.14159012
+    1.8625 -0.357407004 -0.357407004 -0.862855971 -4.56541014
+    2.48334 -0.0433795154 -0.993554354 -0.104728036 -5.49319983
+    3.10417 0.357407004 -0.357407004 0.862855971 -4.56541014
+    3.725 0.38268292 0 0.923879743 -3.14159012
+    4.34584 0.357407004 0.357407004 0.862855971 -1.71776998
+    4.96667004 0 1 0 -0.785398006
+endnode
+node dummy Dummy04
+  parent handbal
+  #part-number 13
+  orientationkey 9
+    0 0.840551734 0.383061886 -0.383061886 -1.74363005
+    0.620834 0.360420853 -0.33609888 -0.870134652 -1.77827001
+    1.24167 -0.255594999 -0.683619976 -0.683619022 -2.64111996
+    1.8625 -0.656313062 -0.703810036 -0.271854043 -3.70892
+    2.48334 -0.843449652 -0.415309817 0.34074989 -4.50992012
+    3.10417 -0.360421717 0.33609876 0.870134354 -4.50492001
+    3.725 0.255594999 0.683619916 0.683619022 -3.64207006
+    4.34584 0.656313062 0.703809977 0.271854043 -2.57426
+    4.96667004 0.840551734 0.383061886 -0.383061886 -1.74363005
+endnode
+node emitter dom2
+  parent Dummy04
+  #part-number 14
+  alphaStartkey 5
+    0 0.699999988
+    0.266667008 0.699999988
+    0.300000012 0.699999988
+    3.46667004 0.699999988
+    4.13332987 0
+  alphaEndkey 5
+    0 0.699999988
+    0.266667008 0.699999988
+    0.300000012 0.699999988
+    3.46667004 0.699999988
+    4.13332987 0
+endnode
+node dummy Dummy03
+  parent handbal
+  #part-number 15
+  orientationkey 9
+    0 -0.306715071 0.673025191 -0.673025191 -3.73679996
+    0.620834 0.35403198 0.379651964 -0.854708016 -4.62537003
+    1.24167 0.884028614 -0.330524862 -0.330524862 -4.58942986
+    1.8625 0.699941874 -0.652705848 0.289924949 -3.66968989
+    2.48334 0.333687931 -0.677682877 0.655284882 -2.60713005
+    3.10417 -0.35403198 -0.379651964 0.854707956 -1.65780997
+    3.725 -0.884028614 0.330524862 0.330524862 -1.69375002
+    4.34584 -0.699941814 0.652705848 -0.289924949 -2.61350012
+    4.96667004 -0.306715071 0.673025191 -0.673025191 -3.73679996
+endnode
+node emitter dom4
+  parent handbal
+  #part-number 16
+  alphaStartkey 5
+    0 0.899999976
+    0.266667008 0.899999976
+    0.300000012 0.899999976
+    3.63333011 0.899999976
+    4.30000019 0
+  alphaEndkey 5
+    0 0.899999976
+    0.266667008 0.899999976
+    0.300000012 0.899999976
+    3.63333011 0.899999976
+    4.30000019 0
+endnode
+node emitter dom3
+  parent handbal
+  #part-number 17
+  alphaStartkey 5
+    0 0.899999976
+    0.266667008 0.899999976
+    0.300000012 0.899999976
+    3.63333011 0.899999976
+    4.30000019 0
+  alphaEndkey 5
+    0 0.899999976
+    0.266667008 0.899999976
+    0.300000012 0.899999976
+    3.63333011 0.899999976
+    4.30000019 0
+endnode
+node emitter STAR
+  parent vdr_time
+  #part-number 18
+  sizeStartkey 3
+    0 2
+    0.266667008 2
+    0.400000006 0
+  sizeEndkey 3
+    0 2
+    0.266667008 2
+    0.400000006 0
+endnode
+doneanim cessation vdr_time
+
+
+donemodel vdr_time

@@ -1,0 +1,13 @@
+#MAXMODEL ASCII
+# model: WMgSt_m_011
+filedependancy WMgSt_m_011.max
+newmodel WMgSt_m_011
+setsupermodel WMgSt_m_011 NULL
+setanimationscale 1
+#MAXGEOM  ASCII
+beginmodelgeom WMgSt_m_011
+node dummy WMgSt_m_011
+  parent NULL
+endnode
+endmodelgeom WMgSt_m_011
+donemodel WMgSt_m_011

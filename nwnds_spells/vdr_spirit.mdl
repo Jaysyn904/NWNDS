@@ -1,0 +1,1163 @@
+#MAXMODEL ASCII
+# model: vdr_spirit
+filedependancy vdr_spirit.max
+newmodel vdr_spirit
+setsupermodel vdr_spirit NULL
+classification effect
+setanimationscale 1
+#MAXGEOM  ASCII
+beginmodelgeom vdr_spirit
+node dummy vdr_spirit
+  parent NULL
+  #part-number 0
+  position 0 0 1.5
+endnode
+node dummy Dummy01
+  parent vdr_spirit
+  #part-number 1
+  position 0 0 -0.0653780028
+  orientation 0 -1 0 -3.14159012
+endnode
+node emitter OmenEmitter01
+  parent Dummy01
+  #part-number 2
+  p2p 1
+  p2p_sel 0
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 0
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Fountain
+  render Linked
+  blend Normal
+  texture fxpa_white
+  xgrid 1
+  ygrid 1
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0 0 -0.122043997
+  orientation -1 0 0 -3.7349999
+  colorStart 1 1 1
+  colorEnd 1 1 1
+  alphaStart 0.95 
+  alphaEnd 0.95 
+  sizeStart 0.159999996
+  sizeEnd 0.00999999978
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 0
+  birthrate 0
+  lifeExp 1
+  mass 0.100000001
+  spread 0
+  particleRot 0
+  velocity 1
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0.800000012
+  grav 3
+  threshold 0
+endnode
+node reference OmenRef01
+  parent OmenEmitter01
+  #part-number 3
+  refModel fx_ref
+  reattachable 0
+  position 0.000805168005 0.533824027 0.791426003
+  orientation -1 0 0 -2.5481801
+endnode
+node dummy Dummy02
+  parent vdr_spirit
+  #part-number 4
+  position 0 0 -0.0653780028
+  orientation -0.063751407 -0.911687195 -0.405909091 -3.08484006
+endnode
+node emitter OmenEmitter02
+  parent Dummy02
+  #part-number 5
+  p2p 1
+  p2p_sel 0
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 0
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Fountain
+  render Linked
+  blend Normal
+  texture fxpa_white
+  xgrid 1
+  ygrid 1
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0 0.0354195982 -0.155878007
+  orientation -1 0 0 -3.66518998
+  colorStart 1 1 1
+  colorEnd 1 1 1
+  alphaStart 0.95 
+  alphaEnd 0.95 
+  sizeStart 0.150000006
+  sizeEnd 0
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 0
+  birthrate 0
+  lifeExp 0.800000012
+  mass 0
+  spread 0
+  particleRot 0
+  velocity 2
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 1
+  grav 1
+  threshold 0
+endnode
+node reference OmenRef02
+  parent OmenEmitter02
+  #part-number 6
+  refModel fx_ref
+  reattachable 0
+  position -1.35304006e-007 0.670804977 1.02986002
+  orientation -1 0 0 -2.68780994
+endnode
+node emitter OmenEmitter03
+  parent vdr_spirit
+  #part-number 7
+  p2p 1
+  p2p_sel 0
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 0
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Fountain
+  render Linked
+  blend Normal
+  texture fxpa_white
+  xgrid 1
+  ygrid 1
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0 2.42156002e-005 0.0700661987
+  orientation -0.483691812 -0.407364845 -0.77465874 -1.86285996
+  colorStart 1 1 1
+  colorEnd 1 1 1
+  alphaStart 0.95 
+  alphaEnd 0.95 
+  sizeStart 0.150000006
+  sizeEnd 0
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 0
+  birthrate 0
+  lifeExp 0.800000012
+  mass 0
+  spread 0
+  particleRot 0
+  velocity 2
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 1
+  grav 1
+  threshold 0
+endnode
+node reference OmenRef03
+  parent OmenEmitter03
+  #part-number 8
+  refModel fx_ref
+  reattachable 0
+  position -1.35304006e-007 0.670804977 1.02986002
+  orientation -1 0 0 -2.68780994
+endnode
+node dummy Dummy03
+  parent vdr_spirit
+  #part-number 9
+  position 0 0 -0.0653780028
+  orientation -0.193686083 -0.911221325 0.363540113 -3.29583001
+endnode
+node emitter OmenEmitter04
+  parent Dummy03
+  #part-number 10
+  p2p 1
+  p2p_sel 0
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 0
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Fountain
+  render Linked
+  blend Normal
+  texture fxpa_white
+  xgrid 1
+  ygrid 1
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0 -0.0158906002 -0.161278993
+  orientation -1 0 0 -3.66518998
+  colorStart 1 1 1
+  colorEnd 1 1 1
+  alphaStart 0.95 
+  alphaEnd 0.95 
+  sizeStart 0.150000006
+  sizeEnd 0
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 0
+  birthrate 0
+  lifeExp 0.800000012
+  mass 0
+  spread 0
+  particleRot 0
+  velocity 2
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 1
+  grav 1
+  threshold 0
+endnode
+node reference OmenRef04
+  parent OmenEmitter04
+  #part-number 11
+  refModel fx_ref
+  reattachable 0
+  position -1.35304006e-007 0.670804977 1.02986002
+  orientation -1 0 0 -2.68780994
+endnode
+node dummy Dummy04
+  parent vdr_spirit
+  #part-number 12
+  position -0.0422176011 -0.0091216797 -0.0653780028
+  orientation 0.597662091 -0.744671166 0.297094047 -2.67344999
+endnode
+node emitter OmenEmitter05
+  parent Dummy04
+  #part-number 13
+  p2p 1
+  p2p_sel 0
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 0
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 0
+  update Fountain
+  render Linked
+  blend Normal
+  texture fxpa_white
+  xgrid 1
+  ygrid 1
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0 -0.0192079991 -0.164774999
+  orientation -1 0 0 -3.66518998
+  colorStart 1 1 1
+  colorEnd 1 1 1
+  alphaStart 0.95 
+  alphaEnd 0.95 
+  sizeStart 0.150000006
+  sizeEnd 0
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 0
+  birthrate 0
+  lifeExp 0.800000012
+  mass 0
+  spread 0
+  particleRot 0
+  velocity 2
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 1
+  grav 1
+  threshold 0
+endnode
+node reference OmenRef05
+  parent OmenEmitter05
+  #part-number 14
+  refModel fx_ref
+  reattachable 0
+  position -1.35304006e-007 0.670804977 1.02986002
+  orientation -1 0 0 -2.68780994
+endnode
+node emitter OmenEmitter06 
+  parent Dummy01 
+  #part-number 15
+  position 0.0 0.0 -0.171067
+  orientation  -1.0 0.0 0.0  -1.5708
+  wirecolor 0.694118 0.109804 0.584314  
+    colorStart 0.317647 0.768628 0.933333  
+    colorEnd 0.317647 0.768628 0.933333  
+    alphaStart 1.0 
+    alphaEnd 1.0 
+    sizeStart 0.04 
+    sizeEnd 0.05 
+    sizeStart_y 0.0 
+    sizeEnd_y 0.0 
+    frameStart 0 
+    frameEnd 0 
+    birthrate 50 
+    spawnType 0 
+    lifeExp 1.5 
+    mass 0.0 
+    spread 0.0 
+    particleRot 0.0 
+    velocity 0.0 
+    randvel 0.0 
+    fps 0 
+    random 0 
+    inherit 1 
+    inherit_local 0 
+    inherit_part 0 
+    inheritvel 0 
+    xsize 180 
+    ysize 180 
+    bounce 0 
+    bounce_co 0.0 
+    loop 0 
+    update Fountain 
+    render Motion_Blur 
+    Blend Lighten 
+    update_sel 1 
+    render_sel 7 
+    blend_sel 3 
+    deadspace 0.174533 
+    opacity 1.0 
+    blurlength 10.0 
+    lightningDelay 0.0 
+    lightningRadius 0.0 
+    lightningScale 0.0 
+    blastRadius 0.0 
+    blastLength 0.0 
+    twosidedtex 1 
+    p2p 1 
+    p2p_sel 2 
+    p2p_type Gravity 
+    p2p_bezier2 0.0 
+    p2p_bezier3 0.0 
+    combinetime 0.0 
+    drag 0.4 
+    grav 5.0 
+    threshold 0.0 
+    texture fxpa_Dot01 
+    xgrid 1 
+    ygrid 1 
+    affectedByWind false 
+    m_isTinted 0 
+    renderorder 0 
+    Splat 0 
+endnode
+node reference OmenRef06 
+  parent OmenEmitter06
+  #part-number 16 
+  position 0.0 0.0 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.878431 0.337255 0.337255  
+  refModel fx_ref 
+  reattachable 0 
+endnode
+node dummy Dummy06 
+  parent vdr_spirit
+  #part-number 17 
+  position 0.0 0.0 0.0
+  orientation  0.597662 -0.744671 0.297094  0.47
+  wirecolor 0.835294 0.603922 0.898039  
+endnode
+node emitter OmenEmitter07 
+  parent Dummy06 
+  #part-number 18 
+  position 0.0 -0.019208 -0.164775
+  orientation  -1.0 0.0 0.0  -3.66519
+  wirecolor 0.109804 0.109804 0.694118  
+    colorStart 1.0 1.0 1.0  
+    colorEnd 1.0 1.0 1.0  
+    alphaStart 0.95 
+    alphaEnd 0.95 
+    sizeStart 0.15 
+    sizeEnd 0.0 
+    sizeStart_y 0.0 
+    sizeEnd_y 0.0 
+    frameStart 0 
+    frameEnd 0 
+    birthrate 0 
+    spawnType 0 
+    lifeExp 1.3 
+    mass 0.1 
+    spread 0.0 
+    particleRot 0.0 
+    velocity 1.0 
+    randvel 0.0 
+    fps 0 
+    random 0 
+    inherit 0 
+    inherit_local 0 
+    inherit_part 0 
+    inheritvel 0 
+    xsize 0 
+    ysize 0 
+    bounce 0 
+    bounce_co 0.0 
+    loop 0 
+    update Fountain 
+    render Linked 
+    Blend Normal 
+    update_sel 1 
+    render_sel 2 
+    blend_sel 1 
+    deadspace 0.0 
+    opacity 0.5 
+    blurlength 10.0 
+    lightningDelay 0.0 
+    lightningRadius 0.0 
+    lightningScale 0.0 
+    blastRadius 0.0 
+    blastLength 0.0 
+    twosidedtex 0 
+    p2p 1 
+    p2p_sel 2 
+    p2p_type Gravity 
+    p2p_bezier2 0.0 
+    p2p_bezier3 0.0 
+    combinetime 0.0 
+    drag 0.8 
+    grav -2.0 
+    threshold 0.0 
+    texture fxpa_white 
+    xgrid 1 
+    ygrid 1 
+    affectedByWind false 
+    m_isTinted 0 
+    renderorder 0 
+    Splat 0 
+endnode
+node reference OmenRef07 
+  parent OmenEmitter07 
+  #part-number 19 
+  position -1.35304e-007 0.670805 1.02986
+  orientation  -1.0 0.0 0.0  -0.48781
+  wirecolor 0.878431 0.337255 0.337255  
+  refModel fx_ref 
+  reattachable 0 
+endnode
+node dummy Dummy07 
+  parent vdr_spirit
+  #part-number 20 
+  position 0.0 0.0 0.0
+  orientation  -0.193686 -0.911221 0.36354  -0.29583
+  wirecolor 0.835294 0.603922 0.898039  
+endnode
+node emitter OmenEmitter08 
+  parent Dummy07 
+  #part-number 21
+  position 0.0 -0.019208 -0.164775
+  orientation  -1.0 0.0 0.0  -3.66519
+  wirecolor 0.109804 0.109804 0.694118  
+    colorStart 1.0 1.0 1.0  
+    colorEnd 1.0 1.0 1.0  
+    alphaStart 0.95 
+    alphaEnd 0.95 
+    sizeStart 0.15 
+    sizeEnd 0.0 
+    sizeStart_y 0.0 
+    sizeEnd_y 0.0 
+    frameStart 0 
+    frameEnd 0 
+    birthrate 0 
+    spawnType 0 
+    lifeExp 1.3 
+    mass 0.1 
+    spread 0.0 
+    particleRot 0.0 
+    velocity 1.0 
+    randvel 0.0 
+    fps 0 
+    random 0 
+    inherit 0 
+    inherit_local 0 
+    inherit_part 0 
+    inheritvel 0 
+    xsize 0 
+    ysize 0 
+    bounce 0 
+    bounce_co 0.0 
+    loop 0 
+    update Fountain 
+    render Linked 
+    Blend Normal 
+    update_sel 1 
+    render_sel 2 
+    blend_sel 1 
+    deadspace 0.0 
+    opacity 0.5 
+    blurlength 10.0 
+    lightningDelay 0.0 
+    lightningRadius 0.0 
+    lightningScale 0.0 
+    blastRadius 0.0 
+    blastLength 0.0 
+    twosidedtex 0 
+    p2p 1 
+    p2p_sel 2 
+    p2p_type Gravity 
+    p2p_bezier2 0.0 
+    p2p_bezier3 0.0 
+    combinetime 0.0 
+    drag 0.8 
+    grav -3.0 
+    threshold 0.0 
+    texture fxpa_white 
+    xgrid 1 
+    ygrid 1 
+    affectedByWind false 
+    m_isTinted 0 
+    renderorder 0 
+    Splat 0 
+endnode
+node reference OmenRef08 
+  parent OmenEmitter08 
+  #part-number 22 
+  position -1.35304e-007 0.670805 1.02986
+  orientation  -1.0 0.0 0.0  -2.68781
+  wirecolor 0.878431 0.337255 0.337255  
+  refModel fx_ref 
+  reattachable 0 
+endnode
+endmodelgeom vdr_spirit
+
+#MAXANIM ASCII
+newanim impact vdr_spirit
+  length 0.433333009
+  transtime 0.25
+  animroot vdr_spirit
+node dummy vdr_spirit
+  parent NULL
+  #part-number 0
+endnode
+node dummy Dummy01
+  parent vdr_spirit
+  #part-number 1
+  orientationkey 1
+    0.433333009 0 -1 0 -3.14159012
+endnode
+node emitter OmenEmitter01
+  parent Dummy01
+  #part-number 2
+  birthratekey 3
+    0 0
+    0.400000006 0
+    0.433333009 15
+endnode
+node dummy OmenRef01
+  parent OmenEmitter01
+  #part-number 3
+endnode
+node dummy Dummy02
+  parent vdr_spirit
+  #part-number 4
+  orientationkey 1
+    0.433333009 -0.063751407 -0.911687195 -0.405909091 -3.08484006
+endnode
+node emitter OmenEmitter02
+  parent Dummy02
+  #part-number 5
+  birthratekey 3
+    0 0
+    0.400000006 0
+    0.433333009 15
+endnode
+node dummy OmenRef02
+  parent OmenEmitter02
+  #part-number 6
+endnode
+node emitter OmenEmitter03
+  parent vdr_spirit
+  #part-number 7
+  orientationkey 1
+    0.433333009 -0.483691812 -0.407364845 -0.77465874 -1.86285996
+  alphaStartkey 1
+    0.433333009 0.95
+  birthratekey 3
+    0 0
+    0.400000006 0
+    0.433333009 15
+  velocitykey 1
+    0.433333009 2
+endnode
+node dummy OmenRef03
+  parent OmenEmitter03
+  #part-number 8
+endnode
+node dummy Dummy03
+  parent vdr_spirit
+  #part-number 9
+  orientationkey 1
+    0.433333009 -0.193686083 -0.911221325 0.363540113 -3.29583001
+endnode
+node emitter OmenEmitter04
+  parent Dummy03
+  #part-number 10
+  birthratekey 3
+    0 0
+    0.400000006 0
+    0.433333009 15
+endnode
+node dummy OmenRef04
+  parent OmenEmitter04
+  #part-number 11
+endnode
+node dummy Dummy04
+  parent vdr_spirit
+  #part-number 12
+  orientationkey 1
+    0.433333009 0.597662091 -0.744671166 0.297094047 -2.67344999
+endnode
+node emitter OmenEmitter05
+  parent Dummy04
+  #part-number 13
+  birthratekey 3
+    0 0
+    0.400000006 0
+    0.433333009 15
+endnode
+node dummy OmenRef05
+  parent OmenEmitter05
+  #part-number 14
+endnode
+node emitter OmenEmitter06 
+  parent Dummy01 
+  #part-number 15
+    orientationkey 3
+      0.0   1.0 0.0 0.0  1.5708
+      0.3   0.57735 -0.57735 -0.57735  2.0944
+      0.433333009 0.0 -0.707107 -0.707107  3.14159
+endnode
+node dummy OmenRef06 
+  parent OmenEmitter06 
+  #part-number 16
+endnode
+node dummy Dummy06 
+  parent vdr_spirit
+  #part-number 17
+    orientationkey 3
+      0.0   0.597662 -0.744671 0.297094  2.67345
+      0.233333   0.924041 -0.101199 0.368655  3.2223
+      0.433333009 0.756649 0.607275 0.242278  3.72794
+endnode
+node emitter OmenEmitter07 
+  parent Dummy06 
+  #part-number 18
+    alphaEndkey 1
+      0.433333009   0.95
+    birthratekey 2
+      0.0   15.0
+      0.433333009   15.0
+endnode
+node dummy OmenRef07 
+  parent OmenEmitter07 
+  #part-number 19
+endnode
+node dummy Dummy07 
+  parent vdr_spirit
+  #part-number 20
+    orientationkey 3
+      0.0   0.193686 0.911221 -0.36354  2.98735
+      0.233333   0.795331 0.516494 -0.317305  3.54802
+      0.433333009   0.9748 -0.207201 -0.0826647  3.8834
+endnode
+node emitter OmenEmitter08 
+  parent Dummy07 
+  #part-number 21
+    alphaEndkey 1
+      0.433333009   0.95
+    birthratekey 2
+      0.0   15.0
+      0.433333009   15.0
+endnode
+node dummy OmenRef08 
+  parent OmenEmitter08 
+  #part-number 22
+endnode
+doneanim impact vdr_spirit
+
+#MAXANIM ASCII
+newanim duration vdr_spirit
+  length 0.966666996
+  transtime 0.25
+  animroot vdr_spirit
+node dummy vdr_spirit
+  parent NULL
+  #part-number 0
+endnode
+node dummy Dummy01
+  parent vdr_spirit
+  #part-number 1
+  orientationkey 5
+    0 0 -1 0 -3.14159012
+    0.233333007 0.707106769 -0.707106769 0 -3.14159012
+    0.466666996 1 0 0 -3.14159012
+    0.699999988 0.707106769 0.707106769 0 -3.14159012
+    0.966666996 0 1 0 -3.14159012
+endnode
+node emitter OmenEmitter01
+  parent Dummy01
+  #part-number 2
+  alphaStartkey 2
+    0.93333298 0.95
+    0.966666996 0.95
+  alphaEndkey 2
+    0.93333298 0.95
+    0.966666996 0.95
+  birthratekey 3
+    0 15
+    0.93333298 15
+    0.966666996 15
+endnode
+node dummy OmenRef01
+  parent OmenEmitter01
+  #part-number 3
+endnode
+node dummy Dummy02
+  parent vdr_spirit
+  #part-number 4
+  orientationkey 5
+    0 -0.063751407 -0.911687195 -0.405909091 -3.08484006
+    0.233333007 0.629744232 -0.724437177 -0.28038007 -2.51758003
+    0.466666996 0.997083306 -0.0697228163 0.0310426094 -2.30599999
+    0.699999988 0.715401649 0.62188971 0.318517864 -2.60136008
+    0.966666996 0.0637514144 0.911687195 0.405909091 -3.19834995
+endnode
+node emitter OmenEmitter02
+  parent Dummy02
+  #part-number 5
+  alphaEndkey 2
+    0.93333298 0.95
+    0.966666996 0.95
+  birthratekey 3
+    0 15
+    0.93333298 15
+    0.966666996 15
+endnode
+node dummy OmenRef02
+  parent OmenEmitter02
+  #part-number 6
+endnode
+node emitter OmenEmitter03
+  parent vdr_spirit
+  #part-number 7
+  orientationkey 5
+    0 -0.344212979 -0.469445944 -0.813103855 -2.06636
+    0.233333007 -0.742134631 -0.239293888 -0.626078725 -1.57397997
+    0.5 -0.344212979 -0.469445944 -0.813103855 -2.06636
+    0.733332992 -0.742134631 -0.239293888 -0.626078725 -1.57397997
+    0.966666996 -0.344212979 -0.469445944 -0.813103855 -2.06636
+  alphaEndkey 1
+    0.966666996 0.95
+  birthratekey 3
+    0 15
+    0.93333298 15
+    0.966666996 15
+endnode
+node dummy OmenRef03
+  parent OmenEmitter03
+  #part-number 8
+endnode
+node dummy Dummy03
+  parent vdr_spirit
+  #part-number 9
+  orientationkey 5
+    0 -0.193686083 -0.911221325 0.363540113 -3.29583001
+    0.233333007 0.532218993 -0.819546938 0.212334007 -3.77361012
+    0.466666996 0.974799633 -0.20720093 -0.0826646686 -3.88339996
+    0.699999988 0.795331061 0.516493976 -0.317305028 -3.54801989
+    0.966666996 0.193686068 0.911221325 -0.363540113 -2.98734999
+endnode
+node emitter OmenEmitter04
+  parent Dummy03
+  #part-number 10
+  alphaEndkey 2
+    0.93333298 0.95
+    0.966666996 0.95
+  birthratekey 3
+    0 15
+    0.93333298 15
+    0.966666996 15
+endnode
+node dummy OmenRef04
+  parent OmenEmitter04
+  #part-number 11
+endnode
+node dummy Dummy04
+  parent vdr_spirit
+  #part-number 12
+  orientationkey 5
+    0 0.597662091 -0.744671166 0.297094047 -2.67344999
+    0.233333007 0.924041212 -0.101199023 0.368655115 -3.22230005
+    0.466666996 0.756649256 0.607275248 0.242278084 -3.72794008
+    0.699999988 0.108764 0.993120074 -0.0433926024 -3.89607
+    0.966666996 -0.597662091 0.744671166 -0.297094047 -3.60974002
+endnode
+node emitter OmenEmitter05
+  parent Dummy04
+  #part-number 13
+  alphaEndkey 1
+    0.966666996 0.95
+  birthratekey 3
+    0 15
+    0.93333298 15
+    0.966666996 15
+endnode
+node dummy OmenRef05
+  parent OmenEmitter05
+  #part-number 14
+endnode
+node emitter OmenEmitter06 
+  parent Dummy01 
+  #part-number 15
+    orientationkey 4
+      0.0   1.0 0.0 0.0  1.5708
+      0.3   0.57735 -0.57735 -0.57735  2.0944
+      0.633333   0.0 -0.707107 -0.707107  3.14159
+      0.933333   -0.57735 -0.57735 -0.57735  4.18879
+    birthratekey 2
+      0.0   50.0
+      0.933333   50.0
+endnode
+node dummy OmenRef06 
+  parent OmenEmitter06 
+  #part-number 16
+endnode
+node dummy Dummy06 
+  parent vdr_spirit
+  #part-number 17
+    orientationkey 5
+      0.0   0.597662 -0.744671 0.297094  2.67345
+      0.233333   0.924041 -0.101199 0.368655  3.2223
+      0.466667   0.756649 0.607275 0.242278  3.72794
+      0.7   0.108764 0.99312 -0.0433926  3.89607
+      0.966667   -0.597662 0.744671 -0.297094  3.60974
+    endlist 
+endnode
+node emitter OmenEmitter07 
+  parent Dummy06 
+  #part-number 18
+    alphaEndkey 1
+      0.966667   0.95
+    birthratekey 3
+      0.0   15.0
+      0.933333   15.0
+      0.966667   15.0
+endnode
+node dummy OmenRef07 
+  parent OmenEmitter07 
+  #part-number 19
+endnode
+node dummy Dummy07 
+  parent vdr_spirit
+  #part-number 20
+    orientationkey 5
+      0.0   0.193686 0.911221 -0.36354  2.98735
+      0.233333   0.795331 0.516494 -0.317305  3.54802
+      0.466667   0.9748 -0.207201 -0.0826647  3.8834
+      0.7   0.532219 -0.819547 0.212334  3.77361
+      0.966667   -0.193686 -0.911221 0.36354  3.29583
+endnode
+node emitter OmenEmitter08 
+  parent Dummy07 
+  #part-number 21
+    alphaEndkey 1
+      0.966667   0.95
+    birthratekey 3
+      0.0   15.0
+      0.933333   15.0
+      0.966667   15.0
+endnode
+node dummy OmenRef08 
+  parent OmenEmitter08 
+  #part-number 22
+endnode
+doneanim duration vdr_spirit
+
+#MAXANIM ASCII
+newanim cessation vdr_spirit
+  length 1.33333004
+  transtime 0.25
+  animroot vdr_spirit
+node dummy vdr_spirit
+  parent NULL
+  #part-number 0
+endnode
+node dummy Dummy01
+  parent vdr_spirit
+  #part-number 1
+  orientationkey 5
+    0.233333007 -0.707106769 0.707106769 0 -3.14159012
+    0.5 -1 0 0 -3.14159012
+    0.766667008 -0.707106769 -0.707106769 0 -3.14159012
+    1.03332996 0 -1 0 -3.14159012
+    1.29999995 0.707106769 -0.707106769 0 -3.14159012
+endnode
+node emitter OmenEmitter01
+  parent Dummy01
+  #part-number 2
+  alphaStartkey 2
+    0 0.899999976
+    0.333332986 0
+  alphaEndkey 2
+    0 0.899999976
+    0.333332986 -0.100000001
+  birthrate 0
+endnode
+node dummy OmenRef01
+  parent OmenEmitter01
+  #part-number 3
+endnode
+node dummy Dummy02
+  parent vdr_spirit
+  #part-number 4
+  orientationkey 5
+    0.233333007 -0.629744172 0.724437177 0.28038007 -3.76559997
+    0.5 -0.997083306 0.0697229132 -0.0310426094 -3.97718
+    0.766667008 -0.715401649 -0.62188977 -0.318517864 -3.68181992
+    1.03332996 -0.063751407 -0.911687195 -0.405909091 -3.08484006
+    1.29999995 0.629744232 -0.724437177 -0.28038007 -2.51758003
+endnode
+node emitter OmenEmitter02
+  parent Dummy02
+  #part-number 5
+  alphaEndkey 2
+    0 0.899999976
+    0.333332986 -0.100000001
+  birthrate 0
+endnode
+node dummy OmenRef02
+  parent OmenEmitter02
+  #part-number 6
+endnode
+node emitter OmenEmitter03
+  parent vdr_spirit
+  #part-number 7
+  orientationkey 2
+    0.166666999 -0.742134631 -0.239293888 -0.626078725 -1.57397997
+    0.400000006 -0.742134631 -0.239293888 -0.626078725 -1.57397997
+  alphaEndkey 2
+    0 0.899999976
+    0.400000006 -0.100000001
+  birthrate 0
+endnode
+node dummy OmenRef03
+  parent OmenEmitter03
+  #part-number 8
+endnode
+node dummy Dummy03
+  parent vdr_spirit
+  #part-number 9
+  orientationkey 5
+    0.233333007 -0.532218933 0.819546998 -0.212333992 -2.50956988
+    0.5 -0.974799633 0.20720093 0.0826646686 -2.39978004
+    0.766667008 -0.795331061 -0.516493976 0.317305028 -2.73516011
+    1.03332996 -0.193686083 -0.911221325 0.363540113 -3.29583001
+    1.29999995 0.532218993 -0.819546938 0.212334007 -3.77361012
+endnode
+node emitter OmenEmitter04
+  parent Dummy03
+  #part-number 10
+  alphaEndkey 2
+    0 0.899999976
+    0.366667002 -0.100000001
+  birthrate 0
+endnode
+node dummy OmenRef04
+  parent OmenEmitter04
+  #part-number 11
+endnode
+node dummy Dummy04
+  parent vdr_spirit
+  #part-number 12
+  orientationkey 5
+    0.233333007 -0.924041212 0.101199023 -0.368655086 -3.06088996
+    0.5 -0.756649315 -0.607275188 -0.242278069 -2.55523992
+    0.766667008 -0.108764008 -0.993120074 0.0433926024 -2.38710999
+    1.03332996 0.597662091 -0.744671166 0.297094047 -2.67344999
+    1.29999995 0.924041212 -0.101199023 0.368655115 -3.22230005
+endnode
+node emitter OmenEmitter05
+  parent Dummy04
+  #part-number 13
+  alphaEndkey 2
+    0 0.899999976
+    0.400000006 -0.100000001
+  birthrate 0
+endnode
+node dummy OmenRef05
+  parent OmenEmitter05
+  #part-number 14
+endnode
+node emitter OmenEmitter06 
+  parent Dummy01 
+  #part-number 15
+    orientationkey 4
+      0.0   1.0 0.0 0.0  1.5708
+      0.3   0.57735 -0.57735 -0.57735  2.0944
+      0.633333   0.0 -0.707107 -0.707107  3.14159
+      1.29999995   -0.57735 -0.57735 -0.57735  4.18879
+    birthratekey 2
+      0.0   50.0
+      0.933333   0.0
+    alphaEndkey 2
+      0 1.0
+      1.29999995 0.0
+endnode
+node dummy OmenRef06 
+  parent OmenEmitter06 
+  #part-number 16
+endnode
+node dummy Dummy06 
+  parent vdr_spirit
+  #part-number 17
+    orientationkey 5
+      0.0   0.597662 -0.744671 0.297094  2.67345
+      0.233333   0.924041 -0.101199 0.368655  3.2223
+      0.466667   0.756649 0.607275 0.242278  3.72794
+      0.7   0.108764 0.99312 -0.0433926  3.89607
+      0.966667   -0.597662 0.744671 -0.297094  3.60974
+    endlist 
+endnode
+node emitter OmenEmitter07 
+  parent Dummy06 
+  #part-number 18
+  alphaEndkey 2
+    0 0.899999976
+    0.400000006 -0.100000001
+  birthrate 0
+endnode
+node dummy OmenRef07 
+  parent OmenEmitter07 
+  #part-number 19
+endnode
+node dummy Dummy07 
+  parent vdr_spirit
+  #part-number 20
+    orientationkey 5
+      0.0   0.193686 0.911221 -0.36354  2.98735
+      0.233333   0.795331 0.516494 -0.317305  3.54802
+      0.466667   0.9748 -0.207201 -0.0826647  3.8834
+      0.7   0.532219 -0.819547 0.212334  3.77361
+      0.966667   -0.193686 -0.911221 0.36354  3.29583
+endnode
+node emitter OmenEmitter08 
+  parent Dummy07 
+  #part-number 21
+    alphaEndkey 1
+      0.966667   0.0
+    birthratekey 2
+      0.0   15.0
+      0.933333   0.0
+endnode
+node dummy OmenRef08 
+  parent OmenEmitter08 
+  #part-number 22
+endnode
+doneanim cessation vdr_spirit
+
+donemodel vdr_spirit

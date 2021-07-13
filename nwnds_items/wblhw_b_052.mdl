@@ -1,0 +1,18 @@
+# Exported from NWmax 0.8 b61 at 8/10/2019 10:27:37 PM
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: WBlHw_b_052
+#local file: Unknown
+filedependancy Unknown
+newmodel WBlHw_b_052
+setsupermodel WBlHw_b_052 null
+classification Character
+setanimationscale 1.0
+#NWmax GEOM  ASCII
+beginmodelgeom WBlHw_b_052
+node dummy WBlHw_b_052
+  parent NULL
+endnode
+endmodelgeom WBlHw_b_052
+donemodel WBlHw_b_052

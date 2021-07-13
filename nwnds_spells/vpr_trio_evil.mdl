@@ -1,0 +1,262 @@
+#MAXMODEL ASCII
+# model: vpr_trio_evil
+filedependancy vpr_trio_evil.max
+newmodel vpr_trio_evil
+setsupermodel vpr_trio_evil NULL
+classification effect
+setanimationscale 1
+#MAXGEOM  ASCII
+beginmodelgeom vpr_trio_evil
+node dummy vpr_trio_evil
+  parent NULL
+  #part-number 0
+endnode
+node dummy Dummy01
+  parent vpr_trio_evil
+  #part-number 1
+  position 0 0 0
+  orientation 0.0 0.0 1.0 -1.5707
+endnode
+node dummy Rotator
+  parent Dummy01
+  #part-number 2
+  position 0 0 0
+  orientation 0.0 0.0 0.0
+endnode
+node emitter star
+  parent Rotator
+  #part-number 3
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 0
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 1
+  update Fountain
+  render Normal
+  blend Lighten
+  texture fxpa_flare
+  xgrid 1
+  ygrid 1
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0 0 0.3333
+  orientation 0 0 -1 -1.57079995
+  colorStart 0.533333004 0 0
+  colorEnd 0.533333004 0 0
+  alphaStart 1
+  alphaEnd 1
+  sizeStart 0.200000003
+  sizeEnd 0
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 0
+  birthrate 25
+  lifeExp 0.300000012
+  mass 0
+  spread 6.28318977
+  particleRot 0
+  velocity 0.200000003
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node emitter star2
+  parent Rotator
+  #part-number 4
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 0
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 1
+  update Fountain
+  render Normal
+  blend Lighten
+  texture fxpa_flare
+  xgrid 1
+  ygrid 1
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0 -0.288 -0.16666
+  orientation 0 0 -1 -1.57079995
+  colorStart 0.533333004 0 0
+  colorEnd 0.533333004 0 0
+  alphaStart 1
+  alphaEnd 1
+  sizeStart 0.200000003
+  sizeEnd 0
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 0
+  birthrate 25
+  lifeExp 0.300000012
+  mass 0
+  spread 6.28318977
+  particleRot 0
+  velocity 0.200000003
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+node emitter star3
+  parent Rotator
+  #part-number 5
+  p2p 0
+  p2p_sel 1
+  affectedByWind 0
+  m_isTinted 0
+  bounce 0
+  random 0
+  inherit 0
+  inheritvel 0
+  inherit_local 0
+  splat 0
+  inherit_part 0
+  renderorder 0
+  spawntype 1
+  update Fountain
+  render Normal
+  blend Lighten
+  texture fxpa_flare
+  xgrid 1
+  ygrid 1
+  loop 0
+  deadspace 0
+  twosidedtex 0
+  blastRadius 0
+  blastLength 0
+  position 0 0.288 -0.1666
+  orientation 0 0 -1 -1.57079995
+  colorStart 0.533333004 0 0
+  colorEnd 0.533333004 0 0
+  alphaStart 1
+  alphaEnd 1
+  sizeStart 0.200000003
+  sizeEnd 0
+  sizeStart_y 0
+  sizeEnd_y 0
+  frameStart 0
+  frameEnd 0
+  birthrate 25
+  lifeExp 0.300000012
+  mass 0
+  spread 6.28318977
+  particleRot 0
+  velocity 0.200000003
+  randvel 0
+  fps 0
+  xsize 0
+  ysize 0
+  bounce_co 0
+  blurlength 10
+  lightningDelay 0
+  lightningRadius 0
+  lightningScale 0
+  p2p_bezier2 0
+  p2p_bezier3 0
+  combinetime 0
+  drag 0
+  grav 0
+  threshold 0
+endnode
+endmodelgeom vpr_trio_evil
+
+#MAXANIM ASCII
+newanim travel01 vpr_trio_evil
+  length 3.33332992
+  transtime 0.25
+  animroot vpr_trio_evil
+node dummy vpr_trio_evil
+  parent NULL
+  #part-number 0
+endnode
+node dummy Dummy01
+  parent vpr_trio_evil
+  #part-number 1
+endnode
+node dummy Rotator
+  parent Dummy01
+  #part-number 2
+  orientationkey 11
+    0     1 0 0 0
+    0.185 1 0 0 1.57079995
+    0.370 1 0 0 3.14159012
+    0.555 1 0 0 4.71238995
+    0.740 1 0 0 0
+    0.925 1 0 0 1.57079995
+    1.111 1 0 0 3.14159012
+    1.296 1 0 0 4.71238995
+    1.481 1 0 0 0
+    1.666 1 0 0 1.57079995
+    1.851 1 0 0 3.14159012
+    2.037 1 0 0 4.71238995
+    2.222 1 0 0 0
+    2.407 1 0 0 1.57079995
+    2.592 1 0 0 3.14159012
+    2.777 1 0 0 4.71238995
+    2.962 1 0 0 0
+    3.148 1 0 0 1.57079995
+    3.333 1 0 0 3.14159012
+endnode
+node emitter star
+  parent Rotator
+  #part-number 3
+endnode
+node emitter star2
+  parent Rotator
+  #part-number 4
+endnode
+node emitter star3
+  parent Rotator
+  #part-number 5
+endnode
+doneanim travel01 vpr_trio_evil
+
+donemodel vpr_trio_evil

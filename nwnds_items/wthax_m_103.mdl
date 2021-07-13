@@ -1,0 +1,18 @@
+# Exported from NWmax 0.8 b61 at 19.10.2016 18:11:13
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: wthax_m_103
+#local file: Unknown
+filedependancy Unknown
+newmodel wthax_m_103
+setsupermodel wthax_m_103 NULL
+classification Character
+setanimationscale 1.0
+#NWmax GEOM  ASCII
+beginmodelgeom wthax_m_103
+node dummy wthax_m_103
+  parent NULL
+endnode
+endmodelgeom wthax_m_103
+donemodel wthax_m_103

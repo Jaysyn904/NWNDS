@@ -1,0 +1,13 @@
+#MAXMODEL ASCII
+# model: WBwLn_m_071
+filedependancy WBwLn_m_071.max
+newmodel WBwLn_m_071
+setsupermodel WBwLn_m_071 WBwLc_m_071
+setanimationscale 1
+#MAXGEOM  ASCII
+beginmodelgeom WBwLn_m_071
+node dummy WBwLn_m_071
+  parent NULL
+endnode
+endmodelgeom WBwLn_m_071
+donemodel WBwLn_m_071

@@ -1,0 +1,24 @@
+#MAXDOOR ASCII
+# model: PLC_Fungus_pwk 
+filedependancy IoP-Fungus_01.max
+node trimesh PLC_Fungus_wg 
+  parent PLC_Fungus_pwk 
+  position 0.0 0.0 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.345098 0.694118 0.101961  
+    bitmap NULL
+    verts 4
+     -0.293381 -0.3568 0.0
+     0.34206 -0.3568 0.0
+     -0.293381 0.299752 0.0
+     0.34206 0.299752 0.0
+    faces 2
+     2 0 3  1  0 0 0  1
+     1 3 0  1  0 0 0  1
+endnode
+node dummy IoP_pwk_use01 
+  parent PLC_Fungus_pwk 
+  position -0.0206045 0.0286131 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.109804 0.584314 0.694118  
+endnode

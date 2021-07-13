@@ -1,0 +1,17 @@
+# Exported from NWmax 0.8 b50 at 8/4/2009 6:32:29 PM
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: wspka_m_021
+#local file: Unknown
+filedependancy Unknown
+newmodel wspka_m_021
+setsupermodel wspka_m_021 NULL
+classification Item
+#NWmax GEOM  ASCII
+beginmodelgeom wspka_m_021
+node dummy wspka_m_021
+  parent NULL
+endnode
+endmodelgeom wspka_m_021
+donemodel wspka_m_021

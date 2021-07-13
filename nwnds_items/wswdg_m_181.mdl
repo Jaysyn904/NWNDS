@@ -1,0 +1,18 @@
+# Exported from NWmax 0.8 b61 at 23.09.2016 11:07:30
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: WSwDg_m_181
+#local file: C:\gmax\Scenes\convert.gmax
+filedependancy convert.gmax
+newmodel WSwDg_m_181
+setsupermodel WSwDg_m_181 NULL
+classification Character
+setanimationscale 1.0
+#NWmax GEOM  ASCII
+beginmodelgeom WSwDg_m_181
+node dummy WSwDg_m_181
+  parent NULL
+endnode
+endmodelgeom WSwDg_m_181
+donemodel WSwDg_m_181
