@@ -1,0 +1,66 @@
+#MAXMODEL ASCII
+# model: pfu2_neck007
+filedependancy pfd2_neck007.max
+newmodel pfu2_neck007
+setsupermodel pfu2_neck007 NULL
+classification character
+setanimationscale 1
+#MAXGEOM  ASCII
+beginmodelgeom pfu2_neck007
+node dummy pfu2_neck007
+  parent NULL
+  #part-number 0
+endnode
+node trimesh pfu2_neck007g
+  parent pfu2_neck007
+  #part-number 1
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0.25999999 0.25999999 0.25999999
+  shininess 14
+  bitmap pfh0_neck001
+  verts 10
+    0.0000000 0.0067481 -0.0942412
+    -0.1528155 -0.0053018 -0.0018435
+    0.0000000 0.1301674 0.0008474
+    0.0000000 -0.1193168 0.0089160
+    -0.1096585 0.0175013 0.1631038
+    0.0000000 0.1137719 0.1130918
+    0.0000000 -0.0926510 0.1399081
+    0.0000000 0.0101067 0.2046816
+    0.1528155 -0.0053018 -0.0018435
+    0.1096585 0.0175013 0.1631038
+  tverts 10
+    0.510302007 0.0257169008 0
+    0.0103674 0.0870715007 0
+    0.509868026 0.0960642993 0
+    0.509868026 0.123029999 0
+    0.0339474007 0.941659987 0
+    0.509868026 0.688916028 0
+    0.501973987 0.809937 0
+    0.5 0.982689023 0
+    0.979764998 0.0798251033 0
+    0.981841028 0.940598011 0
+  faces 16
+    0 1 2 1 0 1 2 1
+    0 3 1 1 0 3 1 1
+    2 4 5 1 2 4 5 1
+    2 1 4 1 2 1 4 1
+    1 6 4 1 1 6 4 1
+    1 3 6 1 1 3 6 1
+    7 5 4 1 7 5 4 1
+    7 4 6 1 7 4 6 1
+    8 0 2 1 8 0 2 1
+    3 0 8 1 3 0 8 1
+    9 2 5 1 9 2 5 1
+    8 2 9 1 8 2 9 1
+    6 8 9 1 6 8 9 1
+    3 8 6 1 3 8 6 1
+    5 7 9 1 5 7 9 1
+    9 7 6 1 9 7 6 1
+  position 0.0000000 0.0000000 0.0000000
+  orientation 0 0 0 0
+endnode
+endmodelgeom pfu2_neck007
+
+donemodel pfu2_neck007

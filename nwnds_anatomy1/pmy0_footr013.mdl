@@ -1,0 +1,21 @@
+#Model converted by mdl2ascii
+#For updates/comments check out http://nwn-j3d.sf.net
+filedependancy Unknown
+newmodel pmy0_footr013
+setsupermodel pmy0_footr013 NULL
+classification Character
+setanimationscale 1.000000
+#MAXGEOM  ASCII
+beginmodelgeom pmy0_footr013
+node dummy pmy0_footr013
+  parent NULL
+endnode
+node dummy Dummy01
+  parent pmy0_footr013
+  position 0.0000000 0.0000000 0.0000000
+  orientation 0.000000 0.000000 0.000000 0.000000
+endnode
+endmodelgeom pmy0_footr013
+donemodel pmy0_footr013
+
+

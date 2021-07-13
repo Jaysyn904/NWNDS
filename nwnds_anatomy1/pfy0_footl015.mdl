@@ -1,0 +1,22 @@
+#MAXMODEL ASCII
+# model: pfy0_footl015
+filedependancy pfh0_footl015.max
+newmodel pfy0_footl015
+setsupermodel pfy0_footl015 NULL
+classification character
+setanimationscale 1
+#MAXGEOM  ASCII
+beginmodelgeom pfy0_footl015
+node dummy pfy0_footl015
+  parent NULL
+  #part-number 0
+endnode
+node dummy Dummy06
+  parent pfy0_footl015
+  #part-number 1
+  position 0.0000000 0.0000000 0.0000000
+  orientation 0 0 0 0
+endnode
+endmodelgeom pfy0_footl015
+
+donemodel pfy0_footl015

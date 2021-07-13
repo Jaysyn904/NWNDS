@@ -1,0 +1,17 @@
+# Exported from NWMax Plus v6.11.28 at 11/6/2018 6:56:09 PM
+# mdl file
+#
+#NWMax Plus MODEL  ASCII
+# model: pfj0_bicepl255
+filedependancy Unknown
+newmodel pfj0_bicepl255
+setsupermodel pfj0_bicepl255 NULL
+classification Character
+setanimationscale 1.0
+#NWMax Plus GEOM  ASCII
+beginmodelgeom pfj0_bicepl255
+node dummy pfj0_bicepl255
+  parent NULL
+endnode
+endmodelgeom pfj0_bicepl255
+donemodel pfj0_bicepl255

@@ -1,0 +1,18 @@
+#MAXMODEL ASCII
+# model: pm#0_legl017
+filedependancy pm#0_legl017 NULL.mlk
+newmodel pm#0_legl017
+setsupermodel pm#0_legl017 NULL
+classification Character
+setanimationscale 0
+
+#MAXGEOM ASCII
+beginmodelgeom pm#0_legl017
+node dummy pm#0_legl017
+  parent NULL
+endnode
+
+endmodelgeom pm#0_legl017
+
+donemodel pm#0_legl017
+
