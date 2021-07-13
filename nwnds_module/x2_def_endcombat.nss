@@ -1,0 +1,25 @@
+//::///////////////////////////////////////////////
+//:: Name x2_def_endcombat
+//:: Copyright (c) 2001 Bioware Corp.
+//:://////////////////////////////////////////////
+/*
+    Default Combat Round End script
+*/
+//:://////////////////////////////////////////////
+//:: Created By: Keith Warner
+//:: Created On: June 11/03
+//:://////////////////////////////////////////////
+
+// Necromancy 101 /////////
+#include "_inc_battlecry_"
+///////////////////////////
+
+void main()
+{
+    ExecuteScript("prc_npc_combat", OBJECT_SELF);
+    ExecuteScript("nw_c2_default3", OBJECT_SELF);
+
+    // Necromancy 101 ///
+    DoCombatCry();
+    /////////////////////
+}

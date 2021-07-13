@@ -1,0 +1,19 @@
+//::///////////////////////////////////////////////
+//:: FileName at_100gp500xp
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 7/27/02 11:33:01 AM
+//:://////////////////////////////////////////////
+#include "nw_i0_tool"
+
+void main()
+{
+    // Give the speaker some XP
+    RewardPartyXP(7000, GetPCSpeaker());
+
+    // Give the speaker some gold
+    GiveGoldToCreature(GetPCSpeaker(), 15000);
+
+}
+

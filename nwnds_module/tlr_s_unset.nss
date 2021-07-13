@@ -1,0 +1,22 @@
+//::///////////////////////////////////////////////
+//::TAILOR: unset symmetry locals
+//::                             onconv mil_tailor
+//:://////////////////////////////////////////////
+/*
+
+   this deletes the symmetry locals,
+   so they dont get confused.
+
+*/
+//:://////////////////////////////////////////////
+//:: Created By: bloodsong
+//:://////////////////////////////////////////////
+
+
+
+void main()
+{
+    DeleteLocalString(OBJECT_SELF, "SYMMETRYTYPE");
+
+
+}

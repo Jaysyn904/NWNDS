@@ -1,0 +1,16 @@
+//::///////////////////////////////////////////////
+//:: FileName at_brill02
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 7/29/02 8:43:20 PM
+//:://////////////////////////////////////////////
+void main()
+{
+    // Give the speaker the items
+    CreateItemOnObject("qst_smithhammer", GetPCSpeaker(), 1);
+
+    // Set the variables
+    SetLocalInt(GetPCSpeaker(), "nBrillQuest", 1);
+
+}

@@ -1,0 +1,17 @@
+//::///////////////////////////////////////////////
+//:: FileName sc_beletqcheck1
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 9/10/2002 12:38:53 AM
+//:://////////////////////////////////////////////
+int StartingConditional()
+{
+
+    // Inspect local variables
+  if(!(GetLocalInt(GetPCSpeaker(), "NW_JOURNAL_ENTRY"  + "jt_queenstouch") == 1))
+        return FALSE;
+
+    return TRUE;
+
+}

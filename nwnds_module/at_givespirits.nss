@@ -1,0 +1,16 @@
+//::///////////////////////////////////////////////
+//:: FileName at_givespirits
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 10/10/2002 2:32:37 AM
+//:://////////////////////////////////////////////
+void main()
+{
+	// Give the speaker the items
+	CreateItemOnObject("nw_it_mpotion022", GetPCSpeaker(), 1);
+
+
+	// Remove some gold from the player
+	TakeGoldFromCreature(25, GetPCSpeaker(), TRUE);
+}

@@ -1,0 +1,16 @@
+//::///////////////////////////////////////////////
+//:: FileName sc_chkmirbelt
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 10/11/2002 1:47:59 AM
+//:://////////////////////////////////////////////
+int StartingConditional()
+{
+
+    // Inspect local variables
+    if(!(GetLocalInt(GetPCSpeaker(), "nGaveDonationFirst") == 1))
+        return FALSE;
+
+    return TRUE;
+}

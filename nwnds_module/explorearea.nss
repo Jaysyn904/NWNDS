@@ -1,0 +1,4 @@
+void main()
+{
+ExploreAreaForPlayer(GetArea(GetNearestCreature(CREATURE_TYPE_PLAYER_CHAR,PLAYER_CHAR_IS_PC,OBJECT_SELF)),GetNearestCreature(CREATURE_TYPE_PLAYER_CHAR,PLAYER_CHAR_IS_PC,OBJECT_SELF));
+}

@@ -1,0 +1,17 @@
+//::///////////////////////////////////////////////
+//:: FileName sc_elinikqchec2
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 9/10/2002 12:34:05 AM
+//:://////////////////////////////////////////////
+int StartingConditional()
+{
+
+    // Inspect local variables
+    if(!(GetLocalInt(GetPCSpeaker(), "NW_JOURNAL_ENTRY"  + "jt_bloodletter") == 4))
+        return FALSE;
+
+    return TRUE;
+
+}

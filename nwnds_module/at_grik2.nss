@@ -1,0 +1,16 @@
+//::///////////////////////////////////////////////
+//:: FileName at_grik2
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 7/29/02 7:14:51 PM
+//:://////////////////////////////////////////////
+void main()
+{
+    // Give the speaker the items
+    CreateItemOnObject("qst_arrowcrate", GetPCSpeaker(), 1);
+
+    // Set the variables
+    SetLocalInt(GetPCSpeaker(), "nGrikQuest", 1);
+
+}
