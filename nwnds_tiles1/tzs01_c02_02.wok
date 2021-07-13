@@ -1,0 +1,35 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+beginwalkmeshgeom TZS01_C02_02
+node aabb Rectangle12
+  parent TZS01_C02_02
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.695313 0.695313 0.695313
+  ambient 0.2 0.2 0.2
+  diffuse 0.8 0.8 0.8
+  specular 0 0 0
+  shininess 1
+  bitmap NULL
+  verts 6
+    -5 -5 0
+    5 -5 0
+    5 5 0
+    -5 5 0
+    3.33382 -5 0
+    3.33382 5 0
+  faces 4
+    1 2 4  1  0 0 0  4
+    2 5 4  1  0 0 0  4
+    5 3 0  1  0 0 0  7
+    5 0 4  1  0 0 0  7
+  aabb     -5.00 -5.00 0.00   5.00 5.00 0.00   -1
+     -5.00 -5.00 0.00   5.00 5.00 0.00   -1
+     -5.00 -5.00 0.00   3.33 5.00 0.00   3
+     3.33 -5.00 0.00   5.00 5.00 0.00   0
+     -5.00 -5.00 0.00   5.00 5.00 0.00   -1
+     -5.00 -5.00 0.00   3.33 5.00 0.00   2
+     3.33 -5.00 0.00   5.00 5.00 0.00   1
+endnode
+endwalkmeshgeom TZS01_C02_02

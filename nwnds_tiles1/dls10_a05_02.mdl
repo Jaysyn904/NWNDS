@@ -1,0 +1,1523 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: dls10_a05_02
+filedependancy deadend2.max
+newmodel dls10_a05_02
+setsupermodel dls10_a05_02 NULL
+classification Tile
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom dls10_a05_02
+node dummy dls10_a05_02
+  parent NULL
+endnode
+node trimesh Cylinder02
+  parent dls10_a05_02
+  position 0 -5 1.5
+  orientation 1 0 0 -1.5708
+  wirecolor 0.898438 0.898438 0.898438
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  bitmap dls10_sewpipe
+  render 1
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 64
+    -1.75 0 0
+    -1.68 -0.46 0
+    -1.46 -0.879999 0
+    -1.13 -1.21 0
+    -0.71 -1.43 0
+    0 -1.5 0
+    0.71 -1.43 0
+    1.13 -1.21 0
+    1.46 -0.88 0
+    1.68 -0.46 0
+    1.75 0 0
+    1.68 0.46 0
+    1.46 0.879999 0
+    1.13 1.21 0
+    0.71 1.43 0
+    0 1.5 0
+    -0.71 1.43 0
+    -1.13 1.21 0
+    -1.46 0.88 0
+    -1.68 0.46 0
+    -1.75 0 2
+    -1.67658 -0.463525 2
+    -1.46353 -0.881677 2
+    -1.13168 -1.21352 2
+    -0.713525 -1.42658 2
+    0 -1.5 2
+    0.713525 -1.42658 2
+    1.13168 -1.21352 2
+    1.46353 -0.881677 2
+    1.67658 -0.463525 2
+    1.75 0 2
+    1.67658 0.463525 2
+    1.46353 0.881677 2
+    1.13168 1.21352 2
+    0.713525 1.42658 2
+    0 1.5 2
+    -0.713526 1.42658 2
+    -1.13168 1.21352 2
+    -1.46353 0.881677 2
+    -1.67658 0.463525 2
+    -1.75 0 5
+    -1.67658 -0.463525 5
+    -1.46353 -0.881677 5
+    -1.13168 -1.21352 5
+    -0.713525 -1.42658 5
+    0 -1.5 5
+    0.713525 -1.42658 5
+    1.13168 -1.21352 5
+    1.46353 -0.881677 5
+    1.67658 -0.463525 5
+    1.75 0 5
+    1.67658 0.463525 5
+    1.46353 0.881677 5
+    1.13168 1.21352 5
+    0.713525 1.42658 5
+    0 1.5 5
+    -0.713526 1.42658 5
+    -1.13168 1.21352 5
+    -1.46353 0.881677 5
+    -1.67658 0.463525 5
+    0.4 -0.399999 5
+    -0.4 -0.399999 5
+    -0.4 -1.2 5
+    0.4 -1.2 5
+  faces 104
+    21 1 0  8  21 1 0  2
+    0 20 21  8  0 20 21  2
+    22 2 1  8  22 2 1  2
+    1 21 22  8  1 21 22  2
+    23 3 2  8  23 3 2  2
+    2 22 23  8  2 22 23  2
+    24 4 3  8  24 4 3  2
+    3 23 24  8  3 23 24  2
+    25 5 4  8  25 5 4  2
+    4 24 25  8  4 24 25  2
+    26 6 5  8  26 84 60  2
+    5 25 26  8  60 61 26  2
+    27 7 6  8  27 7 6  2
+    6 26 27  8  6 26 27  2
+    28 8 7  8  28 8 7  2
+    7 27 28  8  7 27 28  2
+    29 9 8  8  29 9 8  2
+    8 28 29  8  8 28 29  2
+    30 10 9  8  30 10 9  2
+    9 29 30  8  9 29 30  2
+    31 11 10  8  31 11 10  2
+    10 30 31  8  10 30 31  2
+    32 12 11  8  32 12 11  2
+    11 31 32  8  11 31 32  2
+    33 13 12  8  33 13 12  2
+    12 32 33  8  12 32 33  2
+    34 14 13  8  34 14 13  2
+    13 33 34  8  13 33 34  2
+    35 15 14  8  35 15 14  2
+    14 34 35  8  14 34 35  2
+    36 16 15  8  36 16 15  2
+    15 35 36  8  15 35 36  2
+    37 17 16  8  37 17 16  2
+    16 36 37  8  16 36 37  2
+    38 18 17  8  38 18 17  2
+    17 37 38  8  17 37 38  2
+    39 19 18  8  39 19 18  2
+    18 38 39  8  18 38 39  2
+    20 0 19  8  20 0 19  2
+    19 39 20  8  19 39 20  2
+    41 21 20  8  41 21 20  2
+    20 40 41  8  20 40 41  2
+    42 22 21  8  42 22 21  2
+    21 41 42  8  21 41 42  2
+    43 23 22  8  43 23 22  2
+    22 42 43  8  22 42 43  2
+    44 24 23  8  44 24 23  2
+    23 43 44  8  23 43 44  2
+    45 25 24  8  45 25 24  2
+    24 44 45  8  24 44 45  2
+    46 26 25  8  46 85 62  2
+    25 45 46  8  62 63 46  2
+    47 27 26  8  47 27 26  2
+    26 46 47  8  26 46 47  2
+    48 28 27  8  48 28 27  2
+    27 47 48  8  27 47 48  2
+    49 29 28  8  49 29 28  2
+    28 48 49  8  28 48 49  2
+    50 30 29  8  50 30 29  2
+    29 49 50  8  29 49 50  2
+    51 31 30  8  51 31 30  2
+    30 50 51  8  30 50 51  2
+    52 32 31  8  52 32 31  2
+    31 51 52  8  31 51 52  2
+    53 33 32  8  53 33 32  2
+    32 52 53  8  32 52 53  2
+    54 34 33  8  54 34 33  2
+    33 53 54  8  33 53 54  2
+    55 35 34  8  55 35 34  2
+    34 54 55  8  34 54 55  2
+    56 36 35  8  56 36 35  2
+    35 55 56  8  35 55 56  2
+    57 37 36  8  57 37 36  2
+    36 56 57  8  36 56 57  2
+    58 38 37  8  58 38 37  2
+    37 57 58  8  37 57 58  2
+    59 39 38  8  59 39 38  2
+    38 58 59  8  38 58 59  2
+    40 20 39  8  40 20 39  2
+    39 59 40  8  39 59 40  2
+    62 63 47  0  88 89 71  0
+    47 46 45  0  71 72 73  0
+    62 47 45  0  88 71 73  0
+    45 44 43  0  73 74 75  0
+    62 45 43  0  88 73 75  0
+    62 43 42  0  88 75 76  0
+    61 62 42  0  87 88 76  0
+    61 42 41  0  87 76 77  0
+    61 41 40  0  87 77 78  0
+    60 61 40  0  86 87 78  0
+    40 59 58  0  78 79 80  0
+    60 40 58  0  86 78 80  0
+    58 57 56  0  80 81 82  0
+    60 58 56  0  86 80 82  0
+    55 54 53  0  83 64 65  0
+    56 55 53  0  82 83 65  0
+    60 56 53  0  86 82 65  0
+    53 52 51  0  65 66 67  0
+    60 53 51  0  86 65 67  0
+    60 51 50  0  86 67 68  0
+    60 50 49  0  86 68 69  0
+    60 49 48  0  86 69 70  0
+    48 47 63  0  70 71 89  0
+    60 48 63  0  86 70 89  0
+  tverts 90
+    2 2.0 1
+    2 2.1 1
+    2 2.2 1
+    2 2.3 1
+    2 2.4 1
+    2 2.5 1
+    2 0.6 1
+    2 0.7 1
+    2 0.8 1
+    2 0.9 1
+    2 1.0 1
+    2 1.1 1
+    2 1.2 1
+    2 1.3 1
+    2 1.4 1
+    2 1.5 1
+    2 1.6 1
+    2 1.7 1
+    2 1.8 1
+    2 1.9 1
+    1.59078 2.0 1
+    1.59078 2.1 1
+    1.59078 2.2 1
+    1.59078 2.3 1
+    1.59078 2.4 1
+    1.59078 2.5 1
+    1.59078 0.6 1
+    1.59078 0.7 1
+    1.59078 0.8 1
+    1.59078 0.9 1
+    1.59078 1.0 1
+    1.59078 1.1 1
+    1.59078 1.2 1
+    1.59078 1.3 1
+    1.59078 1.4 1
+    1.59078 1.5 1
+    1.59078 1.6 1
+    1.59078 1.7 1
+    1.59078 1.8 1
+    1.59078 1.9 1
+    0.991382 2.0 1
+    0.991382 2.1 1
+    0.991382 2.2 1
+    0.991382 2.3 1
+    0.991382 2.4 1
+    0.991382 2.5 1
+    0.991382 0.6 1
+    0.991382 0.7 1
+    0.991382 0.8 1
+    0.991382 0.9 1
+    0.991382 1.0 1
+    0.991382 1.1 1
+    0.991382 1.2 1
+    0.991382 1.3 1
+    0.991382 1.4 1
+    0.991382 1.5 1
+    0.991382 1.6 1
+    0.991382 1.7 1
+    0.991382 1.8 1
+    0.991382 1.9 1
+    2 0.5 1
+    1.59078 0.5 1
+    1.59078 0.5 1
+    0.991382 0.5 1
+    0.345492 0.414147 0.500031
+    0.206107 0.475021 0.500031
+    0.0954916 0.569835 0.500031
+    0.0244718 0.689307 0.500031
+    0 0.821743 0.500031
+    0.0244718 0.954179 0.500031
+    0.0954916 1.07365 0.500031
+    0.206108 1.16846 0.500031
+    0.345492 1.22934 0.500031
+    0.5 1.25031 0.500031
+    0.654509 1.22934 0.500031
+    0.793893 1.16846 0.500031
+    0.904509 1.07365 0.500031
+    0.975528 0.954179 0.500031
+    1 0.821743 0.500031
+    0.975528 0.689307 0.500031
+    0.904509 0.569835 0.500031
+    0.793893 0.475021 0.500031
+    0.654509 0.414147 0.500031
+    0.5 0.393171 0.500031
+    2 0.604705 1
+    1.59078 0.6 1
+    0.413383 0.936028 0.500031
+    0.616497 0.936028 0.500031
+    0.613452 1.1646 0.500031
+    0.37696 1.1646 0.500031
+endnode
+node dummy dls10_a05_02a
+  parent dls10_a05_02
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.347656 0.347656 0.347656
+endnode
+node emitter DRIP_02_01
+  parent dls10_a05_02a
+  position 0.556484 -3.44641 2.99227
+  orientation 0.999676 -0.00547066 -0.0248734 -3.13359
+  wirecolor 0.113281 0.113281 0.113281
+    colorStart 0.113725 0.203922 0
+    colorEnd 0.113725 0.203922 0
+    alphaStart 0.5
+    alphaEnd 0.5
+    sizeStart 0.08
+    sizeEnd 0.06
+    sizeStart_y 0.02
+    sizeEnd_y 0.01
+    frameStart 0
+    frameEnd 0
+    birthrate 1
+    spawnType 0
+    lifeExp 1.5
+    mass 0.3
+    spread 0
+    particleRot 0
+    velocity 0.5
+    randvel 0
+    fps 0
+    random 0
+    inherit 1
+    inherit_local 0
+    inherit_part 0
+    inheritvel 0
+    xsize 0
+    ysize 0
+    bounce 0
+    bounce_co 0
+    loop 0
+    update Fountain
+    render Linked
+    Blend Lighten
+    update_sel 1
+    render_sel 2
+    blend_sel 3
+    deadspace 0
+    opacity 0.5
+    blurlength 0
+    lightningDelay 0
+    lightningRadius 0
+    lightningScale 0
+    blastRadius 0
+    blastLength 0
+    twosidedtex 0
+    p2p 0
+    p2p_sel 1
+    p2p_type Bezier
+    p2p_bezier2 0
+    p2p_bezier3 0
+    combinetime 0
+    drag 0
+    grav 0
+    threshold 0
+    texture Fxpa_drip
+    xgrid 1
+    ygrid 1
+    affectedByWind 0
+    m_isTinted 1
+    renderorder 0
+    Splat 1
+endnode
+node emitter DRIP_02_02
+  parent dls10_a05_02a
+  position -0.852304 -2.39173 2.99227
+  orientation 0.999676 -0.00547066 -0.0248734 -3.13359
+  wirecolor 0.113281 0.113281 0.113281
+    colorStart 0.113725 0.203922 0
+    colorEnd 0.113725 0.203922 0
+    alphaStart 0.5
+    alphaEnd 0.5
+    sizeStart 0.08
+    sizeEnd 0.06
+    sizeStart_y 0.02
+    sizeEnd_y 0.01
+    frameStart 0
+    frameEnd 0
+    birthrate 1
+    spawnType 0
+    lifeExp 1.5
+    mass 0.3
+    spread 0
+    particleRot 0
+    velocity 0.5
+    randvel 0
+    fps 0
+    random 0
+    inherit 1
+    inherit_local 0
+    inherit_part 0
+    inheritvel 0
+    xsize 0
+    ysize 0
+    bounce 0
+    bounce_co 0
+    loop 0
+    update Fountain
+    render Linked
+    Blend Lighten
+    update_sel 1
+    render_sel 2
+    blend_sel 3
+    deadspace 0
+    opacity 0.5
+    blurlength 0
+    lightningDelay 0
+    lightningRadius 0
+    lightningScale 0
+    blastRadius 0
+    blastLength 0
+    twosidedtex 0
+    p2p 0
+    p2p_sel 1
+    p2p_type Bezier
+    p2p_bezier2 0
+    p2p_bezier3 0
+    combinetime 0
+    drag 0
+    grav 0
+    threshold 0
+    texture Fxpa_drip
+    xgrid 1
+    ygrid 1
+    affectedByWind 0
+    m_isTinted 1
+    renderorder 0
+    Splat 1
+endnode
+node emitter DRIP_03_01
+  parent dls10_a05_02a
+  position -1.25283 -1.694 2.99227
+  orientation 0.999676 -0.00547066 -0.0248734 -3.13359
+  wirecolor 0.113281 0.113281 0.113281
+    colorStart 0.113725 0.203922 0
+    colorEnd 0.113725 0.203922 0
+    alphaStart 0.5
+    alphaEnd 0.5
+    sizeStart 0.08
+    sizeEnd 0.06
+    sizeStart_y 0.02
+    sizeEnd_y 0.01
+    frameStart 0
+    frameEnd 0
+    birthrate 1
+    spawnType 0
+    lifeExp 1.5
+    mass 0.3
+    spread 0
+    particleRot 0
+    velocity 0.5
+    randvel 0
+    fps 0
+    random 0
+    inherit 1
+    inherit_local 0
+    inherit_part 0
+    inheritvel 0
+    xsize 0
+    ysize 0
+    bounce 0
+    bounce_co 0
+    loop 0
+    update Fountain
+    render Linked
+    Blend Lighten
+    update_sel 1
+    render_sel 2
+    blend_sel 3
+    deadspace 0
+    opacity 0.5
+    blurlength 0
+    lightningDelay 0
+    lightningRadius 0
+    lightningScale 0
+    blastRadius 0
+    blastLength 0
+    twosidedtex 0
+    p2p 0
+    p2p_sel 1
+    p2p_type Bezier
+    p2p_bezier2 0
+    p2p_bezier3 0
+    combinetime 0
+    drag 0
+    grav 0
+    threshold 0
+    texture Fxpa_drip
+    xgrid 1
+    ygrid 1
+    affectedByWind 0
+    m_isTinted 1
+    renderorder 0
+    Splat 1
+endnode
+node emitter DRIP_05_01
+  parent dls10_a05_02a
+  position -0.97637 -4.30714 2.99227
+  orientation 0.999676 -0.00547066 -0.0248734 -3.13359
+  wirecolor 0.113281 0.113281 0.113281
+    colorStart 0.113725 0.203922 0
+    colorEnd 0.113725 0.203922 0
+    alphaStart 0.5
+    alphaEnd 0.5
+    sizeStart 0.08
+    sizeEnd 0.06
+    sizeStart_y 0.02
+    sizeEnd_y 0.01
+    frameStart 0
+    frameEnd 0
+    birthrate 1
+    spawnType 0
+    lifeExp 1.5
+    mass 0.3
+    spread 0
+    particleRot 0
+    velocity 0.5
+    randvel 0
+    fps 0
+    random 0
+    inherit 1
+    inherit_local 0
+    inherit_part 0
+    inheritvel 0
+    xsize 0
+    ysize 0
+    bounce 0
+    bounce_co 0
+    loop 0
+    update Fountain
+    render Linked
+    Blend Lighten
+    update_sel 1
+    render_sel 2
+    blend_sel 3
+    deadspace 0
+    opacity 0.5
+    blurlength 0
+    lightningDelay 0
+    lightningRadius 0
+    lightningScale 0
+    blastRadius 0
+    blastLength 0
+    twosidedtex 0
+    p2p 0
+    p2p_sel 1
+    p2p_type Bezier
+    p2p_bezier2 0
+    p2p_bezier3 0
+    combinetime 0
+    drag 0
+    grav 0
+    threshold 0
+    texture Fxpa_drip
+    xgrid 1
+    ygrid 1
+    affectedByWind 0
+    m_isTinted 1
+    renderorder 0
+    Splat 1
+endnode
+node emitter DRIP_05_02
+  parent dls10_a05_02a
+  position -1.42454 -2.95633 2.99227
+  orientation 0.999676 -0.00547066 -0.0248734 -3.13359
+  wirecolor 0.113281 0.113281 0.113281
+    colorStart 0.113725 0.203922 0
+    colorEnd 0.113725 0.203922 0
+    alphaStart 0.5
+    alphaEnd 0.5
+    sizeStart 0.08
+    sizeEnd 0.06
+    sizeStart_y 0.02
+    sizeEnd_y 0.01
+    frameStart 0
+    frameEnd 0
+    birthrate 1
+    spawnType 0
+    lifeExp 1.5
+    mass 0.3
+    spread 0
+    particleRot 0
+    velocity 0.5
+    randvel 0
+    fps 0
+    random 0
+    inherit 1
+    inherit_local 0
+    inherit_part 0
+    inheritvel 0
+    xsize 0
+    ysize 0
+    bounce 0
+    bounce_co 0
+    loop 0
+    update Fountain
+    render Linked
+    Blend Lighten
+    update_sel 1
+    render_sel 2
+    blend_sel 3
+    deadspace 0
+    opacity 0.5
+    blurlength 0
+    lightningDelay 0
+    lightningRadius 0
+    lightningScale 0
+    blastRadius 0
+    blastLength 0
+    twosidedtex 0
+    p2p 0
+    p2p_sel 1
+    p2p_type Bezier
+    p2p_bezier2 0
+    p2p_bezier3 0
+    combinetime 0
+    drag 0
+    grav 0
+    threshold 0
+    texture Fxpa_drip
+    xgrid 1
+    ygrid 1
+    affectedByWind 0
+    m_isTinted 1
+    renderorder 0
+    Splat 1
+endnode
+node emitter fount01
+  parent dls10_a05_02a
+  position -0.00569 1.10831 3.12238
+  orientation 0.702208 -0.702208 0.117509 -3.37554
+  wirecolor 0.695313 0.695313 0.695313
+    colorStart 0.592157 0.67451 0.592157
+    colorEnd 0.533333 0.588235 0.513726
+    alphaStart 0.6
+    alphaEnd 0.25
+    sizeStart 0.2
+    sizeEnd 0.5
+    sizeStart_y 0
+    sizeEnd_y 0
+    frameStart 0
+    frameEnd 0
+    birthrate 50
+    spawnType 0
+    lifeExp 0.4
+    mass 0.4
+    spread 0.174533
+    particleRot 0
+    velocity 1.5
+    randvel 0.3
+    fps 0
+    random 0
+    inherit 0
+    inherit_local 0
+    inherit_part 0
+    inheritvel 0
+    xsize 20
+    ysize 40
+    bounce 0
+    bounce_co 1
+    loop 0
+    update Fountain
+    render Normal
+    Blend Normal
+    update_sel 1
+    render_sel 1
+    blend_sel 1
+    deadspace 0
+    opacity 0.5
+    blurlength 10
+    lightningDelay 0
+    lightningRadius 0
+    lightningScale 0
+    blastRadius 0
+    blastLength 0
+    twosidedtex 0
+    p2p 0
+    p2p_sel 1
+    p2p_type Bezier
+    p2p_bezier2 0
+    p2p_bezier3 0
+    combinetime 0
+    drag 0
+    grav 0
+    threshold 0
+    texture Fxpa_splash
+    xgrid 1
+    ygrid 1
+    affectedByWind 0
+    m_isTinted 0
+    renderorder 0
+    Splat 0
+endnode
+node emitter fount02
+  parent dls10_a05_02a
+  position -0.00569002 0.919626 2.06344
+  orientation -0.532626 0.532626 -0.657738 -1.978
+  wirecolor 0.695313 0.695313 0.695313
+    colorStart 0.592157 0.67451 0.592157
+    colorEnd 0.533333 0.588235 0.513726
+    alphaStart 0.6
+    alphaEnd 0.25
+    sizeStart 0.2
+    sizeEnd 0.5
+    sizeStart_y 0
+    sizeEnd_y 0
+    frameStart 0
+    frameEnd 0
+    birthrate 50
+    spawnType 0
+    lifeExp 0.3
+    mass 0.4
+    spread 0.174533
+    particleRot 0
+    velocity 1.5
+    randvel 0.3
+    fps 0
+    random 0
+    inherit 0
+    inherit_local 0
+    inherit_part 0
+    inheritvel 0
+    xsize 20
+    ysize 40
+    bounce 0
+    bounce_co 1
+    loop 0
+    update Fountain
+    render Normal
+    Blend Normal
+    update_sel 1
+    render_sel 1
+    blend_sel 1
+    deadspace 0
+    opacity 0.5
+    blurlength 10
+    lightningDelay 0
+    lightningRadius 0
+    lightningScale 0
+    blastRadius 0
+    blastLength 0
+    twosidedtex 0
+    p2p 0
+    p2p_sel 1
+    p2p_type Bezier
+    p2p_bezier2 0
+    p2p_bezier3 0
+    combinetime 0
+    drag 0
+    grav 0
+    threshold 0
+    texture Fxpa_splash
+    xgrid 1
+    ygrid 1
+    affectedByWind 0
+    m_isTinted 0
+    renderorder 0
+    Splat 0
+endnode
+node emitter fount0101
+  parent dls10_a05_02a
+  position -0.00569009 0.143555 2.02031
+  orientation 0.582323 -0.582323 0.567274 -4.17361
+  wirecolor 0.695313 0.695313 0.695313
+    colorStart 0.592157 0.67451 0.592157
+    colorEnd 0.533333 0.588235 0.513726
+    alphaStart 0.6
+    alphaEnd 0.25
+    sizeStart 0.2
+    sizeEnd 0.5
+    sizeStart_y 0
+    sizeEnd_y 0
+    frameStart 0
+    frameEnd 0
+    birthrate 50
+    spawnType 0
+    lifeExp 1.1
+    mass 0.4
+    spread 0.174533
+    particleRot 0
+    velocity 1.5
+    randvel 0.3
+    fps 0
+    random 0
+    inherit 0
+    inherit_local 0
+    inherit_part 0
+    inheritvel 0
+    xsize 20
+    ysize 40
+    bounce 0
+    bounce_co 1
+    loop 0
+    update Fountain
+    render Normal
+    Blend Normal
+    update_sel 1
+    render_sel 1
+    blend_sel 1
+    deadspace 0
+    opacity 0.5
+    blurlength 10
+    lightningDelay 0
+    lightningRadius 0
+    lightningScale 0
+    blastRadius 0
+    blastLength 0
+    twosidedtex 0
+    p2p 0
+    p2p_sel 1
+    p2p_type Bezier
+    p2p_bezier2 0
+    p2p_bezier3 0
+    combinetime 0
+    drag 0
+    grav 0
+    threshold 0
+    texture Fxpa_splash
+    xgrid 1
+    ygrid 1
+    affectedByWind 0
+    m_isTinted 0
+    renderorder 0
+    Splat 0
+endnode
+node emitter fount0104
+  parent dls10_a05_02a
+  position 0.0533599 -1.35098 0.06
+  orientation 0 0 0 0
+  wirecolor 0.695313 0.695313 0.695313
+    colorStart 0.662745 0.745098 0.658824
+    colorEnd 0.729412 0.784314 0.72549
+    alphaStart 0.2
+    alphaEnd 0
+    sizeStart 1
+    sizeEnd 1
+    sizeStart_y 0
+    sizeEnd_y 0
+    frameStart 0
+    frameEnd 0
+    birthrate 5
+    spawnType 0
+    lifeExp 2
+    mass 0
+    spread 0
+    particleRot 0
+    velocity 0
+    randvel 0
+    fps 0
+    random 0
+    inherit 0
+    inherit_local 0
+    inherit_part 0
+    inheritvel 0
+    xsize 10
+    ysize 60
+    bounce 0
+    bounce_co 0
+    loop 0
+    update Fountain
+    render Billboard_to_World_Z
+    Blend Lighten
+    update_sel 1
+    render_sel 4
+    blend_sel 3
+    deadspace 0
+    opacity 0.5
+    blurlength 10
+    lightningDelay 0
+    lightningRadius 0
+    lightningScale 0
+    blastRadius 0
+    blastLength 0
+    twosidedtex 0
+    p2p 0
+    p2p_sel 1
+    p2p_type Bezier
+    p2p_bezier2 0
+    p2p_bezier3 0
+    combinetime 0
+    drag 0
+    grav 0
+    threshold 0
+    texture fxpa_Flare
+    xgrid 1
+    ygrid 1
+    affectedByWind 0
+    m_isTinted 0
+    renderorder 0
+    Splat 0
+endnode
+node light DLS10_A05_02ml1
+  parent dls10_a05_02
+  position 0 -1.81357 5
+  orientation 0 0 0 0
+  wirecolor 0.527344 0.527344 0.527344
+    radius 14
+    multiplier 1
+    color 0 0 0
+    ambientOnly 0
+    nDynamicType 0
+    affectDynamic 1
+    shadow 0
+    lightpriority 5
+    lensflares 0
+    fadingLight 1
+endnode
+node light DLS10_A05_02ml2
+  parent dls10_a05_02
+  position -0.108695 0.897857 2.54147
+  orientation 0 0 0 0
+  wirecolor 0.527344 0.527344 0.527344
+    radius 5
+    multiplier 1
+    color 0.00392157 0.00392157 0.00392157
+    ambientOnly 0
+    nDynamicType 0
+    affectDynamic 1
+    shadow 0
+    lightpriority 5
+    lensflares 0
+    fadingLight 1
+endnode
+node trimesh Grate
+  parent dls10_a05_02
+  position 0 -5 1.5
+  orientation 1 0 0 -1.5708
+  wirecolor 0.898438 0.898438 0.898438
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  bitmap tcn01_grate01
+  verts 4
+    0.4 -0.399999 5
+    -0.4 -0.399999 5
+    -0.4 -1.2 5
+    0.4 -1.2 5
+  faces 2
+    2 1 0  0  2 1 0  0
+    0 3 2  0  0 3 2  0
+  tverts 4
+    -3.5 -3.5 0.5
+    4.5 -3.5 0.5
+    4.5 4.5 0.5
+    -3.5 4.5 0.5
+endnode
+node trimesh pipe
+  parent dls10_a05_02
+  position 0 -5 1.5
+  orientation 1 0 0 -1.5708
+  wirecolor 0.898438 0.898438 0.898438
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  bitmap dls10_sewpipe
+  verts 16
+    0.4 -0.399999 5
+    -0.4 -0.399999 5
+    -0.4 -1.2 5
+    0.4 -1.2 5
+    0.4 -0.399999 5.49999
+    -0.4 -0.399999 5.49999
+    -0.4 -1.2 5.49999
+    0.4 -1.2 5.49999
+    0.4 -0.399999 6.29999
+    -0.4 -0.399999 6.29999
+    -0.4 -1.2 6.29999
+    0.4 -1.2 6.29999
+    -0.4 -1.7 5.49999
+    0.4 -1.7 5.49999
+    -0.4 -1.7 6.29999
+    0.4 -1.7 6.29999
+  faces 24
+    10 9 8  0  16 17 18  0
+    8 11 10  0  19 20 21  0
+    2 1 5  0  22 23 24  0
+    5 6 2  0  25 26 27  0
+    1 0 4  0  28 29 30  0
+    4 5 1  0  31 32 1  0
+    0 3 7  0  33 34 35  0
+    7 4 0  0  36 37 0  0
+    3 2 6  0  38 2 39  0
+    6 7 3  0  40 41 3  0
+    6 5 9  0  42 43 44  0
+    9 10 6  0  45 46 47  0
+    5 4 8  0  48 49 50  0
+    8 9 5  0  51 9 5  0
+    4 7 11  0  52 53 54  0
+    11 8 4  0  55 8 4  0
+    10 11 15  0  56 57 58  0
+    15 14 10  0  59 60 61  0
+    7 6 12  0  62 63 64  0
+    12 13 7  0  65 66 67  0
+    6 10 14  0  68 10 69  0
+    14 12 6  0  14 12 6  0
+    11 7 13  0  70 7 71  0
+    13 15 11  0  13 15 11  0
+  tverts 72
+    0.716667 0.283333 0.366667
+    0.633333 0.716667 0.283333
+    0.366667 0.716667 0.55
+    0.633333 0.716667 0.55
+    0.55 0.283333 0.366667
+    0.633333 0.55 0.283333
+    0.45 0.55 0.633333
+    0.55 0.55 0.366667
+    0.283333 0.283333 0.366667
+    0.633333 0.283333 0.283333
+    0.716667 0.55 0.633333
+    0.283333 0.55 0.366667
+    0.45 0.716667 0.633333
+    0.55 0.716667 0.366667
+    0.716667 0.716667 0.633333
+    0.283333 0.716667 0.366667
+    0.366667 0.55 0.283333
+    0.366667 0.283333 0.283333
+    0.633333 0.283333 0.283333
+    0.633333 0.283333 0.283333
+    0.633333 0.55 0.283333
+    0.366667 0.55 0.283333
+    0.283333 0.55 0.633333
+    0.283333 0.283333 0.633333
+    0.45 0.283333 0.633333
+    0.45 0.283333 0.633333
+    0.45 0.55 0.633333
+    0.283333 0.55 0.633333
+    0.633333 0.716667 0.283333
+    0.366667 0.716667 0.283333
+    0.366667 0.55 0.283333
+    0.366667 0.55 0.283333
+    0.633333 0.55 0.283333
+    0.716667 0.283333 0.366667
+    0.716667 0.55 0.366667
+    0.55 0.55 0.366667
+    0.55 0.55 0.366667
+    0.55 0.283333 0.366667
+    0.633333 0.716667 0.55
+    0.366667 0.55 0.55
+    0.366667 0.55 0.55
+    0.633333 0.55 0.55
+    0.45 0.55 0.633333
+    0.45 0.283333 0.633333
+    0.716667 0.283333 0.633333
+    0.716667 0.283333 0.633333
+    0.716667 0.55 0.633333
+    0.45 0.55 0.633333
+    0.633333 0.55 0.283333
+    0.366667 0.55 0.283333
+    0.366667 0.283333 0.283333
+    0.366667 0.283333 0.283333
+    0.55 0.283333 0.366667
+    0.55 0.55 0.366667
+    0.283333 0.55 0.366667
+    0.283333 0.55 0.366667
+    0.366667 0.55 0.283333
+    0.633333 0.55 0.283333
+    0.633333 0.716667 0.283333
+    0.633333 0.716667 0.283333
+    0.366667 0.716667 0.283333
+    0.366667 0.55 0.283333
+    0.366667 0.55 0.55
+    0.633333 0.55 0.55
+    0.633333 0.716667 0.55
+    0.633333 0.716667 0.55
+    0.366667 0.716667 0.55
+    0.366667 0.55 0.55
+    0.45 0.55 0.633333
+    0.716667 0.716667 0.633333
+    0.283333 0.55 0.366667
+    0.55 0.716667 0.366667
+endnode
+node trimesh pipe2
+  parent dls10_a05_02
+  position 0 -5 1.5
+  orientation 1 0 0 -1.5708
+  wirecolor 0.898438 0.898438 0.898438
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  bitmap tcn01_doorway
+  render 1
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 4
+    -0.4 -1.7 5.49999
+    0.4 -1.7 5.49999
+    -0.4 -1.7 6.29999
+    0.4 -1.7 6.29999
+  faces 2
+    1 0 2  0  1 0 2  0
+    2 3 1  0  2 3 1  0
+  tverts 4
+    0.999501 1 0.5
+    0.000499576 1 0.5
+    0.9995 0 0.5
+    0.000499398 0 0.5
+endnode
+node aabb Walkmesh
+  parent dls10_a05_02
+  position 0 0 0.25
+  orientation 0 0 0 0
+  wirecolor 0.601563 0.601563 0.601563
+  ambient 0.597656 0.890625 0.597656
+  diffuse 0.597656 0.890625 0.597656
+  specular 0 0 0
+  shininess 1
+  bitmap NULL
+  verts 33
+    1 0 0
+    0 0 0
+    -1 0 0
+    1 -1.66667 0
+    0.2 -1.66667 -0.24
+    -1 -1.66667 0
+    1 -5 0
+    0.2 -5 -0.24
+    -1 -5 0
+    -1.75 0 1.25
+    -1.75 -1.66667 1.25
+    -1.75 -5 1.25
+    -2 5 2.75
+    -2.75 2 2.75
+    -2.75 -1.66667 2.75
+    -2.75 -5 2.75
+    -5 5 2.75
+    -5 2 2.75
+    -5 -2 2.75
+    -5 -5 2.75
+    1.75 0 1.25
+    1.75 -1.66667 1.25
+    1.75 -5 1.25
+    2.75 2 2.75
+    2 5 2.75
+    2.75 -1.66667 2.75
+    2.75 -5 2.75
+    5 2 2.75
+    5 5 2.75
+    5 -2 2.75
+    5 -5 2.75
+    -0.2 -1.66666 -0.24
+    -0.2 -5 -0.24
+  faces 46
+    3 0 4  1  0 0 0  4
+    1 4 0  2  0 0 0  4
+    6 3 7  1  0 0 0  4
+    4 7 3  1  0 0 0  4
+    9 10 5  1  0 0 0  2
+    5 2 9  1  0 0 0  2
+    10 11 8  1  0 0 0  2
+    8 5 10  1  0 0 0  2
+    13 14 10  1  0 0 0  2
+    10 9 13  1  0 0 0  2
+    14 15 11  1  0 0 0  2
+    11 10 14  1  0 0 0  2
+    16 17 13  2  0 0 0  2
+    13 12 16  2  0 0 0  2
+    17 18 14  2  0 0 0  2
+    14 13 17  2  0 0 0  2
+    18 19 15  2  0 0 0  2
+    15 14 18  2  0 0 0  2
+    21 20 0  4  0 0 0  2
+    0 3 21  4  0 0 0  2
+    22 21 3  4  0 0 0  2
+    3 6 22  4  0 0 0  2
+    25 23 20  4  0 0 0  2
+    20 21 25  4  0 0 0  2
+    26 25 21  4  0 0 0  2
+    21 22 26  4  0 0 0  2
+    27 28 24  2  0 0 0  2
+    24 23 27  2  0 0 0  2
+    29 27 23  2  0 0 0  2
+    23 25 29  2  0 0 0  2
+    30 29 25  2  0 0 0  2
+    25 26 30  2  0 0 0  2
+    1 0 20  8  0 0 0  2
+    13 23 24  2  0 0 0  2
+    13 24 12  2  0 0 0  2
+    1 20 9  8  0 0 0  2
+    9 2 1  8  0 0 0  2
+    9 20 13  16  0 0 0  2
+    20 23 13  16  0 0 0  2
+    31 32 7  2  0 0 0  6
+    7 4 31  2  0 0 0  6
+    32 31 5  4  0 0 0  4
+    32 5 8  4  0 0 0  4
+    31 4 1  2  0 0 0  6
+    31 1 2  2  0 0 0  4
+    31 2 5  4  0 0 0  4
+  aabb     -5.00 -5.00 -0.24   5.00 5.00 2.75   -1
+     -5.00 -5.00 -0.24   5.00 0.00 2.75   -1
+     -5.00 -5.00 -0.24   0.20 0.00 2.75   -1
+     -5.00 -5.00 0.00   -1.00 -1.67 2.75   -1
+     -5.00 -5.00 2.75   -2.75 -1.67 2.75   -1
+     -5.00 -5.00 2.75   -2.75 -2.00 2.75   16
+     -5.00 -5.00 2.75   -2.75 -1.67 2.75   17
+     -2.75 -5.00 0.00   -1.00 -1.67 2.75   -1
+     -1.75 -5.00 0.00   -1.00 -1.67 1.25   6
+     -2.75 -5.00 1.25   -1.75 -1.67 2.75   -1
+     -2.75 -5.00 1.25   -1.75 -1.67 2.75   10
+     -2.75 -5.00 1.25   -1.75 -1.67 2.75   11
+     -1.75 -5.00 -0.24   0.20 0.00 1.25   -1
+     -1.75 -5.00 -0.24   0.20 -1.67 1.25   -1
+     -1.00 -5.00 -0.24   -0.20 -1.67 0.00   42
+     -1.75 -5.00 -0.24   0.20 -1.67 1.25   -1
+     -0.20 -5.00 -0.24   0.20 -1.67 -0.24   39
+     -1.75 -5.00 0.00   -1.00 -1.67 1.25   7
+     -1.75 -5.00 -0.24   0.20 0.00 1.25   -1
+     -1.00 -5.00 -0.24   -0.20 -1.67 0.00   41
+     -1.75 -1.67 -0.24   0.20 0.00 1.25   -1
+     -1.75 -1.67 0.00   -1.00 0.00 1.25   4
+     -0.20 -1.67 -0.24   0.20 0.00 0.00   43
+     -0.20 -5.00 -0.24   5.00 0.00 2.75   -1
+     -0.20 -5.00 -0.24   1.75 0.00 1.25   -1
+     0.20 -5.00 -0.24   1.75 -1.67 1.25   -1
+     0.20 -5.00 -0.24   1.00 -1.67 0.00   2
+     0.20 -5.00 -0.24   1.75 -1.67 1.25   -1
+     1.00 -5.00 0.00   1.75 -1.67 1.25   21
+     0.20 -5.00 -0.24   1.00 -1.67 0.00   3
+     -0.20 -5.00 -0.24   1.75 0.00 1.25   -1
+     -0.20 -5.00 -0.24   0.20 -1.67 -0.24   40
+     0.20 -1.67 -0.24   1.75 0.00 1.25   -1
+     1.00 -1.67 0.00   1.75 0.00 1.25   19
+     0.20 -1.67 -0.24   1.00 0.00 0.00   0
+     1.00 -5.00 0.00   5.00 0.00 2.75   -1
+     1.75 -5.00 1.25   5.00 -1.67 2.75   -1
+     2.75 -5.00 2.75   5.00 -1.67 2.75   31
+     1.75 -5.00 1.25   5.00 -1.67 2.75   -1
+     1.75 -5.00 1.25   2.75 -1.67 2.75   25
+     2.75 -5.00 2.75   5.00 -1.67 2.75   30
+     1.00 -5.00 0.00   2.75 0.00 2.75   -1
+     1.75 -5.00 1.25   2.75 -1.67 2.75   24
+     1.00 -5.00 0.00   2.75 0.00 2.75   -1
+     1.00 -5.00 0.00   1.75 -1.67 1.25   20
+     1.75 -1.67 1.25   2.75 0.00 2.75   23
+     -5.00 -2.00 -0.24   5.00 5.00 2.75   -1
+     -5.00 -2.00 -0.24   2.00 5.00 2.75   -1
+     -5.00 -2.00 1.25   -1.75 5.00 2.75   -1
+     -5.00 -2.00 1.25   -1.75 2.00 2.75   -1
+     -5.00 -2.00 2.75   -2.75 2.00 2.75   14
+     -2.75 -1.67 1.25   -1.75 2.00 2.75   8
+     -5.00 -1.67 2.75   -2.00 5.00 2.75   -1
+     -5.00 -1.67 2.75   -2.75 2.00 2.75   15
+     -5.00 2.00 2.75   -2.00 5.00 2.75   -1
+     -5.00 2.00 2.75   -2.75 5.00 2.75   12
+     -5.00 2.00 2.75   -2.00 5.00 2.75   13
+     -2.75 -1.67 -0.24   2.00 5.00 2.75   -1
+     -1.75 -1.67 -0.24   0.00 0.00 1.25   -1
+     -1.75 -1.67 0.00   -1.00 0.00 1.25   5
+     -1.75 -1.67 -0.24   0.00 0.00 1.25   -1
+     -1.75 0.00 0.00   0.00 0.00 1.25   36
+     -1.00 -1.67 -0.24   -0.20 0.00 0.00   45
+     -2.75 -1.67 1.25   2.00 5.00 2.75   -1
+     -2.75 -1.67 1.25   -1.75 2.00 2.75   9
+     -2.75 0.00 1.25   2.00 5.00 2.75   -1
+     -2.75 0.00 1.25   1.75 2.00 2.75   37
+     -2.75 2.00 2.75   2.00 5.00 2.75   34
+     -2.75 -2.00 -0.24   5.00 5.00 2.75   -1
+     -2.75 -1.67 -0.24   2.75 5.00 2.75   -1
+     -1.00 -1.67 -0.24   1.75 0.00 1.25   -1
+     -1.00 -1.67 -0.24   0.00 0.00 0.00   44
+     0.00 -1.67 -0.24   1.75 0.00 1.25   -1
+     0.00 -1.67 -0.24   1.00 0.00 0.00   1
+     0.00 0.00 0.00   1.75 0.00 1.25   32
+     -2.75 0.00 0.00   2.75 5.00 2.75   -1
+     -1.75 0.00 0.00   1.75 0.00 1.25   35
+     -2.75 0.00 1.25   2.75 5.00 2.75   -1
+     -2.75 0.00 1.25   2.75 2.00 2.75   38
+     -2.75 2.00 2.75   2.75 5.00 2.75   33
+     1.00 -2.00 0.00   5.00 5.00 2.75   -1
+     1.00 -2.00 0.00   5.00 2.00 2.75   -1
+     2.75 -2.00 2.75   5.00 2.00 2.75   29
+     1.00 -1.67 0.00   2.75 2.00 2.75   -1
+     1.00 -1.67 0.00   1.75 0.00 1.25   18
+     1.75 -1.67 1.25   2.75 2.00 2.75   22
+     2.00 -2.00 2.75   5.00 5.00 2.75   -1
+     2.75 -2.00 2.75   5.00 2.00 2.75   28
+     2.00 2.00 2.75   5.00 5.00 2.75   -1
+     2.00 2.00 2.75   5.00 5.00 2.75   27
+     2.00 2.00 2.75   5.00 5.00 2.75   26
+endnode
+node trimesh Water
+  parent dls10_a05_02
+  position 0 0 0.25
+  orientation 0 0 0 0
+  wirecolor 0.601563 0.601563 0.601563
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  bitmap tds01_water01
+  render 1
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 5
+    0 0 -0.25
+    0.4 -1.66666 -0.24
+    0.4 -5 -0.24
+    -0.4 -1.66666 -0.24
+    -0.4 -5 -0.24
+  faces 3
+    3 4 2  1  3 4 2  0
+    2 1 3  1  2 1 3  0
+    3 1 0  0  3 1 0  0
+  tverts 5
+    -0.5 -0.5 -0.499001
+    -0.9 1.16666 0.5
+    -0.899999 4.5 0.5
+    -0.0999998 1.16666 0.5
+    -0.0999991 4.5 0.5
+endnode
+node trimesh Plane01
+  parent dls10_a05_02
+  position 0 0 -1
+  orientation 0 0 1 -1.5708
+  wirecolor 0.425781 0.425781 0.425781
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  bitmap tds01_black
+  render 1
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 25
+    5 5 0
+    2.5 5 0
+    0 5 0
+    -2.5 5 0
+    -5 5 0
+    5 2.5 0
+    2.5 2.5 0
+    0 2.5 0
+    -2.5 2.5 0
+    -5 2.5 0
+    5 0 0
+    2.5 0 0
+    0 0 0
+    -2.5 0 0
+    -5 0 0
+    5 -2.5 0
+    2.5 -2.5 0
+    0 -2.5 0
+    -2.5 -2.5 0
+    -5 -2.5 0
+    5 -5 0
+    2.5 -5 0
+    0 -5 0
+    -2.5 -5 0
+    -5 -5 0
+  faces 32
+    5 0 6  1  5 0 6  0
+    1 6 0  1  1 6 0  0
+    6 1 7  1  6 1 7  0
+    2 7 1  1  2 7 1  0
+    7 2 8  1  7 2 8  0
+    3 8 2  1  3 8 2  0
+    8 3 9  1  8 3 9  0
+    4 9 3  1  4 9 3  0
+    10 5 11  1  10 5 11  0
+    6 11 5  1  6 11 5  0
+    11 6 12  1  11 6 12  0
+    7 12 6  1  7 12 6  0
+    12 7 13  1  12 7 13  0
+    8 13 7  1  8 13 7  0
+    13 8 14  1  13 8 14  0
+    9 14 8  1  9 14 8  0
+    15 10 16  1  15 10 16  0
+    11 16 10  1  11 16 10  0
+    16 11 17  1  16 11 17  0
+    12 17 11  1  12 17 11  0
+    17 12 18  1  17 12 18  0
+    13 18 12  1  13 18 12  0
+    18 13 19  1  18 13 19  0
+    14 19 13  1  14 19 13  0
+    20 15 21  1  20 15 21  0
+    16 21 15  1  16 21 15  0
+    21 16 22  1  21 16 22  0
+    17 22 16  1  17 22 16  0
+    22 17 23  1  22 17 23  0
+    18 23 17  1  18 23 17  0
+    23 18 24  1  23 18 24  0
+    19 24 18  1  19 24 18  0
+  tverts 25
+    0.000499517 0.000499755 0.5
+    0.25025 0.000499696 0.5
+    0.5 0.000499636 0.5
+    0.74975 0.000499576 0.5
+    0.9995 0.000499517 0.5
+    0.000499576 0.25025 0.5
+    0.25025 0.25025 0.5
+    0.5 0.25025 0.5
+    0.74975 0.25025 0.5
+    0.9995 0.25025 0.5
+    0.000499636 0.5 0.5
+    0.25025 0.5 0.5
+    0.5 0.5 0.5
+    0.74975 0.5 0.5
+    0.9995 0.5 0.5
+    0.000499696 0.74975 0.5
+    0.25025 0.74975 0.5
+    0.5 0.74975 0.5
+    0.74975 0.74975 0.5
+    0.9995 0.74975 0.5
+    0.000499755 0.999501 0.5
+    0.25025 0.9995 0.5
+    0.5 0.9995 0.5
+    0.74975 0.9995 0.5
+    0.999501 0.9995 0.5
+endnode
+endmodelgeom dls10_a05_02
+
+#MAXANIM ASCII
+newanim animloop1 dls10_a05_02
+  length 3.33333
+  transtime 0
+  animroot dls10_a05_02
+node dummy dls10_a05_02
+  parent NULL
+endnode
+node trimesh Cylinder02
+  parent dls10_a05_02
+endnode
+node dummy dls10_a05_02a
+  parent dls10_a05_02
+endnode
+node emitter DRIP_02_01
+  parent dls10_a05_02a
+endnode
+node emitter DRIP_02_02
+  parent dls10_a05_02a
+endnode
+node emitter DRIP_03_01
+  parent dls10_a05_02a
+endnode
+node emitter DRIP_05_01
+  parent dls10_a05_02a
+endnode
+node emitter DRIP_05_02
+  parent dls10_a05_02a
+endnode
+node emitter fount01
+  parent dls10_a05_02a
+    birthratekey
+      0.3  50
+      0.333333  90
+      0.4  50
+      0.766667  50
+      0.8  50
+      0.833333  50
+    endlist
+endnode
+node emitter fount02
+  parent dls10_a05_02a
+    birthratekey
+      0.3  50
+      0.333333  90
+      0.4  50
+      0.766667  50
+      0.8  50
+      0.833333  50
+    endlist
+endnode
+node emitter fount0101
+  parent dls10_a05_02a
+    birthratekey
+      0.3  50
+      0.333333  90
+      0.4  50
+      0.766667  50
+      0.8  50
+      0.833333  50
+    endlist
+endnode
+node emitter fount0104
+  parent dls10_a05_02a
+    birthratekey
+      0.3  5
+      0.333333  15
+      0.4  5
+      0.766667  5
+      0.8  5
+      0.833333  5
+    endlist
+endnode
+node light DLS10_A05_02ml1
+  parent dls10_a05_02
+endnode
+node light DLS10_A05_02ml2
+  parent dls10_a05_02
+endnode
+node trimesh Grate
+  parent dls10_a05_02
+endnode
+node trimesh pipe
+  parent dls10_a05_02
+endnode
+node trimesh pipe2
+  parent dls10_a05_02
+endnode
+node trimesh Walkmesh
+  parent dls10_a05_02
+endnode
+node trimesh Water
+  parent dls10_a05_02
+endnode
+node trimesh Plane01
+  parent dls10_a05_02
+endnode
+doneanim animloop1 dls10_a05_02
+donemodel dls10_a05_02

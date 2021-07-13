@@ -1,0 +1,1358 @@
+#MAXMODEL ASCII
+# model: DLA_Door_01 
+filedependancy sewer_plc_door_7.max
+newmodel DLA_Door_01 
+setsupermodel DLA_Door_01 NULL
+classification Door
+#MAXGEOM  ASCII
+beginmodelgeom DLA_Door_01 
+node dummy DLA_Door_01 
+  parent NULL 
+endnode
+node trimesh SAM 
+  parent DLA_Door_01 
+  position 0.0164019 0.0 1.69817
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.694118 0.101961 0.345098  
+     danglymesh 0
+     period 1.0
+     tightness 1.0
+     displacement 0.025
+     showdispl true
+     displtype 1
+     Alpha -0.496707
+     transparencyhint 0
+     tilefade 0
+     scale 1.0
+     render 1
+     Shadow 0
+     beaming 0
+     inheritcolor 0
+     selfillumcolor 0.278431 0.192157 0.929412 
+     rotatetexture 0
+     center -0.477192 4.76837e-007 0.783134 
+     gizmo SubAnim:Gizmo
+    bitmap NULL
+    verts 8
+     -0.303276 0.144228 -1.69817
+     0.444969 0.145767 -1.69817
+     -0.454513 -0.145767 1.69432
+     0.28302 -0.144228 1.71383
+     -0.303276 0.144228 -1.69817
+     0.444969 0.145767 -1.69817
+     -0.454513 -0.145767 1.69432
+     0.28302 -0.144228 1.71383
+    faces 4
+     0 2 3  1  0 0 0  1
+     3 1 0  1  0 0 0  1
+     6 4 7  1  0 0 0  1
+     5 7 4  1  0 0 0  1
+endnode
+node dummy animdummy 
+  parent DLA_Door_01 
+  position 0.0 0.0 0.0
+  orientation  -1.0 0.0 0.0  -1.5708
+  wirecolor 0.882353 0.345098 0.780392  
+endnode
+node trimesh Ladder 
+  parent animdummy 
+  position 0.0623529 0.00204421 -0.0709448
+  orientation  1.0 0.0 0.0  -1.5708
+  wirecolor 0.345098 0.560784 0.882353  
+  ambient 1.0 1.0 1.0  
+  diffuse 1.0 1.0 1.0  
+  specular 0.0 0.0 0.0  
+  shininess 11.0 
+    bitmap dls01_planks
+    verts 109
+     -0.422206 -0.257283 2.9766
+     -0.42144 -0.227501 2.94809
+     -0.423324 -0.218114 2.98942
+     0.17736 -0.248451 3.00192
+     0.178125 -0.218669 2.97341
+     0.176242 -0.209282 3.01474
+     -0.412644 -0.231648 2.74123
+     -0.41111 -0.221388 2.70132
+     -0.412822 -0.191588 2.73147
+     0.186922 -0.222817 2.76654
+     0.188456 -0.212556 2.72664
+     0.186744 -0.182756 2.75679
+     -0.402345 -0.214026 2.4912
+     -0.400858 -0.202024 2.45178
+     -0.402604 -0.173578 2.48321
+     0.19722 -0.205195 2.51651
+     0.198708 -0.193192 2.4771
+     0.196962 -0.164746 2.50853
+     -0.407668 -0.142569 2.28563
+     -0.398132 -0.179455 2.30139
+     -0.404996 -0.174602 2.25981
+     0.175454 -0.0271857 2.20284
+     0.184991 -0.0640719 2.21861
+     0.178127 -0.0592185 2.17703
+     -0.381454 -0.175213 1.98294
+     -0.379908 -0.165438 1.94291
+     -0.38161 -0.135274 1.9727
+     0.21765 -0.167212 2.01947
+     0.219196 -0.157437 1.97944
+     0.217494 -0.127273 2.00923
+     -0.329501 -0.0787957 0.719001
+     -0.330846 -0.0422889 0.738117
+     -0.331245 -0.078517 0.760194
+     0.270065 -0.0699639 0.744318
+     0.26872 -0.0334573 0.763435
+     0.268321 -0.0696854 0.785513
+     -0.361146 -0.0908234 1.47257
+     -0.361785 -0.122635 1.4988
+     -0.359922 -0.128932 1.45688
+     0.23842 -0.0819915 1.49789
+     0.237781 -0.113803 1.52412
+     0.239644 -0.120101 1.4822
+     -0.34101 -0.0541125 0.982942
+     -0.3411 -0.0923303 0.998408
+     -0.339429 -0.0857385 0.956535
+     0.258555 -0.0452807 1.00826
+     0.258465 -0.0834987 1.02373
+     0.260136 -0.0769069 0.981853
+     -0.371672 -0.145652 1.74098
+     -0.369841 -0.155064 1.70089
+     -0.370981 -0.114665 1.71379
+     0.227893 -0.13682 1.7663
+     0.229725 -0.146232 1.7262
+     0.228585 -0.105833 1.73911
+     -0.321069 -0.0264359 0.501065
+     -0.319987 -0.0659115 0.489212
+     -0.319245 -0.0345237 0.460677
+     0.278496 -0.0176042 0.526384
+     0.279578 -0.0570799 0.514531
+     0.280321 -0.025692 0.485995
+     0.370341 0.00545519 0.0156387
+     0.298946 0.0467207 0.015759
+     0.300455 -0.0378914 0.00955243
+     0.230061 -0.247189 3.42575
+     0.158666 -0.205923 3.42587
+     0.160174 -0.290536 3.41966
+     -0.370341 -0.00545519 -0.0156387
+     -0.298946 -0.0467207 -0.015759
+     -0.300455 0.0378914 -0.00955243
+     -0.510621 -0.258099 3.39447
+     -0.439226 -0.299365 3.39435
+     -0.440735 -0.214753 3.40056
+     -0.356072 -0.0736176 1.23085
+     -0.352317 -0.111204 1.24622
+     -0.353822 -0.105349 1.20461
+     0.255439 -0.0683521 1.26016
+     0.249801 -0.105811 1.27427
+     0.262361 -0.100657 1.23549
+     -0.16086 -0.0830741 1.22853
+     0.00970334 -0.0190219 1.19618
+     -0.259548 -0.091278 1.19567
+     -0.129622 -0.0655235 1.11597
+     0.0457055 -0.0457938 1.17176
+     -0.200204 -0.0509056 1.04053
+     -0.0194996 -0.0186545 0.468278
+     -0.0184176 -0.0581301 0.456425
+     -0.017675 -0.0267423 0.42789
+     0.148942 -0.0171673 0.488941
+     0.150024 -0.056643 0.477088
+     0.150767 -0.0252551 0.448552
+     0.00272699 -0.204926 2.46558
+     0.00421456 -0.192923 2.42617
+     0.00246829 -0.164477 2.4576
+     0.059342 -0.07153 0.714454
+     0.057997 -0.0350232 0.73357
+     0.0575984 -0.0712513 0.755647
+     -0.160291 -0.20693 2.45328
+     -0.158803 -0.194927 2.41386
+     -0.160549 -0.166481 2.44529
+     -0.103394 -0.0731965 0.697622
+     -0.104739 -0.0366898 0.716738
+     -0.105138 -0.0729178 0.738815
+     -0.180885 -0.160962 1.93027
+     -0.168915 -0.130597 1.96063
+     -0.180723 -0.170712 1.97037
+     -0.0888423 -0.0687296 1.1128
+     -0.122814 -0.101536 2.22787
+     -0.116486 -0.061511 2.20986
+     -0.113814 -0.0935432 2.18403
+    faces 139
+     0 1 3  1  0 6 3  1
+     1 4 3  1  6 7 3  1
+     1 2 4  1  1 4 2  1
+     2 5 4  1  4 5 2  1
+     2 0 5  1  4 0 5  1
+     0 3 5  1  0 3 5  1
+     6 7 9  1  0 6 3  1
+     7 10 9  1  6 7 3  1
+     7 8 10  1  1 4 2  1
+     8 11 10  1  4 5 2  1
+     8 6 11  1  4 0 5  1
+     6 9 11  1  0 3 5  1
+     91 16 90  1  44 7 43  1
+     90 16 15  1  43 7 3  1
+     91 92 16  1  45 46 2  1
+     92 17 16  1  46 5 2  1
+     92 90 17  1  46 43 5  1
+     90 15 17  1  43 3 5  1
+     107 18 106  1  35 0 57  1
+     18 19 106  1  0 6 57  1
+     108 106 20  1  38 58 4  1
+     106 19 20  1  58 1 4  1
+     108 20 107  1  38 4 35  1
+     20 18 107  1  4 0 35  1
+     102 28 104  1  51 7 54  1
+     104 28 27  1  54 7 3  1
+     102 103 28  1  52 53 2  1
+     103 29 28  1  53 5 2  1
+     104 27 103  1  54 3 53  1
+     103 27 29  1  53 3 5  1
+     93 33 95  1  43 3 46  1
+     33 35 95  1  3 5 46  1
+     36 37 39  1  0 6 3  1
+     37 40 39  1  6 7 3  1
+     37 38 40  1  1 4 2  1
+     38 41 40  1  4 5 2  1
+     38 36 41  1  4 0 5  1
+     36 39 41  1  0 3 5  1
+     42 43 45  1  0 6 3  1
+     43 46 45  1  6 7 3  1
+     43 44 46  1  1 4 2  1
+     44 47 46  1  4 5 2  1
+     44 42 47  1  4 0 5  1
+     42 45 47  1  0 3 5  1
+     48 49 51  1  0 6 3  1
+     49 52 51  1  6 7 3  1
+     49 50 52  1  1 4 2  1
+     50 53 52  1  4 5 2  1
+     50 48 53  1  4 0 5  1
+     48 51 53  1  0 3 5  1
+     85 84 55  1  36 35 6  1
+     55 84 54  1  6 35 0  1
+     63 64 65  1  8 9 10  1
+     60 61 63  1  11 12 14  1
+     61 64 63  1  12 13 14  1
+     61 62 64  1  12 15 13  1
+     62 65 64  1  15 16 13  1
+     62 60 65  1  15 17 16  1
+     60 63 65  1  17 18 16  1
+     69 70 71  1  8 9 10  1
+     66 67 69  1  19 11 20  1
+     67 70 69  1  11 14 20  1
+     67 68 70  1  21 22 24  1
+     68 71 70  1  22 23 24  1
+     68 66 71  1  22 19 23  1
+     66 69 71  1  19 20 23  1
+     21 22 23  1  9 10 8  1
+     79 72 78  1  26 0 25  1
+     72 73 78  1  0 6 25  1
+     78 73 80  1  28 1 27  1
+     73 74 80  1  1 4 27  1
+     74 72 80  1  4 0 27  1
+     72 79 80  1  0 26 27  1
+     81 76 82  1  25 7 26  1
+     82 76 75  1  26 7 3  1
+     83 82 77  1  27 26 5  1
+     82 75 77  1  26 3 5  1
+     76 105 77  1  2 55 5  1
+     81 82 105  1  29 30 56  1
+     78 80 79  1  32 33 34  1
+     89 59 88  1  42 5 41  1
+     88 59 58  1  41 5 2  1
+     88 58 87  1  40 7 39  1
+     87 58 57  1  39 7 3  1
+     89 87 59  1  42 39 5  1
+     87 57 59  1  39 3 5  1
+     86 84 89  1  38 35 42  1
+     84 87 89  1  35 39 42  1
+     86 89 85  1  38 42 37  1
+     85 89 88  1  37 42 41  1
+     85 88 84  1  36 40 35  1
+     84 88 87  1  35 40 39  1
+     55 56 85  1  1 4 37  1
+     56 86 85  1  4 38 37  1
+     54 84 56  1  0 35 4  1
+     56 84 86  1  4 35 38  1
+     94 34 93  1  44 7 43  1
+     93 34 33  1  43 7 3  1
+     95 35 94  1  46 5 45  1
+     94 35 34  1  45 5 2  1
+     100 101 94  1  49 50 45  1
+     101 95 94  1  50 46 45  1
+     99 93 101  1  47 43 50  1
+     101 93 95  1  50 43 46  1
+     99 100 93  1  47 48 43  1
+     100 94 93  1  48 44 43  1
+     31 100 30  1  6 48 0  1
+     100 99 30  1  48 47 0  1
+     32 101 31  1  4 50 1  1
+     31 101 100  1  1 50 49  1
+     32 30 101  1  4 0 50  1
+     30 99 101  1  0 47 50  1
+     98 92 97  1  50 46 49  1
+     97 92 91  1  49 46 45  1
+     96 90 98  1  47 43 50  1
+     98 90 92  1  50 43 46  1
+     96 97 90  1  47 48 43  1
+     97 91 90  1  48 44 43  1
+     14 98 13  1  4 50 1  1
+     13 98 97  1  1 50 49  1
+     12 96 14  1  0 47 4  1
+     14 96 98  1  4 47 50  1
+     12 13 96  1  0 6 47  1
+     13 97 96  1  6 48 47  1
+     103 102 26  1  53 52 4  1
+     25 26 102  1  1 4 52  1
+     103 26 104  1  53 4 54  1
+     26 24 104  1  4 0 54  1
+     24 25 104  1  0 6 54  1
+     25 102 104  1  6 51 54  1
+     105 82 83  1  56 30 31  1
+     81 105 76  1  28 55 2  1
+     77 105 83  1  5 55 27  1
+     106 22 107  1  57 7 35  1
+     21 107 22  1  3 35 7  1
+     108 107 23  1  38 35 5  1
+     23 107 21  1  5 35 3  1
+     106 108 22  1  58 38 2  1
+     22 108 23  1  2 38 5  1
+    tverts 59
+     0.16588 0.354666 0 
+     0.00390625 0.354666 0 
+     0.00390625 0.645334 0 
+     0.16588 0.645334 0 
+     0.075268 0.354666 0 
+     0.075268 0.645334 0 
+     0.26816 0.354666 0 
+     0.26816 0.645334 0 
+     0.751953 0.703125 0 
+     0.798828 0.757813 0 
+     0.744141 0.806641 0 
+     0.26816 0.00390625 0 
+     0.376733 0.00390625 0 
+     0.376733 0.996094 0 
+     0.26816 0.996094 0 
+     0.478511 0.00390625 0 
+     0.478511 0.996094 0 
+     0.589081 0.00390625 0 
+     0.589081 0.996094 0 
+     0.16588 0.00390625 0 
+     0.16588 0.996094 0 
+     0.00390625 0.00390625 0 
+     0.075268 0.00390625 0 
+     0.075268 0.996094 0 
+     0.00390625 0.996094 0 
+     0.26816 0.447197 0 
+     0.16588 0.534564 0 
+     0.075268 0.401032 0 
+     0.00390625 0.447197 0 
+     0.59421 0.441297 0 
+     0.56443 0.551462 0 
+     0.534563 0.440097 0 
+     0.534253 0.441084 0 
+     0.593221 0.440426 0 
+     0.562104 0.551138 0 
+     0.16588 0.5 0 
+     0.26816 0.5 0 
+     0.00390625 0.5 0 
+     0.075268 0.5 0 
+     0.16588 0.572667 0 
+     0.26816 0.572667 0 
+     0.00390625 0.572667 0 
+     0.075268 0.572667 0 
+     0.16588 0.536334 0 
+     0.26816 0.536334 0 
+     0.00390625 0.536334 0 
+     0.075268 0.536334 0 
+     0.16588 0.463666 0 
+     0.26816 0.463666 0 
+     0.00390625 0.463666 0 
+     0.075268 0.463666 0 
+     0.26816 0.450733 0 
+     0.00390625 0.450733 0 
+     0.075268 0.457361 0 
+     0.16588 0.451561 0 
+     0.0351207 0.427004 0 
+     0.56634 0.440736 0 
+     0.26816 0.492092 0 
+     0.00390625 0.492092 0 
+endnode
+node trimesh Slime01 
+  parent animdummy 
+  position 0.0623529 0.00204421 -0.0709448
+  orientation  1.0 0.0 0.0  -1.5708
+  wirecolor 0.878431 0.560784 0.341176  
+  ambient 1.0 1.0 1.0  
+  diffuse 1.0 1.0 1.0  
+  specular 0.0 0.0 0.0  
+  shininess 11.0 
+    bitmap dlsw1_hanging_01
+    verts 3
+     0.17096 -0.0254631 1.72053
+     0.178127 -0.0592185 2.17703
+     0.0775726 -0.0710412 2.17944
+    faces 1
+     0 2 1  1  0 2 1  1
+    tverts 3
+     0.5 0.0 0 
+     0.284241 1.0 0 
+     1.0 1.0 0 
+endnode
+node trimesh Slime02 
+  parent animdummy 
+  position 0.0623529 0.00204421 -0.0709448
+  orientation  1.0 0.0 0.0  -1.5708
+  wirecolor 0.52549 0.0235294 0.0235294  
+  ambient 1.0 1.0 1.0  
+  diffuse 1.0 1.0 1.0  
+  specular 0.0 0.0 0.0  
+  shininess 11.0 
+    bitmap dlsw1_hanging_01
+    verts 3
+     -0.163886 -0.0212864 0.576966
+     -0.142977 -0.0570605 1.06465
+     -0.200204 -0.0509056 1.04053
+    faces 1
+     0 2 1  1  0 2 1  1
+    tverts 3
+     0.424829 0.206721 0 
+     0.295827 1.0 0 
+     0.704173 1.0 0 
+endnode
+node trimesh Slime03 
+  parent animdummy 
+  position 0.0623529 0.00204421 -0.0709448
+  orientation  1.0 0.0 0.0  -1.5708
+  wirecolor 0.603922 0.72549 0.898039  
+  ambient 1.0 1.0 1.0  
+  diffuse 1.0 1.0 1.0  
+  specular 0.0 0.0 0.0  
+  shininess 11.0 
+    bitmap dlsw1_hanging_01
+    verts 3
+     -0.0072553 -0.0130668 0.176371
+     0.0280347 -0.0263384 0.433492
+     -0.0700851 -0.0280954 0.433598
+    faces 1
+     0 2 1  1  0 2 1  1
+    tverts 3
+     0.5 0.0 0 
+     0.236443 1.0 0 
+     0.823982 1.0 0 
+endnode
+node trimesh Slime04 
+  parent animdummy 
+  position 0.0623529 0.00204421 -0.0709448
+  orientation  1.0 0.0 0.0  -1.5708
+  wirecolor 0.603922 0.72549 0.898039  
+  ambient 1.0 1.0 1.0  
+  diffuse 1.0 1.0 1.0  
+  specular 0.0 0.0 0.0  
+  shininess 11.0 
+    bitmap dlsw1_hanging_01
+    verts 3
+     -0.153495 -0.190385 2.28462
+     -0.141339 -0.194773 2.41601
+     -0.178017 -0.195491 2.41687
+    faces 1
+     0 2 1  1  0 2 1  1
+    tverts 3
+     0.5 0.490962 0 
+     0.258401 1.0 0 
+     0.668777 1.0 0 
+endnode
+node dummy DLA_Door_01grnd 
+  parent DLA_Door_01 
+  position 0.0 0.0 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.0235294 0.52549 0.0235294  
+endnode
+node dummy DLA_Door_01head 
+  parent DLA_Door_01 
+  position 0.0 0.0 2.5
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.0235294 0.52549 0.0235294  
+endnode
+node dummy DLA_Door_01hhit 
+  parent DLA_Door_01 
+  position 0.0 0.0 2.25
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.0235294 0.52549 0.0235294  
+endnode
+node dummy DLA_Door_01impc 
+  parent DLA_Door_01 
+  position 0.0 0.0 1.75
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.0235294 0.52549 0.0235294  
+endnode
+endmodelgeom DLA_Door_01 
+
+#MAXANIM ASCII
+newanim die DLA_Door_01 
+ length 0.0666667
+ transtime 0.25
+animroot DLA_Door_01
+node dummy DLA_Door_01 
+  parent NULL 
+endnode
+node trimesh SAM 
+  parent DLA_Door_01 
+    positionkey 
+    endlist 
+    orientationkey 
+    endlist 
+    Alphakey
+    endlist
+    centerkey
+    endlist
+    gizmokey
+    endlist
+endnode
+node dummy animdummy 
+  parent DLA_Door_01 
+    positionkey 
+      0.0  0.0 0.0 0.0
+      0.0333333  0.0 0.0 0.0
+      0.0666667  0.0 0.0 0.0
+    endlist 
+    orientationkey 
+      0.0   1.0 0.0 0.0  1.5708
+      0.0333333   1.0 0.0 0.0  1.5708
+      0.0666667   1.0 0.0 0.0  1.5708
+    endlist 
+endnode
+node dummy Ladder 
+  parent animdummy 
+endnode
+node dummy Slime01 
+  parent animdummy 
+endnode
+node dummy Slime02 
+  parent animdummy 
+endnode
+node dummy Slime03 
+  parent animdummy 
+endnode
+node dummy Slime04 
+  parent animdummy 
+endnode
+node dummy DLA_Door_01_DWK 
+  parent DLA_Door_01 
+endnode
+node dummy 01_DWK_dp_open2_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_open1_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_02 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_closed 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open1 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open2 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy DLA_Door_01grnd 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01head 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01hhit 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01impc 
+  parent DLA_Door_01 
+endnode
+doneanim die DLA_Door_01 
+
+#MAXANIM ASCII
+newanim dead DLA_Door_01 
+ length 0.0333333
+ transtime 0.25
+animroot DLA_Door_01
+node dummy DLA_Door_01 
+  parent NULL 
+endnode
+node trimesh SAM 
+  parent DLA_Door_01 
+    positionkey 
+    endlist 
+    orientationkey 
+    endlist 
+    Alphakey
+    endlist
+    centerkey
+    endlist
+    gizmokey
+    endlist
+endnode
+node dummy animdummy 
+  parent DLA_Door_01 
+    positionkey 
+      0.0  0.0 0.0 0.0
+      0.0333333  0.0 0.0 0.0
+    endlist 
+    orientationkey 
+      0.0   1.0 0.0 0.0  1.5708
+      0.0333333   1.0 0.0 0.0  1.5708
+    endlist 
+endnode
+node dummy Ladder 
+  parent animdummy 
+endnode
+node dummy Slime01 
+  parent animdummy 
+endnode
+node dummy Slime02 
+  parent animdummy 
+endnode
+node dummy Slime03 
+  parent animdummy 
+endnode
+node dummy Slime04 
+  parent animdummy 
+endnode
+node dummy DLA_Door_01_DWK 
+  parent DLA_Door_01 
+endnode
+node dummy 01_DWK_dp_open2_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_open1_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_02 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_closed 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open1 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open2 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy DLA_Door_01grnd 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01head 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01hhit 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01impc 
+  parent DLA_Door_01 
+endnode
+doneanim dead DLA_Door_01 
+
+#MAXANIM ASCII
+newanim opening1 DLA_Door_01 
+ length 0.0666667
+ transtime 0.25
+animroot DLA_Door_01
+node dummy DLA_Door_01 
+  parent NULL 
+endnode
+node trimesh SAM 
+  parent DLA_Door_01 
+    positionkey 
+      0.0  0.0164019 0.0 1.69817
+    endlist 
+    orientationkey 
+      0.0   0.0 0.0 0.0  0.0
+    endlist 
+    Alphakey
+      0.0   -0.496707
+    endlist
+    centerkey
+    endlist
+    gizmokey
+    endlist
+endnode
+node dummy animdummy 
+  parent DLA_Door_01 
+    positionkey 
+      0.0  0.0 0.0 0.0
+      0.0333333  0.0 0.0 0.0
+      0.0666667  0.0 0.0 0.0
+    endlist 
+    orientationkey 
+      0.0   1.0 0.0 0.0  1.5708
+      0.0333333   1.0 0.0 0.0  1.5708
+      0.0666667   1.0 0.0 0.0  1.5708
+    endlist 
+endnode
+node dummy Ladder 
+  parent animdummy 
+endnode
+node dummy Slime01 
+  parent animdummy 
+endnode
+node dummy Slime02 
+  parent animdummy 
+endnode
+node dummy Slime03 
+  parent animdummy 
+endnode
+node dummy Slime04 
+  parent animdummy 
+endnode
+node dummy DLA_Door_01_DWK 
+  parent DLA_Door_01 
+endnode
+node dummy 01_DWK_dp_open2_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_open1_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_02 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_closed 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open1 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open2 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy DLA_Door_01grnd 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01head 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01hhit 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01impc 
+  parent DLA_Door_01 
+endnode
+doneanim opening1 DLA_Door_01 
+
+#MAXANIM ASCII
+newanim opening2 DLA_Door_01 
+ length 0.0666667
+ transtime 0.25
+animroot DLA_Door_01
+node dummy DLA_Door_01 
+  parent NULL 
+endnode
+node trimesh SAM 
+  parent DLA_Door_01 
+    positionkey 
+    endlist 
+    orientationkey 
+    endlist 
+    Alphakey
+    endlist
+    centerkey
+    endlist
+    gizmokey
+    endlist
+endnode
+node dummy animdummy 
+  parent DLA_Door_01 
+    positionkey 
+      0.0  0.0 0.0 0.0
+      0.0333333  0.0 0.0 0.0
+      0.0666667  0.0 0.0 0.0
+    endlist 
+    orientationkey 
+      0.0   1.0 0.0 0.0  1.5708
+      0.0333333   1.0 0.0 0.0  1.5708
+      0.0666667   1.0 0.0 0.0  1.5708
+    endlist 
+endnode
+node dummy Ladder 
+  parent animdummy 
+endnode
+node dummy Slime01 
+  parent animdummy 
+endnode
+node dummy Slime02 
+  parent animdummy 
+endnode
+node dummy Slime03 
+  parent animdummy 
+endnode
+node dummy Slime04 
+  parent animdummy 
+endnode
+node dummy DLA_Door_01_DWK 
+  parent DLA_Door_01 
+endnode
+node dummy 01_DWK_dp_open2_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_open1_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_02 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_closed 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open1 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open2 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy DLA_Door_01grnd 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01head 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01hhit 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01impc 
+  parent DLA_Door_01 
+endnode
+doneanim opening2 DLA_Door_01 
+
+#MAXANIM ASCII
+newanim opened2 DLA_Door_01 
+ length 0.0666667
+ transtime 0.25
+animroot DLA_Door_01
+node dummy DLA_Door_01 
+  parent NULL 
+endnode
+node trimesh SAM 
+  parent DLA_Door_01 
+    positionkey 
+    endlist 
+    orientationkey 
+    endlist 
+    Alphakey
+    endlist
+    centerkey
+    endlist
+    gizmokey
+    endlist
+endnode
+node dummy animdummy 
+  parent DLA_Door_01 
+    positionkey 
+      0.0  0.0 0.0 0.0
+      0.0333333  0.0 0.0 0.0
+      0.0666667  0.0 0.0 0.0
+    endlist 
+    orientationkey 
+      0.0   1.0 0.0 0.0  1.5708
+      0.0333333   1.0 0.0 0.0  1.5708
+      0.0666667   1.0 0.0 0.0  1.5708
+    endlist 
+endnode
+node dummy Ladder 
+  parent animdummy 
+endnode
+node dummy Slime01 
+  parent animdummy 
+endnode
+node dummy Slime02 
+  parent animdummy 
+endnode
+node dummy Slime03 
+  parent animdummy 
+endnode
+node dummy Slime04 
+  parent animdummy 
+endnode
+node dummy DLA_Door_01_DWK 
+  parent DLA_Door_01 
+endnode
+node dummy 01_DWK_dp_open2_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_open1_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_02 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_closed 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open1 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open2 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy DLA_Door_01grnd 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01head 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01hhit 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01impc 
+  parent DLA_Door_01 
+endnode
+doneanim opened2 DLA_Door_01 
+
+#MAXANIM ASCII
+newanim opened1 DLA_Door_01 
+ length 0.0666667
+ transtime 0.25
+animroot DLA_Door_01
+node dummy DLA_Door_01 
+  parent NULL 
+endnode
+node trimesh SAM 
+  parent DLA_Door_01 
+    positionkey 
+    endlist 
+    orientationkey 
+    endlist 
+    Alphakey
+    endlist
+    centerkey
+    endlist
+    gizmokey
+    endlist
+endnode
+node dummy animdummy 
+  parent DLA_Door_01 
+    positionkey 
+      0.0  0.0 0.0 0.0
+      0.0333333  0.0 0.0 0.0
+      0.0666667  0.0 0.0 0.0
+    endlist 
+    orientationkey 
+      0.0   1.0 0.0 0.0  1.5708
+      0.0333333   1.0 0.0 0.0  1.5708
+      0.0666667   1.0 0.0 0.0  1.5708
+    endlist 
+endnode
+node dummy Ladder 
+  parent animdummy 
+endnode
+node dummy Slime01 
+  parent animdummy 
+endnode
+node dummy Slime02 
+  parent animdummy 
+endnode
+node dummy Slime03 
+  parent animdummy 
+endnode
+node dummy Slime04 
+  parent animdummy 
+endnode
+node dummy DLA_Door_01_DWK 
+  parent DLA_Door_01 
+endnode
+node dummy 01_DWK_dp_open2_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_open1_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_02 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_closed 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open1 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open2 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy DLA_Door_01grnd 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01head 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01hhit 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01impc 
+  parent DLA_Door_01 
+endnode
+doneanim opened1 DLA_Door_01 
+
+#MAXANIM ASCII
+newanim closed DLA_Door_01 
+ length 0.0666667
+ transtime 0.25
+animroot DLA_Door_01
+node dummy DLA_Door_01 
+  parent NULL 
+endnode
+node trimesh SAM 
+  parent DLA_Door_01 
+    positionkey 
+    endlist 
+    orientationkey 
+    endlist 
+    Alphakey
+    endlist
+    centerkey
+    endlist
+    gizmokey
+    endlist
+endnode
+node dummy animdummy 
+  parent DLA_Door_01 
+    positionkey 
+      0.0  0.0 0.0 0.0
+      0.0333333  0.0 0.0 0.0
+      0.0666667  0.0 0.0 0.0
+    endlist 
+    orientationkey 
+      0.0   1.0 0.0 0.0  1.5708
+      0.0333333   1.0 0.0 0.0  1.5708
+      0.0666667   1.0 0.0 0.0  1.5708
+    endlist 
+endnode
+node dummy Ladder 
+  parent animdummy 
+endnode
+node dummy Slime01 
+  parent animdummy 
+endnode
+node dummy Slime02 
+  parent animdummy 
+endnode
+node dummy Slime03 
+  parent animdummy 
+endnode
+node dummy Slime04 
+  parent animdummy 
+endnode
+node dummy DLA_Door_01_DWK 
+  parent DLA_Door_01 
+endnode
+node dummy 01_DWK_dp_open2_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_open1_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_02 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_closed 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open1 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open2 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy DLA_Door_01grnd 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01head 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01hhit 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01impc 
+  parent DLA_Door_01 
+endnode
+doneanim closed DLA_Door_01 
+
+#MAXANIM ASCII
+newanim closing1 DLA_Door_01 
+ length 0.0666667
+ transtime 0.25
+animroot DLA_Door_01
+node dummy DLA_Door_01 
+  parent NULL 
+endnode
+node trimesh SAM 
+  parent DLA_Door_01 
+    positionkey 
+    endlist 
+    orientationkey 
+    endlist 
+    Alphakey
+    endlist
+    centerkey
+    endlist
+    gizmokey
+    endlist
+endnode
+node dummy animdummy 
+  parent DLA_Door_01 
+    positionkey 
+      0.0  0.0 0.0 0.0
+      0.0333333  0.0 0.0 0.0
+      0.0666667  0.0 0.0 0.0
+    endlist 
+    orientationkey 
+      0.0   1.0 0.0 0.0  1.5708
+      0.0333333   1.0 0.0 0.0  1.5708
+      0.0666667   1.0 0.0 0.0  1.5708
+    endlist 
+endnode
+node dummy Ladder 
+  parent animdummy 
+endnode
+node dummy Slime01 
+  parent animdummy 
+endnode
+node dummy Slime02 
+  parent animdummy 
+endnode
+node dummy Slime03 
+  parent animdummy 
+endnode
+node dummy Slime04 
+  parent animdummy 
+endnode
+node dummy DLA_Door_01_DWK 
+  parent DLA_Door_01 
+endnode
+node dummy 01_DWK_dp_open2_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_open1_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_02 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_closed 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open1 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open2 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy DLA_Door_01grnd 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01head 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01hhit 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01impc 
+  parent DLA_Door_01 
+endnode
+doneanim closing1 DLA_Door_01 
+
+#MAXANIM ASCII
+newanim closing1 DLA_Door_01 
+ length 0.0666667
+ transtime 0.25
+animroot DLA_Door_01
+node dummy DLA_Door_01 
+  parent NULL 
+endnode
+node trimesh SAM 
+  parent DLA_Door_01 
+    positionkey 
+    endlist 
+    orientationkey 
+    endlist 
+    Alphakey
+    endlist
+    centerkey
+    endlist
+    gizmokey
+    endlist
+endnode
+node dummy animdummy 
+  parent DLA_Door_01 
+    positionkey 
+      0.0  0.0 0.0 0.0
+      0.0333333  0.0 0.0 0.0
+      0.0666667  0.0 0.0 0.0
+    endlist 
+    orientationkey 
+      0.0   1.0 0.0 0.0  1.5708
+      0.0333333   1.0 0.0 0.0  1.5708
+      0.0666667   1.0 0.0 0.0  1.5708
+    endlist 
+endnode
+node dummy Ladder 
+  parent animdummy 
+endnode
+node dummy Slime01 
+  parent animdummy 
+endnode
+node dummy Slime02 
+  parent animdummy 
+endnode
+node dummy Slime03 
+  parent animdummy 
+endnode
+node dummy Slime04 
+  parent animdummy 
+endnode
+node dummy DLA_Door_01_DWK 
+  parent DLA_Door_01 
+endnode
+node dummy 01_DWK_dp_open2_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_open1_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_02 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_closed 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open1 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open2 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy DLA_Door_01grnd 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01head 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01hhit 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01impc 
+  parent DLA_Door_01 
+endnode
+doneanim closing1 DLA_Door_01 
+
+#MAXANIM ASCII
+newanim trans DLA_Door_01 
+ length 0.0333333
+ transtime 0.25
+animroot DLA_Door_01
+node dummy DLA_Door_01 
+  parent NULL 
+endnode
+node trimesh SAM 
+  parent DLA_Door_01 
+    positionkey 
+      0.0333333  0.0164019 0.0 1.69817
+    endlist 
+    orientationkey 
+      0.0333333   0.0 0.0 0.0  0.0
+    endlist 
+    Alphakey
+      0.0   0.3
+      0.0333333   0.0
+    endlist
+    centerkey
+    endlist
+    gizmokey
+    endlist
+endnode
+node dummy animdummy 
+  parent DLA_Door_01 
+    positionkey 
+    endlist 
+    orientationkey 
+    endlist 
+endnode
+node dummy Ladder 
+  parent animdummy 
+endnode
+node dummy Slime01 
+  parent animdummy 
+endnode
+node dummy Slime02 
+  parent animdummy 
+endnode
+node dummy Slime03 
+  parent animdummy 
+endnode
+node dummy Slime04 
+  parent animdummy 
+endnode
+node dummy DLA_Door_01_DWK 
+  parent DLA_Door_01 
+endnode
+node dummy 01_DWK_dp_open2_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_open1_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_02 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_dp_closed_01 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_closed 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open1 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy 01_DWK_wg_open2 
+  parent DLA_Door_01_DWK 
+endnode
+node dummy DLA_Door_01grnd 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01head 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01hhit 
+  parent DLA_Door_01 
+endnode
+node dummy DLA_Door_01impc 
+  parent DLA_Door_01 
+endnode
+doneanim trans DLA_Door_01 
+
+donemodel DLA_Door_01 
+

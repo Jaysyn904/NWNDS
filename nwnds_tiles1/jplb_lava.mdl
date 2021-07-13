@@ -1,0 +1,41 @@
+#Model converted by mdl2ascii
+#For updates/comments check out http://nwn-j3d.sf.net
+filedependancy Unknown
+newmodel jplb_lava
+setsupermodel jplb_lava NULL
+classification Character
+setanimationscale 1.000000
+#MAXGEOM  ASCII
+beginmodelgeom jplb_lava
+node dummy jplb_lava
+  parent NULL
+endnode
+node trimesh Plane687
+  parent jplb_lava
+  position 0.000000 0.000000 0.100000
+  orientation 0.000000 0.000000 0.000000 0.000000
+  alpha 1.000000
+  diffuse 1.000000 1.000000 1.000000
+  ambient 1.000000 1.000000 1.000000
+  specular 0.000000 0.000000 0.000000
+  shininess 1.000000
+  render 1
+    bitmap TDE01_lava01
+    verts 4
+     -5.000000 5.000000 0.000000
+     -5.000000 -5.000000 0.000000
+     5.000000 5.000000 0.000000
+     5.000000 -5.000000 0.000000
+    faces 2
+     0 1 2 1 0 1 2 1
+     3 2 1 1 3 2 1 1
+    tverts 4
+     6.000040 -56.000599 0
+     6.000040 -59.000599 0
+     9.000070 -56.000599 0
+     9.000070 -59.000599 0
+endnode
+endmodelgeom jplb_lava
+donemodel jplb_lava
+
+

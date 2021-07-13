@@ -1,0 +1,3 @@
+envmaptexture env_TTI
+alphamean 0.2
+

@@ -1,0 +1,67 @@
+#Model converted by mdl2ascii
+#For updates/comments check out http://nwn-j3d.sf.net
+filedependancy Unknown
+newmodel tcr01_b20_01
+setsupermodel tcr01_b20_01 NULL
+classification Character
+setanimationscale 1.000000
+#MAXGEOM  ASCII
+beginmodelgeom tcr01_b20_01
+node dummy tcr01_b20_01
+  parent NULL
+endnode
+node aabb Plane02
+  parent tcr01_b20_01
+  position 0.000032 -0.000039 3.000000
+  orientation 0.000000 0.000000 0.000000 0.000000
+  diffuse 0.800000 0.800000 0.800000
+  ambient 0.200000 0.200000 0.200000
+  specular 0.000000 0.000000 0.000000
+  shininess 1.000000
+  render 0
+    bitmap NULL
+    verts 4
+     -5.000000 5.000000 0.000000
+     -5.000000 -5.000000 0.000000
+     5.000000 5.000000 0.000000
+     5.000000 -5.000000 0.000000
+    faces 2
+     0 1 2 1 0 1 2 7
+     3 2 1 1 3 2 1 7
+    tverts 4
+     0.000000 1.000000 0
+     0.000000 0.000000 0
+     1.000000 1.000000 0
+     1.000000 0.000000 0
+    aabb      -5.000000 -5.000000 0.000000  5.000000 5.000000 0.000000 -1
+     -5.000000 -5.000000 0.000000  5.000000 5.000000 0.000000 1
+     -5.000000 -5.000000 0.000000  5.000000 5.000000 0.000000 0
+endnode
+node trimesh Plane01
+  parent tcr01_b20_01
+  position 0.000000 0.000000 3.000000
+  orientation 0.000000 0.000000 0.000000 0.000000
+  diffuse 1.000000 1.000000 1.000000
+  ambient 1.000000 1.000000 1.000000
+  specular 0.050000 0.050000 0.050000
+  shininess 26.000000
+  render 1
+    bitmap tcr01_Black
+    verts 4
+     -5.000000 5.000000 0.000000
+     -5.000000 -5.000000 0.000000
+     5.000000 5.000000 0.000000
+     5.000000 -5.000000 0.000000
+    faces 2
+     0 1 2 1 0 1 2 1
+     3 2 1 1 3 2 1 1
+    tverts 4
+     -799.500000 -449.500000 0
+     -799.500000 -499.500000 0
+     -749.500000 -449.500000 0
+     -749.500000 -499.500000 0
+endnode
+endmodelgeom tcr01_b20_01
+donemodel tcr01_b20_01
+
+

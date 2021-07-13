@@ -1,0 +1,190 @@
+#MAXDOOR ASCII
+# model: HobbitDoor_DWK 
+filedependancy GenericDoors.max
+node trimesh 02_DWK_wg_closed 
+  parent HobbitDoor_DWK 
+  position -1.0 0.0 0.0
+orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.345098 0.345098 0.882353  
+  multimaterial 18 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+    bitmap NULL
+    verts 8
+     2.00623 -0.073 -1.83105e-006
+     0.0062291 -0.073 -1.83105e-006
+     2.00623 -0.073 2.97
+     0.0062291 -0.073 2.97
+     2.00623 0.0970894 -2.13623e-006
+     0.00622841 0.0970906 -2.13623e-006
+     2.00623 0.0970894 2.97
+     0.00622841 0.0970894 2.97
+    faces 10
+     2 6 7  4  0 1 3  7
+     7 3 2  4  3 2 0  7
+     0 4 6  8  4 5 7  7
+     6 2 0  8  7 6 4  7
+     5 1 3  32  9 8 10  7
+     3 7 5  32  10 11 9  7
+     1 0 2  64  13 12 14  7
+     2 3 1  64  14 15 13  7
+     4 5 6  64  17 16 18  7
+     7 6 5  64  19 18 16  7
+    tverts 20
+     0.494271 0.823172 0 
+     0.494271 0.876312 0 
+     0.000499815 0.823172 0 
+     0.000499815 0.876312 0 
+     0.444931 0.000499547 0 
+     0.49427 0.000499547 0 
+     0.444932 0.876312 0 
+     0.494271 0.876312 0 
+     0.0399706 0.000499666 0 
+     0.000499517 0.000499666 0 
+     0.0399709 0.876312 0 
+     0.000499815 0.876312 0 
+     0.49427 0.000499547 0 
+     0.000499517 0.000499666 0 
+     0.494271 0.876312 0 
+     0.000499815 0.876312 0 
+     0.000499517 0.000499666 0 
+     0.49427 0.000499547 0 
+     0.494271 0.876312 0 
+     0.000499815 0.876312 0 
+endnode
+node trimesh 02_DWK_wg_open2 
+  parent HobbitDoor_DWK 
+  position -0.710847 -0.713897 0
+  orientation 0 0 0 0
+  wirecolor 0.345098 0.345098 0.882353  
+  multimaterial 18 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+    bitmap NULL
+  verts 8
+    0.129916 0.679893 0
+    -0.129916 0.679893 0
+    0.129916 -0.679893 0
+    -0.129916 -0.679893 0
+    0.129916 0.679893 1.28184
+    -0.129916 0.679893 1.28184
+    0.129916 -0.679893 1.28184
+    -0.129916 -0.679893 1.28184
+  faces 12
+    0 2 3  2  0 0 0  7
+    3 1 0  2  0 0 0  7
+    4 5 7  4  0 0 0  7
+    7 6 4  4  0 0 0  7
+    0 1 5  8  0 0 0  7
+    5 4 0  8  0 0 0  7
+    1 3 7  16  0 0 0  7
+    7 5 1  16  0 0 0  7
+    3 2 6  32  0 0 0  7
+    6 7 3  32  0 0 0  7
+    2 0 4  64  0 0 0  7
+    4 6 2  64  0 0 0  7
+endnode
+node dummy 02_DWK_dp_closed_02 
+  parent HobbitDoor_DWK 
+  position 0.374829 -0.740024 0.0
+orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.898039 0.65098 0.843137  
+endnode
+node dummy 02_DWK_dp_closed_01 
+  parent HobbitDoor_DWK 
+  position 0.374834 0.683119 0.0
+orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.898039 0.65098 0.843137  
+endnode
+node trimesh 02_DWK_wg_open1 
+  parent HobbitDoor_DWK 
+  position -0.710847 0.676203 0
+  orientation 0 0 0 0
+  wirecolor 0.345098 0.345098 0.882353  
+  multimaterial 18 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+      NULL 
+    bitmap NULL
+  verts 8
+    0.112594 0.701545 0
+    -0.112594 0.701545 0
+    0.112594 -0.701545 0
+    -0.112594 -0.701545 0
+    0.112594 0.701545 1.28184
+    -0.112594 0.701545 1.28184
+    0.112594 -0.701545 1.28184
+    -0.112594 -0.701545 1.28184
+  faces 12
+    0 2 3  2  0 0 0  7
+    3 1 0  2  0 0 0  7
+    4 5 7  4  0 0 0  7
+    7 6 4  4  0 0 0  7
+    0 1 5  8  0 0 0  7
+    5 4 0  8  0 0 0  7
+    1 3 7  16  0 0 0  7
+    7 5 1  16  0 0 0  7
+    3 2 6  32  0 0 0  7
+    6 7 3  32  0 0 0  7
+    2 0 4  64  0 0 0  7
+    4 6 2  64  0 0 0  7
+endnode
+node dummy 02_DWK_dp_open2_01 
+  parent HobbitDoor_DWK 
+  position 0.131744 -1.98579 0.0
+orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.898039 0.65098 0.843137  
+endnode
+node dummy 02_DWK_dp_open1_01 
+  parent HobbitDoor_DWK 
+  position 0.110445 1.86896 0.0
+orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.898039 0.65098 0.843137  
+endnode

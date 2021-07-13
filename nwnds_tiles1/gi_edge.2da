@@ -1,0 +1,28 @@
+2DA V2.0
+
+       Corner1     Edge     Corner2     Height     Model            
+0      Foyer_U     ****     Foyer_U     0          gi_z01_07
+1      Foyer_U     ****     Wall        0          gi_z02_07
+2      Foyer_L     ****     Foyer_L     0          gi_z01_06
+3      Foyer_L     ****     Wall        0          gi_z02_06
+4      Wall        Hallway1 Wall        0          gi_z01_08
+5      Wall        Hallway2 Wall        0          gi_z01_09
+6      Wall        ****     Wall        0          gi_z03_01
+7      Living1     ****     Living1     0          gi_z01_01
+8      Living1     ****     Wall        0          gi_z02_01
+9      Living2     ****     Living2     0          gi_z01_02
+10      Living2     ****     Wall        0          gi_z02_02
+11      Living3     ****     Living3     0          gi_z01_03
+12      Living3     ****     Wall        0          gi_z02_03
+13      Living4     ****     Living4     0          gi_z01_04
+14      Living4     ****     Wall        0          gi_z02_04
+15      Study       ****     Study       0          gi_z01_05
+16      Study       ****     Wall        0          gi_z02_05
+17      Foyer_U     ****     ****        0          gi_z01_07
+18      Foyer_L     ****     ****        0          gi_z01_06
+19      Wall        ****     ****        0          gi_z03_01
+20      Living1     ****     ****        0          gi_z01_01
+21      Living2     ****     ****        0          gi_z01_02
+22      Living3     ****     ****        0          gi_z01_03
+23      Living4     ****     ****        0          gi_z01_04
+24      Study       ****     ****        0          gi_z01_05

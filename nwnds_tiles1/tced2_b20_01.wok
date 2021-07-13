@@ -1,0 +1,49 @@
+# Rewritten by CleanModels 3 Version 3.3.1a Thu Feb 26 15:49:03 2009
+#MAXWALKMESH  ASCII
+beginwalkmeshgeom tced2_b20_01
+node aabb cm167
+  parent tced2_b20_01
+  wirecolor 1 1 1
+  ambient 0 0 0
+  diffuse 0 0 0.376471
+  specular 0 0 0
+  shininess 10
+  orientation 0 0 0 0
+  bitmap NULL
+  position 0 0 0
+  verts 9
+    -5 0 -1
+    -5 -5 -1
+    0 0 -1
+    0 -5 -1
+    5 0 -1
+    5 -5 -1
+    -5 5 -1
+    0 5 -1
+    5 5 -1
+  faces 8
+    0 1 2 1 0 0 0 17
+    3 2 1 1 0 0 0 17
+    2 3 4 1 0 0 0 17
+    5 4 3 1 0 0 0 17
+    6 0 7 1 0 0 0 17
+    2 7 0 1 0 0 0 17
+    7 2 8 1 0 0 0 17
+    4 8 2 1 0 0 0 17
+  aabb     -5 -5 -1 5 5 -1 -1
+    -5 -5 -1 0 5 -1 -1
+    -5 -5 -1 0 0 -1 -1
+    -5 -5 -1 0 0 -1 0
+    -5 -5 -1 0 0 -1 1
+    -5 0 -1 0 5 -1 -1
+    -5 0 -1 0 5 -1 4
+    -5 0 -1 0 5 -1 5
+    0 -5 -1 5 5 -1 -1
+    0 -5 -1 5 0 -1 -1
+    0 -5 -1 5 0 -1 2
+    0 -5 -1 5 0 -1 3
+    0 0 -1 5 5 -1 -1
+    0 0 -1 5 5 -1 6
+    0 0 -1 5 5 -1 7
+endnode
+endwalkmeshgeom tced2_b20_01

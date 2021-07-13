@@ -1,0 +1,27 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+beginwalkmeshgeom az2_b04_05
+node aabb walkm456
+  parent az2_b04_05
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.878906 0.878906 0.878906
+  ambient 0.875 0.339844 0.558594
+  diffuse 0.875 0.339844 0.558594
+  specular 0 0 0
+  shininess 1
+  bitmap NULL
+  verts 4
+    5 5 0
+    -5 5.00001 0
+    5 -5 0
+    -5 -4.99999 0
+  faces 2
+    2 0 3  1  0 0 0  7
+    1 3 0  1  0 0 0  7
+  aabb     -5.00 -5.00 0.00   5.00 5.00 0.00   -1
+     -5.00 -5.00 0.00   5.00 5.00 0.00   1
+     -5.00 -5.00 0.00   5.00 5.00 0.00   0
+endnode
+endwalkmeshgeom az2_b04_05

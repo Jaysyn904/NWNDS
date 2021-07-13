@@ -1,0 +1,20 @@
+2DA V2.0
+
+      Corner1   Edge       Corner2   Height   Model          
+0     The_Bush     ****       The_Bush     0        wdp01_plains_x3  
+1     The_Bush     Fence      The_Bush     0        tms01_Z01_01   
+2     Water     Bridge     Water     0        tms01_Z01_01  
+3     Wall      Corridor   Wall      0        tms01_Z01_01 
+4     The_Bush     Road       The_Bush     0        tms01_Z01_03     
+5     The_Bush     ****       The_Plains     0        wdp01_plains_x2
+6     Wall      ****       Water     0        tms01_Z01_01
+7     Wall      ****       The_Bush     0        tms01_Z01_01
+8     Wall      ****       ****      0        tms01_Z01_01
+9     The_Plains     ****       ****      0        wdp01_plains_x1
+10    The_Bush     ****       ****      0        wdp01_plains_x3
+11    The_Plains     ****       The_Plains     0        wdp01_plains_x1
+12    Wall      ****       Wall      0        tms01_Z01_01
+13    Wall      Doorway    Wall      0        tms01_Z01_01
+
+
+

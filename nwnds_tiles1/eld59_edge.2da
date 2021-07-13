@@ -1,0 +1,17 @@
+2DA V2.0
+
+       Corner1     Edge     Corner2     Height     Model            
+0      Floor       ****     Floor       0          eld59_Z02_01     
+1      Floor       Fence    Floor       0          eld59_Z04_01     
+2      Lava        Bridge   Lava        0          eld59_Z05_01     
+3      Wall        Corridor Wall        0          eld59_Z06_01     
+4      Floor       ****     Lava        0          eld59_Z07_01     
+5      Wall        ****     Lava        0          eld59_Z08_01     
+6      Wall        ****     Floor       0          eld59_Z09_01     
+7      Wall        ****     ****        0          eld59_Z01_01     
+8      Lava        ****     ****        0          eld59_Z03_01     
+9      Floor       ****     ****        0          eld59_Z02_01     
+10     Lava        ****     Lava        0          eld59_Z03_01     
+11     Wall        ****     Wall        0          eld59_Z01_01
+12     Wall        Doorways Wall        0          eld59_Z10_01    
+

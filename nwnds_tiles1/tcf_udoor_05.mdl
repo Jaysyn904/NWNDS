@@ -1,0 +1,171 @@
+#MAXMODEL ASCII
+# model: tcf_UDoor_05
+filedependancy tcf_UDoor_05.max
+newmodel tcf_UDoor_05
+setsupermodel tcf_UDoor_05 NULL
+classification door
+setanimationscale 1
+#MAXGEOM  ASCII
+beginmodelgeom tcf_UDoor_05
+node dummy tcf_UDoor_05
+  parent NULL
+  #part-number 0
+endnode
+node trimesh sam
+  parent tcf_UDoor_05
+  #part-number 1
+  ambient 0.200000003 0.200000003 0.200000003
+  diffuse 0.800000012 0.800000012 0.800000012
+  specular 0 0 0
+  shininess 1
+  shadow 0
+  bitmap NULL
+  verts 4
+    1.97341001 -4.43309021 -0.169551
+    1.97341001 4.43309021 -0.169551
+    1.97341001 4.43309021 -3.0455699
+    1.97341001 -4.43309021 -3.0455699
+  faces 2
+    0 1 2 1 0 0 0 4
+    2 3 0 1 0 0 0 4
+  position -0.239491999 -1.97596002 3.0455699
+  orientation 0 0 -1 -1.57079995
+  alpha 0
+  scale 1
+  setfillumcolor 0 0 1
+endnode
+node dummy tcf_UDoor_05hhit
+  parent tcf_UDoor_05
+  #part-number 2
+  position -0.000996093964 -0.0057519502 3.09113002
+  orientation 0 0 -1 -1.57079995
+endnode
+node dummy tcf_UDoor_05head
+  parent tcf_UDoor_05
+  #part-number 3
+  position -0.000996093964 -0.0057519502 3.81434989
+  orientation 0 0 -1 -1.57079995
+endnode
+node dummy tcf_UDoor_05impc
+  parent tcf_UDoor_05
+  #part-number 4
+  position -0.000996093964 -0.0057519502 2.22809005
+  orientation 0 0 -1 -1.57079995
+endnode
+node dummy tcf_UDoor_05grnd
+  parent tcf_UDoor_05
+  #part-number 5
+  position -0.000996093964 -0.0057519502 0.642633975
+  orientation 0 0 -1 -1.57079995
+endnode
+endmodelgeom tcf_UDoor_05
+
+#MAXANIM ASCII
+newanim trans tcf_UDoor_05
+  length 0.0333333015
+  transtime 0.25
+  animroot tcf_UDoor_05
+node dummy tcf_UDoor_05
+  parent NULL
+  #part-number 0
+endnode
+node trimesh sam
+  parent tcf_UDoor_05
+  #part-number 1
+  ambient 0.200000003 0.200000003 0.200000003
+  diffuse 0.800000012 0.800000012 0.800000012
+  specular 0 0 0
+  shininess 1
+  alphakey 2
+    0 0.25
+    0.0333333015 0.25
+endnode
+node dummy tcf_UDoor_05hhit
+  parent tcf_UDoor_05
+  #part-number 2
+endnode
+node dummy tcf_UDoor_05head
+  parent tcf_UDoor_05
+  #part-number 3
+endnode
+node dummy tcf_UDoor_05impc
+  parent tcf_UDoor_05
+  #part-number 4
+endnode
+node dummy tcf_UDoor_05grnd
+  parent tcf_UDoor_05
+  #part-number 5
+endnode
+node dummy tcf_UDoor_05_DWK
+  parent tcf_UDoor_05
+  #part-number -1
+endnode
+node dummy 05_DWK_dp_closed_01
+  parent tcf_UDoor_05_DWK
+  #part-number 7
+endnode
+node dummy 05_DWK_dp_closed_01
+  parent tcf_UDoor_05_DWK
+  #part-number 8
+endnode
+node dummy 05_DWK_wg_closed
+  parent tcf_UDoor_05_DWK
+  #part-number 9
+endnode
+doneanim trans tcf_UDoor_05
+
+#MAXANIM ASCII
+newanim default tcf_UDoor_05
+  length 0.0333333015
+  transtime 0.25
+  animroot tcf_UDoor_05
+node dummy tcf_UDoor_05
+  parent NULL
+  #part-number 0
+endnode
+node trimesh sam
+  parent tcf_UDoor_05
+  #part-number 1
+  ambient 0.200000003 0.200000003 0.200000003
+  diffuse 0.800000012 0.800000012 0.800000012
+  specular 0 0 0
+  shininess 1
+  alphakey 2
+    0 0
+    0.0333333015 0
+endnode
+node dummy tcf_UDoor_05hhit
+  parent tcf_UDoor_05
+  #part-number 2
+endnode
+node dummy tcf_UDoor_05head
+  parent tcf_UDoor_05
+  #part-number 3
+endnode
+node dummy tcf_UDoor_05impc
+  parent tcf_UDoor_05
+  #part-number 4
+endnode
+node dummy tcf_UDoor_05grnd
+  parent tcf_UDoor_05
+  #part-number 5
+endnode
+node dummy tcf_UDoor_05_DWK
+  parent tcf_UDoor_05
+  #part-number -1
+endnode
+node dummy 05_DWK_dp_closed_01
+  parent tcf_UDoor_05_DWK
+  #part-number 7
+endnode
+node dummy 05_DWK_dp_closed_01
+  parent tcf_UDoor_05_DWK
+  #part-number 8
+endnode
+node dummy 05_DWK_wg_closed
+  parent tcf_UDoor_05_DWK
+  #part-number 9
+endnode
+doneanim default tcf_UDoor_05
+
+donemodel tcf_UDoor_05

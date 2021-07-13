@@ -1,0 +1,22 @@
+# Rewritten by CleanModels 3 Version 3.3.1a Thu Feb 26 15:14:54 2009
+#MAXWALKMESH  ASCII
+beginwalkmeshgeom tced0_b20_03
+node aabb plane428
+  parent tced0_b20_03
+  wirecolor 1 1 1
+  bitmap NULL
+  orientation 0 0 0 0
+  position 0 0 0
+  verts 4
+    -5 5 -1
+    -5 -5 -1
+    5 5 -1
+    5 -5 -1
+  faces 2
+    0 1 2 1 0 0 0 17
+    3 2 1 1 0 0 0 17
+  aabb     -5 -5 -1 5 5 -1 -1
+    -5 -5 -1 5 5 -1 0
+    -5 -5 -1 5 5 -1 1
+endnode
+endwalkmeshgeom tced0_b20_03

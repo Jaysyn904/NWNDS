@@ -1,0 +1,8 @@
+2DA V2.0
+
+      Corner1   Edge       Corner2   Height   Model          
+0     Space     ****       Space     0        wcc01_c01_02x  
+1     Space     ****       ****     0        wcc01_c01_02x  
+2     Nebula     ****       Space     0        wcc01_c01_02x
+3     Nebula     ****       Nebula     0        wcc01_c01_02x 
+4     Nebula     ****       ****     0        wcc01_c01_02x 

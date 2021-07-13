@@ -1,0 +1,15 @@
+# Exported from NWmax 0.8 b60 at 11.03.2006 19:36:26
+# wok file
+#
+#NWmax WALKMESH  ASCII
+beginwalkmeshgeom tmr01_F18_01
+node aabb Line2662
+  parent tmr01_F18_01
+  position 0.0 0.0 1.5
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 1.0 1.0 1.0 
+  bitmap NULL
+  verts 0
+  faces 0
+    aabb endnode
+endwalkmeshgeom tmr01_F18_01

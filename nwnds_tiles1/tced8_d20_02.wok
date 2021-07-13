@@ -1,0 +1,26 @@
+# Rewritten by CleanModels 3 Version 3.3.1a Sun Apr 05 20:46:32 2009
+#MAXWALKMESH  ASCII
+beginwalkmeshgeom tced8_d20_02
+node aabb walkmesh_e20
+  parent tced8_d20_02
+  wirecolor 1 0 0
+  ambient 0.588 0.588 0.588
+  diffuse 0.6 0.34 0.16
+  specular 0 0 0
+  shininess 10
+  orientation 0 0 0 0
+  bitmap NULL
+  position 0 0 0
+  verts 4
+    -5 -5 10.89
+    5 -5 10.89
+    5 5 10.89
+    -5 5 10.89
+  faces 2
+    3 0 1 0 0 0 0 1
+    1 2 3 0 0 0 0 1
+  aabb     -5 -5 10.89 5 5 10.89 -1
+    -5 -5 10.89 5 5 10.89 0
+    -5 -5 10.89 5 5 10.89 1
+endnode
+endwalkmeshgeom tced8_d20_02

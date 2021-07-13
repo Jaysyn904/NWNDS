@@ -1,0 +1,21 @@
+#MAXWALKMESH  ASCII
+beginwalkmeshgeom DRW01_a06_01 
+node aabb wma06_01 
+  parent DRW01_a06_01 
+  position 0.0 0.0 -5.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.52549 0.231373 0.0313726  
+    verts 4
+     -5.0 -5.0 0.0
+     5.0 -5.0 0.0
+     -5.0 5.0 0.0
+     5.0 5.0 0.0
+    faces 2
+     2 0 3  1  0 0 0  16
+     1 3 0  1  0 0 0  16
+aabb    -5.00 -5.00  0.00   5.00  5.00  0.00  -1
+    -5.00 -5.00  0.00   5.00  5.00  0.00  1
+    -5.00 -5.00  0.00   5.00  5.00  0.00  0
+endnode
+endwalkmeshgeom DRW01_a06_01 
+

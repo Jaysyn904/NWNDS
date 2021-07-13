@@ -1,0 +1,4 @@
+142	teepeedoor	door_tp_01	TNO01	nw_door_ttr_27	63537	0	0	****	
+143	GateDoor	ctx_UDoor_44	TNO01	nw_door_ttr_02	63491	1	1	2	
+144	Wall2Door	ctx_udoor_02	TNO01	nw_door_ttr_02	63491	1	1	1	
+145	FortDoor	ctx_UDoor_11	TNO01	nw_door_ttr_24	63520	1	1	7	

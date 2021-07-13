@@ -1,0 +1,41 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: TZS01_Z03_01
+filedependancy TZS01_Z03_01.max
+newmodel TZS01_Z03_01
+setsupermodel TZS01_Z03_01 NULL
+classification Tile
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom TZS01_Z03_01
+node dummy TZS01_Z03_01
+  parent NULL
+endnode
+node trimesh floor
+  parent TZS01_Z03_01
+  position 0 0 -20.78
+  orientation 0 0 0 0
+  wirecolor 0.00390625 0.00390625 0.00390625
+  ambient 0 0 0
+  diffuse 0 0 0
+  specular 0 0 0
+  shininess 1
+  bitmap NULL
+  render 1
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 4
+    -5 -5 0
+    -5 5 0
+    5 -5 0
+    5 5 0
+  faces 2
+    2 3 1  0  0 0 0  0
+    0 2 1  0  0 0 0  0
+endnode
+endmodelgeom TZS01_Z03_01
+donemodel TZS01_Z03_01

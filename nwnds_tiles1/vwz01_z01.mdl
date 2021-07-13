@@ -1,0 +1,78 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: vzw01_z01
+filedependancy vwz01_z01_border.max
+newmodel vzw01_z01
+setsupermodel vzw01_z01 NULL
+classification Character
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom vzw01_z01
+node dummy vzw01_z01
+  parent NULL
+endnode
+node trimesh Plane01
+  parent vzw01_z01
+  position 0 0 2.8
+  orientation 0 0 0 0
+  wirecolor 0.425781 0.425781 0.425781
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  bitmap vwz01_black
+  render 1
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 12
+    5 5 0
+    -5 5 0
+    5 -5 0
+    -5 -5 0
+    5 5 0.2
+    -5 5 0.2
+    5 -5 0.2
+    -5 -5 0.2
+    5 5 0.21
+    -5 5 0.21
+    5 -5 0.21
+    -5 -5 0.21
+  faces 18
+    10 8 11  1  10 8 11  0
+    9 11 8  1  9 11 8  0
+    2 0 4  0  2 0 4  0
+    4 6 2  0  4 6 2  0
+    3 2 6  0  3 2 6  0
+    6 7 3  0  6 7 3  0
+    1 3 7  0  1 3 7  0
+    7 5 1  0  7 5 1  0
+    0 1 5  0  0 1 5  0
+    5 4 0  0  5 4 0  0
+    6 4 8  0  6 4 8  0
+    8 10 6  0  8 10 6  0
+    7 6 10  0  7 6 10  0
+    10 11 7  0  10 11 7  0
+    5 7 11  0  5 7 11  0
+    11 9 5  0  11 9 5  0
+    4 5 9  0  4 5 9  0
+    9 8 4  0  9 8 4  0
+  tverts 12
+    0.000499517 0.000499755 0.000499576
+    0.9995 0.000499517 0.000499576
+    0.000499755 0.999501 0.000499576
+    0.999501 0.9995 0.000499576
+    0.000499517 0.000499755 0.951929
+    0.9995 0.000499517 0.951929
+    0.000499755 0.999501 0.951929
+    0.999501 0.9995 0.951929
+    0.000499517 0.000499755 0.9995
+    0.9995 0.000499517 0.9995
+    0.000499755 0.999501 0.9995
+    0.999501 0.9995 0.9995
+endnode
+endmodelgeom vzw01_z01
+donemodel vzw01_z01

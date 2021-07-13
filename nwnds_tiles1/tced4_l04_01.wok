@@ -1,0 +1,26 @@
+# Rewritten by CleanModels 3 Version 3.3.1a Mon Apr 06 22:18:28 2009
+#MAXWALKMESH  ASCII
+beginwalkmeshgeom tced4_l04_01
+node aabb wok
+  parent tced4_l04_01
+  wirecolor 1 1 1
+  ambient 0.588 0.588 0.588
+  diffuse 0.705882 0 1
+  specular 0 0 0
+  shininess 10
+  orientation 0 0 0 0
+  bitmap NULL
+  position 0 0 0
+  verts 4
+    -5 -5 4.2
+    5 -5 4.2
+    5 5 4.2
+    -5 5 4.2
+  faces 2
+    0 1 2 1 0 0 0 7
+    2 3 0 1 0 0 0 7
+  aabb     -5 -5 4.2 5 5 4.2 -1
+    -5 -5 4.2 5 5 4.2 1
+    -5 -5 4.2 5 5 4.2 0
+endnode
+endwalkmeshgeom tced4_l04_01

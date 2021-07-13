@@ -1,0 +1,383 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: tzs01_G20_01
+filedependancy TZS01_G20_01.max
+newmodel tzs01_G20_01
+setsupermodel tzs01_G20_01 NULL
+classification Tile
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom tzs01_G20_01
+node dummy tzs01_G20_01
+  parent NULL
+endnode
+node trimesh Mesh2561
+  parent tzs01_G20_01
+  position -4.63 0 3.29
+  orientation 0 0 0 0
+  wirecolor 0.835938 0.835938 0.835938
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 27
+  bitmap tzs01_wall9F
+  faces 0
+endnode
+node trimesh Mesh2533
+  parent tzs01_G20_01
+  position -5.23 0 3.29
+  orientation 0 0 0 0
+  wirecolor 0.695313 0.695313 0.695313
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 27
+  bitmap tzs01_wall9F
+  faces 0
+endnode
+node trimesh Mesh2563
+  parent tzs01_G20_01
+  position -4.63 0 3.29
+  orientation 0 0 0 0
+  wirecolor 0.695313 0.695313 0.695313
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 27
+  bitmap tzs01_wall9F
+  faces 0
+endnode
+node trimesh Mesh2526
+  parent tzs01_G20_01
+  position -5.23 0 3.29
+  orientation 0 0 0 0
+  wirecolor 0.839844 0.839844 0.839844
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 27
+  bitmap tzs01_wall9F
+  faces 0
+endnode
+node trimesh Mesh2530
+  parent tzs01_G20_01
+  position -5.23 0 3.29
+  orientation 0 0 0 0
+  wirecolor 0.839844 0.839844 0.839844
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 27
+  bitmap tzs01_wall9F
+  faces 0
+endnode
+node trimesh Mesh2562
+  parent tzs01_G20_01
+  position -4.63 0 3.29
+  orientation 0 0 0 0
+  wirecolor 0.226563 0.226563 0.226563
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 27
+  bitmap tzs01_wall9F
+  faces 0
+endnode
+node dummy tzs01_G20_01_D01
+  parent tzs01_G20_01
+  position -4.9457 0 0
+  orientation 0 0 1 -1.5708
+  wirecolor 0.226563 0.226563 0.226563
+endnode
+node aabb Plane137
+  parent tzs01_G20_01
+  position 0 0 3
+  orientation 0 0 0 0
+  wirecolor 0.226563 0.226563 0.226563
+  ambient 0 0 0
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 11
+  bitmap NULL
+  verts 12
+    -5 -1 0
+    -5 -5 0
+    -1.87 -1 0
+    5 -5 0
+    5 5 0
+    -5 5 0
+    -1.87 1 0
+    -5 1 0
+    -1.87 -1 -3
+    -5 -1 -3
+    -5 1 -3
+    -1.87 1 -3
+  faces 14
+    0 1 2  1  0 0 0  2
+    3 4 2  1  0 0 0  2
+    3 2 1  1  0 0 0  2
+    5 6 4  1  0 0 0  2
+    5 7 6  1  0 0 0  2
+    2 4 6  1  0 0 0  2
+    8 9 0  2  0 0 0  2
+    0 2 8  2  0 0 0  2
+    10 11 6  2  0 0 0  2
+    6 7 10  2  0 0 0  2
+    11 8 2  4  0 0 0  2
+    2 6 11  4  0 0 0  2
+    10 9 8  1  0 0 0  4
+    8 11 10  1  0 0 0  4
+  aabb     -5.00 -5.00 -3.00   5.00 5.00 0.00   -1
+     -5.00 -5.00 -3.00   -1.87 5.00 0.00   -1
+     -5.00 -5.00 -3.00   -1.87 1.00 0.00   -1
+     -5.00 -5.00 0.00   -1.87 -1.00 0.00   0
+     -5.00 -1.00 -3.00   -1.87 1.00 0.00   -1
+     -5.00 -1.00 -3.00   -1.87 -1.00 0.00   6
+     -5.00 -1.00 -3.00   -1.87 1.00 -3.00   12
+     -5.00 -1.00 -3.00   -1.87 5.00 0.00   -1
+     -5.00 -1.00 -3.00   -1.87 1.00 0.00   -1
+     -5.00 1.00 -3.00   -1.87 1.00 0.00   9
+     -5.00 -1.00 -3.00   -1.87 1.00 -3.00   13
+     -5.00 1.00 -3.00   -1.87 5.00 0.00   -1
+     -5.00 1.00 -3.00   -1.87 1.00 0.00   8
+     -5.00 1.00 0.00   -1.87 5.00 0.00   4
+     -5.00 -5.00 -3.00   5.00 5.00 0.00   -1
+     -5.00 -5.00 -3.00   5.00 1.00 0.00   -1
+     -5.00 -1.00 -3.00   -1.87 -1.00 0.00   7
+     -5.00 -5.00 -3.00   5.00 1.00 0.00   -1
+     -1.87 -1.00 -3.00   -1.87 1.00 0.00   10
+     -5.00 -5.00 0.00   5.00 -1.00 0.00   2
+     -5.00 -5.00 -3.00   5.00 5.00 0.00   -1
+     -1.87 -5.00 -3.00   5.00 5.00 0.00   -1
+     -1.87 -5.00 0.00   5.00 5.00 0.00   1
+     -1.87 -1.00 -3.00   -1.87 1.00 0.00   11
+     -5.00 -1.00 0.00   5.00 5.00 0.00   -1
+     -5.00 1.00 0.00   5.00 5.00 0.00   3
+     -1.87 -1.00 0.00   5.00 5.00 0.00   5
+endnode
+node trimesh Plane07
+  parent tzs01_G20_01
+  position 0 0 3
+  orientation 0 0 0 0
+  wirecolor 0.00390625 0.00390625 0.00390625
+  ambient 1.0 1.0 1.0
+  diffuse 1.0 1.0 1.0
+  specular 0 0 0
+  shininess 10
+  bitmap dc_cliff_01
+  render 1
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 8
+    -5 -2.5 0
+    -5 -5 0
+    -1.87 -2.5 0
+    5 -5 0
+    5 5 0
+    -5 5 0
+    -1.87 2.5 0
+    -5 2.5 0
+  faces 8
+    0 1 2  1  0 1 2  1
+    3 4 2  1  3 4 2  1
+    3 2 1  1  3 2 1  1
+    5 6 4  1  5 6 4  1
+    5 7 6  1  5 7 6  1
+    2 4 6  1  2 4 6  1
+    0 2 6  1  0 2 6  1
+    7 0 6  1  7 0 6  1
+  tverts 8
+    1.57943 1.1913 -0.5
+    1.57943 1.8826 0.5
+    0.713919 1.1913 -0.5
+    -1.18577 1.8826 0.5
+    -1.18577 -0.8826 0.5
+    1.57943 -0.8826 0.5
+    0.713919 -0.1913 -0.5
+    1.57943 -0.1913 -0.5
+endnode
+node trimesh Object453
+  parent tzs01_G20_01
+  position -1.87 0 1.5
+  orientation 0 0 0 0
+  wirecolor 0.00390625 0.00390625 0.00390625
+  ambient 0 0 0
+  diffuse 0 0 0
+  specular 0 0 0
+  shininess 1
+  bitmap NULL
+  verts 4
+    0 -1 1.5
+    0 1 1.5
+    0 1 -1.5
+    0 -1 -1.5
+  faces 2
+    0 1 2  1  0 0 0  1
+    2 3 0  1  0 0 0  1
+endnode
+node trimesh Object426
+  parent tzs01_G20_01
+  position -3.4 0 1.51
+  orientation 0 0 0 0
+  wirecolor 0.0351563 0.0351563 0.0351563
+  ambient 1.0 1.0 1.0
+  diffuse 1.0 1.0 1.0
+  specular 0 0 0
+  shininess 10
+  bitmap dc_basefloor_2
+  render 1
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 4
+    1.59 -0.99 -1.5
+    1.59 0.99 -1.5
+    -1.6 0.99 -1.5
+    -1.6 -0.99 -1.5
+  faces 2
+    0 1 2  1  4 5 6  1
+    2 3 0  1  2 3 0  1
+  tverts 7
+    0.000154853 0.000499771 0
+    0.356643 0.000499577 0
+    0.356643 0.9995 0
+    0.000154808 0.9995 0
+    -0.00034517 0 0.5
+    0.357143 0 0.5
+    0.357143 1 0.5
+endnode
+node light tzs01_G20_01ml1
+  parent tzs01_G20_01
+  position 0 0 5
+  orientation 0 0 0 0
+  wirecolor 0.898438 0.898438 0.898438
+    radius 14
+    multiplier 1
+    color 1 1 1
+    ambientonly 0
+    nDynamicType 0
+    affectDynamic 1
+    ow 1
+    lightpriority 5
+    lensflares 0
+    fadingLight 0
+endnode
+node trimesh floor
+  parent tzs01_G20_01
+  position -0.01 0 8.02
+  orientation 0 0 0 0
+  wirecolor 0.00390625 0.00390625 0.00390625
+  ambient 0 0 0
+  diffuse 0 0 0
+  specular 0 0 0
+  shininess 1
+  bitmap NULL
+  render 1
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 4
+    -4.99 -5 0
+    5.01 -5 0
+    -4.99 5 0
+    5.01 5 0
+  faces 2
+    3 2 1  0  0 0 0  0
+    2 0 1  0  0 0 0  0
+endnode
+node trimesh floor01
+  parent tzs01_G20_01
+  position -0.01 0 8.02
+  orientation 0 0 0 0
+  wirecolor 0.00390625 0.00390625 0.00390625
+  ambient 1.0 1.0 1.0
+  diffuse 1.0 1.0 1.0
+  specular 0 0 0
+  shininess 10
+  bitmap dc_cliff_01
+  render 1
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 8
+    -4.99 -5 0
+    5.01 -5 0
+    -4.99 5 0
+    5.01 5 0
+    -4.99 -5 -5.0074
+    5.01 -5 -5.0074
+    -4.99 5 -5.0074
+    5.01 5 -5.0074
+  faces 6
+    3 2 6  2  6 4 10  0
+    6 7 3  2  10 11 6  0
+    1 3 7  2  1 3 7  0
+    7 5 1  2  7 5 1  0
+    0 1 5  2  0 2 9  0
+    5 4 0  2  9 8 0  0
+  tverts 12
+    -0.981751 1 1
+    1.77 1 0
+    1 1 1
+    -0.77 1 0.75
+    -0.981751 1 0
+    1.77 0 0
+    1 1 0
+    -0.77 0 1
+    -0.981751 0 1
+    1 0 1
+    -0.981751 0 0
+    1 0 0
+endnode
+node trimesh sidewalls
+  parent tzs01_G20_01
+  position -3.4 0 1.51
+  orientation 0 0 0 0
+  wirecolor 0.894531 0.894531 0.894531
+  ambient 1.0 1.0 1.0
+  diffuse 1.0 1.0 1.0
+  specular 0 0 0
+  shininess 10
+  bitmap dc_cliff_02
+  render 1
+  Shadow 1
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 8
+    1.59 -0.99 -1.5
+    1.59 0.99 -1.5
+    -1.6 0.99 -1.5
+    -1.6 -0.99 -1.5
+    1.59 0.99 1.5
+    -1.6 0.99 1.5
+    -1.6 -0.99 1.5
+    1.59 -0.99 1.5
+  faces 4
+    4 5 2  1  4 5 2  1
+    2 1 4  1  2 1 4  1
+    6 7 0  1  6 7 0  1
+    0 3 6  1  0 3 6  1
+  tverts 8
+    0.792753 0.00628018 1
+    0.792753 0.00628018 0
+    0.792753 0.814734 0
+    0.792753 0.814734 1
+    -0.00942043 0.00628022 0
+    -0.00942045 0.814734 0
+    -0.00942045 0.814734 1
+    -0.00942043 0.0062801 1
+endnode
+endmodelgeom tzs01_G20_01
+donemodel tzs01_G20_01

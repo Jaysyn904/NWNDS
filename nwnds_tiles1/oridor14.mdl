@@ -1,0 +1,1242 @@
+# Exported from 3ds max by MDL Plugin Suite 1.1b3
+# http://rockbottom.vtex.net
+#MAXMODEL ASCII
+# model: oridor14
+filedependancy small dwooddoor2.max
+newmodel oridor14
+setsupermodel oridor14 NULL
+classification Door
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom oridor14
+node dummy oridor14
+  parent NULL
+endnode
+node dummy oridor01grnd
+  parent oridor14
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.882813 0.882813 0.882813
+endnode
+node emitter fire!07
+  parent oridor14
+  position -0.00162842 0.0288672 0.928905
+  orientation -1 0 0 -1.5708
+  wirecolor 0.882813 0.882813 0.882813
+    colorStart 0.47451 0.439216 0.364706
+    colorEnd 0.819608 0.796079 0.709804
+    alphaStart 1
+    alphaEnd 0
+    sizeStart 4
+    sizeEnd 1
+    sizeStart_y 0
+    sizeEnd_y 0
+    frameStart 0
+    frameEnd 24
+    birthrate 10
+    spawnType 0
+    lifeExp 2.5
+    mass 0.09
+    spread 2.96706
+    particleRot 0.5
+    velocity 2
+    randvel 0.5
+    fps 10
+    random 0
+    inherit 1
+    inherit_local 0
+    inherit_part 0
+    inheritvel 0
+    xsize 100
+    ysize 99
+    bounce 0
+    bounce_co 0
+    loop 0
+    update Explosion
+    render Normal
+    Blend Normal
+    update_sel 2
+    render_sel 1
+    blend_sel 1
+    deadspace 0
+    opacity 0.5
+    blurlength 10
+    lightningDelay 0
+    lightningRadius 0
+    lightningScale 0
+    blastRadius 0.2
+    blastLength 1
+    twosidedtex 1
+    p2p 0
+    p2p_sel 1
+    p2p_type Bezier
+    p2p_bezier2 0
+    p2p_bezier3 0
+    combinetime 0
+    drag 0
+    grav 0
+    threshold 0
+    texture fxpa_smoke01
+    xgrid 4
+    ygrid 4
+    affectedByWind 0
+    m_isTinted 1
+    renderorder 0
+    Splat 0
+endnode
+node dummy oridor01head
+  parent oridor14
+  position 0 0 2.50064
+  orientation 0 0 0 0
+  wirecolor 0.882813 0.882813 0.882813
+endnode
+node dummy oridor01hhit
+  parent oridor14
+  position 0 0 2.17507
+  orientation 0 0 0 0
+  wirecolor 0.882813 0.882813 0.882813
+endnode
+node dummy oridor01impc
+  parent oridor14
+  position 0 0 1.63648
+  orientation 0 0 0 0
+  wirecolor 0.882813 0.882813 0.882813
+endnode
+node trimesh sam
+  parent oridor14
+  position -1 -0.0205192 0
+  orientation 0 0 -1 -1.5708
+  wirecolor 0.882813 0.882813 0.882813
+  ambient 0.2 0.2 0.2
+  diffuse 0.8 0.8 0.8
+  specular 0 0 0
+  shininess 1
+  alpha 0
+  selfillumcolor 0.0705882 0 1
+  bitmap NULL
+  render 1
+  Shadow 0
+  beaming 0
+  transparencyhint 1
+  tilefade 0
+  rotatetexture 0
+  verts 8
+    -0.00620381 -0.0100205 0
+    -0.00620381 -2.01002 0
+    -0.00620381 -2.01002 2.97
+    -0.00620381 -0.0100205 2.97
+    0.0509031 -2.00623 0
+    0.0509031 -0.00622904 0
+    0.0509031 -2.00623 2.97
+    0.0509031 -0.00622904 2.97
+  faces 4
+    0 1 2  1  0 1 2  0
+    2 3 0  1  2 3 0  0
+    4 5 6  1  1 0 2  0
+    7 6 5  1  3 2 0  0
+  tverts 4
+    0.000499517 0.000499666 0
+    0.49427 0.000499547 0
+    0.494271 0.876312 0
+    0.000499815 0.876312 0
+endnode
+node trimesh Box21
+  parent oridor14
+  position 0.5 0 0
+  orientation 0 0 -1 -1.5708
+  wirecolor 0.898438 0.898438 0.898438
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  bitmap tdm01_hrdwd01
+  verts 8
+    -0.05 -0.5 0
+    0.05 -0.5 0
+    -0.05 0.5 0
+    0.05 0.5 0
+    -0.05 -0.5 3
+    0.05 -0.5 3
+    -0.05 0.5 3
+    0.05 0.5 3
+  faces 8
+    0 2 3  2  8 9 10  1
+    3 1 0  2  11 12 13  1
+    4 5 7  4  14 15 16  0
+    7 6 4  4  17 18 19  0
+    0 1 5  8  20 1 21  4
+    5 4 0  8  5 4 0  4
+    3 2 6  32  22 2 23  5
+    6 7 3  32  6 7 3  5
+  tverts 24
+    0.48 -0.1 0.3
+    0.52 -0.1 0.3
+    0.52 -0.1 0.7
+    0.48 -0.1 0.7
+    0.48 1.1 0.3
+    0.52 1.1 0.3
+    0.52 1.1 0.7
+    0.48 1.1 0.7
+    0.52 0.3 -0.1
+    0.52 0.7 -0.1
+    0.48 0.7 -0.1
+    0.48 0.7 -0.1
+    0.48 0.3 -0.1
+    0.52 0.3 -0.1
+    0.48 0.3 1.1
+    0.52 0.3 1.1
+    0.52 0.7 1.1
+    0.52 0.7 1.1
+    0.48 0.7 1.1
+    0.48 0.3 1.1
+    0.48 -0.1 0.3
+    0.52 1.1 0.3
+    0.48 -0.1 0.7
+    0.52 1.1 0.7
+endnode
+node trimesh Object16
+  parent Box21
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.898438 0.898438 0.898438
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  bitmap tdm01_hrdwd01
+  verts 4
+    -0.05 -0.5 0
+    -0.05 0.5 0
+    -0.05 -0.5 3
+    -0.05 0.5 3
+  faces 2
+    1 0 2  64  4 0 5  2
+    2 3 1  64  2 3 1  2
+  tverts 6
+    1.08839 -0.1 0.5
+    0.688389 -0.1 0.5
+    1.08839 1.1 0.5
+    0.688389 1.1 0.5
+    0.688389 -0.1 0.5
+    1.08839 1.1 0.5
+endnode
+node trimesh Object15
+  parent Box21
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.898438 0.898438 0.898438
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  bitmap tdm01_hrdwd01
+  verts 4
+    0.05 -0.5 0
+    0.05 0.5 0
+    0.05 -0.5 3
+    0.05 0.5 3
+  faces 2
+    0 1 3  16  4 1 5  3
+    3 2 0  16  3 2 0  3
+  tverts 6
+    0.287866 -0.1 0.5
+    0.687866 -0.1 0.5
+    0.287866 1.1 0.5
+    0.687866 1.1 0.5
+    0.287866 -0.1 0.5
+    0.687866 1.1 0.5
+endnode
+node trimesh Box66
+  parent Box21
+  position 0 0.35 1.35
+  orientation 0 0 1 -1.5708
+  wirecolor 0.882813 0.882813 0.882813
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  bitmap tdm01_metl03
+  verts 8
+    -0.0236715 -0.129526 0
+    0.0236715 -0.129526 0
+    -0.0236715 0.129526 0
+    0.0236715 0.129526 0
+    -0.0236715 -0.129526 0.249796
+    0.0236715 -0.129526 0.249796
+    -0.0236715 0.129526 0.249796
+    0.0236715 0.129526 0.249796
+  faces 12
+    0 2 3  2  8 9 10  1
+    3 1 0  2  11 12 13  1
+    4 5 7  4  14 15 16  0
+    7 6 4  4  17 18 19  0
+    0 1 5  8  20 21 22  4
+    5 4 0  8  23 24 25  4
+    1 3 7  16  26 27 28  3
+    7 5 1  16  29 5 1  3
+    3 2 6  32  30 31 32  5
+    6 7 3  32  33 7 3  5
+    2 0 4  64  34 0 35  2
+    4 6 2  64  4 6 2  2
+  tverts 36
+    0.55181 0.450041 0.490531
+    0.44819 0.450041 0.509469
+    0.44819 0.450041 0.490531
+    0.490531 0.450041 0.55181
+    0.55181 0.549959 0.490531
+    0.44819 0.549959 0.509469
+    0.44819 0.549959 0.490531
+    0.490531 0.549959 0.55181
+    0.509469 0.44819 0.450041
+    0.509469 0.55181 0.450041
+    0.490531 0.55181 0.450041
+    0.490531 0.55181 0.450041
+    0.490531 0.44819 0.450041
+    0.509469 0.44819 0.450041
+    0.490531 0.44819 0.549959
+    0.509469 0.44819 0.549959
+    0.509469 0.55181 0.549959
+    0.509469 0.55181 0.549959
+    0.490531 0.55181 0.549959
+    0.490531 0.44819 0.549959
+    0.490531 0.450041 0.44819
+    0.509469 0.450041 0.44819
+    0.509469 0.549959 0.44819
+    0.509469 0.549959 0.44819
+    0.490531 0.549959 0.44819
+    0.490531 0.450041 0.44819
+    0.44819 0.450041 0.509469
+    0.55181 0.450041 0.509469
+    0.55181 0.549959 0.509469
+    0.55181 0.549959 0.509469
+    0.490531 0.450041 0.55181
+    0.509469 0.450041 0.55181
+    0.509469 0.549959 0.55181
+    0.509469 0.549959 0.55181
+    0.44819 0.450041 0.490531
+    0.55181 0.549959 0.490531
+endnode
+node trimesh Box65
+  parent oridor14
+  position -0.5 0 0
+  orientation 0 0 -1 -1.5708
+  wirecolor 0.898438 0.898438 0.898438
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  bitmap tdm01_hrdwd01
+  verts 8
+    -0.05 -0.5 0
+    0.05 -0.5 0
+    -0.05 0.5 0
+    0.05 0.5 0
+    -0.05 -0.5 3
+    0.05 -0.5 3
+    -0.05 0.5 3
+    0.05 0.5 3
+  faces 8
+    0 2 3  2  8 9 10  1
+    3 1 0  2  11 12 13  1
+    4 5 7  4  14 15 16  0
+    7 6 4  4  17 18 19  0
+    0 1 5  8  20 1 21  4
+    5 4 0  8  5 4 0  4
+    3 2 6  32  22 2 23  5
+    6 7 3  32  6 7 3  5
+  tverts 24
+    0.48 -0.1 0.3
+    0.52 -0.1 0.3
+    0.52 -0.1 0.7
+    0.48 -0.1 0.7
+    0.48 1.1 0.3
+    0.52 1.1 0.3
+    0.52 1.1 0.7
+    0.48 1.1 0.7
+    0.52 0.3 -0.1
+    0.52 0.7 -0.1
+    0.48 0.7 -0.1
+    0.48 0.7 -0.1
+    0.48 0.3 -0.1
+    0.52 0.3 -0.1
+    0.48 0.3 1.1
+    0.52 0.3 1.1
+    0.52 0.7 1.1
+    0.52 0.7 1.1
+    0.48 0.7 1.1
+    0.48 0.3 1.1
+    0.48 -0.1 0.3
+    0.52 1.1 0.3
+    0.48 -0.1 0.7
+    0.52 1.1 0.7
+endnode
+node trimesh Object17
+  parent Box65
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.898438 0.898438 0.898438
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  bitmap tdm01_hrdwd01
+  verts 4
+    -0.05 -0.5 0
+    -0.05 0.5 0
+    -0.05 -0.5 3
+    -0.05 0.5 3
+  faces 2
+    1 0 2  64  4 0 5  2
+    2 3 1  64  2 3 1  2
+  tverts 6
+    0.265872 1.1 0.5
+    0.665872 1.1 0.5
+    0.265872 -0.1 0.5
+    0.665872 -0.1 0.5
+    0.665872 1.1 0.5
+    0.265872 -0.1 0.5
+endnode
+node trimesh Object18
+  parent Box65
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.898438 0.898438 0.898438
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  bitmap tdm01_hrdwd01
+  verts 4
+    0.05 -0.5 0
+    0.05 0.5 0
+    0.05 -0.5 3
+    0.05 0.5 3
+  faces 2
+    0 1 3  16  4 1 5  3
+    3 2 0  16  3 2 0  3
+  tverts 6
+    0.687174 0.855893 0.5
+    0.287174 0.855893 0.5
+    0.687174 -0.344107 0.5
+    0.287174 -0.344107 0.5
+    0.687174 0.855893 0.5
+    0.287174 -0.344107 0.5
+endnode
+node trimesh Box01
+  parent Box65
+  position 0 -0.35 1.35
+  orientation 0 0 1 -1.5708
+  wirecolor 0.882813 0.882813 0.882813
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  bitmap tdm01_metl03
+  verts 8
+    -0.0236715 -0.129526 0
+    0.0236715 -0.129526 0
+    -0.0236715 0.129526 0
+    0.0236715 0.129526 0
+    -0.0236715 -0.129526 0.249796
+    0.0236715 -0.129526 0.249796
+    -0.0236715 0.129526 0.249796
+    0.0236715 0.129526 0.249796
+  faces 12
+    0 2 3  2  8 9 10  1
+    3 1 0  2  11 12 13  1
+    4 5 7  4  14 15 16  0
+    7 6 4  4  17 18 19  0
+    0 1 5  8  20 21 22  4
+    5 4 0  8  23 24 25  4
+    1 3 7  16  26 27 28  3
+    7 5 1  16  29 5 1  3
+    3 2 6  32  30 31 32  5
+    6 7 3  32  33 7 3  5
+    2 0 4  64  34 0 35  2
+    4 6 2  64  4 6 2  2
+  tverts 36
+    0.55181 0.450041 0.490531
+    0.44819 0.450041 0.509469
+    0.44819 0.450041 0.490531
+    0.490531 0.450041 0.55181
+    0.55181 0.549959 0.490531
+    0.44819 0.549959 0.509469
+    0.44819 0.549959 0.490531
+    0.490531 0.549959 0.55181
+    0.509469 0.44819 0.450041
+    0.509469 0.55181 0.450041
+    0.490531 0.55181 0.450041
+    0.490531 0.55181 0.450041
+    0.490531 0.44819 0.450041
+    0.509469 0.44819 0.450041
+    0.490531 0.44819 0.549959
+    0.509469 0.44819 0.549959
+    0.509469 0.55181 0.549959
+    0.509469 0.55181 0.549959
+    0.490531 0.55181 0.549959
+    0.490531 0.44819 0.549959
+    0.490531 0.450041 0.44819
+    0.509469 0.450041 0.44819
+    0.509469 0.549959 0.44819
+    0.509469 0.549959 0.44819
+    0.490531 0.549959 0.44819
+    0.490531 0.450041 0.44819
+    0.44819 0.450041 0.509469
+    0.55181 0.450041 0.509469
+    0.55181 0.549959 0.509469
+    0.55181 0.549959 0.509469
+    0.490531 0.450041 0.55181
+    0.509469 0.450041 0.55181
+    0.509469 0.549959 0.55181
+    0.509469 0.549959 0.55181
+    0.44819 0.450041 0.490531
+    0.55181 0.549959 0.490531
+endnode
+endmodelgeom oridor14
+
+#MAXANIM ASCII
+newanim opening1 oridor14
+  length 1
+  transtime 0.25
+  animroot oridor14
+node dummy oridor14
+  parent NULL
+endnode
+node dummy oridor01grnd
+  parent oridor14
+endnode
+node emitter fire!07
+  parent oridor14
+endnode
+node dummy oridor01head
+  parent oridor14
+endnode
+node dummy oridor01hhit
+  parent oridor14
+endnode
+node dummy oridor01impc
+  parent oridor14
+endnode
+node trimesh sam
+  parent oridor14
+    alphakey
+      0  0
+      1  0
+    endlist
+endnode
+node trimesh Box21
+  parent oridor14
+    positionkey
+      0  0.5 0 0
+      0.5  1.25 0 0
+      1  1.4 0 0
+    endlist
+    orientationkey
+      0  0 0 1 1.5708
+      1  0 0 1 1.5708
+    endlist
+endnode
+node trimesh Object16
+  parent Box21
+endnode
+node trimesh Object15
+  parent Box21
+endnode
+node trimesh Box66
+  parent Box21
+endnode
+node trimesh Box65
+  parent oridor14
+    positionkey
+      0  -0.5 0 0
+      0.5  -1.25 0 0
+      1  -1.4 0 0
+    endlist
+    orientationkey
+      0  0 0 1 1.5708
+      1  0 0 1 1.5708
+    endlist
+endnode
+node trimesh Object17
+  parent Box65
+endnode
+node trimesh Object18
+  parent Box65
+endnode
+node trimesh Box01
+  parent Box65
+endnode
+doneanim opening1 oridor14
+
+#MAXANIM ASCII
+newanim closing1 oridor14
+  length 0.666667
+  transtime 0.25
+  animroot oridor14
+node dummy oridor14
+  parent NULL
+endnode
+node dummy oridor01grnd
+  parent oridor14
+endnode
+node emitter fire!07
+  parent oridor14
+endnode
+node dummy oridor01head
+  parent oridor14
+endnode
+node dummy oridor01hhit
+  parent oridor14
+endnode
+node dummy oridor01impc
+  parent oridor14
+endnode
+node trimesh sam
+  parent oridor14
+    alphakey
+      0  0
+      0.0333333  0
+      0.633333  0
+      0.666667  0
+    endlist
+endnode
+node trimesh Box21
+  parent oridor14
+    positionkey
+      0  1.4 0 0
+      0.666667  0.5 0 0
+    endlist
+    orientationkey
+      0  0 0 1 1.5708
+    endlist
+endnode
+node trimesh Object16
+  parent Box21
+endnode
+node trimesh Object15
+  parent Box21
+endnode
+node trimesh Box66
+  parent Box21
+endnode
+node trimesh Box65
+  parent oridor14
+    positionkey
+      0  -1.4 0 0
+      0.666667  -0.5 0 0
+    endlist
+    orientationkey
+      0  0 0 1 1.5708
+    endlist
+endnode
+node trimesh Object17
+  parent Box65
+endnode
+node trimesh Object18
+  parent Box65
+endnode
+node trimesh Box01
+  parent Box65
+endnode
+doneanim closing1 oridor14
+
+#MAXANIM ASCII
+newanim opening2 oridor14
+  length 1
+  transtime 0.25
+  animroot oridor14
+node dummy oridor14
+  parent NULL
+endnode
+node dummy oridor01grnd
+  parent oridor14
+endnode
+node emitter fire!07
+  parent oridor14
+endnode
+node dummy oridor01head
+  parent oridor14
+endnode
+node dummy oridor01hhit
+  parent oridor14
+endnode
+node dummy oridor01impc
+  parent oridor14
+endnode
+node trimesh sam
+  parent oridor14
+    alphakey
+      0  0
+      1  0
+    endlist
+endnode
+node trimesh Box21
+  parent oridor14
+    positionkey
+      0  0.5 0 0
+      0.5  1.25 0 0
+      1  1.4 0 0
+    endlist
+    orientationkey
+      0  0 0 1 1.5708
+      1  0 0 1 1.5708
+    endlist
+endnode
+node trimesh Object16
+  parent Box21
+endnode
+node trimesh Object15
+  parent Box21
+endnode
+node trimesh Box66
+  parent Box21
+endnode
+node trimesh Box65
+  parent oridor14
+    positionkey
+      0  -0.5 0 0
+      0.5  -1.25 0 0
+      1  -1.4 0 0
+    endlist
+    orientationkey
+      0  0 0 1 1.5708
+      1  0 0 1 1.5708
+    endlist
+endnode
+node trimesh Object17
+  parent Box65
+endnode
+node trimesh Object18
+  parent Box65
+endnode
+node trimesh Box01
+  parent Box65
+endnode
+doneanim opening2 oridor14
+
+#MAXANIM ASCII
+newanim die oridor14
+  length 0.666667
+  transtime 0
+  animroot oridor14
+node dummy oridor14
+  parent NULL
+endnode
+node dummy oridor01grnd
+  parent oridor14
+endnode
+node emitter fire!07
+  parent oridor14
+endnode
+node dummy oridor01head
+  parent oridor14
+endnode
+node dummy oridor01hhit
+  parent oridor14
+endnode
+node dummy oridor01impc
+  parent oridor14
+endnode
+node trimesh sam
+  parent oridor14
+    alphakey
+      0  0
+    endlist
+endnode
+node trimesh Box21
+  parent oridor14
+    positionkey
+      0  0.5 0 0
+      0.133333  0.5 0 -0.467041
+      0.4  0.574139 0 -0.876859
+      0.633333  0.889949 0 -1.47989
+      0.666667  1.31621 0 -1.68219
+    endlist
+    orientationkey
+      0  0 0 1 1.5708
+      0.133333  0.070175 0.0701746 0.995063 1.57575
+      0.4  0.219861 0.219861 0.950433 1.62161
+    endlist
+endnode
+node trimesh Object16
+  parent Box21
+endnode
+node trimesh Object15
+  parent Box21
+endnode
+node trimesh Box66
+  parent Box21
+endnode
+node trimesh Box65
+  parent oridor14
+    positionkey
+      0  -0.5 0 0
+      0.133333  -0.640243 0 -0.142716
+      0.4  -0.785675 0 -0.765727
+      0.633333  -0.870954 0 -1.38043
+      0.666667  -1.33541 0 -1.63331
+    endlist
+    orientationkey
+      0  0 0 1 1.5708
+      0.133333  -0.0907309 -0.0907314 0.991734 1.5791
+      0.4  -0.25016 -0.250161 0.935328 1.6376
+      0.666667  -0.259883 -0.259884 0.930011 1.64329
+    endlist
+endnode
+node trimesh Object17
+  parent Box65
+endnode
+node trimesh Object18
+  parent Box65
+endnode
+node trimesh Box01
+  parent Box65
+endnode
+event 0  detonate
+doneanim die oridor14
+
+#MAXANIM ASCII
+newanim closing2 oridor14
+  length 0.666667
+  transtime 0.25
+  animroot oridor14
+node dummy oridor14
+  parent NULL
+endnode
+node dummy oridor01grnd
+  parent oridor14
+endnode
+node emitter fire!07
+  parent oridor14
+endnode
+node dummy oridor01head
+  parent oridor14
+endnode
+node dummy oridor01hhit
+  parent oridor14
+endnode
+node dummy oridor01impc
+  parent oridor14
+endnode
+node trimesh sam
+  parent oridor14
+    alphakey
+      0  0
+      0.0333333  0
+      0.633333  0
+      0.666667  0
+    endlist
+endnode
+node trimesh Box21
+  parent oridor14
+    positionkey
+      0  1.4 0 0
+      0.666667  0.5 0 0
+    endlist
+    orientationkey
+      0  0 0 1 1.5708
+    endlist
+endnode
+node trimesh Object16
+  parent Box21
+endnode
+node trimesh Object15
+  parent Box21
+endnode
+node trimesh Box66
+  parent Box21
+endnode
+node trimesh Box65
+  parent oridor14
+    positionkey
+      0  -1.4 0 0
+      0.666667  -0.5 0 0
+    endlist
+    orientationkey
+      0  0 0 1 1.5708
+    endlist
+endnode
+node trimesh Object17
+  parent Box65
+endnode
+node trimesh Object18
+  parent Box65
+endnode
+node trimesh Box01
+  parent Box65
+endnode
+doneanim closing2 oridor14
+
+#MAXANIM ASCII
+newanim closed oridor14
+  length 0.0333333
+  transtime 0.25
+  animroot oridor14
+node dummy oridor14
+  parent NULL
+endnode
+node dummy oridor01grnd
+  parent oridor14
+endnode
+node emitter fire!07
+  parent oridor14
+endnode
+node dummy oridor01head
+  parent oridor14
+endnode
+node dummy oridor01hhit
+  parent oridor14
+endnode
+node dummy oridor01impc
+  parent oridor14
+endnode
+node trimesh sam
+  parent oridor14
+    alphakey
+      0  0
+    endlist
+endnode
+node trimesh Box21
+  parent oridor14
+    positionkey
+      0  0.5 0 0
+      0.0333333  0.5 0 0
+    endlist
+    orientationkey
+      0  0 0 1 1.5708
+    endlist
+endnode
+node trimesh Object16
+  parent Box21
+endnode
+node trimesh Object15
+  parent Box21
+endnode
+node trimesh Box66
+  parent Box21
+endnode
+node trimesh Box65
+  parent oridor14
+    positionkey
+      0  -0.5 0 0
+      0.0333333  -0.5 0 0
+    endlist
+    orientationkey
+      0  0 0 1 1.5708
+    endlist
+endnode
+node trimesh Object17
+  parent Box65
+endnode
+node trimesh Object18
+  parent Box65
+endnode
+node trimesh Box01
+  parent Box65
+endnode
+doneanim closed oridor14
+
+#MAXANIM ASCII
+newanim opened2 oridor14
+  length 0.0333333
+  transtime 0.25
+  animroot oridor14
+node dummy oridor14
+  parent NULL
+endnode
+node dummy oridor01grnd
+  parent oridor14
+endnode
+node emitter fire!07
+  parent oridor14
+endnode
+node dummy oridor01head
+  parent oridor14
+endnode
+node dummy oridor01hhit
+  parent oridor14
+endnode
+node dummy oridor01impc
+  parent oridor14
+endnode
+node trimesh sam
+  parent oridor14
+    alphakey
+      0  0
+      0.0333333  0
+    endlist
+endnode
+node trimesh Box21
+  parent oridor14
+    positionkey
+      0  1.4 0 0
+    endlist
+endnode
+node trimesh Object16
+  parent Box21
+endnode
+node trimesh Object15
+  parent Box21
+endnode
+node trimesh Box66
+  parent Box21
+endnode
+node trimesh Box65
+  parent oridor14
+    positionkey
+      0  -1.4 0 0
+      0.0333333  -1.4 0 0
+    endlist
+    orientationkey
+      0  0 0 1 1.5708
+      0.0333333  0 0 1 1.5708
+    endlist
+endnode
+node trimesh Object17
+  parent Box65
+endnode
+node trimesh Object18
+  parent Box65
+endnode
+node trimesh Box01
+  parent Box65
+endnode
+doneanim opened2 oridor14
+
+#MAXANIM ASCII
+newanim opened1 oridor14
+  length 0.0333333
+  transtime 0.25
+  animroot oridor14
+node dummy oridor14
+  parent NULL
+endnode
+node dummy oridor01grnd
+  parent oridor14
+endnode
+node emitter fire!07
+  parent oridor14
+endnode
+node dummy oridor01head
+  parent oridor14
+endnode
+node dummy oridor01hhit
+  parent oridor14
+endnode
+node dummy oridor01impc
+  parent oridor14
+endnode
+node trimesh sam
+  parent oridor14
+    alphakey
+      0  0
+      0.0333333  0
+    endlist
+endnode
+node trimesh Box21
+  parent oridor14
+    positionkey
+      0  1.4 0 0
+    endlist
+endnode
+node trimesh Object16
+  parent Box21
+endnode
+node trimesh Object15
+  parent Box21
+endnode
+node trimesh Box66
+  parent Box21
+endnode
+node trimesh Box65
+  parent oridor14
+    positionkey
+      0  -1.4 0 0
+      0.0333333  -1.4 0 0
+    endlist
+    orientationkey
+      0  0 0 1 1.5708
+      0.0333333  0 0 1 1.5708
+    endlist
+endnode
+node trimesh Object17
+  parent Box65
+endnode
+node trimesh Object18
+  parent Box65
+endnode
+node trimesh Box01
+  parent Box65
+endnode
+doneanim opened1 oridor14
+
+#MAXANIM ASCII
+newanim trans oridor14
+  length 0.0333333
+  transtime 0.25
+  animroot oridor14
+node dummy oridor14
+  parent NULL
+endnode
+node dummy oridor01grnd
+  parent oridor14
+endnode
+node emitter fire!07
+  parent oridor14
+endnode
+node dummy oridor01head
+  parent oridor14
+endnode
+node dummy oridor01hhit
+  parent oridor14
+endnode
+node dummy oridor01impc
+  parent oridor14
+endnode
+node trimesh sam
+  parent oridor14
+    alphakey
+      0  0.25
+      0.0333333  0.25
+    endlist
+endnode
+node trimesh Box21
+  parent oridor14
+endnode
+node trimesh Object16
+  parent Box21
+endnode
+node trimesh Object15
+  parent Box21
+endnode
+node trimesh Box66
+  parent Box21
+endnode
+node trimesh Box65
+  parent oridor14
+endnode
+node trimesh Object17
+  parent Box65
+endnode
+node trimesh Object18
+  parent Box65
+endnode
+node trimesh Box01
+  parent Box65
+endnode
+doneanim trans oridor14
+
+#MAXANIM ASCII
+newanim dead oridor14
+  length 0.0333333
+  transtime 0
+  animroot oridor14
+node dummy oridor14
+  parent NULL
+endnode
+node dummy oridor01grnd
+  parent oridor14
+endnode
+node emitter fire!07
+  parent oridor14
+endnode
+node dummy oridor01head
+  parent oridor14
+endnode
+node dummy oridor01hhit
+  parent oridor14
+endnode
+node dummy oridor01impc
+  parent oridor14
+endnode
+node trimesh sam
+  parent oridor14
+endnode
+node trimesh Box21
+  parent oridor14
+endnode
+node trimesh Object16
+  parent Box21
+endnode
+node trimesh Object15
+  parent Box21
+endnode
+node trimesh Box66
+  parent Box21
+endnode
+node trimesh Box65
+  parent oridor14
+endnode
+node trimesh Object17
+  parent Box65
+endnode
+node trimesh Object18
+  parent Box65
+endnode
+node trimesh Box01
+  parent Box65
+endnode
+doneanim dead oridor14
+
+#MAXANIM ASCII
+newanim newanimation oridor14
+  length 0
+  transtime 0.5
+  animroot oridor14
+node dummy oridor14
+  parent NULL
+endnode
+node dummy oridor01grnd
+  parent oridor14
+endnode
+node emitter fire!07
+  parent oridor14
+endnode
+node dummy oridor01head
+  parent oridor14
+endnode
+node dummy oridor01hhit
+  parent oridor14
+endnode
+node dummy oridor01impc
+  parent oridor14
+endnode
+node trimesh sam
+  parent oridor14
+    alphakey
+      0  0
+    endlist
+endnode
+node trimesh Box21
+  parent oridor14
+    positionkey
+      0  0.5 0 0
+    endlist
+endnode
+node trimesh Object16
+  parent Box21
+endnode
+node trimesh Object15
+  parent Box21
+endnode
+node trimesh Box66
+  parent Box21
+endnode
+node trimesh Box65
+  parent oridor14
+    positionkey
+      0  -0.5 0 0
+    endlist
+endnode
+node trimesh Object17
+  parent Box65
+endnode
+node trimesh Object18
+  parent Box65
+endnode
+node trimesh Box01
+  parent Box65
+endnode
+doneanim newanimation oridor14
+donemodel oridor14
+

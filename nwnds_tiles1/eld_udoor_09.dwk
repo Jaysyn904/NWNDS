@@ -1,0 +1,65 @@
+#MAXDOOR ASCII
+# model: eld_UDoor_09_DWK 
+filedependancy eld59.max
+node dummy 09_DWK_dp_closed_01 
+  parent eld_UDoor_09_DWK 
+  position -0.0687483 0.696532 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.580392 0.694118 0.101961  
+endnode
+node dummy 09_DWK_dp_closed_02 
+  parent eld_UDoor_09_DWK 
+  position -0.368264 -1.63326 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.580392 0.694118 0.101961  
+endnode
+node trimesh 09_DWK_wg_closed 
+  parent eld_UDoor_09_DWK 
+  position 0.0387695 -0.227329 2.94995
+  orientation  0.0 0.0 -1.0  -1.5708
+  wirecolor 0.768628 0.345098 0.882353  
+     danglymesh 0
+     period 1.0
+     tightness 1.0
+     displacement 0.025
+     showdispl true
+     displtype 1
+     alpha 0.0
+     transparencyhint 1
+     tilefade 0
+     scale 1.0
+     render 1
+     Shadow 0
+     beaming 0
+     inheritcolor 0
+     selfillumcolor 0.0 0.0 1.0 
+     rotatetexture 0
+     center 0.0 16.3751 -147.498 
+     gizmo SubAnim:Gizmo
+    bitmap NULL
+    verts 8
+     -0.0258008 -1.63279 0.0
+     -0.0258008 1.96029 0.0
+     -0.0258008 -1.63279 -2.94995
+     -0.0258008 1.96029 -2.94995
+     0.586364 -1.63279 0.0
+     0.586364 1.96029 0.0
+     0.586364 -1.63279 -2.94995
+     0.586364 1.96029 -2.94995
+    faces 12
+     0 1 2  64  0 0 0  3
+     3 2 1  64  0 0 0  3
+     4 5 1  64  0 0 0  3
+     1 0 4  64  0 0 0  3
+     6 4 0  64  0 0 0  3
+     0 2 6  64  0 0 0  3
+     7 6 2  64  0 0 0  3
+     2 3 7  64  0 0 0  3
+     5 7 3  64  0 0 0  3
+     3 1 5  64  0 0 0  3
+     6 7 5  64  0 0 0  3
+     5 4 6  64  0 0 0  3
+endnode
+
+
+

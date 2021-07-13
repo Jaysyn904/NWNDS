@@ -1,0 +1,269 @@
+# Rewritten by CleanModels 3 Version 3.3.1a Sun Apr 05 23:32:02 2009
+#MAXMODEL ASCII
+filedependency Unknown
+newmodel tced5_a01_01
+  classification TILE
+  setsupermodel tced5_a01_01 NULL
+  setanimationscale 1
+#MAXGEOM ASCII
+beginmodelgeom tced5_a01_01
+node dummy tced5_a01_01
+  parent NULL
+endnode
+node light tced5_a01_01ml1
+  parent tced5_a01_01
+  wirecolor 0.6 0.6 0.6
+  radius 1400
+  multiplier 1
+  color 0 0 0
+  ambientonly 0
+  ndynamictype 0
+  affectdynamic 1
+  shadow 0
+  lightpriority 5
+  fadinglight 1
+  orientation 0 0 0 0
+  position 0 0 24.16
+endnode
+node light tced5_a01_01ml2
+  parent tced5_a01_01
+  wirecolor 0.894118 0.894118 0.894118
+  radius 500
+  multiplier 1
+  color 0 0 0
+  ambientonly 0
+  ndynamictype 0
+  affectdynamic 1
+  shadow 0
+  lightpriority 5
+  fadinglight 1
+  orientation 0 0 0 0
+  position -2 -2 23.16
+endnode
+node aabb plane03_01
+  parent tced5_a01_01
+  wirecolor 0.87451 0.87451 0.87451
+  bitmap NULL
+  orientation 0 0 0 0
+  position 0 0 0
+  verts 17
+    -5 -5 -5
+    -0.83 3.09 -5
+    5 -5 -5
+    -5 5 -5
+    5 -0.33 -5
+    5 4.45 16
+    5 3.76 16
+    5 3.02 11.21
+    5 0.21 5.38
+    5 5 16
+    5 4.52 16
+    5 1.66 8.28
+    -1.82 5 -5
+    4.37 5 16
+    1.1 5 12.79
+    2.22 5 16
+    4.46 5 16
+  faces 16
+    3 0 1 1 0 0 0 16
+    2 1 0 1 0 0 0 16
+    4 1 2 1 0 0 0 16
+    13 15 6 1 0 0 0 1
+    6 5 13 1 0 0 0 1
+    7 1 11 2 0 0 0 7
+    6 15 14 4 0 0 0 7
+    6 14 1 4 0 0 0 7
+    6 1 7 4 0 0 0 7
+    8 1 4 8 0 0 0 7
+    11 1 8 2 0 0 0 7
+    12 1 14 16 0 0 0 7
+    3 1 12 1 0 0 0 16
+    16 10 9 1 0 0 0 1
+    13 5 10 1 0 0 0 1
+    13 10 16 1 0 0 0 1
+  aabb     -5 -5 -5 5 5 16 -1
+    -5 -5 -5 5 5 12.79 -1
+    -5 -5 -5 5 5 -5 -1
+    -5 -5 -5 -0.83 5 -5 -1
+    -5 -5 -5 -0.83 5 -5 0
+    -5 3.09 -5 -0.83 5 -5 12
+    -5 -5 -5 5 3.09 -5 -1
+    -5 -5 -5 5 3.09 -5 1
+    -0.83 -5 -5 5 3.09 -5 2
+    -1.82 -0.33 -5 5 5 12.79 -1
+    -1.82 -0.33 -5 5 5 12.79 -1
+    -0.83 -0.33 -5 5 3.09 5.38 9
+    -1.82 3.09 -5 1.1 5 12.79 11
+    -0.83 0.21 -5 5 3.09 11.21 -1
+    -0.83 0.21 -5 5 3.09 8.28 10
+    -0.83 1.66 -5 5 3.09 11.21 5
+    -0.83 3.02 -5 5 5 16 -1
+    -0.83 3.02 -5 5 5 16 -1
+    -0.83 3.02 -5 5 3.76 16 8
+    -0.83 3.09 -5 5 5 16 7
+    1.1 3.76 12.79 5 5 16 -1
+    1.1 3.76 12.79 5 5 16 -1
+    1.1 3.76 12.79 5 5 16 6
+    2.22 3.76 16 5 5 16 3
+    4.37 3.76 16 5 5 16 -1
+    4.37 3.76 16 5 5 16 -1
+    4.37 3.76 16 5 5 16 4
+    4.37 4.45 16 5 5 16 14
+    4.37 4.52 16 5 5 16 -1
+    4.37 4.52 16 5 5 16 15
+    4.46 4.52 16 5 5 16 13
+endnode
+node trimesh plane01_01
+  parent tced5_a01_01
+  orientation 0 0 0 0
+  tilefade 0
+  scale 1
+  render 1
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 0 0 0
+  diffuse 0 0 0
+  specular 0 0 0
+  shininess 10
+  center undefined
+  bitmap tced0_black
+  wirecolor 1 0 0
+  position 0 0 -5
+  shadow 0
+  verts 4
+    -5 -5 0
+    5 -5 0
+    5 5 0
+    -5 5 0
+  faces 2
+    0 1 3 1 0 1 2 1
+    2 3 1 1 3 2 1 1
+  tverts 4
+    0.00195313 0.998047 0
+    0.00195313 0.75 0
+    0.199219 0.998047 0
+    0.199219 0.75 0
+endnode
+node trimesh object02_01
+  parent tced5_a01_01
+  orientation 0 0 0 0
+  wirecolor 0 0 0
+  tilefade 0
+  scale 1
+  render 1
+  beaming 0
+  inheritcolor 0
+  rotatetexture 1
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center undefined
+  bitmap tced1_floor01
+  position 4.08 5.03 15.9
+  shadow 0
+  verts 8
+    0.92 -0.03 0.1
+    0.92 -0.19 0.1
+    0.92 -0.4 0.1
+    0.92 -0.77 0.1
+    0.33 -0.03 0.1
+    0.65 -0.03 0.1
+    0.71 -0.03 0.1
+    -0.81 -0.03 0.1
+  faces 6
+    4 7 3 1 4 7 3 2
+    3 2 4 1 3 2 4 2
+    1 6 5 1 1 6 5 2
+    2 1 5 1 2 1 5 2
+    4 2 5 1 4 2 5 2
+    6 1 0 1 6 1 0 2
+  tverts 8
+    1.0 1.0 0
+    1 0.96875 0
+    1 0.925781 0
+    1 0.851563 0
+    0.882813 1 0
+    0.945313 1 0
+    0.957031 1 0
+    0.654297 1 0
+endnode
+node trimesh cone04_01
+  parent tced5_a01_01
+  orientation 0 0 0 0
+  wirecolor 0 0 0
+  tilefade 0
+  scale 1
+  render 1
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center undefined
+  bitmap tced1_cliff02
+  position 4.37 3.73 16.41
+  shadow 0
+  verts 3
+    0.63 0.14 -0.41
+    0.63 1.27 -1.15
+    -1.9 1.27 -0.41
+  faces 1
+    1 0 2 1 0 1 2 3
+  tverts 3
+    0.845703 0.746094 0
+    0.761719 0.609375 0
+    0.978516 0.609375 0
+endnode
+node trimesh object03_01
+  parent tced5_a01_01
+  wirecolor 0.686275 0.686275 0.686275
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 1
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center undefined
+  bitmap tced1_splotch03
+  orientation 0 0 0 0
+  position 0 0 15.91
+  verts 5
+    5 4.67 0.1
+    5 3.87 0.09
+    5 5 0.1
+    2.47 5 0.09
+    4.63 5 0.1
+  faces 3
+    4 0 2 1 0 1 2 2
+    1 0 4 1 3 1 0 2
+    4 3 1 1 0 4 3 2
+  tverts 5
+    0.441406 0.316406 0
+    0.558594 0.285156 0
+    0.533203 0.337891 0
+    0.667969 0.126953 0
+    0.0253906 0.0996094 0
+endnode
+endmodelgeom tced5_a01_01
+donemodel tced5_a01_01

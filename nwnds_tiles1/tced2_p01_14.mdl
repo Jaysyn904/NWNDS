@@ -1,0 +1,3627 @@
+# Rewritten by CleanModels 3 Version 3.3.1a Sun Apr 05 23:09:27 2009
+#MAXMODEL ASCII
+filedependency Unknown
+newmodel tced2_p01_14
+  classification TILE
+  setsupermodel tced2_p01_14 NULL
+  setanimationscale 1
+#MAXGEOM ASCII
+beginmodelgeom tced2_p01_14
+node dummy tced2_p01_14
+  parent NULL
+endnode
+node light tced2_p01_14ml1
+  parent tced2_p01_14
+  wirecolor 1 0.894118 0
+  radius 14
+  multiplier 1
+  color 1 1 1
+  ambientonly 0
+  ndynamictype 0
+  affectdynamic 1
+  shadow 0
+  lightpriority 5
+  fadinglight 0
+  orientation 0 0 0 0
+  position 0 0 17.67
+endnode
+node light tced2_p01_14ml2
+  parent tced2_p01_14
+  wirecolor 1 0.894118 0
+  radius 5
+  multiplier 1
+  color 1 1 1
+  ambientonly 0
+  ndynamictype 0
+  affectdynamic 1
+  shadow 0
+  lightpriority 5
+  fadinglight 0
+  orientation 0 0 0 0
+  position -2 -2 16.67
+endnode
+node trimesh box369_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 3 -4.5 7.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.0019531 0.994141 0
+    0.484375 0.994141 0
+    0.484375 0.515625 0
+    0.0019531 0.515625 0
+endnode
+node trimesh box370_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 1 -4.5 7.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.525391 1.49805 0
+    1 1.49805 0
+    1 0.998047 0
+    0.525391 0.998047 0
+endnode
+node trimesh box371_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position -1 -4.5 7.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.5 0.998047 0
+    0 0.998047 0
+    0 0.535156 0
+    0.5 0.535156 0
+endnode
+node trimesh box373_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position -3 -4.5 7.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0 0.501953 0
+    0.5 0.501953 0
+    0.5 1.00195 0
+    0 1.00195 0
+endnode
+node trimesh box53_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center -1.5 -50 0
+  bitmap tced0_blocks
+  position -4.5 -4.5 7.5
+  verts 12
+    0.5 0.5 -0.5
+    -0.5 0.5 -0.5
+    0.5 0.5 0.5
+    -0.5 0.5 0.5
+    -0.5 -0.5 0.5
+    -0.5 -0.5 -0.5
+    0.5 -0.5 0.5
+    -0.5 -1.5 -0.5
+    0.5 -1.5 0.5
+    -0.5 -1.5 0.5
+    0.5 -0.47 0.47
+    -0.53 -0.47 0.47
+  faces 12
+    0 1 3 16 0 1 2 4
+    3 2 0 16 2 3 0 4
+    1 5 4 32 0 4 5 6
+    4 3 1 32 5 3 0 6
+    6 2 3 4 4 1 2 1
+    3 4 6 4 2 5 4 1
+    4 5 7 32 5 4 1 6
+    7 9 4 32 1 2 5 6
+    9 8 6 4 3 0 4 1
+    6 4 9 4 4 5 3 1
+    6 10 4 1048576 5 4 1 1
+    10 11 4 1048576 5 4 1 1
+  tverts 6
+    0.542969 0.494141 0
+    1 0.496094 0
+    1 0.996094 0
+    0.542969 0.994141 0
+    0.771484 0.496094 0
+    0.771484 0.996094 0
+endnode
+node trimesh box283_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 4 -3.5 6.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0 0 0
+    0.5 0 0
+    0.5 0.5 0
+    0 0.5 0
+endnode
+node trimesh box284_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 2 -3.5 6.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.544922 0.523438 0
+    0.998047 0.523438 0
+    0.998047 0.996094 0
+    0.544922 0.996094 0
+endnode
+node trimesh box287_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 0 -3.5 6.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.998047 0.496094 0
+    0.589844 0.503906 0
+    0.589844 1.00391 0
+    0.998047 0.996094 0
+endnode
+node trimesh box288_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position -2 -3.5 6.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.5 0 0
+    0 0 0
+    0 0.5 0
+    0.5 0.5 0
+endnode
+node trimesh box289_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position -4 -3.5 6.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.5 0.5 0
+    0 0.5 0
+    0 0 0
+    0.5 0 0
+endnode
+node trimesh box270_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 3 -2.5 5.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.525391 1.49805 0
+    1 1.49805 0
+    1 0.998047 0
+    0.525391 0.998047 0
+endnode
+node trimesh box271_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 1 -2.5 5.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.5 0.998047 0
+    0 0.998047 0
+    0 0.535156 0
+    0.5 0.535156 0
+endnode
+node trimesh box273_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position -1 -2.5 5.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0 0.501953 0
+    0.5 0.501953 0
+    0.5 1.00195 0
+    0 1.00195 0
+endnode
+node trimesh box274_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position -3 -2.5 5.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.0039063 0.996094 0
+    0.503906 0.996094 0
+    0.503906 0.496094 0
+    0.0039063 0.496094 0
+endnode
+node trimesh box275_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center -50 0 0
+  bitmap tced0_blocks
+  position -4.5 -2.5 5.5
+  verts 11
+    0.5 0.5 -0.5
+    0.5 -0.5 0.5
+    0.5 0.5 0.5
+    -0.5 0.5 0.5
+    -0.5 -0.5 0.5
+    -0.5 0.5 -0.5
+    -1.5 0.5 -0.5
+    -1.5 -0.5 0.5
+    -1.5 0.5 0.5
+    -0.47 -0.5 0.47
+    -0.47 0.5 0.47
+  faces 10
+    3 4 1 4 0 1 2 1
+    1 2 3 4 2 3 0 1
+    5 3 2 32 1 0 4 6
+    2 0 5 32 4 5 1 6
+    3 5 6 32 0 1 2 6
+    6 8 3 32 2 3 0 6
+    8 7 4 4 4 5 1 1
+    4 3 8 4 1 0 4 1
+    4 9 3 1048576 0 1 2 1
+    9 10 3 1048576 0 1 2 1
+  tverts 6
+    0.25 0 0
+    0.25 0.5 0
+    0.5 0.5 0
+    0.5 0 0
+    0 0 0
+    0 0.5 0
+endnode
+node trimesh box184_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 4 -1.5 4.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.5 0.5 0
+    0.5 0 0
+    0 0 0
+    0 0.5 0
+endnode
+node trimesh box185_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 2 -1.5 4.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0 0 0
+    0.5 0 0
+    0.5 0.5 0
+    0 0.5 0
+endnode
+node trimesh box186_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 0 -1.5 4.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.544922 0.523438 0
+    0.998047 0.523438 0
+    0.998047 0.996094 0
+    0.544922 0.996094 0
+endnode
+node trimesh box187_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position -2 -1.5 4.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.5 0 0
+    0 0 0
+    0 0.5 0
+    0.5 0.5 0
+endnode
+node trimesh box188_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position -4 -1.5 4.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0 0.998047 0
+    0.5 0.998047 0
+    0.5 0.498047 0
+    0 0.498047 0
+endnode
+node trimesh box172_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 3 -0.5 3.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.0019531 0.994141 0
+    0.484375 0.994141 0
+    0.484375 0.515625 0
+    0.0019531 0.515625 0
+endnode
+node trimesh box173_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 1 -0.5 3.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.5 0.5 0
+    0 0.5 0
+    0 0 0
+    0.5 0 0
+endnode
+node trimesh box174_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position -1 -0.5 3.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.525391 1.49805 0
+    1 1.49805 0
+    1 0.998047 0
+    0.525391 0.998047 0
+endnode
+node trimesh box175_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position -3 -0.5 3.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.5 0.998047 0
+    0 0.998047 0
+    0 0.535156 0
+    0.5 0.535156 0
+endnode
+node trimesh box176_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center -50 0 0
+  bitmap tced0_blocks
+  position -4.5 -0.5 3.5
+  verts 11
+    0.5 0.5 -0.5
+    0.5 -0.5 0.5
+    0.5 0.5 0.5
+    -0.5 0.5 0.5
+    -0.5 -0.5 0.5
+    -0.5 0.5 -0.5
+    -1.5 0.5 -0.5
+    -1.5 -0.5 0.5
+    -1.5 0.5 0.5
+    -0.47 -0.5 0.47
+    -0.47 0.5 0.47
+  faces 10
+    3 4 1 4 0 1 2 1
+    1 2 3 4 2 3 0 1
+    5 3 2 32 1 0 4 6
+    2 0 5 32 4 5 1 6
+    3 5 6 32 0 1 2 6
+    6 8 3 32 2 3 0 6
+    8 7 4 4 4 5 1 1
+    4 3 8 4 1 0 4 1
+    4 9 3 1048576 0 1 2 1
+    9 10 3 1048576 0 1 2 1
+  tverts 6
+    0.25 0.5 0
+    0.25 0 0
+    0.5 0 0
+    0.5 0.5 0
+    0 0.5 0
+    0 0 0
+endnode
+node trimesh box110_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 4 0.5 2.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0 0 0
+    0.5 0 0
+    0.5 0.5 0
+    0 0.5 0
+endnode
+node trimesh box111_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 2 0.5 2.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.544922 0.523438 0
+    0.998047 0.523438 0
+    0.998047 0.996094 0
+    0.544922 0.996094 0
+endnode
+node trimesh box112_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 0 0.5 2.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.5 0 0
+    0 0 0
+    0 0.5 0
+    0.5 0.5 0
+endnode
+node trimesh box113_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position -2 0.5 2.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0 0.998047 0
+    0.5 0.998047 0
+    0.5 0.498047 0
+    0 0.498047 0
+endnode
+node trimesh box114_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position -4 0.5 2.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.998047 0.496094 0
+    0.589844 0.503906 0
+    0.589844 1.00391 0
+    0.998047 0.996094 0
+endnode
+node trimesh box09_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 3 1.5 1.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.5 0.5 0
+    0 0.5 0
+    0 0 0
+    0.5 0 0
+endnode
+node trimesh box10_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position 1 1.5 1.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.525391 1.49805 0
+    1 1.49805 0
+    1 0.998047 0
+    0.525391 0.998047 0
+endnode
+node trimesh box11_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position -1 1.5 1.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0.5 0.998047 0
+    0 0.998047 0
+    0 0.535156 0
+    0.5 0.535156 0
+endnode
+node trimesh box12_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center 0 0 0
+  bitmap tced0_blocks
+  position -3 1.5 1.5
+  verts 6
+    -1 0.5 -0.5
+    1 0.5 -0.5
+    -1 -0.5 0.5
+    1 -0.5 0.5
+    -1 0.5 0.5
+    1 0.5 0.5
+  faces 4
+    2 3 5 4 0 1 2 1
+    5 4 2 4 2 3 0 1
+    1 0 4 32 0 1 2 6
+    4 5 1 32 2 3 0 6
+  tverts 4
+    0 0 0
+    0.5 0 0
+    0.5 0.5 0
+    0 0.5 0
+endnode
+node trimesh box13_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  center -50 0 0
+  bitmap tced0_blocks
+  position -4.5 1.5 1.5
+  verts 11
+    0.5 0.5 -0.5
+    0.5 -0.5 0.5
+    0.5 0.5 0.5
+    -0.5 0.5 0.5
+    -0.5 -0.5 0.5
+    -0.5 0.5 -0.5
+    -1.5 0.5 -0.5
+    -1.5 -0.5 0.5
+    -1.5 0.5 0.5
+    -0.47 -0.5 0.47
+    -0.47 0.5 0.47
+  faces 10
+    3 4 1 4 0 1 2 1
+    1 2 3 4 2 3 0 1
+    5 3 2 32 1 0 4 6
+    2 0 5 32 4 5 1 6
+    3 5 6 32 0 1 2 6
+    6 8 3 32 2 3 0 6
+    8 7 4 4 4 5 1 1
+    4 3 8 4 1 0 4 1
+    4 9 3 1048576 0 1 2 1
+    9 10 3 1048576 0 1 2 1
+  tverts 6
+    0.25 1.00195 0
+    0.25 0.501953 0
+    0.5 0.501953 0
+    0.5 1.00195 0
+    0 1.00195 0
+    0 0.501953 0
+endnode
+node aabb walkmesh_14
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  bitmap NULL
+  orientation 0 0 0 0
+  position 0 0 0
+  verts 51
+    -5 -4 7
+    -5 -4 8
+    -5 -5 8
+    -5 -3 6
+    -5 -3 7
+    -5 -2 5
+    -5 -2 6
+    -5 -1 4
+    -5 -1 5
+    -5 0 3
+    -5 0 4
+    -5 1 2
+    -5 1 3
+    -5 2 2
+    5 -5 8
+    5 -4 7
+    5 -4 8
+    5 -3 6
+    5 -3 7
+    5 -2 5
+    5 -2 6
+    5 -1 4
+    5 -1 5
+    5 0 3
+    5 0 4
+    5 1 2
+    5 1 3
+    5 2 2
+    5 1.5 2
+    -5 2.05 1
+    0 2 1.36
+    -2.5 2 1.59
+    2.81 2 1.22
+    5 2.01 1
+    -5 5 1
+    5 5 1
+    -5 2.5 1
+    0 2.5 0.81
+    5 2.5 1
+    0 5 1
+    -2.81 2.91 1.51
+    0.33 2.19 1.24
+    -2.81 3.38 1.19
+    2.81 3.91 1.12
+    -0.31 3.91 0.83
+    2.81 2.34 1
+    -5 3.75 1
+    -2.81 3.91 1
+    5 3.75 1
+    2.5 5 1
+    -2.5 5 1
+  faces 60
+    25 28 13 0 0 0 0 1
+    13 11 25 0 0 0 0 1
+    0 1 16 16 0 0 0 1
+    16 15 0 16 0 0 0 1
+    3 4 18 16 0 0 0 1
+    18 17 3 16 0 0 0 1
+    5 6 20 16 0 0 0 1
+    20 19 5 16 0 0 0 1
+    7 8 22 16 0 0 0 1
+    22 21 7 16 0 0 0 1
+    9 10 24 16 0 0 0 1
+    24 23 9 16 0 0 0 1
+    11 12 26 16 0 0 0 1
+    26 25 11 16 0 0 0 1
+    1 2 14 0 0 0 0 1
+    16 1 14 0 0 0 0 1
+    0 15 18 0 0 0 0 1
+    20 6 3 0 0 0 0 1
+    3 17 20 0 0 0 0 1
+    22 8 5 0 0 0 0 1
+    5 19 22 0 0 0 0 1
+    24 10 7 0 0 0 0 1
+    7 21 24 0 0 0 0 1
+    26 12 9 0 0 0 0 1
+    9 23 26 0 0 0 0 1
+    28 27 13 0 0 0 0 1
+    4 0 18 0 0 0 0 1
+    29 13 31 0 0 0 0 1
+    31 13 27 0 0 0 0 1
+    27 30 31 0 0 0 0 1
+    30 27 32 0 0 0 0 1
+    27 33 32 0 0 0 0 1
+    43 44 45 1 0 0 0 1
+    46 42 47 1 0 0 0 1
+    29 31 40 1 0 0 0 1
+    48 49 43 1 0 0 0 1
+    44 50 47 1 0 0 0 1
+    42 41 37 1 0 0 0 1
+    38 43 45 1 0 0 0 1
+    43 39 44 1 0 0 0 1
+    45 44 37 1 0 0 0 1
+    34 46 47 1 0 0 0 1
+    46 36 42 1 0 0 0 1
+    47 42 37 1 0 0 0 1
+    36 29 40 1 0 0 0 1
+    40 31 30 1 0 0 0 1
+    37 41 32 1 0 0 0 1
+    33 38 45 1 0 0 0 1
+    32 45 37 1 0 0 0 1
+    38 48 43 1 0 0 0 1
+    48 35 49 1 0 0 0 1
+    43 49 39 1 0 0 0 1
+    37 44 47 1 0 0 0 1
+    44 39 50 1 0 0 0 1
+    47 50 34 1 0 0 0 1
+    32 41 30 0 0 0 0 1
+    30 41 42 0 0 0 0 1
+    42 40 30 0 0 0 0 1
+    40 42 36 0 0 0 0 1
+    33 45 32 0 0 0 0 1
+  aabb     -5 -5 0.81 5 5 8 -1
+    -5 -5 0.81 5 5 8 -1
+    -5 2 1 -2.5 5 2 -1
+    -5 2 1 -2.5 3.38 2 -1
+    -5 2 1 -2.5 2.91 2 -1
+    -5 2.05 1 -2.81 2.91 1.51 44
+    -5 2 1 -2.5 2.05 2 27
+    -5 2 1 -2.5 3.38 1.59 -1
+    -5 2.5 1 -2.81 3.38 1.51 58
+    -5 2 1 -2.5 2.91 1.59 34
+    -5 2.5 1 -2.5 5 1.19 -1
+    -5 2.5 1 -2.81 5 1.19 -1
+    -5 2.5 1 -2.81 3.75 1.19 42
+    -5 3.75 1 -2.81 5 1 41
+    -5 3.38 1 -2.5 5 1.19 -1
+    -5 3.38 1 -2.81 3.91 1.19 33
+    -5 3.91 1 -2.5 5 1 54
+    -5 -5 0.81 5 5 8 -1
+    -5 -5 0.81 5 5 8 -1
+    -2.81 2 0.81 0 5 1.59 -1
+    -2.81 2 1.19 0 3.38 1.59 -1
+    -2.81 2 1.19 0 3.38 1.51 57
+    -2.81 2 1.36 0 2.91 1.59 45
+    -2.81 2.5 0.81 0 5 1.19 -1
+    -2.81 2.5 0.81 0 3.91 1.19 43
+    -2.81 3.91 0.83 -0.31 5 1 36
+    -5 -5 2 5 2 8 -1
+    -5 -5 5 5 -2 8 -1
+    -5 -5 7 5 -3 8 -1
+    -5 -5 8 5 -4 8 14
+    -5 -4 7 5 -3 8 -1
+    -5 -4 7 5 -4 8 2
+    -5 -4 7 5 -3 7 26
+    -5 -3 5 5 -2 7 -1
+    -5 -3 5 5 -2 6 -1
+    -5 -3 6 5 -2 6 17
+    -5 -2 5 5 -2 6 6
+    -5 -3 6 5 -3 7 4
+    -5 -2 2 5 2 5 -1
+    -5 -2 3 5 0 5 -1
+    -5 -2 4 5 -1 5 -1
+    -5 -2 5 5 -1 5 19
+    -5 -1 4 5 -1 5 8
+    -5 -1 3 5 0 4 -1
+    -5 -1 4 5 0 4 21
+    -5 0 3 5 0 4 10
+    -5 0 2 5 2 3 -1
+    -5 0 3 5 1 3 23
+    -5 1 2 5 2 3 -1
+    -5 1 2 5 1 3 12
+    -5 1 2 5 2 2 1
+    -5 2 0.81 5 5 2 -1
+    -2.81 2.5 0.81 0 5 1 -1
+    -2.81 2.5 0.81 0 3.91 1 52
+    -2.5 3.91 0.83 0 5 1 53
+    -5 2 0.81 5 3.38 2 -1
+    -5 2 1.59 5 2 2 28
+    -2.81 2 0.81 0.33 3.38 1.36 -1
+    -2.81 2 1.19 0.33 3.38 1.36 56
+    -2.81 2.19 0.81 0.33 3.38 1.24 37
+    -5 -5 0.81 5 5 8 -1
+    -5 -5 0.81 5 5 8 -1
+    -2.5 2 0.81 5 5 2 -1
+    -2.5 2 0.81 5 5 2 -1
+    -2.5 2 0.81 5 3.91 2 -1
+    -2.5 2 1.36 5 2 2 29
+    -0.31 2.34 0.81 2.81 3.91 1 40
+    -0.31 3.91 0.83 2.81 5 1.12 39
+    0 2 0.81 2.81 2.5 1.36 -1
+    0 2 0.81 2.81 2.5 1.24 46
+    0 2 1.22 2.81 2.19 1.36 55
+    -5 -5 0.81 5 5 8 -1
+    -5 -5 2 5 2 8 -1
+    -5 -5 5 5 -1 8 -1
+    -5 -5 7 5 -3 8 -1
+    -5 -5 8 5 -4 8 15
+    -5 -4 7 5 -3 8 -1
+    -5 -4 7 5 -4 8 3
+    -5 -4 7 5 -3 7 16
+    -5 -3 5 5 -1 7 -1
+    -5 -3 6 5 -2 7 -1
+    -5 -3 6 5 -3 7 5
+    -5 -3 6 5 -2 6 18
+    -5 -2 5 5 -1 6 -1
+    -5 -2 5 5 -2 6 7
+    -5 -2 5 5 -1 5 20
+    -5 -1 2 5 2 5 -1
+    -5 -1 3 5 1 5 -1
+    -5 -1 4 5 0 5 -1
+    -5 -1 4 5 -1 5 9
+    -5 -1 4 5 0 4 22
+    -5 0 3 5 1 4 -1
+    -5 0 3 5 0 4 11
+    -5 0 3 5 1 3 24
+    -5 1 2 5 2 3 -1
+    -5 1 2 5 1 3 13
+    -5 1 2 5 2 2 -1
+    -5 1 2 5 2 2 0
+    -5 1.5 2 5 2 2 25
+    -0.31 2 0.81 2.81 5 1.22 -1
+    -0.31 2.34 0.83 2.81 5 1.12 -1
+    -0.31 2.34 0.83 2.81 3.91 1.12 32
+    0 3.91 1 2.81 5 1.12 51
+    0 2 0.81 2.81 2.5 1.22 48
+    0 2 1 5 5 2 -1
+    0 2 1 5 5 2 -1
+    0 2 1.22 5 2 2 30
+    2.5 2 1 5 5 1.22 -1
+    2.81 2 1 5 3.91 1.22 -1
+    2.81 2 1 5 2.34 1.22 59
+    2.81 2.34 1 5 3.91 1.12 38
+    2.5 3.75 1 5 5 1.12 35
+    2.5 2 1 5 5 2 -1
+    2.81 2 1 5 2.5 2 -1
+    2.81 2.01 1 5 2.5 1 47
+    2.81 2 1 5 2.01 2 31
+    2.5 2.5 1 5 5 1.12 -1
+    2.5 3.75 1 5 5 1 50
+    2.81 2.5 1 5 3.91 1.12 49
+endnode
+node trimesh plane_14
+  parent tced2_p01_14
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 1
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 1
+  center 0 345 20
+  bitmap tced1_floor01
+  position 0 0 1
+  verts 23
+    -5 1.9 0
+    -5 5 0
+    5 5 0
+    -5 2.5 0
+    0 2 0.36
+    0 2.5 -0.19
+    5 2.5 0
+    0 5 0
+    -2.81 2.91 0.51
+    0.33 2.19 0.24
+    -2.81 3.38 0.19
+    2.81 3.91 0.12
+    -0.31 3.91 -0.17
+    2.81 2.34 0
+    -5 3.75 0
+    -2.81 3.91 0
+    -5 2.1 0
+    -2.5 2 0.59
+    2.81 2 0.22
+    5 2.01 0
+    5 3.75 0
+    2.5 5 0
+    -2.5 5 0
+  faces 29
+    11 12 13 1 11 12 13 3
+    14 10 15 1 14 10 15 3
+    16 17 8 1 16 17 8 3
+    19 13 18 1 19 13 18 3
+    20 21 11 1 20 21 11 3
+    12 22 15 1 12 22 15 3
+    10 9 5 1 10 9 5 3
+    6 11 13 1 6 11 13 3
+    11 7 12 1 11 7 12 3
+    13 12 5 1 13 12 5 3
+    1 14 15 1 1 14 15 3
+    14 3 10 1 14 3 10 3
+    15 10 5 1 15 10 5 3
+    3 16 8 1 3 16 8 3
+    16 0 17 1 16 0 17 3
+    8 17 4 1 8 17 4 3
+    5 9 18 1 5 9 18 3
+    19 6 13 1 19 6 13 3
+    18 13 5 1 18 13 5 3
+    6 20 11 1 6 20 11 3
+    20 2 21 1 20 2 21 3
+    11 21 7 1 11 21 7 3
+    5 12 15 1 5 12 15 3
+    12 7 22 1 12 7 22 3
+    15 22 1 1 15 22 1 3
+    18 9 4 1 18 9 4 20
+    4 9 10 1 4 9 10 20
+    10 8 4 1 10 8 4 20
+    8 10 3 1 8 10 3 20
+  tverts 23
+    0 0.380859 0
+    0.0 1.0 0
+    2.0 1.0 0
+    0.0 0.5 0
+    1 0.400391 0
+    1.0 0.5 0
+    2.0 0.5 0
+    1.0 1.0 0
+    0.4375 0.582031 0
+    1.06641 0.4375 0
+    0.4375 0.675781 0
+    1.5625 0.78125 0
+    0.9375 0.78125 0
+    1.5625 0.46875 0
+    0.0 0.75 0
+    0.4375 0.78125 0
+    0 0.419922 0
+    0.5 0.400391 0
+    1.5625 0.400391 0
+    2 0.402344 0
+    2.0 0.75 0
+    1.5 1.0 0
+    0.5 1.0 0
+endnode
+node danglymesh plane546
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.05
+  showdispl true
+  displtype 1
+  center -4 0 -15
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -3.84 4.14 1.67
+  verts 17
+    0.19 -0.41 -0.11
+    0.42 -0.49 -0.33
+    0.37 0.23 -0.14
+    0.61 0.17 -0.35
+    -0.09 -0.34 0.01
+    0.1 0.33 -0.01
+    -0.4 -0.24 0.05
+    -0.2 0.41 0.02
+    -0.69 -0.16 -0.01
+    -0.5 0.49 -0.04
+    0.21 -0.41 -0.13
+    0.11 0.32 -0.02
+    0.39 0.24 -0.15
+    -0.38 -0.25 0.03
+    -0.2 0.41 0.01
+    -0.68 -0.16 -0.03
+    -0.5 0.49 -0.05
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 4 11 1 10 11 12 1
+    11 12 10 1 12 13 10 1
+    4 13 14 1 11 14 15 1
+    14 11 4 1 15 12 11 1
+    13 15 16 1 14 16 17 1
+    16 14 13 1 17 15 14 1
+  tverts 18
+    0.0019531 0.238281 0
+    0.0019531 0.0019531 0
+    0.998047 0.238281 0
+    0.998047 0.0019531 0
+    0.0019531 0.5 0
+    0.998047 0.5 0
+    0.0019531 0.761719 0
+    0.998047 0.761719 0
+    0.0019531 0.998047 0
+    0.998047 0.998047 0
+    0.0019531 0.224609 0
+    0.0019531 0.486328 0
+    0.998047 0.486328 0
+    0.998047 0.224609 0
+    0.0019531 0.748047 0
+    0.998047 0.748047 0
+    0.0019531 0.986328 0
+    0.998047 0.986328 0
+  constraints 17
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+endnode
+node danglymesh plane548
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.05
+  showdispl true
+  displtype 1
+  center -0.999998 -1 -10
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -3.39 3.33 1.56
+  verts 18
+    0.41 0.19 -0.07
+    0.51 0.44 -0.22
+    -0.22 0.41 -0.04
+    -0.13 0.66 -0.21
+    0.32 -0.1 -0.01
+    -0.32 0.11 0.02
+    0.21 -0.41 -0.03
+    -0.42 -0.19 -0.01
+    0.11 -0.68 -0.15
+    -0.53 -0.46 -0.15
+    0.42 0.2 -0.08
+    0.31 -0.09 -0.01
+    -0.32 0.13 0
+    -0.22 0.42 -0.05
+    0.21 -0.39 -0.04
+    -0.43 -0.17 -0.03
+    0.11 -0.66 -0.18
+    -0.53 -0.44 -0.15
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 11 12 1 10 11 12 1
+    12 13 10 1 12 13 10 1
+    11 14 15 1 11 14 15 1
+    15 12 11 1 15 12 11 1
+    14 16 17 1 14 16 17 1
+    17 15 14 1 17 15 14 1
+  tverts 18
+    0.0019531 0.238281 0
+    0.0019531 0.0019531 0
+    0.998047 0.238281 0
+    0.998047 0.0019531 0
+    0.0019531 0.5 0
+    0.998047 0.5 0
+    0.0019531 0.761719 0
+    0.998047 0.761719 0
+    0.0019531 0.998047 0
+    0.998047 0.998047 0
+    0.0019531 0.224609 0
+    0.0019531 0.486328 0
+    0.998047 0.486328 0
+    0.998047 0.224609 0
+    0.0019531 0.748047 0
+    0.998047 0.748047 0
+    0.0019531 0.986328 0
+    0.998047 0.986328 0
+  constraints 18
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+endnode
+node danglymesh plane547
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 1
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.0500002
+  showdispl true
+  displtype 1
+  center -1 -10.5 -29
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -3.02 3.51 1.76
+  verts 19
+    -0.01 -0.56 0.01
+    0.16 -0.87 -0.28
+    0.53 -0.17 -0.1
+    0.71 -0.49 -0.38
+    -0.26 -0.19 0.05
+    0.28 0.2 -0.06
+    -0.53 0.13 -0.14
+    0.02 0.52 -0.24
+    -0.72 0.29 -0.52
+    -0.18 0.67 -0.63
+    0.17 -0.88 -0.28
+    -0.02 -0.57 0
+    0.53 -0.17 -0.11
+    0.71 -0.5 -0.39
+    -0.27 -0.21 0.04
+    -0.54 0.11 -0.14
+    0.01 0.5 -0.27
+    0.29 0.19 -0.06
+    -0.73 0.28 -0.53
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 11 12 1 10 11 12 1
+    12 13 10 1 12 13 10 1
+    14 15 16 1 14 15 16 1
+    16 17 14 1 16 17 14 1
+    15 18 9 1 15 18 19 1
+    9 16 15 1 19 16 15 1
+  tverts 20
+    1.28906 1.5918 0
+    1.58398 1.83398 0
+    0.337891 1.73828 0
+    0.634766 1.98047 0
+    1.06641 1.30859 0
+    0.117188 1.45508 0
+    0.984375 1.06836 0
+    0.0351563 1.21484 0
+    1.06641 0.941406 0
+    0.117188 1.08984 0
+    1.60352 0.835938 0
+    1.30469 0.595703 0
+    0.355469 0.742188 0
+    0.652344 0.984375 0
+    1.08398 1.3125 0
+    1.00391 1.07227 0
+    0.0527344 1.2207 0
+    0.132813 1.45898 0
+    1.08398 0.945313 0
+    0.134766 1.0918 0
+  constraints 19
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+endnode
+node danglymesh plane545
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.05
+  showdispl true
+  displtype 1
+  center -9.5 -4.5 -23.5
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -3.73 3.5 1.71
+  verts 20
+    0.36 -0.19 -0.19
+    0.47 -0.13 -0.48
+    0.09 0.43 -0.18
+    0.18 0.49 -0.47
+    0.14 -0.3 -0.01
+    -0.14 0.32 0.02
+    -0.13 -0.43 0.02
+    -0.42 0.17 0.03
+    -0.4 -0.56 -0.12
+    -0.68 0.06 -0.1
+    0.49 -0.15 -0.5
+    0.38 -0.21 -0.19
+    0.1 0.41 -0.18
+    0.19 0.47 -0.47
+    0.17 -0.31 -0.01
+    -0.13 -0.45 0.02
+    -0.41 0.16 0.03
+    -0.13 0.3 0.02
+    -0.39 -0.58 -0.12
+    -0.67 0.04 -0.11
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 11 12 1 10 11 12 1
+    12 13 10 1 12 13 10 1
+    14 15 16 1 14 15 16 1
+    16 17 14 1 16 17 14 1
+    15 18 19 1 15 18 19 1
+    19 16 15 1 19 16 15 1
+  tverts 20
+    0.0136719 0.208984 0
+    0.0136719 0.0019531 0
+    0.986328 0.208984 0
+    0.986328 0.0019531 0
+    0.0136719 0.5 0
+    0.986328 0.5 0
+    0.0136719 0.791016 0
+    0.986328 0.791016 0
+    0.0136719 0.998047 0
+    0.986328 0.998047 0
+    0.988281 0.998047 0
+    0.988281 1.20313 0
+    1.96094 1.20313 0
+    1.96094 0.998047 0
+    0.988281 0.496094 0
+    0.988281 0.789063 0
+    1.96094 0.789063 0
+    1.96094 0.496094 0
+    0.988281 0.994141 0
+    1.96094 0.994141 0
+  constraints 20
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+endnode
+node danglymesh plane544
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.05
+  showdispl true
+  displtype 1
+  center 6 4.5 -16
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -2.58 4.19 1.56
+  verts 18
+    -0.42 0.08 -0.15
+    -0.59 -0.04 -0.39
+    0 -0.43 -0.15
+    -0.18 -0.57 -0.39
+    -0.21 0.26 0
+    0.21 -0.26 0
+    0.03 0.46 0.07
+    0.46 -0.06 0.07
+    0.28 0.66 0.03
+    0.71 0.12 0.03
+    -0.44 0.07 -0.17
+    -0.22 0.26 -0.01
+    0.21 -0.27 -0.01
+    -0.01 -0.45 -0.15
+    0.02 0.46 0.06
+    0.44 -0.08 0.06
+    0.26 0.64 0.03
+    0.69 0.11 0.03
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 11 12 1 10 11 12 1
+    12 13 10 1 12 13 10 1
+    11 14 15 1 11 14 15 1
+    15 12 11 1 15 12 11 1
+    14 16 17 1 14 16 17 1
+    17 15 14 1 17 15 14 1
+  tverts 18
+    0.0019531 0.238281 0
+    0.0019531 0.0019531 0
+    0.998047 0.238281 0
+    0.998047 0.0019531 0
+    0.0019531 0.5 0
+    0.998047 0.5 0
+    0.0019531 0.761719 0
+    0.998047 0.761719 0
+    0.0019531 0.998047 0
+    0.998047 0.998047 0
+    0.0019531 0.224609 0
+    0.0019531 0.486328 0
+    0.998047 0.486328 0
+    0.998047 0.224609 0
+    0.0019531 0.748047 0
+    0.998047 0.748047 0
+    0.0019531 0.986328 0
+    0.998047 0.986328 0
+  constraints 18
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+endnode
+node danglymesh plane523
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.05
+  showdispl true
+  displtype 1
+  center 0.5 -7 -20
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -5.31 2.38 1.16
+  verts 20
+    0.39 0.22 -0.15
+    0.41 0.36 -0.42
+    -0.29 0.34 -0.14
+    -0.26 0.49 -0.4
+    0.33 -0.07 -0.01
+    -0.33 0.06 0.02
+    0.28 -0.38 -0.03
+    -0.4 -0.26 -0.01
+    0.22 -0.63 -0.21
+    -0.43 -0.49 -0.19
+    0.44 0.37 -0.42
+    0.4 0.21 -0.15
+    -0.26 0.33 -0.14
+    -0.23 0.49 -0.4
+    0.36 -0.06 -0.01
+    0.3 -0.37 -0.03
+    -0.37 -0.26 -0.01
+    -0.3 0.07 0.02
+    0.25 -0.62 -0.22
+    -0.41 -0.49 -0.19
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 11 12 1 10 11 12 1
+    12 13 10 1 12 13 10 1
+    14 15 16 1 14 15 16 1
+    16 17 14 1 16 17 14 1
+    15 18 19 1 15 18 19 1
+    19 16 15 1 19 16 15 1
+  tverts 20
+    0.0136719 0.208984 0
+    0.0136719 0.0019531 0
+    0.986328 0.208984 0
+    0.986328 0.0019531 0
+    0.0136719 0.5 0
+    0.986328 0.5 0
+    0.0136719 0.791016 0
+    0.986328 0.791016 0
+    0.0136719 0.998047 0
+    0.986328 0.998047 0
+    0.988281 0.998047 0
+    0.988281 1.20313 0
+    1.96094 1.20313 0
+    1.96094 0.998047 0
+    0.988281 0.496094 0
+    0.988281 0.789063 0
+    1.96094 0.789063 0
+    1.96094 0.496094 0
+    0.988281 0.994141 0
+    1.96094 0.994141 0
+  constraints 20
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+endnode
+node danglymesh plane542
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.05
+  showdispl true
+  displtype 1
+  center 0 5 -20
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -3.2 4.27 1.56
+  verts 20
+    -0.31 -0.32 -0.15
+    -0.3 -0.47 -0.42
+    0.38 -0.26 -0.14
+    0.39 -0.41 -0.4
+    -0.33 -0.03 -0.01
+    0.35 0.03 0.02
+    -0.36 0.29 -0.03
+    0.33 0.35 -0.01
+    -0.37 0.55 -0.21
+    0.3 0.58 -0.19
+    -0.31 -0.48 -0.42
+    -0.32 -0.31 -0.15
+    0.35 -0.26 -0.14
+    0.36 -0.43 -0.4
+    -0.35 -0.04 -0.01
+    -0.38 0.28 -0.03
+    0.3 0.34 -0.01
+    0.32 0.01 0.02
+    -0.39 0.53 -0.22
+    0.29 0.57 -0.19
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 11 12 1 10 11 12 1
+    12 13 10 1 12 13 10 1
+    14 15 16 1 14 15 16 1
+    16 17 14 1 16 17 14 1
+    15 18 19 1 15 18 19 1
+    19 16 15 1 19 16 15 1
+  tverts 20
+    0.0136719 0.208984 0
+    0.0136719 0.0019531 0
+    0.986328 0.208984 0
+    0.986328 0.0019531 0
+    0.0136719 0.5 0
+    0.986328 0.5 0
+    0.0136719 0.791016 0
+    0.986328 0.791016 0
+    0.0136719 0.998047 0
+    0.986328 0.998047 0
+    0.988281 0.998047 0
+    0.988281 1.20313 0
+    1.96094 1.20313 0
+    1.96094 0.998047 0
+    0.988281 0.496094 0
+    0.988281 0.789063 0
+    1.96094 0.789063 0
+    1.96094 0.496094 0
+    0.988281 0.994141 0
+    1.96094 0.994141 0
+  constraints 20
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+endnode
+node danglymesh plane541
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.05
+  showdispl true
+  displtype 1
+  center 5 1 -18.5
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -2.71 3.65 1.56
+  verts 20
+    -0.04 0.45 -0.11
+    -0.17 0.56 -0.36
+    -0.43 -0.11 -0.15
+    -0.56 0.02 -0.4
+    0.2 0.28 0.03
+    -0.2 -0.28 -0.01
+    0.46 0.1 -0.01
+    0.07 -0.45 -0.05
+    0.66 -0.04 -0.21
+    0.26 -0.58 -0.26
+    -0.17 0.6 -0.36
+    -0.03 0.48 -0.11
+    -0.42 -0.08 -0.15
+    -0.55 0.03 -0.4
+    0.2 0.3 0.03
+    0.45 0.12 -0.01
+    0.06 -0.43 -0.05
+    -0.19 -0.26 -0.01
+    0.65 -0.01 -0.21
+    0.27 -0.56 -0.26
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 11 12 1 10 11 12 1
+    12 13 10 1 12 13 10 1
+    14 15 16 1 14 15 16 1
+    16 17 14 1 16 17 14 1
+    15 18 19 1 15 18 19 1
+    19 16 15 1 19 16 15 1
+  tverts 20
+    0.0136719 0.208984 0
+    0.0136719 0.0019531 0
+    0.986328 0.208984 0
+    0.986328 0.0019531 0
+    0.0136719 0.5 0
+    0.986328 0.5 0
+    0.0136719 0.791016 0
+    0.986328 0.791016 0
+    0.0136719 0.998047 0
+    0.986328 0.998047 0
+    0.988281 0.998047 0
+    0.988281 1.20313 0
+    1.96094 1.20313 0
+    1.96094 0.998047 0
+    0.988281 0.496094 0
+    0.988281 0.789063 0
+    1.96094 0.789063 0
+    1.96094 0.496094 0
+    0.988281 0.994141 0
+    1.96094 0.994141 0
+  constraints 20
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+endnode
+node danglymesh plane540
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.05
+  showdispl true
+  displtype 1
+  center 0 12 -27.5
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -3.7 3.91 1.86
+  verts 17
+    0.3 -0.41 -0.27
+    0.58 -0.42 -0.63
+    0.53 0.2 -0.09
+    0.8 0.2 -0.45
+    -0.11 -0.32 -0.09
+    0.12 0.31 0.08
+    -0.53 -0.14 -0.16
+    -0.3 0.48 0.02
+    -0.69 0.07 -0.45
+    -0.59 0.66 -0.27
+    0.53 0.2 -0.1
+    0.81 0.19 -0.45
+    -0.11 -0.32 -0.1
+    -0.3 0.48 0.01
+    0.12 0.3 0.07
+    -0.81 0.05 -0.45
+    -0.59 0.66 -0.28
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    1 0 10 1 10 11 12 1
+    10 11 1 1 12 13 10 1
+    12 6 13 1 14 15 16 1
+    13 14 12 1 16 17 14 1
+    6 15 16 1 15 18 19 1
+    16 13 6 1 19 16 15 1
+  tverts 20
+    0.0039063 0.208984 0
+    0.0039063 0.0019531 0
+    0.994141 0.208984 0
+    0.994141 0.0019531 0
+    0.0039063 0.5 0
+    0.994141 0.5 0
+    0.0039063 0.791016 0
+    0.994141 0.791016 0
+    0.0039063 0.998047 0
+    0.994141 0.998047 0
+    0.996094 0.998047 0
+    0.996094 1.20508 0
+    1.98438 1.20508 0
+    1.98438 0.998047 0
+    0.996094 0.496094 0
+    0.996094 0.789063 0
+    1.98438 0.789063 0
+    1.98438 0.496094 0
+    0.996094 0.994141 0
+    1.98438 0.994141 0
+  constraints 17
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+endnode
+node danglymesh plane527
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.05
+  showdispl true
+  displtype 1
+  center 0 2 -10
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -5.05 3.23 1.16
+  verts 17
+    -0.32 -0.32 -0.07
+    -0.31 -0.59 -0.22
+    0.35 -0.29 -0.04
+    0.36 -0.56 -0.21
+    -0.33 -0.02 -0.01
+    0.34 0.02 0.02
+    -0.35 0.3 -0.03
+    0.31 0.34 -0.01
+    -0.36 0.6 -0.15
+    0.31 0.63 -0.15
+    -0.32 -0.34 -0.08
+    0.34 0 0
+    0.36 -0.3 -0.05
+    -0.35 0.29 -0.04
+    0.33 0.32 -0.03
+    -0.35 0.57 -0.18
+    0.32 0.61 -0.15
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 4 11 1 10 11 12 1
+    11 12 10 1 12 13 10 1
+    4 13 14 1 11 14 15 1
+    14 11 4 1 15 12 11 1
+    13 15 16 1 14 16 17 1
+    16 14 13 1 17 15 14 1
+  tverts 18
+    0.0019531 0.238281 0
+    0.0019531 0.0019531 0
+    0.998047 0.238281 0
+    0.998047 0.0019531 0
+    0.0019531 0.5 0
+    0.998047 0.5 0
+    0.0019531 0.761719 0
+    0.998047 0.761719 0
+    0.0019531 0.998047 0
+    0.998047 0.998047 0
+    0.0019531 0.224609 0
+    0.0019531 0.486328 0
+    0.998047 0.486328 0
+    0.998047 0.224609 0
+    0.0019531 0.748047 0
+    0.998047 0.748047 0
+    0.0019531 0.986328 0
+    0.998047 0.986328 0
+  constraints 17
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+endnode
+node danglymesh plane522
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.05
+  showdispl true
+  displtype 1
+  center 2 -9.5 -27.5
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -4.75 2.59 1.38
+  verts 18
+    -0.36 0.36 -0.27
+    -0.64 0.32 -0.63
+    -0.49 -0.28 -0.09
+    -0.76 -0.33 -0.45
+    0.06 0.33 -0.09
+    -0.07 -0.32 0.08
+    0.5 0.22 -0.16
+    0.37 -0.42 0.02
+    0.69 0.04 -0.45
+    0.69 -0.55 -0.27
+    -0.64 0.33 -0.63
+    -0.49 -0.28 -0.1
+    -0.77 -0.32 -0.45
+    0.06 0.34 -0.1
+    0.37 -0.42 0.01
+    -0.07 -0.32 0.07
+    0.81 0.08 -0.45
+    0.69 -0.55 -0.28
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 0 11 1 10 11 12 1
+    11 12 10 1 12 13 10 1
+    13 6 14 1 14 15 16 1
+    14 15 13 1 16 17 14 1
+    6 16 17 1 15 18 19 1
+    17 14 6 1 19 16 15 1
+  tverts 20
+    0.0039063 0.208984 0
+    0.0039063 0.0019531 0
+    0.994141 0.208984 0
+    0.994141 0.0019531 0
+    0.0039063 0.5 0
+    0.994141 0.5 0
+    0.0039063 0.791016 0
+    0.994141 0.791016 0
+    0.0039063 0.998047 0
+    0.994141 0.998047 0
+    0.996094 0.998047 0
+    0.996094 1.20508 0
+    1.98438 1.20508 0
+    1.98438 0.998047 0
+    0.996094 0.496094 0
+    0.996094 0.789063 0
+    1.98438 0.789063 0
+    1.98438 0.496094 0
+    0.996094 0.994141 0
+    1.98438 0.994141 0
+  constraints 18
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+endnode
+node danglymesh plane524
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.05
+  showdispl true
+  displtype 1
+  center 3.5 -3.5 -15.5
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -5 2.37 1.04
+  verts 18
+    0.07 0.44 -0.11
+    -0.09 0.62 -0.33
+    -0.44 -0.01 -0.14
+    -0.6 0.18 -0.35
+    0.26 0.23 0.01
+    -0.27 -0.23 -0.01
+    0.47 -0.03 0.04
+    -0.05 -0.46 0.02
+    0.67 -0.24 -0.01
+    0.16 -0.69 -0.04
+    0.05 0.45 -0.14
+    0.25 0.22 0.01
+    -0.27 -0.23 -0.03
+    -0.45 0 -0.15
+    0.45 -0.02 0.03
+    -0.05 -0.46 0.01
+    0.65 -0.25 -0.03
+    0.15 -0.69 -0.05
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 11 12 1 10 11 12 1
+    12 13 10 1 12 13 10 1
+    11 14 15 1 11 14 15 1
+    15 12 11 1 15 12 11 1
+    14 16 17 1 14 16 17 1
+    17 15 14 1 17 15 14 1
+  tverts 18
+    0.0019531 0.238281 0
+    0.0019531 0.0019531 0
+    0.998047 0.238281 0
+    0.998047 0.0019531 0
+    0.0019531 0.5 0
+    0.998047 0.5 0
+    0.0019531 0.761719 0
+    0.998047 0.761719 0
+    0.0019531 0.998047 0
+    0.998047 0.998047 0
+    0.0019531 0.224609 0
+    0.0019531 0.486328 0
+    0.998047 0.486328 0
+    0.998047 0.224609 0
+    0.0019531 0.748047 0
+    0.998047 0.748047 0
+    0.0019531 0.986328 0
+    0.998047 0.986328 0
+  constraints 18
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+endnode
+node danglymesh plane528
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.05
+  showdispl true
+  displtype 1
+  center 5 -2 -15
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -4.66 2.34 1.53
+  verts 17
+    -0.07 0.44 -0.11
+    -0.27 0.57 -0.33
+    -0.41 -0.14 -0.14
+    -0.62 -0.01 -0.35
+    0.18 0.31 0.01
+    -0.18 -0.3 -0.01
+    0.45 0.14 0.05
+    0.09 -0.45 0.02
+    0.72 -0.02 -0.01
+    0.37 -0.61 -0.04
+    -0.09 0.45 -0.13
+    -0.18 -0.29 -0.02
+    -0.43 -0.13 -0.15
+    0.45 0.15 0.03
+    0.09 -0.45 0.01
+    0.71 -0.02 -0.03
+    0.37 -0.61 -0.05
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 4 11 1 10 11 12 1
+    11 12 10 1 12 13 10 1
+    4 13 14 1 11 14 15 1
+    14 11 4 1 15 12 11 1
+    13 15 16 1 14 16 17 1
+    16 14 13 1 17 15 14 1
+  tverts 18
+    0.0019531 0.238281 0
+    0.0019531 0.0019531 0
+    0.998047 0.238281 0
+    0.998047 0.0019531 0
+    0.0019531 0.5 0
+    0.998047 0.5 0
+    0.0019531 0.761719 0
+    0.998047 0.761719 0
+    0.0019531 0.998047 0
+    0.998047 0.998047 0
+    0.0019531 0.224609 0
+    0.0019531 0.486328 0
+    0.998047 0.486328 0
+    0.998047 0.224609 0
+    0.0019531 0.748047 0
+    0.998047 0.748047 0
+    0.0019531 0.986328 0
+    0.998047 0.986328 0
+  constraints 17
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+endnode
+node danglymesh plane530
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.05
+  showdispl true
+  displtype 1
+  center 8 7 -23.5
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -4.61 3.17 1.31
+  verts 20
+    -0.41 0.1 -0.19
+    -0.5 0.02 -0.48
+    0.01 -0.44 -0.18
+    -0.07 -0.51 -0.47
+    -0.22 0.26 -0.01
+    0.2 -0.27 0.02
+    0.03 0.45 0.02
+    0.44 -0.06 0.03
+    0.25 0.64 -0.12
+    0.67 0.11 -0.1
+    -0.51 0.04 -0.5
+    -0.43 0.12 -0.19
+    -0.01 -0.42 -0.18
+    -0.09 -0.49 -0.47
+    -0.24 0.27 -0.01
+    0.01 0.47 0.02
+    0.43 -0.06 0.03
+    0.19 -0.26 0.02
+    0.24 0.65 -0.12
+    0.65 0.12 -0.11
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 11 12 1 10 11 12 1
+    12 13 10 1 12 13 10 1
+    14 15 16 1 14 15 16 1
+    16 17 14 1 16 17 14 1
+    15 18 19 1 15 18 19 1
+    19 16 15 1 19 16 15 1
+  tverts 20
+    0.0136719 0.208984 0
+    0.0136719 0.0019531 0
+    0.986328 0.208984 0
+    0.986328 0.0019531 0
+    0.0136719 0.5 0
+    0.986328 0.5 0
+    0.0136719 0.791016 0
+    0.986328 0.791016 0
+    0.0136719 0.998047 0
+    0.986328 0.998047 0
+    0.988281 0.998047 0
+    0.988281 1.20313 0
+    1.96094 1.20313 0
+    1.96094 0.998047 0
+    0.988281 0.496094 0
+    0.988281 0.789063 0
+    1.96094 0.789063 0
+    1.96094 0.496094 0
+    0.988281 0.994141 0
+    1.96094 0.994141 0
+  constraints 20
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+endnode
+node danglymesh plane529
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 1
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.0500002
+  showdispl true
+  displtype 1
+  center -13.5 8 -31
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -5.3 2.55 1.36
+  verts 20
+    0.43 -0.22 -0.3
+    0.62 -0.1 -0.69
+    0.33 0.44 -0.14
+    0.53 0.56 -0.54
+    0.04 -0.33 -0.07
+    -0.05 0.32 0.08
+    -0.41 -0.39 -0.09
+    -0.5 0.27 0.08
+    -0.79 -0.39 -0.33
+    -0.89 0.26 -0.17
+    0.62 -0.09 -0.7
+    0.43 -0.23 -0.32
+    0.33 0.44 -0.16
+    0.53 0.56 -0.55
+    0.05 -0.33 -0.09
+    -0.4 -0.4 -0.09
+    -0.49 0.26 0.04
+    -0.04 0.34 0.07
+    -0.79 -0.39 -0.34
+    -0.89 0.26 -0.18
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 11 12 1 10 11 12 1
+    12 13 10 1 12 13 10 1
+    14 15 16 1 14 15 16 1
+    16 17 14 1 16 17 14 1
+    15 18 19 1 15 18 19 1
+    19 16 15 1 19 16 15 1
+  tverts 20
+    1.28906 1.5918 0
+    1.58398 1.83398 0
+    0.337891 1.73828 0
+    0.634766 1.98047 0
+    1.06641 1.30859 0
+    0.117188 1.45508 0
+    0.984375 1.06836 0
+    0.0351563 1.21484 0
+    1.06641 0.941406 0
+    0.117188 1.08984 0
+    1.60352 0.835938 0
+    1.30469 0.595703 0
+    0.355469 0.742188 0
+    0.652344 0.984375 0
+    1.08398 1.3125 0
+    1.00391 1.07227 0
+    0.0527344 1.2207 0
+    0.132813 1.45898 0
+    1.08398 0.945313 0
+    0.134766 1.0918 0
+  constraints 20
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+    23.3835
+endnode
+node danglymesh plane543
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.05
+  showdispl true
+  displtype 1
+  center -5 3 -15.5
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -3.51 4.19 1.44
+  verts 18
+    0.04 -0.44 -0.11
+    0.24 -0.58 -0.33
+    0.42 0.13 -0.14
+    0.62 -0.01 -0.35
+    -0.2 -0.28 0.01
+    0.19 0.3 -0.01
+    -0.47 -0.09 0.04
+    -0.07 0.46 0.02
+    -0.72 0.07 -0.01
+    -0.33 0.63 -0.04
+    0.06 -0.44 -0.14
+    -0.19 -0.28 0.01
+    0.19 0.3 -0.03
+    0.44 0.12 -0.15
+    -0.44 -0.1 0.03
+    -0.07 0.46 0.01
+    -0.7 0.08 -0.03
+    -0.32 0.64 -0.05
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 11 12 1 10 11 12 1
+    12 13 10 1 12 13 10 1
+    11 14 15 1 11 14 15 1
+    15 12 11 1 15 12 11 1
+    14 16 17 1 14 16 17 1
+    17 15 14 1 17 15 14 1
+  tverts 18
+    0.0019531 0.238281 0
+    0.0019531 0.0019531 0
+    0.998047 0.238281 0
+    0.998047 0.0019531 0
+    0.0019531 0.5 0
+    0.998047 0.5 0
+    0.0019531 0.761719 0
+    0.998047 0.761719 0
+    0.0019531 0.998047 0
+    0.998047 0.998047 0
+    0.0019531 0.224609 0
+    0.0019531 0.486328 0
+    0.998047 0.486328 0
+    0.998047 0.224609 0
+    0.0019531 0.748047 0
+    0.998047 0.748047 0
+    0.0019531 0.986328 0
+    0.998047 0.986328 0
+  constraints 18
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+endnode
+node danglymesh plane526
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.05
+  showdispl true
+  displtype 1
+  center -5 0.5 -18.5
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -5.63 3.1 1.16
+  verts 20
+    -0.07 -0.45 -0.11
+    0.02 -0.59 -0.36
+    0.45 -0.01 -0.15
+    0.53 -0.16 -0.4
+    -0.26 -0.22 0.03
+    0.26 0.22 -0.01
+    -0.47 0.02 -0.01
+    0.05 0.45 -0.05
+    -0.63 0.2 -0.21
+    -0.1 0.63 -0.26
+    0.01 -0.62 -0.36
+    -0.09 -0.47 -0.11
+    0.43 -0.03 -0.15
+    0.53 -0.17 -0.4
+    -0.27 -0.24 0.03
+    -0.46 0 -0.01
+    0.05 0.44 -0.05
+    0.25 0.2 -0.01
+    -0.63 0.18 -0.21
+    -0.12 0.61 -0.26
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 11 12 1 10 11 12 1
+    12 13 10 1 12 13 10 1
+    14 15 16 1 14 15 16 1
+    16 17 14 1 16 17 14 1
+    15 18 19 1 15 18 19 1
+    19 16 15 1 19 16 15 1
+  tverts 20
+    0.0136719 0.208984 0
+    0.0136719 0.0019531 0
+    0.986328 0.208984 0
+    0.986328 0.0019531 0
+    0.0136719 0.5 0
+    0.986328 0.5 0
+    0.0136719 0.791016 0
+    0.986328 0.791016 0
+    0.0136719 0.998047 0
+    0.986328 0.998047 0
+    0.988281 0.998047 0
+    0.988281 1.20313 0
+    1.96094 1.20313 0
+    1.96094 0.998047 0
+    0.988281 0.496094 0
+    0.988281 0.789063 0
+    1.96094 0.789063 0
+    1.96094 0.496094 0
+    0.988281 0.994141 0
+    1.96094 0.994141 0
+  constraints 20
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+endnode
+node danglymesh plane525
+  parent tced2_p01_14
+  wirecolor 1 1 1
+  tilefade 0
+  scale 1
+  render 1
+  shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 5
+  period 9
+  tightness 5
+  displacement 0.05
+  showdispl true
+  displtype 1
+  center -7 -2.5 -16
+  bitmap tced1_hawort
+  orientation 0 0 0 0
+  position -5.9 2.62 1.16
+  verts 18
+    0.39 -0.19 -0.15
+    0.58 -0.11 -0.39
+    0.1 0.42 -0.15
+    0.31 0.51 -0.39
+    0.13 -0.3 0
+    -0.14 0.31 0
+    -0.15 -0.44 0.07
+    -0.43 0.18 0.07
+    -0.44 -0.56 0.03
+    -0.72 0.06 0.03
+    0.4 -0.19 -0.17
+    0.15 -0.3 -0.01
+    -0.14 0.31 -0.01
+    0.12 0.44 -0.15
+    -0.13 -0.43 0.06
+    -0.41 0.19 0.06
+    -0.43 -0.55 0.03
+    -0.7 0.06 0.03
+  faces 14
+    0 1 2 1 0 1 2 1
+    3 2 1 1 3 2 1 1
+    4 0 5 1 4 0 5 1
+    2 5 0 1 2 5 0 1
+    6 4 7 1 6 4 7 1
+    5 7 4 1 5 7 4 1
+    8 6 9 1 8 6 9 1
+    7 9 6 1 7 9 6 1
+    10 11 12 1 10 11 12 1
+    12 13 10 1 12 13 10 1
+    11 14 15 1 11 14 15 1
+    15 12 11 1 15 12 11 1
+    14 16 17 1 14 16 17 1
+    17 15 14 1 17 15 14 1
+  tverts 18
+    0.0019531 0.238281 0
+    0.0019531 0.0019531 0
+    0.998047 0.238281 0
+    0.998047 0.0019531 0
+    0.0019531 0.5 0
+    0.998047 0.5 0
+    0.0019531 0.761719 0
+    0.998047 0.761719 0
+    0.0019531 0.998047 0
+    0.998047 0.998047 0
+    0.0019531 0.224609 0
+    0.0019531 0.486328 0
+    0.998047 0.486328 0
+    0.998047 0.224609 0
+    0.0019531 0.748047 0
+    0.998047 0.748047 0
+    0.0019531 0.986328 0
+    0.998047 0.986328 0
+  constraints 18
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+    1
+endnode
+endmodelgeom tced2_p01_14
+donemodel tced2_p01_14

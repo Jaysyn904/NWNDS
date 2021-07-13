@@ -1,0 +1,2 @@
+envmaptexture tced0__ref01
+alphamean 0.2

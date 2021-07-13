@@ -1,0 +1,100 @@
+# Exported from 3ds max by MDL Plugin Suite 1.1b3
+# http://rockbottom.vtex.net
+#MAXMODEL ASCII
+# model: tkd52_A01_19
+filedependancy FloatingIslands3.max
+newmodel tkd52_A01_19
+setsupermodel tkd52_A01_19 NULL
+classification Tile
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom tkd52_A01_19
+node dummy tkd52_A01_19
+  parent NULL
+endnode
+node light tkd52_A01_19ml1
+  parent tkd52_A01_19
+  position 0 0 23.1664
+  orientation 0 0 0 0
+  wirecolor 0.894531 0.894531 0.894531
+    radius 1400
+    multiplier 1
+    color 0 0 0
+    ambient_only 0
+    n_dynamic_type 0
+    affect_dynamic 1
+    shadow 0
+    lightpriority 5
+    lensflares 0
+    fading_light 1
+endnode
+node light tkd52_A01_19ml2
+  parent tkd52_A01_19
+  position -2 -2 22.1664
+  orientation 0 0 0 0
+  wirecolor 0.894531 0.894531 0.894531
+    radius 500
+    multiplier 1
+    color 0 0 0
+    ambient_only 0
+    n_dynamic_type 0
+    affect_dynamic 1
+    shadow 0
+    lightpriority 5
+    lensflares 0
+    fading_light 1
+endnode
+node aabb Plane03_19
+  parent tkd52_A01_19
+  position 0 0 -5.99995
+  orientation 0 0 0 0
+  wirecolor 0.878906 0.878906 0.878906
+  ambient 0.875 0.558594 0.339844
+  diffuse 0.875 0.558594 0.339844
+  specular 0 0 0
+  shininess 1
+  bitmap NULL
+  verts 5
+    -5 -5 0
+    -5 5 0
+    -5 2.47 0
+    5 -5 0
+    5 5 0
+  faces 3
+    1 2 4  1  0 1 2  16
+    3 4 0  1  3 4 5  16
+    2 0 4  1  6 7 8  16
+  aabb     -5.00 -5.00 0.00   5.00 5.00 0.00   -1
+     -5.00 2.47 0.00   5.00 5.00 0.00   0
+     -5.00 -5.00 0.00   5.00 5.00 0.00   -1
+     -5.00 -5.00 0.00   5.00 5.00 0.00   1
+     -5.00 -5.00 0.00   5.00 5.00 0.00   2
+endnode
+node trimesh Plane01_19
+  parent tkd52_A01_19
+  position -0.4655 -0.4895 -6.42595
+  orientation 0 0 0 0
+  wirecolor 0.00390625 0.00390625 0.00390625
+  ambient 0 0 0
+  diffuse 0 0 0
+  specular 0 0 0
+  shininess 10
+  bitmap Black
+  verts 4
+    -4.5345 -4.5105 0.425939
+    -4.5345 5.4895 0.425939
+    5.4655 -4.5105 0.425939
+    5.4655 5.4895 0.425939
+  faces 2
+    0 2 1  1  0 1 2  1
+    3 1 2  1  3 4 5  1
+  tverts 6
+    0.7997 0.5 0
+    0.7997 0.25025 0
+    0.9995 0.5 0
+    0.9995 0.25025 0
+    0.9995 0.5 0
+    0.7997 0.25025 0
+endnode
+endmodelgeom tkd52_A01_19
+donemodel tkd52_A01_19

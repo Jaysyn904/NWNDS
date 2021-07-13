@@ -1,0 +1,96 @@
+# Exported from 3ds max by MDL Plugin Suite 1.1b3
+# http://rockbottom.vtex.net
+#MAXMODEL ASCII
+# model: tkd52_A01_20
+filedependancy FloatingIslands3.max
+newmodel tkd52_A01_20
+setsupermodel tkd52_A01_20 NULL
+classification Tile
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom tkd52_A01_20
+node dummy tkd52_A01_20
+  parent NULL
+endnode
+node light tkd52_A01_20ml1
+  parent tkd52_A01_20
+  position 0 0 23.1664
+  orientation 0 0 0 0
+  wirecolor 0.347656 0.347656 0.347656
+    radius 1400
+    multiplier 1
+    color 0 0 0
+    ambient_only 0
+    n_dynamic_type 0
+    affect_dynamic 1
+    shadow 0
+    lightpriority 5
+    lensflares 0
+    fading_light 1
+endnode
+node light tkd52_A01_20ml2
+  parent tkd52_A01_20
+  position -2 -2 22.1664
+  orientation 0 0 0 0
+  wirecolor 0.347656 0.347656 0.347656
+    radius 500
+    multiplier 1
+    color 0 0 0
+    ambient_only 0
+    n_dynamic_type 0
+    affect_dynamic 1
+    shadow 0
+    lightpriority 5
+    lensflares 0
+    fading_light 1
+endnode
+node aabb Plane03_20
+  parent tkd52_A01_20
+  position 0 0 -5.99995
+  orientation 0 0 0 0
+  wirecolor 0.878906 0.878906 0.878906
+  ambient 0.875 0.558594 0.339844
+  diffuse 0.875 0.558594 0.339844
+  specular 0 0 0
+  shininess 1
+  bitmap NULL
+  verts 4
+    -5 -5 0
+    5 -5 0
+    -5 5 0
+    5 5 0
+  faces 2
+    2 0 3  1  0 1 2  16
+    1 3 0  1  3 4 5  16
+  aabb     -5.00 -5.00 0.00   5.00 5.00 0.00   -1
+     -5.00 -5.00 0.00   5.00 5.00 0.00   0
+     -5.00 -5.00 0.00   5.00 5.00 0.00   1
+endnode
+node trimesh Plane01_20
+  parent tkd52_A01_20
+  position -0.2745 0.1935 -6.01595
+  orientation 0 0 0 0
+  wirecolor 0.00390625 0.00390625 0.00390625
+  ambient 0 0 0
+  diffuse 0 0 0
+  specular 0 0 0
+  shininess 10
+  bitmap Black
+  verts 4
+    5.2745 -5.1935 0.0159389
+    5.2745 4.8065 0.0159389
+    -4.7255 -5.1935 0.0159389
+    -4.7255 4.8065 0.0159389
+  faces 2
+    2 0 3  1  0 1 2  1
+    1 3 0  1  3 4 5  1
+  tverts 6
+    0.7997 0.25025 0
+    0.7997 0.000499606 0
+    0.9995 0.25025 0
+    0.9995 0.000499547 0
+    0.9995 0.25025 0
+    0.7997 0.000499606 0
+endnode
+endmodelgeom tkd52_A01_20
+donemodel tkd52_A01_20

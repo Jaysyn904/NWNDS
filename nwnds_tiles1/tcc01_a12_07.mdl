@@ -1,0 +1,182 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: tcc01_a12_07
+filedependancy tcc01_a12_07.max
+newmodel tcc01_a12_07
+setsupermodel tcc01_a12_07 NULL
+classification Tile
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom tcc01_a12_07
+node dummy tcc01_a12_07
+  parent NULL
+endnode
+node aabb wok
+  parent tcc01_a12_07
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.777344 0.777344 0.777344
+  ambient 0 0 0
+  diffuse 0 0 0
+  specular 0 0 0
+  shininess 0
+  bitmap NULL
+  verts 4
+    -5 -5 0
+    5 -5 0
+    -5 5 0
+    5 5 0
+  faces 2
+    2 0 3  1  0 0 0  2
+    1 3 0  1  0 0 0  2
+  aabb     -5.00 -5.00 0.00   5.00 5.00 0.00   -1
+     -5.00 -5.00 0.00   5.00 5.00 0.00   0
+     -5.00 -5.00 0.00   5.00 5.00 0.00   1
+endnode
+node trimesh Plane02
+  parent tcc01_a12_07
+  position 0 0 3.5
+  orientation 0 0 0 0
+  wirecolor 0.882813 0.882813 0.882813
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 11
+  bitmap ttr01_black00
+  verts 4
+    -5.00301 -5.00292 0
+    5.0045 -5.00156 0
+    -5.00652 5.00686 0
+    5.00212 5.00356 0
+  faces 2
+    2 0 3  1  2 0 3  1
+    1 3 0  1  1 3 0  1
+  tverts 4
+    0.000499517 0.000499755 0
+    0.9995 0.000499517 0
+    0.000499755 0.999501 0
+    0.999501 0.9995 0
+endnode
+node trimesh Plane01
+  parent tcc01_a12_07
+  position 0 -4.94527 2
+  orientation 0 0.707107 -0.707107 -3.14159
+  wirecolor 0.777344 0.777344 0.777344
+  ambient 0.588235 0.588235 0.588235
+  diffuse 0.588235 0.588235 0.588235
+  specular 0 0 0
+  shininess 10
+  bitmap tcc_woodplast5
+  render 1
+  Shadow 1
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 4
+    5.00232 2 0.0576491
+    -5.0045 2 0.0593048
+    5.00232 -1.5 0.0576491
+    -5.0045 -1.5 0.0593051
+  faces 2
+    2 0 3  1  2 0 3  0
+    1 3 0  1  1 3 0  0
+  tverts 4
+    0.000999153 0.000500143 0.000499576
+    1.999 0.000499517 0.671428
+    0.000999331 0.999501 0.328571
+    1.999 0.9995 0.9995
+endnode
+node trimesh Plane11
+  parent tcc01_a12_07
+  position 4.94156 -0.00301904 2
+  orientation 0.57735 -0.57735 0.57735 -2.0944
+  wirecolor 0.777344 0.777344 0.777344
+  ambient 0.588235 0.588235 0.588235
+  diffuse 0.588235 0.588235 0.588235
+  specular 0 0 0
+  shininess 10
+  bitmap tcc_woodplast5
+  render 1
+  Shadow 1
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 4
+    5.00087 2 0.059919
+    -5.00356 2 0.0598615
+    5.00087 -1.5 0.059919
+    -5.00356 -1.5 0.0598618
+  faces 2
+    2 0 3  1  2 0 3  0
+    1 3 0  1  1 3 0  0
+  tverts 4
+    0.000999153 0.000500143 0.000499576
+    1.999 0.000499517 0.671428
+    0.000999331 0.999501 0.328571
+    1.999 0.9995 0.9995
+endnode
+node trimesh Plane08
+  parent tcc01_a12_07
+  position 0 4.94226 2
+  orientation 1 0 0 -1.5708
+  wirecolor 0.777344 0.777344 0.777344
+  ambient 0.588235 0.588235 0.588235
+  diffuse 0.588235 0.588235 0.588235
+  specular 0 0 0
+  shininess 10
+  bitmap tcc_woodplast5
+  render 1
+  Shadow 1
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 4
+    5.00143 2 0.0582846
+    -5.00652 2 0.0646012
+    5.00143 -1.5 0.0582846
+    -5.00652 -1.5 0.0646015
+  faces 2
+    2 0 3  1  2 0 3  0
+    1 3 0  1  1 3 0  0
+  tverts 4
+    0.000999153 0.000500143 0.000499576
+    1.999 0.000499517 0.671428
+    0.000999331 0.999501 0.328571
+    1.999 0.9995 0.9995
+endnode
+node trimesh Plane06
+  parent tcc01_a12_07
+  position -5 -0.0577435 2
+  orientation 0.57735 0.57735 -0.57735 -2.0944
+  wirecolor 0.777344 0.777344 0.777344
+  ambient 0.588235 0.588235 0.588235
+  diffuse 0.588235 0.588235 0.588235
+  specular 0 0 0
+  shininess 10
+  bitmap tcc_woodplast5
+  render 1
+  Shadow 1
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 4
+    5.0646 2 0.00651729
+    -4.94518 2 0.00232338
+    5.0646 -1.5 0.00651731
+    -4.94518 -1.5 0.00232338
+  faces 2
+    2 0 3  1  2 0 3  0
+    1 3 0  1  1 3 0  0
+  tverts 4
+    0.000999153 0.000500143 0.000499576
+    1.999 0.000499517 0.671428
+    0.000999331 0.999501 0.328571
+    1.999 0.9995 0.9995
+endnode
+endmodelgeom tcc01_a12_07
+donemodel tcc01_a12_07

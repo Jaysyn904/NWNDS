@@ -1,0 +1,200 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: tcc01_a12_04
+filedependancy tcc01_a12_04.max
+newmodel tcc01_a12_04
+setsupermodel tcc01_a12_04 NULL
+classification Tile
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom tcc01_a12_04
+node dummy tcc01_a12_04
+  parent NULL
+endnode
+node trimesh Plane04
+  parent tcc01_a12_04
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.839844 0.839844 0.839844
+  ambient 0.588235 0.588235 0.588235
+  diffuse 0.588235 0.588235 0.588235
+  specular 0 0 0
+  shininess 10
+  bitmap tdr1_woodflr
+  render 1
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 1
+  verts 4
+    5 5 0
+    -5 5 0
+    5 -5 0
+    -5 -5 0
+  faces 2
+    2 0 3  1  2 0 3  0
+    1 3 0  1  1 3 0  0
+  tverts 4
+    0.000999033 0.00099951 0.5
+    1.999 0.000999033 0.5
+    0.00099951 1.999 0.5
+    1.999 1.999 0.5
+endnode
+node trimesh Plane02
+  parent tcc01_a12_04
+  position 4 0 2
+  orientation 0.57735 0.57735 -0.57735 -2.0944
+  wirecolor 0.777344 0.777344 0.777344
+  ambient 0.588235 0.588235 0.588235
+  diffuse 0.588235 0.588235 0.588235
+  specular 0 0 0
+  shininess 10
+  bitmap tcc_woodplast5
+  render 1
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 4
+    5 2 0
+    -5 2 0
+    5 -1.5 0
+    -5 -1.5 0
+  faces 2
+    2 0 3  1  2 0 3  0
+    1 3 0  1  1 3 0  0
+  tverts 4
+    0.000999153 0.000500143 0.000499576
+    1.999 0.000499517 0.671428
+    0.000999331 0.999501 0.328571
+    1.999 0.9995 0.9995
+endnode
+node light tcc01_a12_04ml1
+  parent tcc01_a12_04
+  position 2.21997 -2.07159 4.25274
+  orientation 0 0 1 0
+  wirecolor 0.835938 0.835938 0.835938
+    radius 14
+    multiplier 1
+    color 0 0 0
+    ambientOnly 0
+    nDynamicType 0
+    affectDynamic 1
+    shadow 0
+    lightpriority 5
+    lensflares 0
+    fadingLight 1
+endnode
+node light tcc01_a12_04ml2
+  parent tcc01_a12_04
+  position -1.72967 1.51111 2.57932
+  orientation 0 0 1 0
+  wirecolor 0.722656 0.722656 0.722656
+    radius 5
+    multiplier 1
+    color 0 0 0
+    ambientOnly 0
+    nDynamicType 0
+    affectDynamic 1
+    shadow 0
+    lightpriority 5
+    lensflares 0
+    fadingLight 1
+endnode
+node aabb Plane01
+  parent tcc01_a12_04
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.554688 0.554688 0.554688
+  ambient 0.550781 0.0273438 0.226563
+  diffuse 0.550781 0.0273438 0.226563
+  specular 0 0 0
+  shininess 1
+  bitmap NULL
+  verts 10
+    5 5 0
+    -5 5 0
+    5 -5 0
+    -5 -5 0
+    3.88869 -5 0
+    3.88869 5 0
+    5 5 3.5
+    5 -5 3.5
+    3.88869 -5 3.5
+    3.88869 5 3.5
+  faces 12
+    4 5 3  1  8 9 7  5
+    1 3 5  1  5 7 9  5
+    7 6 8  1  11 10 12  2
+    9 8 6  1  13 12 10  2
+    5 4 8  2  9 8 12  2
+    8 9 5  2  12 13 9  2
+    2 0 6  2  6 4 10  2
+    6 7 2  2  10 11 6  2
+    4 2 7  4  8 6 11  2
+    7 8 4  4  11 12 8  2
+    0 5 9  4  4 9 13  2
+    9 6 0  4  13 10 4  2
+  aabb     -5.00 -5.00 0.00   5.00 5.00 3.50   -1
+     -5.00 -5.00 0.00   5.00 5.00 3.50   -1
+     -5.00 -5.00 0.00   3.89 5.00 3.50   -1
+     3.89 -5.00 0.00   3.89 5.00 3.50   4
+     -5.00 -5.00 0.00   3.89 5.00 0.00   -1
+     -5.00 -5.00 0.00   3.89 5.00 0.00   0
+     -5.00 -5.00 0.00   3.89 5.00 0.00   1
+     3.89 -5.00 0.00   5.00 5.00 3.50   -1
+     3.89 -5.00 0.00   5.00 -5.00 3.50   9
+     3.89 -5.00 0.00   5.00 5.00 3.50   -1
+     3.89 -5.00 3.50   5.00 5.00 3.50   3
+     3.89 -5.00 0.00   3.89 5.00 3.50   5
+     3.89 -5.00 0.00   5.00 5.00 3.50   -1
+     3.89 -5.00 0.00   5.00 5.00 3.50   -1
+     3.89 -5.00 0.00   5.00 -5.00 3.50   8
+     3.89 -5.00 0.00   5.00 5.00 3.50   -1
+     3.89 -5.00 3.50   5.00 5.00 3.50   2
+     5.00 -5.00 0.00   5.00 5.00 3.50   7
+     3.89 -5.00 0.00   5.00 5.00 3.50   -1
+     5.00 -5.00 0.00   5.00 5.00 3.50   6
+     3.89 5.00 0.00   5.00 5.00 3.50   -1
+     3.89 5.00 0.00   5.00 5.00 3.50   10
+     3.89 5.00 0.00   5.00 5.00 3.50   11
+endnode
+node trimesh Plane03
+  parent tcc01_a12_04
+  position 4.5 0 3.5
+  orientation 0 0 0 0
+  wirecolor 0.894531 0.894531 0.894531
+  ambient 1 1 1
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 11
+  bitmap ttr01_black00
+  render 1
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 4
+    0.515437 5.02419 0
+    -0.518089 5.02419 0
+    0.515436 -5.02626 0
+    -0.51809 -5.02626 0
+  faces 2
+    2 0 3  1  6 4 7  0
+    1 3 0  1  5 7 4  0
+  tverts 8
+    0 0 0
+    1 0 0
+    0 0 0
+    1 0 0
+    0 0 0
+    1 0 0
+    0 1 0
+    1 1 0
+endnode
+endmodelgeom tcc01_a12_04
+donemodel tcc01_a12_04

@@ -1,0 +1,27 @@
+# Rewritten by CleanModels 3 Version 3.3.1a Sun Apr 05 22:55:29 2009
+#MAXWALKMESH  ASCII
+beginwalkmeshgeom tced0_tall_b01
+node aabb plane18
+  parent tced0_tall_b01
+  ambient 0.2 0.2 0.2
+  diffuse 0.8 0.8 0.8
+  specular 0 0 0
+  shininess 1
+  shadow 0
+  transparencyhint 0
+  bitmap NULL
+  orientation 0 0 0 0
+  position 0 0 0
+  verts 4
+    -5 5 1
+    -5 -5 1
+    5 5 1
+    5 -5 1
+  faces 2
+    0 1 2 1 0 0 0 4
+    3 2 1 1 0 0 0 4
+  aabb     -5 -5 1 5 5 1 -1
+    -5 -5 1 5 5 1 0
+    -5 -5 1 5 5 1 1
+endnode
+endwalkmeshgeom tced0_tall_b01

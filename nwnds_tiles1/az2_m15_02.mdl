@@ -1,0 +1,228 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: az2_m15_02
+filedependancy az2-mountains.max
+newmodel az2_m15_02
+setsupermodel az2_m15_02 NULL
+classification Tile
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom az2_m15_02
+node dummy az2_m15_02
+  parent NULL
+endnode
+node light az2_m15_02ml2
+  parent az2_m15_02
+  position 2.63728 1.19636 14.4767
+  orientation 0 0 0 0
+  wirecolor 0.105469 0.105469 0.105469
+    radius 5
+    multiplier 1
+    color 0.00392157 0.00392157 0.00392157
+    ambientOnly 0
+    nDynamicType 0
+    affectDynamic 1
+    shadow 0
+    lightpriority 5
+    lensflares 0
+    fadingLight 1
+endnode
+node trimesh corner69
+  parent az2_m15_02
+  position 1.66643 1.66652 0
+  orientation 0 0 1 -1.5708
+  wirecolor 0.0351563 0.0351563 0.0351563
+  ambient 0.588 0.588 0.588
+  diffuse 0.588 0.588 0.588
+  specular 0 0 0
+  shininess 10
+  bitmap az2-stone-3g
+  render 1
+  Shadow 1
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 9
+    6.66654 3.33361 8
+    3.33654 3.33361 8
+    -3.33346 3.33361 0
+    6.66654 0.00360613 8
+    3.33654 -3.33639 8
+    1.46654 -3.30639 0
+    6.66654 -6.66639 0
+    3.20654 -6.59639 0
+    2.14654 -6.39639 0
+  faces 8
+    3 0 4  0  9 10 11  0
+    1 4 0  0  12 13 0  0
+    4 1 5  0  14 15 16  0
+    2 5 1  0  2 17 1  0
+    6 3 7  0  6 18 19  0
+    4 7 3  0  20 21 3  0
+    7 4 8  0  7 22 23  0
+    5 8 4  0  5 8 4  0
+  tverts 24
+    0.149129 0.324547 0.640036
+    0.324547 0.640036 0.324392
+    0.324547 0.218984 0.675445
+    0.500189 0.640036 0.149129
+    0.6756 0.640036 0.324392
+    0.674021 0.218984 0.422813
+    0.850871 0.218984 0.850863
+    0.668766 0.218984 0.847179
+    0.836653 0.218984 0.387024
+    0.149129 0.499811 0.640036
+    0.149129 0.324547 0.640036
+    0.324392 0.6756 0.640036
+    0.324392 0.324547 0.640036
+    0.324392 0.6756 0.640036
+    0.6756 0.640036 0.324392
+    0.324547 0.640036 0.324392
+    0.674021 0.218984 0.422813
+    0.674021 0.218984 0.422813
+    0.850871 0.640036 0.499811
+    0.668766 0.218984 0.847179
+    0.3244 0.640036 0.324392
+    0.152821 0.218984 0.331234
+    0.675608 0.640036 0.6756
+    0.612976 0.218984 0.836653
+endnode
+node trimesh corner70
+  parent az2_m15_02
+  position -1.66662 -1.66676 0
+  orientation 0 0 -1 -1.5708
+  wirecolor 0.0351563 0.0351563 0.0351563
+  ambient 0.588 0.588 0.588
+  diffuse 0.588 0.588 0.588
+  specular 0 0 0
+  shininess 10
+  bitmap az2-stone-3g
+  render 1
+  Shadow 1
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 9
+    6.66679 3.33329 8
+    3.33679 3.33329 8
+    -3.33321 3.33329 0
+    6.66679 0.00329016 8
+    1.91679 0.183289 8
+    -1.15321 0.133288 3.88
+    6.66679 -6.66671 0
+    1.99679 -3.21671 0
+    -1.17321 -3.79671 3.88
+  faces 8
+    3 0 4  0  9 10 11  0
+    1 4 0  0  12 13 0  0
+    4 1 5  0  14 15 16  0
+    2 5 1  0  2 17 1  0
+    6 3 7  0  6 18 19  0
+    4 7 3  0  20 21 3  0
+    7 4 8  0  7 22 23  0
+    5 8 4  0  5 8 4  0
+  tverts 24
+    0.149118 0.324562 0.640036
+    0.324562 0.640036 0.324381
+    0.324562 0.218984 0.675434
+    0.850882 0.640036 0.499825
+    0.490351 0.640036 0.399118
+    0.492983 0.423194 0.560697
+    0.850882 0.218984 0.850878
+    0.605092 0.218984 0.669299
+    0.699825 0.423194 0.56175
+    0.149118 0.499825 0.640036
+    0.149118 0.324562 0.640036
+    0.399118 0.490351 0.640036
+    0.324381 0.324562 0.640036
+    0.399118 0.490351 0.640036
+    0.490351 0.640036 0.399118
+    0.324562 0.640036 0.324381
+    0.492983 0.423194 0.560697
+    0.492983 0.423194 0.560697
+    0.850882 0.640036 0.499825
+    0.605092 0.218984 0.669299
+    0.600882 0.640036 0.490351
+    0.605092 0.218984 0.669299
+    0.600882 0.640036 0.490351
+    0.43825 0.423194 0.699825
+endnode
+node trimesh base grid78
+  parent az2_m15_02
+  position 0 0 0
+  orientation 0 0 1 -1.5708
+  wirecolor 0.105469 0.105469 0.105469
+  ambient 0.964706 0 1
+  diffuse 0.964706 0 1
+  specular 0 0 0
+  shininess 10
+  bitmap NULL
+  render 0
+  Shadow 0
+  beaming 0
+  transparencyhint 0
+  tilefade 0
+  rotatetexture 0
+  verts 9
+    4.99999 5.00001 0
+    0 5.00001 0
+    -5.00001 5.00001 0
+    4.99999 0 0
+    0 0 0
+    -5.00001 0 0
+    4.99999 -4.99999 0
+    0 -4.99999 0
+    -5.00001 -4.99999 0
+  faces 8
+    3 0 4  1  0 0 0  0
+    1 4 0  1  0 0 0  0
+    4 1 5  1  0 0 0  0
+    2 5 1  1  0 0 0  0
+    6 3 7  1  0 0 0  0
+    4 7 3  1  0 0 0  0
+    7 4 8  1  0 0 0  0
+    5 8 4  1  0 0 0  0
+endnode
+node aabb walkm439
+  parent az2_m15_02
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.105469 0.105469 0.105469
+  ambient 0.964706 0 1
+  diffuse 0.964706 0 1
+  specular 0 0 0
+  shininess 10
+  bitmap NULL
+  verts 4
+    5 5 0
+    -5 5 0
+    5 -5 0
+    -5 -5 0
+  faces 2
+    2 0 3  1  0 0 0  2
+    1 3 0  1  0 0 0  2
+  aabb     -5.00 -5.00 0.00   5.00 5.00 0.00   -1
+     -5.00 -5.00 0.00   5.00 5.00 0.00   1
+     -5.00 -5.00 0.00   5.00 5.00 0.00   0
+endnode
+node light az2_m15_02ml1
+  parent az2_m15_02
+  position -2.22482 -1.67801 14.5153
+  orientation 0 0 0 0
+  wirecolor 0.105469 0.105469 0.105469
+    radius 14
+    multiplier 1
+    color 0 0 0
+    ambientOnly 0
+    nDynamicType 0
+    affectDynamic 1
+    shadow 0
+    lightpriority 5
+    lensflares 0
+    fadingLight 1
+endnode
+endmodelgeom az2_m15_02
+donemodel az2_m15_02

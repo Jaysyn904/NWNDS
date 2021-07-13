@@ -1,0 +1,97 @@
+# Rewritten by CleanModels 3 Version 3.3.1a Sun Apr 05 23:32:36 2009
+#MAXMODEL ASCII
+filedependency Unknown
+newmodel tced5_a01_20
+  classification TILE
+  setsupermodel tced5_a01_20 NULL
+  setanimationscale 1
+#MAXGEOM ASCII
+beginmodelgeom tced5_a01_20
+node dummy tced5_a01_20
+  parent NULL
+endnode
+node light tced5_a01_20ml1
+  parent tced5_a01_20
+  wirecolor 0.341176 0.341176 0.341176
+  radius 1400
+  multiplier 1
+  color 0 0 0
+  ambientonly 0
+  ndynamictype 0
+  affectdynamic 1
+  shadow 0
+  lightpriority 5
+  fadinglight 1
+  orientation 0 0 0 0
+  position 0 0 24.16
+endnode
+node light tced5_a01_20ml2
+  parent tced5_a01_20
+  wirecolor 0.341176 0.341176 0.341176
+  radius 500
+  multiplier 1
+  color 0 0 0
+  ambientonly 0
+  ndynamictype 0
+  affectdynamic 1
+  shadow 0
+  lightpriority 5
+  fadinglight 1
+  orientation 0 0 0 0
+  position -2 -2 23.16
+endnode
+node aabb plane03_20
+  parent tced5_a01_20
+  wirecolor 0.87451 0.87451 0.87451
+  bitmap NULL
+  orientation 0 0 0 0
+  position 0 0 0
+  verts 4
+    -5 -5 -5
+    5 -5 -5
+    -5 5 -5
+    5 5 -5
+  faces 2
+    2 0 3 1 0 0 0 16
+    1 3 0 1 0 0 0 16
+  aabb     -5 -5 -5 5 5 -5 -1
+    -5 -5 -5 5 5 -5 0
+    -5 -5 -5 5 5 -5 1
+endnode
+node trimesh plane01_20
+  parent tced5_a01_20
+  orientation 0 0 0 0
+  tilefade 0
+  scale 1
+  render 1
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1
+  transparencyhint 0
+  selfillumcolor 0 0 0
+  ambient 0 0 0
+  diffuse 0 0 0
+  specular 0 0 0
+  shininess 10
+  center undefined
+  bitmap tced0_black
+  wirecolor 1 0 0
+  position 0 0 -5
+  shadow 0
+  verts 4
+    5 -5 0
+    5 5 0
+    -5 -5 0
+    -5 5 0
+  faces 2
+    2 0 3 1 0 1 2 1
+    1 3 0 1 3 2 1 1
+  tverts 4
+    0.800781 0.25 0
+    0.800781 0.00195313 0
+    0.998047 0.25 0
+    0.998047 0.00195313 0
+endnode
+endmodelgeom tced5_a01_20
+donemodel tced5_a01_20

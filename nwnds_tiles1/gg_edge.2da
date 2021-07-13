@@ -1,0 +1,38 @@
+2DA V2.0
+
+       Corner1     Edge     Corner2     Height     Model            
+0      Grass       ****     Grass       0          gg_Z01_01     
+1      Grass       ****     Greenhouse  0          gg_Z01_02     
+2      Greenhouse  ****     Greenhouse  0          gg_Z01_03     
+3      Greenhouse  "Greenhouse Walkway"  Greenhouse  0          gg_Z01_04     
+4      Grass       Maze     Grass       0          gg_Z01_05     
+5      Grass       Path     Grass       0          gg_Z01_06     
+6      Grass       Treeline Grass       0          gg_Z01_07     
+7      Grass       Fence    Grass       0          gg_Z01_08     
+8      Grass       ****     ****        0          gg_Z01_09     
+9      Greenhouse  ****     ****        0          gg_Z01_10     
+10     Grass       ****     Forest      0          gg_Z01_11     
+11     Forest      ****     Forest      0          gg_Z01_12     
+12     Forest      "Forest Path"   Forest  0          gg_Z01_13     
+13     Forest      ****     ****        0          gg_Z01_14     
+14     "House 1"      ****     "House 1"      0          gg_Z01_15     
+15     "House 1"      ****     ****        0          gg_Z01_16     
+16     Grass       Porch    "House 1"      0          gg_Z01_17     
+17     Grass       ****     "House 1"      0          gg_Z01_18     
+18     Grass       Railroad     Grass   0          gg_Z01_19     
+19     Grass       Roadway      Grass   0          gg_Z01_20     
+20     "House 2"      ****      "House 2"     0          gg_Z01_21     
+21     "House 2"      ****      ****       0          gg_Z01_22     
+22     Grass       Porch     "House 2"     0          gg_Z01_23     
+23     Grass       ****      "House 2"     0          gg_Z01_24     
+20     "House 3"      ****      "House 3"     0          gg_Z01_25     
+21     "House 3"      ****      ****       0          gg_Z01_26     
+22     Grass       Porch     "House 3"     0          gg_Z01_27     
+23     Grass       ****      "House 3"     0          gg_Z01_28     
+24     "House 4"      ****      "House 4"     0          gg_Z01_29     
+25     "House 4"      ****      ****       0          gg_Z01_30     
+26     Grass       Porch     "House 4"     0          gg_Z01_31     
+27     Grass       ****      "House 4"     0          gg_Z01_32     
+28     "Forest Clearing"       ****      "Forest Clearing"     0          gg_Z01_33  
+29     "Forest Clearing"       ****      Forest     0          gg_Z01_34  
+30     "Forest Clearing"       ****      ****     0          gg_Z01_33 
