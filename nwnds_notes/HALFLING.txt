@@ -1,0 +1,32 @@
+Beyond the Ringing Mountains are jungles that flourish in rains that never reach the tablelands or the Sea of Silt.  There life is abundant, the foliage thick and untamed.  The undisputed rulers of these jungles are the halflings.
+
+A halfling is a very short humanoid, standing no more than 3 1/2 feet in height.  They are muscled and proportioned like himans, but they have the faces of wise and beautiful children.  Halflings live to be as much as 120 years old, but once they reach adulthood, their features never succumb to their years; it;s very difficult for an outsider to determine a given halfling's age.  A halfling weighs 50 to 60 pounds and is virtually always in peak physical condition.
+
+Halflings possess a great deal of racial unity.  Though divided politically into seperate villages and communities, halflings have a great respect for their race as a whole.  Political differences between them are settled whenever possible peaceably, through ritual and custom, most often under the direction of their clerical leaders, the shaman witch doctors.
+
+On a personal level, halflings relate very well to one another, well enough to have built a considerable culture rich in art, song and other expressive communication.  However, they tend to rely heavily on their culture for communication, a culture that both parties in a conversation are assumed to understnd.  It is difficult for a halfling to compensate in conversation for a listener who isn't intimately familiar with halfling culture and as such they easily become frustrated with outsiders.  Depending upon how "official" a meeting is, outsiders often have to take great pains to learn local customs merely to communicate iwth the halflings in question.  Of course, halfling who have traveled widely outside their traditional jungle home have a much greater tolerance of those with a "lack" of halfling culture; so much so that they can communicate easily and without frustration.
+
+Halfling culture is fabulously diverse, but difficult for other races to comprehend.  A complete history of their culture, if such a thing existed, would speak volume upon volume of complex social change, inspirational clerical leaders, and in-depth personal studies of the halfling and his duty to his jungle home.  Conspicuous in their absence would be references to great wars of conquest or tremendous monetary wealth - the yardsticks by which other races measure cultural success.  Halfling culture cares for the individual's inward being, his identity and spiritual unity with his race and environment.  Their culture does not privide for more traditional values, and vices such as green and avarice are particularly discouraged.
+
+Oddly, the richness of the land may be disturbed and examined, even used for a halfling's own gain.  However, those riches belong to the land and, in the mind of the halfling, should never be moved away.  For instance, nature intended a spring to bring water only to a certain area.  To move water though irrigation to some other area is not what nature had in mind.  Similary, an archaeological find in the jungle that yeilds a great pile of gold and metals is an event that shouldn't be tampered with - the gold might be used to raise a spectacular series of clerical buildings on the spot, but it should not be carted off to some other location.
+
+Halfling Ability Adjustments: +2 Dex, -2 Str.
+
+Favored Class (Ranger): A multiclass halfling's ranger class does not count when determining whether he suffers an XP penalty for multiclassing.
+
+Special Abilities:
+- A halflings base land speed is 20 feet.
+- Small Stature:
+ +1 size bonus to attack rolls.
+ +1 size bonus to AC.
+ +4 size bonus to Hide checks.
+- Foreign: halflings recieve a -2 penalty to Bluff & Persuade checks when dealing with non-halflings.
+- Agile: halflings recieve a +2 bonus on Climb, Jump & Move Silently checks.
+- Skill Affinity (Move Silently): +2 racial bonus to Move Silently checks.
+- Skill Affinity (Listen): +4 racial bonus to Listen checks.
+- Good Aim: +1 racial bonus to attack rolls made with throwing weapons.
+- Hardiness vs. Spells:  +2 racial bonus on saving throws against spells.
+
+Special: Halflings are small creatures and as such they can never use the Large weapons.
+
+Packages: Halfling characters should only choose the default package for their class, as the other packages may give the halfling weapons they cannot use.

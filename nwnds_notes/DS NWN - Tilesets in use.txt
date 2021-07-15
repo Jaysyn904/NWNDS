@@ -1,0 +1,59 @@
+Ruins = 20
+Drow Interior = 8
+Dungeon = 6
+Illithid Interior = 5
+Sewers = 7
+Aztec Exterior Redux = 3
+Crypts = 11
+City Interior 1 = 104
+Desert & City - Pasili & Kaith = 39
+Elven Interior - Pasali = 8
+Desert Enriched = 11
+Castle Interior 1 = 33
+City Exterior = 1
+Rural Grass = 3
+Daggerdale Swamp = 5
+Mines & Caverns = 36
+Beholder Interior = 1
+Worm's Desert Plains = 8
+Frozen Wastes = 5
+Rural Winter = 2
+(Dwarven Ruins?) DRW01 = 2
+Elven City = 2
+Desert = 16
+Bodangly's Desert City v2 = 9
+Forest = 2
+Rocky Mountains = 1
+Underdark = 5
+Fort Interior = 1
+DwarfenHalls = 1
+DLA Sewers No Maps = 6
+CTP Babylon = 6
+(CEP) Castle Interior 1 = 3
+CC_Interior = 1
+VelmarsTowerInterior = 2
+
+
+Eld Dungeon 3 Alt = 1
++DS Desert City = 13
++DS Interiors = 1
++Travel Map = 165
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,54 @@
+Rain Genasi (Notes: Heal the planet, hippy)
+
++2 WIS, -1 STR, -1 CON
+
+0          darkvision      228       
+1          Hardiness_Water 4726      
+2          Resist_Sonic    431       
+3          Race_Human      4715      
+4          Race_Outsider   4716      
+5          Wild_Talent     4831
+
+FAVORED CLASS: Healer (64)
+
+
+Magma Genasi
+
++2 STR, -1 WIS, -1 INT
+
+0          darkvision      228       
+1          Resist_Fire     429       
+2          Hardiness_Earth 4724      
+3          Race_Human      4715      
+4          Race_Outsider   4716      
+5          Wild_Talent     4831  
+
+Favored Class: Barbarian (0)
+
+
+Silt Genasi (Twin Peaks crazy)
+
++2 CON, -1 STR, -1 CHA
+
+0          darkvision      228       
+1          Hardiness_Earth 4724      
+2          Resist_Cold     429       
+3          Race_Human      4715      
+4          Race_Outsider   4716      
+5          Wild_Talent     4831 
+
+Favored Class: Cleric (2)
+
+
+Sun Genasi (Big personality, psychopath?)
+
++2 CHA, -1 WIS, -1 CON
+
+0          darkvision           228       
+1          Hardiness_Fire       4725      
+2          Resist_Electricity   430       
+3          Race_Human           4715      
+4          Race_Outsider        4716      
+5          Wild_Talent          4831 
+
+Favored Class: Bard (6)

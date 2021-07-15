@@ -1,0 +1,30 @@
+Elves and humans travel many of the same roads on Athas.  Elven tribes have at times encountered human mercenaries, just as elven warriors have found gainful employment in the armies of the city states.  The merchant class is also overrun with traders of both races, so it is not at all unusual for children of mixed parentage to be born into the word - the half-elves.
+
+A half-elf is generally tall, between 6 and 6 1/2 feet tall, but more meaty than his elven counterparts.  His facial features are clearly more deeply defined than those of a human, but based solely on his countenance a half -elf can usually pass for either an elf or a human.
+
+A half-elf's life is typically hardened by the intolerance of others.  Neither fully human nor fully elven, half-elves rarely find acceptance with either race.  Elves are especially intolerant, at times driving mothers of half-elven infants from their camps into the desert.  Humans are more apt to accept half-elves as allies or partners, but seldom accept them into their homes, clans or families.  Rarely do half-evels congregate in great enough numbers to form communities of their own, so they remain outisders, forever wandering from situation to situation without a people, land or village to call home.
+
+Intolerance. however, has given the half-elf his greatest attribute: self-reliance.  As a loner, usually without permanent residence, a half-elf survives the rigors of life in the wilderness completely on his own.  The skills involved in survival, such as locating food, water and shelter, are on half the challenge they face - half-elves must also learn to deal with the absence of companionship, the complete lack of conversation and basic friendship.
+
+Coincidentally, faced with intolerance from the races of their parentage, many turn to completely alien races for acceptance.  Dwarves, halflings, and even thri-kreen have no basic dislike of half-elves, nor do they grant them any favor.  At the very least a half-elf dealing with these races can expect no automatic prejudices.  Also, some half-elves turn for companionship to the animal world, training beasts of the air and sands as servants and friends.
+
+Half-Elf Ability Adjustments:  +2 Dex, -2 Cha.
+
+Favored Class (Any): When determining whether a multiclass half-elf suffers an XP penalty, his highest-level class does not count.
+
+Special Abilities:
+- A half-elf's base land speed is 30 feet.
+- Medium: As Medium creatures, half-elves have no special bonuses or penalties due to their size.
+- Low-Light Vision: Allows them to see better than normal in the dark.
+- Partial Skill Affinity (Listen): +1 racial bonus to Listen checks.
+- Partial Skill Affinity (Search): +1 racial bonus to Search checks.
+- Partial Skill Affinity (Spot): +1 racial bonus to Spot checks.
+- Skill Affinity (Animal Empathy):  +2 racial bonus to Animal Empathy checks.
+- Skill Affinity (Survival): +2 racial bonus to Survival checks.
+- Elven Blood: For all effects related to race, a half-elf is considered an elf. Half-elves, for example, are just as vulnerable to effects that affect elves as their elf ancestors are, and they can use magic items that are only usable by elves.
+
+Automatic Languages: Common, Elven. 
+
+Bonus languages: Any.
+
+Level Adjustment: +0.

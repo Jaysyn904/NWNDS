@@ -1,0 +1,25 @@
+Hulking insect-men standing as tall as 7 feet at the shoulder, tohr-kreen & thri-kreen are the least "human" of the player character races. Their survivability in the wilderness, combined with their cunning and intellect, have made the mantis warriors (as they are known to some races) the undisputed masters across large tracts of the Athasian wastes.
+
+When still, a Tondi looks like a giant Ohi Flower, or an outcropping of rock crystal. Tondi often lay eggs near Ohi Flowers, found in Northern Scrub Plains. Adults often live in gardens of Ohi Flowers, or in rocky badlands of the North, where there are outcroppings of rock crystal. All Tondi are female, and they reproduce by parthenogenesis, laying eggs that hatch into more females. Tondi tend to be neutral with regards to good and evil. Most love nature and are skilled herbalists, almost every Tondi who follows a profession becomes a druid. Rare in the North, Tondi are completely unknown in the tablelands; still, it is rumored that Durwadala, the kreen druid of the Lost Oasis, is a Tondi.
+
+Tondi Ability Adjustments:  +2 Dex, +2 Wis, -2 Cha, -2 Int.
+
+Favored Class (Druid): A multi-class Tondi's druid class does not count when determining whether they suffer an XP penalty for multiclassing.
+
+Special Abilities:
+- Tondi base land speed is 40 feet.
+- Medium: As Medium creatures, Tondi have no special bonuses or penalties due to their size.
+- Darkvision: Tondi can see in total darkness.
+- Leap (Ex): Tondi are natural jumpers, gaining a +30 racial bonus to all Jump checks.
+- Natural Armor:  Tondi have a +2 natural armor bonus to AC due to their naturally tough and resistant chitin.
+- Natural Weapons:  Tondi have two claws attacks for 1d4 damage & a bite attack for 1d4 damage.
+- Sleep Immunity:  Tondi do not sleep, and are immune to sleep spells and similar effects. Tondi spellcasters and manifesters still require 8 hours of rest before preparing spells.
+- Deflect Arrows:  Tondi gain the benefit of the Deflect Arrows feat
+- Racial Weapon Familiarity:  To Tondi, the chatkcha and gythka are treated as martial rather than exotic weapons. (This is implemented as free weapon proficencies.)
+- Tondi have a +4 racial bonus on Hide checks in sandy or arid areas.
+
+Automatic Languages: Kreen. 
+
+Bonus Languages: Common, Dwarven, Elven, Saurian, and Terran.
+
+Level Adjustment: +2

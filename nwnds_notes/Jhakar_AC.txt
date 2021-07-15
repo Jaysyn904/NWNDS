@@ -1,0 +1,24 @@
+Jhakars are stout, scaly beasts that somewhat resemble a smiling flat-faced canine with thick, wrinkly, scaled hide.  They are excellent trackers.
+
+Skills: Listen +3, Spot +2, Survival +3
+Feats: Improved Knockdown, Low-light Vision, Track, Scent, Weapon Finesse
+
+Progression:
+PC Level    Bonus HD  Natural AC+  Str/Dex+  Bonus Feat    Special
+1st-2nd     +0        +0           +0        WF(Creature)  Link, share spells
+3rd-5th     +2        +2           +1        Dodge         Evasion
+6th-8th     +4        +4           +2        Mobility      Devotion
+9th-11th    +6        +6           +3        -             Multiattack
+12th-14th   +8        +8           +4        Imp Crit      -
+15th-17th   +10       +10          +5        Spr Attack    Imp Evasion
+18th-20th   +12       +12          +6        -             -
+
+Epic Progression:
+PC Level    Bonus HD  Natural AC+  Str/Dex+  Bonus Feat     Special    
+21st-23rd   +14       +14          +7        Blind-Fght     -
+24th-26th   +16       +16          +8        Iron Will      -
+27th-29th   +18       +18          +9        -              -
+30th-32nd   +20       +20          +10       Imp Init       -
+33rd-35th   +22       +22          +11       -              -
+36th-38th   +24       +24          +12       Armor Skin     -
+39th-40th   +26       +26          +13       EWF(Creature)  -

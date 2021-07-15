@@ -1,0 +1,25 @@
+Hulking insect-men standing as tall as 7 feet at the shoulder, tohr-kreen & thri-kreen are the least "human" of the player character races. Their survivability in the wilderness, combined with their cunning and intellect, have made the mantis warriors (as they are known to some races) the undisputed masters across large tracts of the Athasian wastes.
+
+The J'ez are a black-colored subrace of the tohr-kreen, probably closely related to the To'ksa, as they share the leathery skin over their chitin as well as long antennae. Aside from their color, their most unique feature is their mouth; a circular orifice ringed with inward-pointing fangs and with mobile mouth-parts used to assist with eating. They are an aggressive species, culturally fond of combat, but also highly intelligent; they make up a large part of the tohr-kreen philosophers and military leaders, and highly prize reading.
+
+J'ez Ability Adjustments:  +2 Dex, +2 Wis, -2 Cha, -2 Int.
+
+Favored Class (Psion): A multi-class J'ez's psion class does not count when determining whether they suffer an XP penalty for multiclassing.
+
+Special Abilities:
+- A j'ez's base land speed is 40 feet.
+- Medium: As Medium creatures, j'ez have no special bonuses or penalties due to their size.
+- Darkvision: J'ez can see in total darkness.
+- Leap (Ex): J'ez are natural jumpers, gaining a +30 racial bonus to all Jump checks.
+- Natural Armor:  J'ez have a +2 natural armor bonus to AC due to their naturally tough and resistant chitin.
+- Natural Weapons:  J'ez have two claws attacks for 1d4 damage & a bite attack for 1d4 damage.
+- Sleep Immunity:  J'ez do not sleep, and are mmune to sleep spells and similar effects. J'ez spellcasters and manifesters still require 8 hours of rest before preparing spells.
+- Deflect Arrows:  J'ez gain the benefit of the Deflect Arrows feat
+- Racial Weapon Familiarity:  To j'ez, the chatkcha and gythka are treated as martial rather than exotic weapons. (This is implemented as free weapon proficencies.)
+- J'ez have a +4 racial bonus on Hide checks in sandy or arid areas.
+
+Automatic Languages: Kreen. 
+
+Bonus Languages: Common, Dwarven, Elven, Saurian, and Terran.
+
+Level Adjustment: +2

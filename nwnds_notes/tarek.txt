@@ -1,0 +1,23 @@
+Tareks are muscle-bound brutes that are known for their great constitution and will to live. They look dull-witted, with their squared heads with sloping foreheads, and are about as smart as the average half-giant. Their features lend them a fearsome presence that has earned them a well-deserved reputation as dangerous foes. Tareks have a distinct musky odor that can be detected from as far away as 30 ft.
+
+Tarek Ability Adjustments: Str +4, Con +4, Int -2, Wis -4, Cha -2.
+
+Favored Class (Fighter): A multiclass tarek's fighter class does not count when determining whether he suffers an XP penalty for multiclassing.
+
+Special Abilities:
+- A tarek's base land speed is 30 feet.
+- Medium: As Medium creatures, tareks have no special bonuses or penalties due to their size.
+- Natural Armor: Tareks have a +3 natural armor bonus.
+- Natural Weaponry: A tarek's slam does 1d4 points of damage.
+- Darkvision: Tareks can see in the dark up to 30 feet.
+- Ferocity: A tarek is such a tenacious combatant that it continues to fight without penalty when disabled or dying. (Implemented via the Remain Concious feat for now.)
+- +4 racial bonus on all Intimidate checks.
+- Tarek's recieve a –2 penalty on Persuade and Perform checks and a –4 penalty on Hide checks, due to the tarek‘s musky odor.
+- Racial Weapon Familiarity: All tareks treat the heartpick (heavy pick) as martial weapons. (This is implemented as a free heavy pick proficency.)
+- Bonus Feat: Tareks receive the Teamwork feat for free. (Implemented as a free feat @ 1st level.)
+
+Automatic Languages: Common, Tarek. 
+
+Bonus languages: None
+
+Level Adjustment: +2.

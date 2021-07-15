@@ -1,0 +1,41 @@
+Language - Aarakocran - hlslang_106
+Language - Dwarven - hlslang_4
+Language - Elven - hlslang_1
+Language - Halfling - hlslang_3
+Language - Gith - hlslang_13
+Language - Ignan - hlslang_104
+Language - Illithid - hlslang_11
+Language - Pterran - hlslang_105
+Language - Druidic - hlslang_108
+Language - Tari - hlslang_2
+Language - Terran - hlslang_102
+Language - Thieves' Cant - hlslang_9
+Language - Thri-Kreen - hlslang_7
+Language - Animal - hlslang_8
+Language - Aquan - hlslang_103
+Language - Belgoi - hlslang_6
+Language - Giant - hlslang_107
+Language - Reggelid - hlslang_109
+Language - Yuan-Ti - hlslang_5
+Language - Auran - hlslang_101
+
+void main()
+{
+    // Get the creature who triggered this event.
+    object oPC = GetEnteringObject();
+
+    // Only fire for (real) PCs.
+    if ( !GetIsPC(oPC)  ||  GetIsDMPossessed(oPC) )
+        return;
+
+    // Abort if the PC does not have more than 2 levels of rogue.
+    if ( GetLevelByClass(CLASS_TYPE_ROGUE, oPC) <= 2 )
+        return;
+
+    // Abort if the PC has the item "hlslang_9".
+    if ( GetItemPossessedBy(oPC, "hlslang_9") != OBJECT_INVALID )
+        return;
+
+    // Give "hlslang_9" to the PC.
+    CreateItemOnObject("hlslang_9", oPC);
+}

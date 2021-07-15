@@ -1,0 +1,24 @@
+Z'tals are small, nervous & noisy little herd lizards that inhabit the scrub plains.  They make for a strange animal companion.
+
+Skills: Listen +3, Spot +3
+Feats: Low-Light Vision, Weapon Focus (Creature), Weapon Finesse
+
+Progression:
+PC Level    Bonus HD  Natural AC+  Str/Dex+  Bonus Feat     Special
+1st-2nd     +0        +0           +0        Imp Init       Link, share spells
+3rd-5th     +2        +2           +1        Dodge          Evasion
+6th-8th     +4        +4           +2        Mobility       Devotion
+9th-11th    +6        +6           +3        Blind-fight    Multiattack
+12th-14th   +8        +8           +4        -              -
+15th-17th   +10       +10          +5        Sprng Att      Imp Evasion
+18th-20th   +12       +12          +6        -              -
+
+Epic Progression:
+PC Level    Bonus HD  Natural AC+  Str/Dex+  Bonus Feat     Special    
+21st-23rd   +14       +14          +7        Gr Fortitude   -
+24th-26th   +16       +16          +8        Iron Will      -
+27th-29th   +18       +18          +9        -              -
+30th-32nd   +20       +20          +10       Imp Crit       -
+33rd-35th   +22       +22          +11       -              -
+36th-38th   +24       +24          +12       EWF(Creature)  -
+39th-40th   +26       +26          +13       Epic Prowess   -

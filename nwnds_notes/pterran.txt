@@ -1,0 +1,17 @@
+Pterrans are reptiloids with light brown, scaly skin who grow to be about 6 feet tall. A pterran stands upright in the humanoid configuration, though his two arms end in three-fingered, talon-clawed hands with opposable thumbs, and his two legs end in three-toed feet. A finlike growth juts from the back of a pterran's head, and he has a short tail and two shoulder stubs - remnants of wings that vanished generations ago.
+
+All player character pterrans come from two villages In the Hinterlands, Pterran Vale and Lost Scale. They revere the world of Athas as their Earth Mother, believing themselves to be her first, best children. They see the recent earthquake and aftershocks as the Earth Mother's call to action, and now the bravest of these beings have left their homes to aid Athas in her time of need.
+
+Pterrans are a wary, subdued race at first sight, but when others earn a pterran's trust, they see an open, caring, friendly individual. In particular, a pterran engages in many celebrations throughout the day. Each celebration gives thanks to the Earth Mother and reinforces a pterran's beliefs and faith.
+
+In initial role-playing situations, a pterran character should be unfamiliar with the customs and practices of the societies of the Tyr Region. However, these pterrans aren't primitive by any definition of the word. They'll look upon differences with curiosity and a willingness to learn, as long as the custom doesn't harm the Earth Mother or her works.
+
+A pterran PC must select a "Life Path" to follow. In one respect, a Life Path is little more than another term for class; in the role-playing aspect, however, Life Path signifies a pterran's deep devotion to a chosen way of life. The main Life Paths are the Path of the Ranger, the Path of the Druid, and the Path of the Psionicist. 
+
+Pterran Ability Adjustments: +2 Wis, -2 Dex.
+Favored Class (Special): Pterrans choose a Life Path at character creation.  This lets them choose which class (either druid, psionicist, or ranger) will be their favored class.  A multiclass pterran's Life Path class does not count when determining whether he suffers an XP penalty for multiclassing.
+
+Special Abilities:
+
+- Natural Weapons:  Pterrans have claws that are a natural weapon to them and they are proficient in their use.  They do not use the off-hand claw unless their class feats allows them to.
+- Hard of Hearing: -2 to Listen checks.

@@ -1,0 +1,23 @@
+Of all the aarakocra who live beneath Athas's crimson sun, only the silvaarak of the White Mountains can be used as player characters. The bird-people who leave Winter Nest to become player characters are seen as young rebels by the rest of their community. They are adventurous, seeking higher purpose and a way to help the beleaguered world. In all cases, aarakocra have a deep and abiding respect for the gifts of nature and little patience for those who abuse those gifts.
+
+As beings intimately connected to high mountain peaks and the open sky, aarakocra have a great love of freedom. In some ways, this love is even more intense than a similar emotion experienced by elves. They prefer to always be above a situation, either flying or perched above the rest of a group so that they can have a bird's-eye view. Aarakocra are claustrophobic and will only enter an enclosed building or cave if absolutely necessary. 
+
+Aarakocra Ability Adjustments: +4 Dex, -2 Str, -2 Con.
+
+Favored Class (Cleric): A multiclass aarakocra's cleric class does not count when determining whether he suffers an XP penalty for multiclassing.
+
+Special Abilities:
+- Aarakocra base land speed is 20 feet, and can fly overland with a movement rate of 90 feet.
+- Medium: As Medium creatures, aarakocra have no special bonuses or penalties due to their size.
+- Natural Weapons:  An aarakocra can rake with its claws for 1d3 points of damage, and use its secondary bite attack for 1d2 points of damage.
+- Natural Armor: Aarakocra have +1 natural armor bonus due to their bone chest plate that provides some protection from blows.
+- Eagle Eyes: +6 racial bonus to Spot checks in daylight. Aarakocra have excellent vision.
+- Low-Light Vision: Allows them to see better than normal in the dark.
+- Claustrophobic: Aarakocra receive a –2 morale penalty on all rolls when in an enclosed space. Being underground or in enclosed buildings is extremely distressing for them.
+- Monstrous Humanoid: Aarakocra are considered Monstrous Humanoids for the purpose of spells.
+
+Automatic Languages: Auran and Common.
+
+Bonus Languages: Elven, Gith, and Saurian.
+
+Level Adjustment: +1
