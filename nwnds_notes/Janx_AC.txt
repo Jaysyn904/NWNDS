@@ -1,4 +1,4 @@
-The jankx is a small, fast & furry animmal that makes a decent animal companion.  Although small of size & timid of nature, it makes up for that with a debilitating poison.
+The jankx is a small, fast & furry animal that makes a decent animal companion.  Although small of size & timid of nature, it makes up for that with a debilitating poison.
 
 Skills: Listen +5, Hide +10, Move Silently +10
 Feats: Low-Light Vision, Improved Initiative, Weapon Finesse
