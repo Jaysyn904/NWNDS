@@ -1,11 +1,10 @@
 // This is the script dante_letodel_at
-//#include "delchar_include"
-//#include "aps_include"
-//#include "sha_subr_consts"
+#include "delchar_include"
+#include "aps_include"
 
 //void DeletePCSubRace(string sPlayer,string sCharName);
 
-/*void main()
+void main()
 {
     object oPlayer = GetPCSpeaker();
     string sName = GetName(oPlayer);
@@ -22,11 +21,10 @@
         SendMessageToAllDMs("PC Player Name: "+sPlayer+" just tried to delete a character without a name.");
         WriteTimestampedLogEntry("PC Player Name: "+sPlayer+" just tried to delete a character without a name.");
     }
-}*/
+}
 
 
-
-/* void DeletePCSubRace(string sPlayer,string sCharName)
+/*void DeletePCSubRace(string sPlayer,string sCharName)
 {
 
     sPlayer = SQLEncodeSpecialChars(sPlayer);
@@ -70,13 +68,10 @@
 
                      }
                 return;
-             } */
+             }
        /*  // player not found in db.. may need manual delete
          SendMessageToAllDMs("Error Deleting PC from Subrace DB: Player/PC not found: " +
                            sPlayer + "/" + sCharName + "May need manual delete ");
 return;*/
 
 //}
-
-
-

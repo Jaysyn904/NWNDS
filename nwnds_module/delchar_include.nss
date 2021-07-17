@@ -18,8 +18,10 @@
 /* Implementation                   */
 /************************************/
 
-/*void deletechar(string sPlayerName, string sCharName)
+//void main (){}
+
+void deletechar(string sPlayerName, string sCharName)
 {
   object oModule = GetModule();
   SetLocalString(oModule, "NWNX!DELETECHAR!DELETE", sPlayerName + "?" + sCharName);
-} */
+}

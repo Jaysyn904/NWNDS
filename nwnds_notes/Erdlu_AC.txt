@@ -16,7 +16,7 @@ PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat         Special
 Epic Progression:
 PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat              Special    
 21st-23rd   +14       +14          +7        Blind-fight       -
-24th-26th   +16       +16          +8        Imp Nat Armor     -
+24th-26th   +16       +16          +8        Iron Will         -
 27th-29th   +18       +18          +9        -                 -
 30th-32nd   +20       +20          +10       Gr. Fortitude     -
 33rd-35th   +22       +22          +11       Rapid Metabolism  -
