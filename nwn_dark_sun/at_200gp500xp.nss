@@ -1,0 +1,16 @@
+//::///////////////////////////////////////////////
+//:: FileName at_100gp500xp
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 7/27/02 11:33:01 AM
+//:://////////////////////////////////////////////
+void main()
+{
+    // Give the speaker some gold
+    GiveGoldToCreature(GetPCSpeaker(), 200);
+
+    // Give the speaker some XP
+    GiveXPToCreature(GetPCSpeaker(), 500);
+
+}

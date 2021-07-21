@@ -1,0 +1,18 @@
+//::///////////////////////////////////////////////
+//:: FileName sc_persuadeh
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 8/20/2002 8:24:50 PM
+//:://////////////////////////////////////////////
+#include "nw_i0_tool"
+
+int StartingConditional()
+{
+
+	// Perform skill checks
+	if(!(AutoDC(DC_HARD, SKILL_PERSUADE, GetPCSpeaker())))
+		return FALSE;
+
+	return TRUE;
+}

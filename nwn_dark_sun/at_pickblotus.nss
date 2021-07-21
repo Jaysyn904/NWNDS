@@ -1,0 +1,18 @@
+//::///////////////////////////////////////////////
+//:: FileName at_pickblotus
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 9/29/2002 1:05:03 PM
+//:://////////////////////////////////////////////
+#include "nw_i0_tool"
+
+void main()
+{
+	// Give the speaker some XP
+	RewardPartyXP(50, GetPCSpeaker());
+
+	// Give the speaker the items
+	CreateItemOnObject("bluelotus", GetPCSpeaker(), 1);
+
+}

@@ -1,0 +1,16 @@
+//::///////////////////////////////////////////////
+//:: FileName ds_givesack
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 7/29/02 4:24:21 PM
+//:://////////////////////////////////////////////
+void main()
+{
+    // Give the speaker the items
+    CreateItemOnObject("crft_spidersac", GetPCSpeaker(), 1);
+
+    // Set the variables
+    SetLocalInt(GetPCSpeaker(), "nFirstTimeTalked", 2);
+
+}

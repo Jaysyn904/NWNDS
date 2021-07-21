@@ -1,0 +1,16 @@
+//::///////////////////////////////////////////////
+//:: FileName at_cromrubloot
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 9/29/2002 10:37:45 PM
+//:://////////////////////////////////////////////
+void main()
+{
+	// Give the speaker some gold
+	GiveGoldToCreature(GetPCSpeaker(), 500);
+
+	// Give the speaker the items
+	CreateItemOnObject("bookofdarkprophe", GetPCSpeaker(), 1);
+
+}
