@@ -7,8 +7,8 @@ Progression:
 PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat          Special
 1st-2nd     +0        +0           +0        Toughness     Link, share spells
 3rd-5th     +2        +2           +1        Dodge         Evasion
-6th-8th     +4        +4           +2        WF(Creature)  Devotion
-9th-11th    +6        +6           +3        -             Multiattack
+6th-8th     +4        +4           +2        -             Devotion
+9th-11th    +6        +6           +3        WF(Creature)  Multiattack
 12th-14th   +8        +8           +4        Mobility      -
 15th-17th   +10       +10          +5        -             Improved evasion
 18th-20th   +12       +12          +6        Imp Nat Att   -

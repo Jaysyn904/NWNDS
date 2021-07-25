@@ -1,17 +1,17 @@
 The jankx is a small, fast & furry animal that makes a decent animal companion.  Although small of size & timid of nature, it makes up for that with a debilitating poison.
 
 Skills: Listen +5, Hide +10, Move Silently +10
-Feats: Low-Light Vision, Improved Initiative, Weapon Finesse
+Feats: Low-Light Vision, Improved Initiative*, Weapon Finesse
 
 Progression:
 PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat         Special
-1st-2nd     +0        +0           +0        Toughness    Link, share spells
+1st-2nd     +0        +0           +0        Imp Init     Link, share spells
 3rd-5th     +2        +2           +1        Dodge        Evasion
-6th-8th     +4        +4           +2        Blind-Fight  Devotion
-9th-11th    +6        +6           +3        -            Multiattack
-12th-14th   +8        +8           +4        Mobility     -
-15th-17th   +10       +10          +5        Imp Crit     Imp Evasion
-18th-20th   +12       +12          +6        -            -
+6th-8th     +4        +4           +2        -            Devotion
+9th-11th    +6        +6           +3        Mobility     Multiattack
+12th-14th   +8        +8           +4        Imp Crit     -
+15th-17th   +10       +10          +5        -            Imp Evasion
+18th-20th   +12       +12          +6        Blind-Fight  -
 
 Epic Progression:
 PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat           Special    

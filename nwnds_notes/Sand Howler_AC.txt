@@ -1,7 +1,7 @@
 This heavy-set, doglike quadruped has a broad head sporting a nest of eight eyes and a pair of curving tusks.  Its semi-reptilian body is muscled and bears armored plates along the spine.  Their ability to paralyze with a stare makes them a valuable animal companion.
 
 Skills: Spot +9, Move Silently +4, Jump +5
-Feats: Low-Light Vision, Weapon Focus (creature), Darkvision, Scent
+Feats: Low-Light Vision, Weapon Focus (creature)*, Darkvision, Scent
 
 Progression:
 PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat           Special
@@ -19,6 +19,6 @@ PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat            Special
 24th-26th   +16       +16          +8        Spg Att         -
 27th-29th   +18       +18          +9        -               -
 30th-32nd   +20       +20          +10       Cleave          -
-33rd-35th   +22       +22          +11       -               -
-36th-38th   +24       +24          +12       EWF (Creature)  -
+33rd-35th   +22       +22          +11       EWF (Creature)  -
+36th-38th   +24       +24          +12       -               -
 39th-40th   +26       +26          +13       Armor Skin      -

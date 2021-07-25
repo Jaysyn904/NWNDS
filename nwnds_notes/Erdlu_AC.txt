@@ -1,24 +1,24 @@
 A tall, flightless bird with heavy scales or rough feathers, this creature is as tall as an elf. It has a long neck, large beak and stands on two tough, sinewy legs.
 
 Skills: Jump +16, Listen +5, Spot +5
-Feats: Alertness, Low-Light Vision
+Feats: Alertness*, Low-Light Vision
 
 Progression:
 PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat         Special
-1st-2nd     +0        +0           +0        Dodge        Link, share spells
-3rd-5th     +2        +2           +1        Toughness    Evasion
-6th-8th     +4        +4           +2        Mobility     Devotion
+1st-2nd     +0        +0           +0        Alertness    Link, share spells
+3rd-5th     +2        +2           +1        Dodge        Evasion
+6th-8th     +4        +4           +2        Toughness    Devotion
 9th-11th    +6        +6           +3        -            Multiattack
-12th-14th   +8        +8           +4        Spr Attack   -
-15th-17th   +10       +10          +5        Expd. Dodge  Improved evasion
+12th-14th   +8        +8           +4        Mobility     -
+15th-17th   +10       +10          +5        Spr Attack   Improved evasion
 18th-20th   +12       +12          +6        -            -
 
 Epic Progression:
-PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat              Special    
-21st-23rd   +14       +14          +7        Blind-fight       -
-24th-26th   +16       +16          +8        Iron Will         -
-27th-29th   +18       +18          +9        -                 -
-30th-32nd   +20       +20          +10       Gr. Fortitude     -
-33rd-35th   +22       +22          +11       Rapid Metabolism  -
-36th-38th   +24       +24          +12       Epic Reflexes     -
-39th-40th   +26       +26          +13       Armor Skin        -
+PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat          Special    
+21st-23rd   +14       +14          +7        Expd. Dodge   -
+24th-26th   +16       +16          +8        Blind-fight   -
+27th-29th   +18       +18          +9        -             -
+30th-32nd   +20       +20          +10       Iron Will     -
+33rd-35th   +22       +22          +11       Rapid Metab.  -
+36th-38th   +24       +24          +12       -             -
+39th-40th   +26       +26          +13       Armor Skin    -
