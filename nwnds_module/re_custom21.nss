@@ -276,7 +276,7 @@ while(!END)
         iWeight = 2;
         break;
         
-        case 32:sChoice = "kivit001"; // Kivit
+        case 32:sChoice = "ds_kivit001"; // Kivit
         fCR = 1.0;
         iMinNum = 1;
         iMaxNum = 5;

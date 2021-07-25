@@ -5,7 +5,7 @@ Feats: Alertness, Low-Light Vision, Weapon Finesse
 
 Progression:
 PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat          Special
-1st-2nd     +0        +0           +0        Toughness     Link, share spells
+1st-2nd     +0        +0           +0        Alertness     Link, share spells
 3rd-5th     +2        +2           +1        Dodge         Evasion
 6th-8th     +4        +4           +2        -             Devotion
 9th-11th    +6        +6           +3        WF(Creature)  Multiattack

@@ -80,7 +80,7 @@ void main()
                             sKillName = "Gold Scorpion";
                             break;
                     case 2:
-                            sKillTarget = "DIRERAT_001";
+                            sKillTarget = "DS_RATDIRE001";
                             sKillName = "Dire Rat";
                             break;
                     case 3:

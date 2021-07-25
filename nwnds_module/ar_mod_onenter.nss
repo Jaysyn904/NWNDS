@@ -22,6 +22,7 @@
 //#include "ar_db_main"
 #include "dmfi_init_inc"
 #include "ar_inc_pcspawn"
+#include "nwnds_mount_inc"
 
 void ARCleanVars(object oPC);
 void ApplyExitPenalty(object oPlayer);
@@ -32,6 +33,7 @@ void MessageOfTheDay(object oPlayer, string sPlayerName);
 //void SetStats(object oPlayer);
 void StripNewChars(object oPlayer);
 void GivePCWands(object oPlayer);
+void SetMountVars(object oPC);
 
 //void ArenaKillsUpdate();
 
@@ -60,6 +62,8 @@ void main()
     //ArenaKillsUpdate();
 
     object oPC = GetEnteringObject();
+    SetMountVars(oPC);
+    SetObjectVisualTransform(oPC, OBJECT_VISUAL_TRANSFORM_SCALE, 1.0f);
     // ARSX_OnClientEnter(oPC); //- Waiting on Nitecap  -DMH
     // Begin BESIE Spawn System
     int bBESIEWidget;

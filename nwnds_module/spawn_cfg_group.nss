@@ -641,7 +641,7 @@ string SpawnGroup(object oSpawn, string sTemplate)
        sRetTemplate = "zombie001";
        break;
        case 31:
-       sRetTemplate = "kivit001";
+       sRetTemplate = "ds_kivit001";
        break;
        case 32:
        sRetTemplate = "ar_cheetah001";
@@ -740,7 +740,7 @@ string SpawnGroup(object oSpawn, string sTemplate)
        sRetTemplate = "zombie001";
        break;
        case 64:
-       sRetTemplate = "kivit001";
+       sRetTemplate = "ds_kivit001";
        break;
        case 65:
        sRetTemplate = "ar_cheetah001";
@@ -839,7 +839,7 @@ string SpawnGroup(object oSpawn, string sTemplate)
        sRetTemplate = "zombie001";
        break;
        case 97:
-       sRetTemplate = "kivit001";
+       sRetTemplate = "ds_kivit001";
        break;
        case 98:
        sRetTemplate = "ar_cheetah001";
@@ -949,7 +949,7 @@ string SpawnGroup(object oSpawn, string sTemplate)
        sRetTemplate = "zombie001";
        break;
        case 31:
-       sRetTemplate = "kivit001";
+       sRetTemplate = "ds_kivit001";
        break;
        case 32:
        sRetTemplate = "ar_cheetah001";
@@ -1048,7 +1048,7 @@ string SpawnGroup(object oSpawn, string sTemplate)
        sRetTemplate = "zombie001";
        break;
        case 64:
-       sRetTemplate = "kivit001";
+       sRetTemplate = "ds_kivit001";
        break;
        case 65:
        sRetTemplate = "ar_cheetah001";
@@ -1147,7 +1147,7 @@ string SpawnGroup(object oSpawn, string sTemplate)
        sRetTemplate = "zombie001";
        break;
        case 97:
-       sRetTemplate = "kivit001";
+       sRetTemplate = "ds_kivit001";
        break;
        case 98:
        sRetTemplate = "ar_cheetah001";

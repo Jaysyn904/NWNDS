@@ -221,7 +221,7 @@ while(!END)
         iWeight = 2;
         break;
 
-        case 26:sChoice = "direrat_001"; // Rat, Dire
+        case 26:sChoice = "ds_ratdire001"; // Rat, Dire
         fCR = 0.3;
         iMinNum = 11;
         iMaxNum = 20;

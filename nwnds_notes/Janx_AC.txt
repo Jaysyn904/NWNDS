@@ -16,8 +16,8 @@ PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat         Special
 Epic Progression:
 PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat           Special    
 21st-23rd   +14       +14          +7        WF(Creature)   -
-24th-26th   +16       +16          +8        Gr Fortitude   -
-27th-29th   +18       +18          +9        -              -
+24th-26th   +16       +16          +8        -              -
+27th-29th   +18       +18          +9        Gr Fortitude   -
 30th-32nd   +20       +20          +10       Sprng Attk     -
 33rd-35th   +22       +22          +11       -              -
 36th-38th   +24       +24          +12       Epic Prowess   -
