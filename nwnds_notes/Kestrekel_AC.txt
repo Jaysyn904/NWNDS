@@ -1,0 +1,24 @@
+A scrawny black bird squawks as it circles around overheard, looking for carrion. A blood-red patch on its head is its only distinguishable feature.  This one has taken to following you around.
+
+Skills: Spot +4
+Feats: Low-Light Vision, Spring Attack (Flyby Attack)*
+
+Progression:
+PC Level    Bonus HD  Natural AC+  Str/Dex+  Bonus Feat     Special
+1st-2nd     +0        +0           +0        Sprng Att*     Link, share spells
+3rd-5th     +2        +2           +1        WF(Creature)   Evasion
+6th-8th     +4        +4           +2        -              Devotion
+9th-11th    +6        +6           +3        Dodge          Multiattack
+12th-14th   +8        +8           +4        Mobility       -
+15th-17th   +10       +10          +5        -              Imp Evasion
+18th-20th   +12       +12          +6        Imp Nat Att    -
+
+Epic Progression:
+PC Level    Bonus HD  Natural AC+  Str/Dex+  Bonus Feat     Special    
+21st-23rd   +14       +14          +7        Imp Critical   -
+24th-26th   +16       +16          +8        -              -
+27th-29th   +18       +18          +9        Blind-Fight    -
+30th-32nd   +20       +20          +10       Epic Prowess   -
+33rd-35th   +22       +22          +11       -              -
+36th-38th   +24       +24          +12       EWF(Creature)  -
+39th-40th   +26       +26          +13       Armor Skin     -

@@ -124,7 +124,7 @@ while(!END)
         iWeight = 1;
         break;
 
-        case 12:sChoice = "kestrekel001";  //Kes'trekel, Small
+        case 12:sChoice = "ds_kestrekel001";  //Kes'trekel, Small
         fCR = 2.0;
         iMinNum = 0;
         iMaxNum = 0;

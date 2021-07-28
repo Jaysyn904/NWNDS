@@ -578,10 +578,10 @@ string SpawnGroup(object oSpawn, string sTemplate)
        sRetTemplate = "ds_ztal002";
        break;
        case 10:
-       sRetTemplate = "kestrekel001";
+       sRetTemplate = "ds_kestrekel001";
        break;
        case 11:
-       sRetTemplate = "kestrekel001";
+       sRetTemplate = "ds_kestrekel001";
        break;
        case 12:
        sRetTemplate = "zep_scorp003";
@@ -677,10 +677,10 @@ string SpawnGroup(object oSpawn, string sTemplate)
        sRetTemplate = "ds_ztal002";
        break;
        case 43:
-       sRetTemplate = "kestrekel001";
+       sRetTemplate = "ds_kestrekel001";
        break;
        case 44:
-       sRetTemplate = "kestrekel001";
+       sRetTemplate = "ds_kestrekel001";
        break;
        case 45:
        sRetTemplate = "zep_scorp003";
@@ -776,10 +776,10 @@ string SpawnGroup(object oSpawn, string sTemplate)
        sRetTemplate = "ds_ztal002";
        break;
        case 76:
-       sRetTemplate = "kestrekel001";
+       sRetTemplate = "ds_kestrekel001";
        break;
        case 77:
-       sRetTemplate = "kestrekel001";
+       sRetTemplate = "ds_kestrekel001";
        break;
        case 78:
        sRetTemplate = "zep_scorp003";
@@ -886,10 +886,10 @@ string SpawnGroup(object oSpawn, string sTemplate)
        sRetTemplate = "ds_ztal002";
        break;
        case 10:
-       sRetTemplate = "kestrekel001";
+       sRetTemplate = "ds_kestrekel001";
        break;
        case 11:
-       sRetTemplate = "kestrekel001";
+       sRetTemplate = "ds_kestrekel001";
        break;
        case 12:
        sRetTemplate = "zep_scorp003";
@@ -985,10 +985,10 @@ string SpawnGroup(object oSpawn, string sTemplate)
        sRetTemplate = "ds_ztal002";
        break;
        case 43:
-       sRetTemplate = "kestrekel001";
+       sRetTemplate = "ds_kestrekel001";
        break;
        case 44:
-       sRetTemplate = "kestrekel001";
+       sRetTemplate = "ds_kestrekel001";
        break;
        case 45:
        sRetTemplate = "zep_scorp003";
@@ -1084,10 +1084,10 @@ string SpawnGroup(object oSpawn, string sTemplate)
        sRetTemplate = "ds_ztal002";
        break;
        case 76:
-       sRetTemplate = "kestrekel001";
+       sRetTemplate = "ds_kestrekel001";
        break;
        case 77:
-       sRetTemplate = "kestrekel001";
+       sRetTemplate = "ds_kestrekel001";
        break;
        case 78:
        sRetTemplate = "zep_scorp003";
