@@ -1,0 +1,260 @@
+# Exported from NWMax Plus v6.11.28 at 12/2/2020 11:40:14 PM
+# dwk file
+#
+#NWMax Plus DWKMESH  ASCII
+node trimesh 12_DWK_wg_closed
+  parent isc02_udoor_06_DWK
+  position 0.0 0.0 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.564706 0.109804 0.694118 
+  multimaterial 30
+    Dirt
+    Obscuring
+    Grass
+    Stone
+    Wood
+    Water
+    Nonwalk
+    Transparent
+    Carpet
+    Metal
+    Puddles
+    Swamp
+    Mud
+    Leaves
+    Lava
+    BottomlessPit
+    DeepWater
+    Door
+    Snow
+    Sand
+    BareBones
+    StoneBridge
+    Temp1
+    Temp2
+    Temp3
+    Temp4
+    Temp5
+    Temp6
+    Temp7
+    Trigger
+  ambient 0.588 0.588 0.588 
+  diffuse 0.705882 0.0 1.0 
+  specular 0.0 0.0 0.0 
+  shininess 10.0
+  bitmap Nonwalk
+  verts 12
+    -1.77676 -0.164313 0.0
+    1.75413 -0.164313 0.0
+    1.75413 0.180734 0.0
+    0.5 0.181012 0.0
+    -0.5 0.181012 0.0
+    -1.77676 0.180734 0.0
+    -1.77676 -0.164313 1.33712
+    1.75413 -0.164313 1.33712
+    1.75413 0.180733 1.33712
+    0.5 0.181012 1.33712
+    -0.5 0.181012 1.33712
+    -1.77676 0.180734 1.33712
+  faces 16
+    0 7 6  2  0 0 0  7
+    0 1 7  2  0 0 0  7
+    1 8 7  8  0 0 0  7
+    1 2 8  8  0 0 0  7
+    2 9 8  8  0 0 0  7
+    2 3 9  8  0 0 0  7
+    3 10 9  8  0 0 0  7
+    3 4 10  8  0 0 0  7
+    4 11 10  8  0 0 0  7
+    4 5 11  8  0 0 0  7
+    5 6 11  8  0 0 0  7
+    5 0 6  8  0 0 0  7
+    6 7 8  1  0 0 0  7
+    6 8 9  1  0 0 0  7
+    6 9 10  1  0 0 0  7
+    6 10 11  1  0 0 0  7
+endnode
+node trimesh 12_DWK_wg_open1
+  parent isc02_udoor_06_DWK
+  position 0.0 0.0 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.564706 0.109804 0.694118 
+  multimaterial 30
+    Dirt
+    Obscuring
+    Grass
+    Stone
+    Wood
+    Water
+    Nonwalk
+    Transparent
+    Carpet
+    Metal
+    Puddles
+    Swamp
+    Mud
+    Leaves
+    Lava
+    BottomlessPit
+    DeepWater
+    Door
+    Snow
+    Sand
+    BareBones
+    StoneBridge
+    Temp1
+    Temp2
+    Temp3
+    Temp4
+    Temp5
+    Temp6
+    Temp7
+    Trigger
+  ambient 0.588 0.588 0.588 
+  diffuse 0.705882 0.0 1.0 
+  specular 0.0 0.0 0.0 
+  shininess 10.0
+  bitmap Nonwalk
+  verts 16
+    1.43512 -0.0669728 0.0
+    1.77616 -0.150402 0.0
+    2.06075 1.64028 0.0
+    1.72624 1.70394 0.0
+    1.43512 -0.0669724 1.31762
+    1.77616 -0.150401 1.31762
+    2.06075 1.64028 1.31762
+    1.72624 1.70394 1.31762
+    -1.31745 -0.0428476 0.0
+    -1.6587 -0.132325 0.0
+    -2.14468 1.64917 0.0
+    -1.8146 1.72659 0.0
+    -1.31745 -0.0428471 1.31762
+    -1.6587 -0.132324 1.31762
+    -2.14468 1.64917 1.31762
+    -1.8146 1.72659 1.31762
+  faces 20
+    0 5 4  2  0 0 0  7
+    0 1 5  2  0 0 0  7
+    1 6 5  8  0 0 0  7
+    1 2 6  8  0 0 0  7
+    2 7 6  8  0 0 0  7
+    2 3 7  8  0 0 0  7
+    3 4 7  8  0 0 0  7
+    3 0 4  8  0 0 0  7
+    4 5 6  1  0 0 0  7
+    4 6 7  1  0 0 0  7
+    8 12 13  2  0 0 0  7
+    8 13 9  2  0 0 0  7
+    9 13 14  8  0 0 0  7
+    9 14 10  8  0 0 0  7
+    10 14 15  8  0 0 0  7
+    10 15 11  8  0 0 0  7
+    11 15 12  8  0 0 0  7
+    11 12 8  8  0 0 0  7
+    12 14 13  1  0 0 0  7
+    12 15 14  1  0 0 0  7
+endnode
+node trimesh 12_DWK_wg_open2
+  parent isc02_udoor_06_DWK
+  position 0.0 0.0 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.564706 0.109804 0.694118 
+  multimaterial 30
+    Dirt
+    Obscuring
+    Grass
+    Stone
+    Wood
+    Water
+    Nonwalk
+    Transparent
+    Carpet
+    Metal
+    Puddles
+    Swamp
+    Mud
+    Leaves
+    Lava
+    BottomlessPit
+    DeepWater
+    Door
+    Snow
+    Sand
+    BareBones
+    StoneBridge
+    Temp1
+    Temp2
+    Temp3
+    Temp4
+    Temp5
+    Temp6
+    Temp7
+    Trigger
+  ambient 0.588 0.588 0.588 
+  diffuse 0.705882 0.0 1.0 
+  specular 0.0 0.0 0.0 
+  shininess 10.0
+  bitmap Nonwalk
+  verts 16
+    1.43133 -0.0639258 0.0
+    1.78421 -0.166375 0.0
+    2.06798 1.64203 0.0
+    1.71842 1.70783 0.0
+    1.43133 -0.0639255 1.32888
+    1.78421 -0.166374 1.32888
+    2.06798 1.64203 1.32888
+    1.71842 1.70783 1.32888
+    -1.31837 -0.0375986 0.0
+    -1.66899 -0.143442 0.0
+    -2.15004 1.65263 0.0
+    -1.81428 1.72849 0.0
+    -1.31837 -0.0375981 1.32888
+    -1.66899 -0.143441 1.32888
+    -2.15004 1.65263 1.32888
+    -1.81428 1.72849 1.32888
+  faces 20
+    0 5 4  2  0 0 0  7
+    0 1 5  2  0 0 0  7
+    1 6 5  8  0 0 0  7
+    1 2 6  8  0 0 0  7
+    2 7 6  8  0 0 0  7
+    2 3 7  8  0 0 0  7
+    3 4 7  8  0 0 0  7
+    3 0 4  8  0 0 0  7
+    4 5 6  1  0 0 0  7
+    4 6 7  1  0 0 0  7
+    8 12 13  2  0 0 0  7
+    8 13 9  2  0 0 0  7
+    9 13 14  8  0 0 0  7
+    9 14 10  8  0 0 0  7
+    10 14 15  8  0 0 0  7
+    10 15 11  8  0 0 0  7
+    11 15 12  8  0 0 0  7
+    11 12 8  8  0 0 0  7
+    12 14 13  1  0 0 0  7
+    12 15 14  1  0 0 0  7
+endnode
+node dummy 01_DWK_dp_close_01
+  parent isc02_udoor_06_DWK
+  position 0.0 0.0 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.839216 0.898039 0.65098 
+endnode
+node dummy 01_DWK_dp_close_02
+  parent isc02_udoor_06_DWK
+  position 0.0 0.0 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.839216 0.898039 0.65098 
+endnode
+node dummy 01_DWK_dp_open1_01
+  parent isc02_udoor_06_DWK
+  position 0.0 0.0 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.839216 0.898039 0.65098 
+endnode
+node dummy 01_DWK_dp_open2_01
+  parent isc02_udoor_06_DWK
+  position 0.0 0.0 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.839216 0.898039 0.65098 
+endnode

@@ -1,0 +1,393 @@
+# Exported from NWMax Plus v6.11.28 at 5/19/2020 11:43:10 PM
+# mdl file
+#
+#NWMax Plus MODEL  ASCII
+# model: dsw01_h05_01
+filedependancy Unknown
+newmodel dsw01_h05_01
+setsupermodel dsw01_h05_01 NULL
+classification Tile
+#NWMax Plus GEOM  ASCII
+beginmodelgeom dsw01_h05_01
+node dummy dsw01_h05_01
+  parent NULL
+endnode
+node light dsw01_h05_01ml1
+  parent dsw01_h05_01
+  position 0.0 0.0 8.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 1.0 1.0 1.0 
+  radius 14.0
+  multiplier 1.0
+  color 0.0 0.0 0.0 
+  ambientonly 0
+  nDynamicType 0
+  affectDynamic 1
+  shadow 0
+  lightpriority 5
+  fadingLight 1
+endnode
+#Tile trimesh node
+node trimesh plane47
+  parent dsw01_h05_01
+  position 0.0 0.0 3.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 1.0 1.0 1.0 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 1
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 1
+  center 0.0 0.0 0.0 
+  bitmap ttd21_sand01
+  verts 25
+    -5.0 -2.5 0.0
+    -5.0 -5.0 0.0
+    -2.5 -2.5 0.0
+    -2.5 -5.0 0.0
+    0.0 -2.5 0.0
+    0.0 -5.0 0.0
+    2.5 -2.5 0.0
+    2.5 -5.0 0.0
+    5.0 -2.5 0.0
+    5.0 -5.0 0.0
+    -5.0 0.0 0.0
+    -2.5 0.0 0.0
+    0.0 0.0 0.0
+    2.5 0.0 0.0
+    5.0 0.0 0.0
+    -5.0 2.5 0.0
+    -2.5 2.5 0.0
+    0.0 2.5 0.0
+    2.5 2.5 0.0
+    5.0 2.5 0.0
+    -5.0 5.0 0.0
+    -2.5 5.0 0.0
+    0.0 5.0 0.0
+    2.5 5.0 0.0
+    5.0 5.0 0.0
+  faces 32
+    0 1 2  1  0 1 2  1
+    3 2 1  1  3 2 1  1
+    2 3 4  1  2 3 4  1
+    5 4 3  1  5 4 3  1
+    4 5 6  1  4 5 6  1
+    7 6 5  1  7 6 5  1
+    6 7 8  1  6 7 8  1
+    9 8 7  1  9 8 7  1
+    10 0 11  1  10 0 11  1
+    2 11 0  1  2 11 0  1
+    11 2 12  1  11 2 12  1
+    4 12 2  1  4 12 2  1
+    12 4 13  1  12 4 13  1
+    6 13 4  1  6 13 4  1
+    13 6 14  1  13 6 14  1
+    8 14 6  1  8 14 6  1
+    15 10 16  1  15 10 16  1
+    11 16 10  1  11 16 10  1
+    16 11 17  1  16 11 17  1
+    12 17 11  1  12 17 11  1
+    17 12 18  1  17 12 18  1
+    13 18 12  1  13 18 12  1
+    18 13 19  1  18 13 19  1
+    14 19 13  1  14 19 13  1
+    20 15 21  1  20 15 21  1
+    16 21 15  1  16 21 15  1
+    21 16 22  1  21 16 22  1
+    17 22 16  1  17 22 16  1
+    22 17 23  1  22 17 23  1
+    18 23 17  1  18 23 17  1
+    23 18 24  1  23 18 24  1
+    19 24 18  1  19 24 18  1
+  tverts 25
+    -0.5 0.0 0
+    -0.5 -0.5 0
+    0.0 0.0 0
+    0.0 -0.5 0
+    0.5 0.0 0
+    0.5 -0.5 0
+    1.0 0.0 0
+    1.0 -0.5 0
+    1.5 0.0 0
+    1.5 -0.5 0
+    -0.5 0.5 0
+    0.0 0.5 0
+    0.5 0.5 0
+    1.0 0.5 0
+    1.5 0.5 0
+    -0.5 1.0 0
+    0.0 1.0 0
+    0.5 1.0 0
+    1.0 1.0 0
+    1.5 1.0 0
+    -0.5 1.5 0
+    0.0 1.5 0
+    0.5 1.5 0
+    1.0 1.5 0
+    1.5 1.5 0
+endnode
+#Tile trimesh node
+node trimesh plane48
+  parent dsw01_h05_01
+  position 0.0 0.0 3.01
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 1.0 1.0 1.0 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 1
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 1
+  center 0.0 250.0 0.0 
+  bitmap dsw01_road02
+  verts 9
+    -2.0 2.0 0.0
+    -2.0 0.0 0.0
+    0.0 2.0 0.0
+    0.0 0.0 0.0
+    2.0 2.0 0.0
+    2.0 0.0 0.0
+    -2.0 5.0 0.0
+    0.0 5.0 0.0
+    2.0 5.0 0.0
+  faces 8
+    0 1 2  1  0 1 2  1
+    3 2 1  1  3 2 1  1
+    2 3 4  1  2 3 4  1
+    5 4 3  1  5 4 3  1
+    6 0 7  1  6 0 7  1
+    2 7 0  1  2 7 0  1
+    7 2 8  1  7 2 8  1
+    4 8 2  1  4 8 2  1
+  tverts 9
+    0.0 0.599609 0
+    0.0 1.0 0
+    0.5 0.599609 0
+    0.5 1.0 0
+    1.0 0.599609 0
+    1.0 1.0 0
+    0.0 0.0 0
+    0.5 0.0 0
+    1.0 0.0 0
+endnode
+#Tile trimesh node
+node trimesh rectangle216
+  parent dsw01_h05_01
+  position 2.48 -1.47 3.01
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 1.0 1.0 1.0 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 1
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 1
+  center 0.0 0.0 0.0 
+  bitmap dsw01_splotch01
+  verts 4
+    0.02 -1.03 0.0
+    1.03 0.02 0.0
+    -0.02 1.03 0.0
+    -1.03 -0.02 0.0
+  faces 2
+    0 1 2  1  0 1 2  1
+    3 0 2  1  3 0 2  1
+  tverts 4
+    0.00976563 0.806641 0
+    0.21875 0.806641 0
+    0.21875 0.988281 0
+    0.00976563 0.988281 0
+endnode
+#Tile trimesh node
+node trimesh rectangle217
+  parent dsw01_h05_01
+  position -2.87 -2.57 3.01
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 1.0 1.0 1.0 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 1
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 1
+  center 0.5 -0.5 0.0 
+  bitmap dsw01_splotch01
+  verts 4
+    1.21 1.29 0.0
+    -1.29 1.2 0.0
+    -1.2 -1.3 0.0
+    1.3 -1.21 0.0
+  faces 2
+    0 1 2  1  0 1 2  1
+    3 0 2  1  3 0 2  1
+  tverts 4
+    0.00390625 0.533203 0
+    0.226563 0.533203 0
+    0.226563 0.779297 0
+    0.00390625 0.779297 0
+endnode
+node aabb walkmesh
+  parent dsw01_h05_01
+  position 0.0 0.0 -2.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 1.0 1.0 1.0 
+  multimaterial 30
+    Dirt
+    Obscuring
+    Grass
+    Stone
+    Wood
+    Water
+    Nonwalk
+    Transparent
+    Carpet
+    Metal
+    Puddles
+    Swamp
+    Mud
+    Leaves
+    Lava
+    BottomlessPit
+    DeepWater
+    Door
+    Snow
+    Sand
+    BareBones
+    StoneBridge
+    Temp1
+    Temp2
+    Temp3
+    Temp4
+    Temp5
+    Temp6
+    Temp7
+    Trigger
+  ambient 0.588 0.588 0.588 
+  diffuse 0.937255 0.941177 0.564706 
+  specular 0.0 0.0 0.0 
+  shininess 10.0
+  bitmap Sand
+  verts 15
+    -3.48 -2.73 5.0
+    -5.0 -5.0 5.0
+    -3.04 -3.14 5.0
+    0.0 -5.0 5.0
+    1.37 1.45 5.0
+    5.0 0.0 5.0
+    5.0 -5.0 5.0
+    -5.0 5.0 5.0
+    -5.0 0.0 5.0
+    -1.5 5.0 5.0
+    -1.18 1.45 5.0
+    1.5 5.0 5.0
+    5.0 5.0 5.0
+    -2.62 -2.71 5.0
+    -3.08 -2.32 5.0
+  faces 19
+    0 1 2  0  0 0 0  20
+    3 2 1  0  0 0 0  20
+    4 3 5  0  0 0 0  20
+    6 5 3  0  0 0 0  20
+    7 8 9  0  0 0 0  20
+    10 11 9  0  0 0 0  1
+    5 12 4  0  0 0 0  20
+    3 4 13  0  0 0 0  20
+    10 13 4  0  0 0 0  20
+    8 14 10  0  0 0 0  20
+    8 1 0  0  0 0 0  20
+    8 0 14  0  0 0 0  20
+    0 2 14  0  0 0 0  20
+    14 2 13  0  0 0 0  20
+    3 13 2  0  0 0 0  20
+    9 8 10  0  0 0 0  20
+    10 14 13  0  0 0 0  20
+    4 11 10  0  0 0 0  1
+    4 12 11  0  0 0 0  20
+    aabb         -5.0 -5.0 5.0 5.0 5.0 5.0 -1
+        -5.0 -5.0 5.0 0.0 5.0 5.0 -1
+        -5.0 -5.0 5.0 0.0 0.0 5.0 -1
+        -5.0 -5.0 5.0 -3.04 0.0 5.0 -1
+        -5.0 -5.0 5.0 -3.04 -2.73 5.0 0
+        -5.0 -5.0 5.0 -3.08 0.0 5.0 -1
+        -5.0 -5.0 5.0 -3.48 0.0 5.0 10
+        -5.0 -2.73 5.0 -3.08 0.0 5.0 11
+        -5.0 -5.0 5.0 0.0 -2.32 5.0 -1
+        -5.0 -5.0 5.0 0.0 -2.32 5.0 -1
+        -3.48 -3.14 5.0 -3.04 -2.32 5.0 12
+        -5.0 -5.0 5.0 0.0 -2.32 5.0 -1
+        -3.08 -3.14 5.0 -2.62 -2.32 5.0 13
+        -5.0 -5.0 5.0 0.0 -3.14 5.0 1
+        -3.04 -5.0 5.0 0.0 -2.71 5.0 14
+        -5.0 -2.71 5.0 -1.18 5.0 5.0 -1
+        -5.0 -2.71 5.0 -1.18 1.45 5.0 -1
+        -3.08 -2.71 5.0 -1.18 1.45 5.0 16
+        -5.0 -2.32 5.0 -1.18 1.45 5.0 9
+        -5.0 0.0 5.0 -1.18 5.0 5.0 -1
+        -5.0 0.0 5.0 -1.18 5.0 5.0 15
+        -5.0 0.0 5.0 -1.5 5.0 5.0 4
+        -2.62 -5.0 5.0 5.0 5.0 5.0 -1
+        -2.62 -5.0 5.0 5.0 1.45 5.0 -1
+        -2.62 -5.0 5.0 1.37 1.45 5.0 -1
+        -2.62 -5.0 5.0 1.37 1.45 5.0 7
+        -2.62 -2.71 5.0 1.37 1.45 5.0 8
+        0.0 -5.0 5.0 5.0 1.45 5.0 -1
+        0.0 -5.0 5.0 5.0 0.0 5.0 3
+        0.0 -5.0 5.0 5.0 1.45 5.0 2
+        -1.5 0.0 5.0 5.0 5.0 5.0 -1
+        -1.5 1.45 5.0 1.5 5.0 5.0 -1
+        -1.18 1.45 5.0 1.5 5.0 5.0 17
+        -1.5 1.45 5.0 1.5 5.0 5.0 5
+        1.37 0.0 5.0 5.0 5.0 5.0 -1
+        1.37 0.0 5.0 5.0 5.0 5.0 6
+        1.37 1.45 5.0 5.0 5.0 5.0 18
+endnode
+node light dsw01_h05_01ml2
+  parent dsw01_h05_01
+  position 0.54 3.62 5.82
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 1.0 1.0 1.0 
+  radius 5.0
+  multiplier 1.0
+  color 0.00392157 0.00392157 0.00392157 
+  ambientonly 0
+  nDynamicType 0
+  affectDynamic 1
+  shadow 0
+  lightpriority 5
+  fadingLight 1
+endnode
+endmodelgeom dsw01_h05_01
+donemodel dsw01_h05_01

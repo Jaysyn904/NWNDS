@@ -1,0 +1,24 @@
+# Exported from NWMax Plus v6.11.28 at 5/14/2021 10:38:51 PM
+# wok file
+#
+#NWMax Plus WALKMESH  ASCII
+beginwalkmeshgeom ttd21_e308_02
+node aabb rectangle135
+  parent ttd21_e308_02
+  position 0.0 0.0 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 1.0 1.0 1.0 
+  bitmap NULL
+  verts 4
+    5.0 -5.0 -3.0
+    5.0 5.0 -3.0
+    -5.0 5.0 -3.0
+    -5.0 -5.0 -3.0
+  faces 2
+    0 1 2  1  0 0 0  16
+    3 0 2  1  0 0 0  16
+    aabb         -5.0 -5.0 -3.0 5.0 5.0 -3.0 -1
+        -5.0 -5.0 -3.0 5.0 5.0 -3.0 1
+        -5.0 -5.0 -3.0 5.0 5.0 -3.0 0
+endnode
+endwalkmeshgeom ttd21_e308_02

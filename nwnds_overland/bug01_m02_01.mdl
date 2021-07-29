@@ -1,0 +1,142 @@
+# Exported from NWMax Plus v6.11.28 at 5/25/2020 9:01:41 PM
+# mdl file
+#
+#NWMax Plus MODEL  ASCII
+# model: BUG01_M02_01
+filedependancy bigbugdungeon010.max
+newmodel BUG01_M02_01
+setsupermodel BUG01_M02_01 NULL
+classification Tile
+#NWMax Plus GEOM  ASCII
+beginmodelgeom BUG01_M02_01
+node dummy BUG01_M02_01
+  parent NULL
+endnode
+node light BUG01_M02_01ml1
+  parent BUG01_M02_01
+  position 0.0 0.0 5.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.529412 0.431373 0.0313726 
+  radius 14.0
+  multiplier 1.0
+  color 0.0 0.0 0.0 
+  ambientonly 0
+  nDynamicType 0
+  affectDynamic 1
+  shadow 0
+  lightpriority 5
+  fadingLight 0
+endnode
+node light BUG01_M02_01ml2
+  parent BUG01_M02_01
+  position -2.0 -2.0 4.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.529412 0.431373 0.0313726 
+  radius 5.0
+  multiplier 1.0
+  color 0.0 0.0 0.0 
+  ambientonly 0
+  nDynamicType 0
+  affectDynamic 1
+  shadow 0
+  lightpriority 5
+  fadingLight 0
+endnode
+node aabb wok_170
+  parent BUG01_M02_01
+  position 0.0 0.0 8.66571
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.0 0.0 0.0 
+  multimaterial 31
+    ttd21_sand01
+    Dirt
+    Obscuring
+    Grass
+    Stone
+    Wood
+    Water
+    Nonwalk
+    Transparent
+    Carpet
+    Metal
+    Puddles
+    Swamp
+    Mud
+    Leaves
+    Lava
+    BottomlessPit
+    DeepWater
+    Door
+    Snow
+    Sand
+    BareBones
+    StoneBridge
+    Temp1
+    Temp2
+    Temp3
+    Temp4
+    Temp5
+    Temp6
+    Temp7
+    Trigger
+  ambient 0.784314 0.784314 0.784314 
+  diffuse 0.784314 0.784314 0.784314 
+  specular 0.0 0.0 0.0 
+  shininess 10.0
+  bitmap Snow
+  verts 9
+    -5.0 -5.0 -5.4
+    0.3 -5.0 -5.26
+    0.25 -5.0 5.39
+    5.0 -5.0 5.39
+    -5.0 5.0 -5.39
+    5.0 5.0 5.39
+    4.58 5.0 -5.13
+    4.53 5.0 5.39
+    2.87 5.0 -5.17
+  faces 7
+    6 8 0  0  0 1 2  20
+    0 1 6  0  3 4 5  20
+    5 7 2  0  6 7 8  2
+    2 3 5  0  9 10 11  2
+    1 2 7  0  12 13 14  2
+    7 6 1  0  15 16 17  2
+    4 0 8  0  18 19 20  20
+  tverts 21
+    3.62833 -9.3779 0
+    3.31192 -9.34497 0
+    1.85312 -11.1932 0
+    1.85312 -11.1932 0
+    2.83459 -11.2953 0
+    3.62833 -9.3779 0
+    3.63459 -9.51281 0
+    3.53912 -9.50483 0
+    2.57443 -11.0834 0
+    2.57443 -11.0834 0
+    3.54392 -11.1644 0
+    3.63459 -9.51281 0
+    2.84008 -11.2633 0
+    2.82445 -11.3026 0
+    3.64069 -9.25377 0
+    3.64069 -9.25377 0
+    3.65632 -9.21453 0
+    2.84008 -11.2633 0
+    1.85315 -9.19315 0
+    1.85312 -11.1932 0
+    3.31192 -9.34497 0
+    aabb         -5.0 -5.0 -5.39571 5.0 5.0 5.39429 -1
+        -5.0 -5.0 -5.39571 4.58 5.0 5.39429 -1
+        -5.0 -5.0 -5.39571 4.58 5.0 -5.12571 -1
+        -5.0 -5.0 -5.39571 4.58 5.0 -5.12571 1
+        -5.0 -5.0 -5.39571 4.58 5.0 -5.12571 -1
+        -5.0 -5.0 -5.39571 2.87 5.0 -5.16571 6
+        -5.0 -5.0 -5.39571 4.58 5.0 -5.12571 0
+        0.3 -5.0 -5.25571 4.58 5.0 5.39429 5
+        0.25 -5.0 -5.25571 5.0 5.0 5.39429 -1
+        0.25 -5.0 -5.25571 4.53 5.0 5.39429 4
+        0.25 -5.0 5.39429 5.0 5.0 5.39429 -1
+        0.25 -5.0 5.39429 5.0 5.0 5.39429 3
+        0.25 -5.0 5.39429 5.0 5.0 5.39429 2
+endnode
+endmodelgeom BUG01_M02_01
+donemodel BUG01_M02_01

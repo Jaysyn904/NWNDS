@@ -1,0 +1,132 @@
+# Rewritten by CleanModels 3 Version 3.5.2d Fri Jul 10 21:04:52 2020
+#MAXMODEL ASCII
+filedependency Unknown
+newmodel ttdzg_f03_01
+  classification TILE
+  setsupermodel ttdzg_f03_01 NULL
+  setanimationscale 1
+#MAXGEOM ASCII
+beginmodelgeom ttdzg_f03_01
+node dummy ttdzg_f03_01
+  parent NULL
+endnode
+node light ttdzg_f03_01ml1
+  parent ttdzg_f03_01
+  position 0 0 5
+  orientation 0 0 0 0
+  wirecolor 0.839216 0.894118 0.647059
+  radius 14
+  multiplier 1
+  color 0 0 0
+  ambientonly 0
+  nDynamicType 0
+  affectdynamic 1
+  shadow 0
+  lightpriority 5
+  fadinglight 0
+endnode
+node light ttdzg_f03_01ml2
+  parent ttdzg_f03_01
+  position -2 -2 4
+  orientation 0 0 0 0
+  wirecolor 0.839216 0.894118 0.647059
+  radius 5
+  multiplier 1
+  color 0 0 0
+  ambientonly 0
+  nDynamicType 0
+  affectdynamic 1
+  shadow 0
+  lightpriority 5
+  fadinglight 0
+endnode
+node aabb wok_58
+  parent ttdzg_f03_01
+  position 0 0 0
+  bitmap NULL
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  ambient 0.588 0.588 0.588
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  render 0
+  shadow 0
+  verts 20
+    -5 -5 19.42
+    3.29 -5 27.63
+    -5 0.43 19.29
+    -5 -3.07 19.29
+    -5 4.13 19.37
+    -5 3.13 19.29
+    -5 -4.27 19.35
+    -5 -4.03 19.33
+    -5 4.4 19.4
+    5 -5 29.33
+    -5 5 19.45
+    5 -1.22 29.22
+    5 -3.07 29.22
+    5 3.66 29.27
+    5 3.13 29.22
+    5 -4.62 29.29
+    5 4.12 29.31
+    5 3.8 29.28
+    5 5 29.38
+    2 5 26.41
+  faces 18
+    1 9 6 0 0 0 0 2
+    6 0 1 0 0 0 0 2
+    11 14 5 0 0 0 0 4
+    5 2 11 0 0 0 0 4
+    13 17 8 0 0 0 0 2
+    8 4 13 0 0 0 0 2
+    11 2 3 0 0 0 0 4
+    3 12 11 0 0 0 0 4
+    4 5 14 0 0 0 0 2
+    14 13 4 0 0 0 0 2
+    7 6 9 0 0 0 0 2
+    9 15 7 0 0 0 0 2
+    12 3 7 0 0 0 0 2
+    7 15 12 0 0 0 0 2
+    10 8 17 0 0 0 0 2
+    17 16 10 0 0 0 0 2
+    16 18 19 0 0 0 0 2
+    19 10 16 0 0 0 0 2
+  aabb     -5 -5 19.29 5 5 29.38 -1
+    -5 -5 19.29 5 5 29.33 -1
+    -5 -5 19.35 3.29 -4.27 27.63 1
+    -5 -5 19.29 5 5 29.33 -1
+    -5 -4.03 19.29 5 4.13 29.22 -1
+    -5 -3.07 19.29 5 3.13 29.22 -1
+    -5 -3.07 19.29 5 0.43 29.22 6
+    -5 -1.22 19.29 5 3.13 29.22 3
+    -5 -4.03 19.29 5 4.13 29.22 -1
+    -5 -4.03 19.29 5 -3.07 29.22 12
+    -5 3.13 19.29 5 4.13 29.22 8
+    -5 -5 19.33 5 5 29.33 -1
+    -5 -5 19.33 5 -4.03 29.33 10
+    -5 3.66 19.37 5 5 29.28 -1
+    -5 3.66 19.37 5 4.4 29.27 5
+    -5 3.8 19.4 5 5 29.28 14
+    -5 -5 19.29 5 5 29.38 -1
+    -5 -5 19.29 5 5 29.33 -1
+    -5 -5 19.35 5 5 29.33 -1
+    -5 4.12 19.45 5 5 29.31 17
+    -5 -5 19.35 5 -4.27 29.33 0
+    -5 -5 19.29 5 5 29.33 -1
+    -5 -4.62 19.29 5 4.13 29.29 -1
+    -5 -3.07 19.29 5 3.13 29.22 -1
+    -5 -3.07 19.29 5 -1.22 29.22 7
+    -5 -1.22 19.29 5 3.13 29.22 2
+    -5 -4.62 19.33 5 4.13 29.29 -1
+    -5 -4.62 19.33 5 -3.07 29.29 13
+    -5 3.13 19.37 5 4.13 29.27 9
+    -5 -5 19.33 5 5 29.33 -1
+    -5 -5 19.33 5 -4.03 29.33 11
+    -5 3.66 19.4 5 5 29.31 -1
+    -5 3.66 19.4 5 4.4 29.28 4
+    -5 3.8 19.45 5 5 29.31 15
+    2 4.12 26.41 5 5 29.38 16
+endnode
+endmodelgeom ttdzg_f03_01
+donemodel ttdzg_f03_01

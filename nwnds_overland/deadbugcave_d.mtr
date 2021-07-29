@@ -1,0 +1,9 @@
+ 
+renderhint NormalAndSpecMapped 
+ 
+// Textures 
+texture0 DeadBugcave_D
+texture1 DeadBugcave_N 
+texture2 DeadBugcave_S 
+texture3 null 
+texture4 null 

@@ -1,0 +1,450 @@
+# Exported from Blender on Friday, 2020-01-03
+filedependancy DS_Wall_City_Tyr.blend
+newmodel ttd21_b020_16
+setsupermodel ttd21_b020_16 null
+classification TILE
+setanimationscale 1.0
+beginmodelgeom ttd21_b020_16
+node dummy ttd21_b020_16
+  parent null
+endnode
+node trimesh A1.015
+  parent ttd21_b020_16
+  position  0.00000  0.00000  0.00000
+  orientation  0.00000  1.00000  0.00000  0.00000
+  wirecolor 1.00 1.00 1.00
+  ambient 1.00 1.00 1.00
+  diffuse 1.00 1.00 1.00
+  specular 0.00 0.00 0.00
+  selfillumcolor 0.00 0.00 0.00
+  bitmap ds_tt_sand01
+  shininess 1
+  rotatetexture 0
+  tilefade 0
+  verts 42
+     5.00000  5.00000  3.00000
+     5.00000 -5.00000  3.00000
+    -5.00000  5.00000  4.00000
+    -10.00000 -5.00000  4.00000
+    -7.47047 -0.17648  4.01995
+    -8.64377 -2.00182  4.06343
+    -3.55455  5.00000  3.00000
+    -8.00000 -5.00000  3.00000
+    -6.37138  1.57023  4.04089
+    -5.66981 -0.79579  3.00000
+    -6.56653 -3.14062  3.00000
+    -4.45013  1.26328  3.00000
+    -9.01954 -3.61767  4.07578
+    -6.60282  0.56587  3.72375
+    -7.83228 -0.55493  4.28665
+    -4.98728  4.32523  3.70510
+    -7.45165 -3.89433  3.00000
+    -6.04874 -1.34201  3.00000
+    -4.77054  0.23178  3.00000
+    -3.81307  4.08830  3.00000
+    -10.00000 -4.80000  4.00000
+    -6.90481  0.26077  3.64871
+    -7.91443 -1.18369  4.10562
+    -5.77549  2.23659  3.54847
+    -8.00000 -4.80000  3.00000
+    -6.19498 -2.44700  3.00000
+    -5.19324 -0.26264  3.00000
+    -4.28479  1.89807  3.00000
+    -8.64134 -2.95055  4.13333
+    -6.83015  0.98327  4.12985
+    -5.00000  4.80000  4.00000
+    -7.00067 -3.48184  3.00000
+    -4.62788  0.59721  3.00000
+    -3.71135  4.80000  3.00000
+    -9.67926 -4.39143  4.03789
+    -7.80100 -4.34717  3.00000
+    -5.12670  3.90551  3.62679
+    -4.10430  3.61540  3.00000
+    -5.19641  3.43744  3.58763
+    -4.26338  3.17025  3.00000
+    -5.74064  2.83702  3.56805
+    -4.27899  2.53416  3.00000
+  tverts 42
+     0.7423 -0.9600  0
+     1.0000 -1.0000  0
+     1.0000 -0.9600  0
+     1.2097  0.2684  0
+     1.4941  0.0353  0
+     1.5665  0.1110  0
+     1.4001  0.6964  0
+     1.7288  0.4004  0
+     1.7283  0.5901  0
+     0.9256 -0.1194  0
+     1.2743 -0.3140  0
+     1.3660 -0.1967  0
+    -1.0000 -1.0000  0
+     0.8570 -0.3796  0
+     0.8900 -0.2527  0
+     1.0386  0.0525  0
+     1.3206 -0.1132  0
+     1.3810 -0.0522  0
+     1.5602  0.8694  0
+     1.8039  0.7235  0
+     1.9359  0.8783  0
+     1.5829  0.2367  0
+     1.2390  0.4894  0
+     0.8209 -0.7231  0
+     0.9975 -0.8650  0
+     1.0253 -0.7811  0
+     1.1551 -0.4473  0
+     1.3133  0.6281  0
+     1.6000  0.9600  0
+     2.0000  1.0000  0
+     1.6000  1.0000  0
+     1.1340  0.1592  0
+     0.9541 -0.0464  0
+     1.4903  0.7789  0
+     0.7626 -0.8177  0
+     2.0000  0.9600  0
+     1.0393 -0.6875  0
+     0.8527 -0.6341  0
+     0.8558 -0.5068  0
+     1.1481 -0.5674  0
+     0.7109 -1.0000  0
+    -1.0000  1.0000  0
+  faces 58
+    33  2 30 1   0  1  2 0
+    17  4 14 1   3  4  5 0
+    31  5 28 1   6  7  8 0
+    32  8 29 1   9 10 11 0
+     0 27 11 1  12 13 14 0
+    26 13 21 1  15 16 17 0
+    35 12 34 1  18 19 20 0
+    17 22 25 1   3 21 22 0
+    37 15 36 1  23 24 25 0
+    11 23  8 1  14 26 10 0
+    10 22  5 1  27 21  7 0
+    24  3  7 1  28 29 30 0
+     9 21  4 1  31 17  4 0
+    32 13 18 1   9 16 32 0
+    16 28 12 1  33  8 19 0
+    33 15 19 1   0 24 34 0
+    24 34 20 1  28 20 35 0
+    37 38 39 1  23 36 37 0
+    41 38 40 1  38 36 39 0
+    41 23 27 1  38 26 13 0
+    33  6  2 1   0 40  1 0
+    17  9  4 1   3 31  4 0
+    31 10  5 1   6 27  7 0
+    32 11  8 1   9 14 10 0
+     7  1 10 1  30 41 27 0
+     1  0 11 1  41 12 14 0
+    10  1 25 1  27 41 22 0
+     0  6 19 1  12 40 34 0
+     6 33 19 1  40  0 34 0
+    19 37 41 1  34 23 38 0
+    37 39 41 1  23 37 38 0
+    24  7 35 1  28 30 18 0
+    16 35  7 1  33 18 30 0
+    10 31  7 1  27  6 30 0
+    31 16  7 1   6 33 30 0
+     9 17 25 1  31  3 22 0
+    26  9 25 1  15 31 22 0
+    25  1 18 1  22 41 32 0
+    18 26 25 1  32 15 22 0
+    18  1 32 1  32 41  9 0
+     0 19 27 1  12 34 13 0
+    27 19 41 1  13 34 38 0
+    32  1 11 1   9 41 14 0
+    26 18 13 1  15 32 16 0
+    35 16 12 1  18 33 19 0
+    17 14 22 1   3  5 21 0
+    37 19 15 1  23 34 24 0
+    11 27 23 1  14 13 26 0
+    10 25 22 1  27 22 21 0
+    24 20  3 1  28 35 29 0
+     9 26 21 1  31 15 17 0
+    32 29 13 1   9 11 16 0
+    16 31 28 1  33  6  8 0
+    33 30 15 1   0  2 24 0
+    24 35 34 1  28 18 20 0
+    37 36 38 1  23 25 36 0
+    41 39 38 1  38 37 36 0
+    41 40 23 1  38 39 26 0
+endnode
+node aabb Cylinder.017
+  parent ttd21_b020_16
+  position  0.00000  0.00000  0.00000
+  orientation  0.00000  1.00000  0.00000  0.00000
+  verts 6
+    -5.00000  3.00000  3.00000
+    -3.70000  5.00000  3.00000
+    -5.00002  5.00000  14.00000
+     5.00000 -5.00000  3.00000
+     5.00000  5.00000  3.00000
+    -5.00000 -5.00000  3.00000
+  tverts 1
+     0.0000  0.0000  0
+  faces 4
+    0 1 2 0  0 0 0  2
+    0 4 1 0  0 0 0 20
+    5 3 0 0  0 0 0 20
+    0 3 4 0  0 0 0 20
+  aabb -5.00002 -5.00000  3.00000   5.00000  5.00000  14.00000  -1
+       -5.00000 -5.00000  3.00000   5.00000  5.00000  3.00000  -1
+       -5.00000 -5.00000  3.00000   5.00000  5.00000  3.00000  -1
+       -5.00000 -5.00000  3.00000   5.00000  3.00000  3.00000   2
+       -5.00000  3.00000  3.00000   5.00000  5.00000  3.00000   1
+       -5.00000 -5.00000  3.00000   5.00000  5.00000  3.00000   3
+       -5.00002  3.00000  3.00000  -3.70000  5.00000  14.00000   0
+endnode
+node trimesh Cylinder.025
+  parent ttd21_b020_16
+  position  0.00000  0.00000  0.00000
+  orientation  0.00000  1.00000  0.00000  0.00000
+  wirecolor 1.00 1.00 1.00
+  ambient 1.00 1.00 1.00
+  diffuse 1.00 1.00 1.00
+  specular 0.00 0.00 0.00
+  selfillumcolor 0.00 0.00 0.00
+  bitmap ds_tt_stucco03
+  shininess 1
+  rotatetexture 0
+  tilefade 0
+  verts 5
+    -5.00000  3.47750  3.00000
+    -5.00000  3.47749  14.99999
+    -5.00002  4.99999  14.99988
+    -4.18781  5.00000  14.99999
+    -4.18782  5.00000  3.00000
+  tverts 7
+    -0.3477  1.5000  0
+    -0.3478  0.3000  0
+    -0.5000  1.5000  0
+    -0.5000  0.3000  0
+     1.5812  0.5000  0
+     1.5000  0.5000  0
+     1.5000  0.3477  0
+  faces 3
+    1 0 3 1  0 1 2 0
+    0 4 3 2  1 3 2 0
+    3 2 1 3  4 5 6 0
+endnode
+node dummy ttd21_b020_16ml2
+  parent ttd21_b020_16
+  position  2.14315 -0.66197  18.34656
+  orientation  0.00000  1.00000  0.00000  0.00000
+endnode
+node dummy ttd21_b020_16ml1
+  parent ttd21_b020_16
+  position  0.00000  0.00000  19.34656
+  orientation  0.00000  1.00000  0.00000  0.00000
+endnode
+node dummy ttd21_b020_16a
+  parent ttd21_b020_16
+  position  0.00000  0.00000  0.00000
+  orientation  0.00000  1.00000  0.00000  0.00000
+endnode
+node dummy l_dayn08.012
+  parent ttd21_b020_16a
+  position -0.06327 -0.03873  16.52578
+  orientation  0.86286  0.35741  0.35741  1.71777
+endnode
+endmodelgeom ttd21_b020_16
+
+# ANIM ASCII
+newanim animloop01 ttd21_b020_16
+  length 0.033
+  transtime 0.0
+  animroot ttd21_b020_16
+  node dummy ttd21_b020_16
+    parent null
+  endnode
+  node trimesh A1.015
+    parent ttd21_b020_16
+  endnode
+  node aabb Cylinder.017
+    parent ttd21_b020_16
+  endnode
+  node trimesh Cylinder.025
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16ml2
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16ml1
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16a
+    parent ttd21_b020_16
+  endnode
+  node dummy l_dayn08.012
+    parent ttd21_b020_16a
+  endnode
+doneanim animloop01 ttd21_b020_16
+
+newanim day ttd21_b020_16
+  length 0.3
+  transtime 0.25
+  animroot ttd21_b020_16
+  node dummy ttd21_b020_16
+    parent null
+  endnode
+  node trimesh A1.015
+    parent ttd21_b020_16
+  endnode
+  node aabb Cylinder.017
+    parent ttd21_b020_16
+  endnode
+  node trimesh Cylinder.025
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16ml2
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16ml1
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16a
+    parent ttd21_b020_16
+  endnode
+  node dummy l_dayn08.012
+    parent ttd21_b020_16a
+    colorkey
+       0.000 0.00 0.00 0.00
+       0.300 0.00 0.00 0.00
+    endlist
+  endnode
+doneanim day ttd21_b020_16
+
+newanim day2night ttd21_b020_16
+  length 0.033
+  transtime 0.25
+  animroot ttd21_b020_16
+  node dummy ttd21_b020_16
+    parent null
+  endnode
+  node trimesh A1.015
+    parent ttd21_b020_16
+  endnode
+  node aabb Cylinder.017
+    parent ttd21_b020_16
+  endnode
+  node trimesh Cylinder.025
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16ml2
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16ml1
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16a
+    parent ttd21_b020_16
+  endnode
+  node dummy l_dayn08.012
+    parent ttd21_b020_16a
+    colorkey
+       0.000 0.00 0.00 0.00
+       0.033 1.00 0.43 0.00
+    endlist
+  endnode
+doneanim day2night ttd21_b020_16
+
+newanim night ttd21_b020_16
+  length 0.3
+  transtime 0.25
+  animroot ttd21_b020_16
+  node dummy ttd21_b020_16
+    parent null
+  endnode
+  node trimesh A1.015
+    parent ttd21_b020_16
+  endnode
+  node aabb Cylinder.017
+    parent ttd21_b020_16
+  endnode
+  node trimesh Cylinder.025
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16ml2
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16ml1
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16a
+    parent ttd21_b020_16
+  endnode
+  node dummy l_dayn08.012
+    parent ttd21_b020_16a
+    colorkey
+       0.000 1.00 0.43 0.00
+       0.300 1.00 0.43 0.00
+    endlist
+  endnode
+doneanim night ttd21_b020_16
+
+newanim night2day ttd21_b020_16
+  length 0.033
+  transtime 0.25
+  animroot ttd21_b020_16
+  node dummy ttd21_b020_16
+    parent null
+  endnode
+  node trimesh A1.015
+    parent ttd21_b020_16
+  endnode
+  node aabb Cylinder.017
+    parent ttd21_b020_16
+  endnode
+  node trimesh Cylinder.025
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16ml2
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16ml1
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16a
+    parent ttd21_b020_16
+  endnode
+  node dummy l_dayn08.012
+    parent ttd21_b020_16a
+    colorkey
+       0.000 1.00 0.43 0.00
+       0.033 0.00 0.00 0.00
+    endlist
+  endnode
+doneanim night2day ttd21_b020_16
+
+newanim tiledefault ttd21_b020_16
+  length 0.0
+  transtime 0.0
+  animroot ttd21_b020_16
+  node dummy ttd21_b020_16
+    parent null
+  endnode
+  node trimesh A1.015
+    parent ttd21_b020_16
+  endnode
+  node aabb Cylinder.017
+    parent ttd21_b020_16
+  endnode
+  node trimesh Cylinder.025
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16ml2
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16ml1
+    parent ttd21_b020_16
+  endnode
+  node dummy ttd21_b020_16a
+    parent ttd21_b020_16
+  endnode
+  node dummy l_dayn08.012
+    parent ttd21_b020_16a
+    colorkey
+       0.000 0.00 0.00 0.00
+    endlist
+  endnode
+doneanim tiledefault ttd21_b020_16
+
+donemodel ttd21_b020_16

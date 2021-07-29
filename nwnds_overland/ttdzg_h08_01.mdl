@@ -1,0 +1,104 @@
+# Rewritten by CleanModels 3 Version 3.5.2d Fri Jul 10 21:05:37 2020
+#MAXMODEL ASCII
+filedependency Unknown
+newmodel ttdzg_h08_01
+  classification TILE
+  setsupermodel ttdzg_h08_01 NULL
+  setanimationscale 1
+#MAXGEOM ASCII
+beginmodelgeom ttdzg_h08_01
+node dummy ttdzg_h08_01
+  parent NULL
+endnode
+node light ttdzg_h08_01ml1
+  parent ttdzg_h08_01
+  position 0 0 5
+  orientation 0 0 0 0
+  wirecolor 0.337255 0.337255 0.337255
+  radius 14
+  multiplier 1
+  color 0 0 0
+  ambientonly 0
+  nDynamicType 0
+  affectdynamic 1
+  shadow 0
+  lightpriority 5
+  fadinglight 0
+endnode
+node light ttdzg_h08_01ml2
+  parent ttdzg_h08_01
+  position -2 -2 4
+  orientation 0 0 0 0
+  wirecolor 0.337255 0.337255 0.337255
+  radius 5
+  multiplier 1
+  color 0 0 0
+  ambientonly 0
+  nDynamicType 0
+  affectdynamic 1
+  shadow 0
+  lightpriority 5
+  fadinglight 0
+endnode
+node aabb wok_85
+  parent ttdzg_h08_01
+  position 0 0 0
+  bitmap NULL
+  orientation 0 0 0 0
+  wirecolor 1 1 1
+  ambient 0.588 0.588 0.588
+  diffuse 1 1 1
+  specular 0 0 0
+  shininess 10
+  render 0
+  shadow 0
+  verts 13
+    -5 -5 30.4
+    -2.58 -5 30.49
+    2.49 -5 30.42
+    4.8 -5 29.75
+    -4.38 -5 30.28
+    5 -5 29.55
+    -5 5 20.05
+    5 5 19.92
+    5 -2.27 27.52
+    5 -4.82 29.55
+    -2.79 5 19.62
+    -2.41 5 19.55
+    1.28 5 19.97
+  faces 11
+    8 2 3 0 0 0 0 2
+    3 9 8 0 0 0 0 2
+    6 0 10 0 0 0 0 2
+    7 12 1 0 0 0 0 2
+    1 2 8 0 0 0 0 2
+    7 1 8 0 0 0 0 2
+    9 3 5 0 0 0 0 2
+    10 0 4 0 0 0 0 2
+    4 11 10 0 0 0 0 2
+    11 4 1 0 0 0 0 2
+    1 12 11 0 0 0 0 2
+  aabb     -5 -5 19.55 5 5 30.49 -1
+    -5 -5 19.55 5 5 30.49 -1
+    -5 -5 19.55 5 5 30.49 -1
+    -4.38 -5 19.55 -2.41 5 30.28 8
+    -5 -5 19.55 5 5 30.49 -1
+    -5 -5 19.55 1.28 5 30.49 -1
+    -2.58 -5 19.55 1.28 5 30.49 10
+    -5 -5 19.62 -2.79 5 30.4 2
+    -2.58 -5 19.92 5 5 30.49 3
+    -2.58 -5 19.92 5 5 30.49 5
+    -5 -5 19.55 5 5 30.49 -1
+    -5 -5 19.55 -2.41 5 30.49 -1
+    -5 -5 19.62 -2.79 5 30.4 7
+    -4.38 -5 19.55 -2.41 5 30.49 9
+    -2.58 -5 27.52 5 -2.27 30.49 -1
+    -2.58 -5 27.52 5 -2.27 30.49 4
+    2.49 -5 27.52 5 -2.27 30.42 -1
+    2.49 -5 27.52 5 -2.27 30.42 -1
+    4.8 -5 27.52 5 -2.27 29.75 1
+    2.49 -5 27.52 5 -2.27 30.42 0
+    4.8 -5 29.55 5 -4.82 29.75 6
+endnode
+endmodelgeom ttdzg_h08_01
+donemodel ttdzg_h08_01
