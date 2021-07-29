@@ -1,27 +1,32 @@
 2DA V2.0
 
-       Corner1     Edge       Corner2     Height     Model            
+       Corner1          Edge           Corner2          Height     Model            
 
-0      Rock_floor       ****       Rock_floor       0          tjj01_Z10_01     
-1      Rock_floor+      ****       Rock_floor       0          tjj01_Z01_01     
-2      Rock_floor+      ****       Rock_floor+      1          tjj01_Z10_01     
-3      Rock_floor       ****       ****             0          tjj01_Z10_01     
-4      Rock_floor+      ****       ****             1          tjj01_Z10_01       
-5      Rock_mound       ****       Rock_mound       0          tjj01_Z02_01     
-6      Rock_hill        ****       Rock_hill        0          tjj01_Z03_01     
-7      Rock_floor       ****       Rock_mound       0          tjj01_Z04_01     
-8      Rock_floor       ****       Rock_hill        0          tjj01_Z05_01     
-9      Rock_mound       ****       Rock_hill        0          tjj01_Z06_01     
-10     Rock_hill        ****       Rock_floor+      0          tjj01_Z07_01     
-11     Rock_mound       ****       Rock_floor+      0          tjj01_Z08_01       
-12     Rock_floor+      ****       ****             1          tjj01_Z01_01      
-13     Rock_mound       ****       Rock_mound+      0          tjj01_Z12_01     
-14     Rock_hill        ****       Rock_hill+       0          tjj01_Z13_01        
-15     Rock_mound       ****       ****             0          tjj01_Z02_01
-16     Rock_hill        ****       ****             0          tjj01_Z03_01
-17     Rock_mound+      ****       ****             1          tjj01_z11_01
-18     Rock_hill        ****       Rock_mound+      0          tjj01_Z17_01
-19     Rock_floor+      ****       Rock_mound+      1          tjj01_Z04_01 
-20     Rock_hill        ****       Rock_mound       0          tjj01_Z17_01
-21     Rock_mound+      ****       Rock_mound+      1          tjj01_Z02_01     
-
+0      Rock_floor       ****           Rock_floor       0          tjj01_a01_02     
+1      Rock_floor+      ****           Rock_floor       0          tjj01_Z01_01     
+2      Rock_floor+      ****           Rock_floor+      1          tjj01_Z10_01     
+3      Rock_floor       ****           ****             0          tjj01_Z10_01     
+4      Rock_floor+      ****           ****             1          tjj01_Z10_01       
+5      Rock_mound       ****           Rock_mound       0          tjj01_Z02_01     
+6      Rock_hill        ****           Rock_hill        0          tjj01_Z03_01     
+7      Rock_floor       ****           Rock_mound       0          tjj01_Z04_01     
+8      Rock_floor       ****           Rock_hill        0          tjj01_Z05_01     
+9      Rock_mound       ****           Rock_hill        0          tjj01_Z06_01     
+10     Rock_hill        ****           Rock_floor+      0          tjj01_Z07_01     
+11     Rock_mound       ****           Rock_floor+      0          tjj01_Z08_01       
+12     Rock_floor+      ****           ****             1          tjj01_Z01_01      
+13     Rock_mound       ****           Rock_mound+      0          tjj01_Z12_01     
+14     Rock_hill        ****           Rock_hill+       0          tjj01_Z13_01        
+15     Rock_mound       ****           ****             0          tjj01_Z02_01
+16     Rock_hill        ****           ****             0          tjj01_Z03_01
+17     Rock_mound+      ****           ****             1          tjj01_z11_01
+18     Rock_hill        ****           Rock_mound+      0          tjj01_Z17_01
+19     Rock_floor+      ****           Rock_mound+      1          tjj01_Z04_01 
+20     Rock_hill        ****           Rock_mound       0          tjj01_Z17_01
+21     Rock_mound+      ****           Rock_mound+      1          tjj01_Z02_01
+22     Cliff            ****           Rock_floor       0          qju09_a22_03X    
+23     Cliff            ****           Cliff            0          qju09_A10_01 
+24     Cliff            ****           ****             0          qju09_A10_01 
+25     Rock_floor       Ponti_sospesi  Rock_floor       0          tjj01_s21_03
+26     Cliff            Cliff_Tunnel   Cliff            0          qju91_c10_02
+27     Cliff            Cliff_Tunnel_2 Cliff            0          qju91_c10_42
