@@ -1,0 +1,107 @@
+# Exported from NWMax Plus v6.11.28 at 5/25/2020 9:00:26 PM
+# mdl file
+#
+#NWMax Plus MODEL  ASCII
+# model: BUG01_C06_01
+filedependancy bigbugdungeon010.max
+newmodel BUG01_C06_01
+setsupermodel BUG01_C06_01 NULL
+classification Tile
+#NWMax Plus GEOM  ASCII
+beginmodelgeom BUG01_C06_01
+node dummy BUG01_C06_01
+  parent NULL
+endnode
+node light BUG01_C06_01ml1
+  parent BUG01_C06_01
+  position 0.0 0.0 5.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.345098 0.694118 0.105882 
+  radius 14.0
+  multiplier 1.0
+  color 0.0 0.0 0.0 
+  ambientonly 0
+  nDynamicType 0
+  affectDynamic 1
+  shadow 0
+  lightpriority 5
+  fadingLight 0
+endnode
+node light BUG01_C06_01ml2
+  parent BUG01_C06_01
+  position -2.0 -2.0 4.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.345098 0.694118 0.105882 
+  radius 5.0
+  multiplier 1.0
+  color 0.0 0.0 0.0 
+  ambientonly 0
+  nDynamicType 0
+  affectDynamic 1
+  shadow 0
+  lightpriority 5
+  fadingLight 0
+endnode
+node aabb wok_34
+  parent BUG01_C06_01
+  position 0.0 -9.76562e-006 4.56974
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.0 0.0 0.0 
+  multimaterial 31
+    trd21_sand08
+    Dirt
+    Obscuring
+    Grass
+    Stone
+    Wood
+    Water
+    Nonwalk
+    Transparent
+    Carpet
+    Metal
+    Puddles
+    Swamp
+    Mud
+    Leaves
+    Lava
+    BottomlessPit
+    DeepWater
+    Door
+    Snow
+    Sand
+    BareBones
+    StoneBridge
+    Temp1
+    Temp2
+    Temp3
+    Temp4
+    Temp5
+    Temp6
+    Temp7
+    Trigger
+  ambient 0.784314 0.784314 0.784314 
+  diffuse 0.784314 0.784314 0.784314 
+  specular 0.0 0.0 0.0 
+  shininess 10.0
+  bitmap Snow
+  verts 4
+    -5.0 -5.0 -1.32
+    5.0 -5.0 0.27
+    -5.0 5.0 -0.34
+    5.0 5.0 1.32
+  faces 2
+    2 0 3  0  0 1 2  20
+    3 0 1  0  3 4 5  20
+  tverts 6
+    9.31735 -29.1652 0
+    9.38613 -31.1771 0
+    11.1947 -29.1224 0
+    11.1947 -29.1224 0
+    9.38613 -31.1771 0
+    11.1785 -31.4388 0
+    aabb         -5.0 -4.99999 -1.31974 5.0 5.00001 1.32026 -1
+        -5.0 -4.99999 -1.31974 5.0 5.00001 1.32026 0
+        -5.0 -4.99999 -1.31974 5.0 5.00001 1.32026 1
+endnode
+endmodelgeom BUG01_C06_01
+donemodel BUG01_C06_01

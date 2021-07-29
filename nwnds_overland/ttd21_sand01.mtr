@@ -1,0 +1,9 @@
+ 
+renderhint NormalAndSpecMapped 
+ 
+// Textures 
+texture0 ttd21_sand01 
+texture1 ttd21_sand01_N 
+texture2 ttd21_sand01_S 
+texture3 null 
+texture4 null 

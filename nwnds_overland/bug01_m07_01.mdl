@@ -1,0 +1,114 @@
+# Exported from NWMax Plus v6.11.28 at 5/25/2020 9:01:44 PM
+# mdl file
+#
+#NWMax Plus MODEL  ASCII
+# model: BUG01_M07_01
+filedependancy bigbugdungeon010.max
+newmodel BUG01_M07_01
+setsupermodel BUG01_M07_01 NULL
+classification Tile
+#NWMax Plus GEOM  ASCII
+beginmodelgeom BUG01_M07_01
+node dummy BUG01_M07_01
+  parent NULL
+endnode
+node light BUG01_M07_01ml1
+  parent BUG01_M07_01
+  position 0.0 0.0 5.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.65098 0.898039 0.898039 
+  radius 14.0
+  multiplier 1.0
+  color 0.0 0.0 0.0 
+  ambientonly 0
+  nDynamicType 0
+  affectDynamic 1
+  shadow 0
+  lightpriority 5
+  fadingLight 0
+endnode
+node light BUG01_M07_01ml2
+  parent BUG01_M07_01
+  position -2.0 -2.0 4.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.65098 0.898039 0.898039 
+  radius 5.0
+  multiplier 1.0
+  color 0.0 0.0 0.0 
+  ambientonly 0
+  nDynamicType 0
+  affectDynamic 1
+  shadow 0
+  lightpriority 5
+  fadingLight 0
+endnode
+node aabb wok_175
+  parent BUG01_M07_01
+  position 0.0 0.0 14.0603
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.0 0.0 0.0 
+  multimaterial 31
+    trd21_sand08
+    Dirt
+    Obscuring
+    Grass
+    Stone
+    Wood
+    Water
+    Nonwalk
+    Transparent
+    Carpet
+    Metal
+    Puddles
+    Swamp
+    Mud
+    Leaves
+    Lava
+    BottomlessPit
+    DeepWater
+    Door
+    Snow
+    Sand
+    BareBones
+    StoneBridge
+    Temp1
+    Temp2
+    Temp3
+    Temp4
+    Temp5
+    Temp6
+    Temp7
+    Trigger
+  ambient 0.6 0.34 0.16 
+  diffuse 0.6 0.34 0.16 
+  specular 0.0 0.0 0.0 
+  shininess 10.0
+  bitmap Dirt
+  verts 5
+    -5.0 -5.0 0.0
+    5.0 -5.0 0.0
+    -5.0 5.0 0.0
+    5.0 5.0 0.0
+    1.29 5.0 0.0
+  faces 3
+    3 4 0  0  0 1 2  2
+    0 1 3  0  3 4 5  2
+    2 0 4  0  6 7 8  2
+  tverts 9
+    12.8424 -9.09216 0
+    12.1658 -9.09961 0
+    11.0535 -11.1222 0
+    11.0535 -11.1222 0
+    12.8783 -11.1021 0
+    12.8424 -9.09216 0
+    11.0205 -9.10889 0
+    11.0535 -11.1222 0
+    12.1658 -9.09961 0
+    aabb         -5.0 -5.0 -0.000314941 5.0 5.0 -0.000314941 -1
+        -5.0 -5.0 -0.000314941 1.29 5.0 -0.000314941 2
+        -5.0 -5.0 -0.000314941 5.0 5.0 -0.000314941 -1
+        -5.0 -5.0 -0.000314941 5.0 5.0 -0.000314941 0
+        -5.0 -5.0 -0.000314941 5.0 5.0 -0.000314941 1
+endnode
+endmodelgeom BUG01_M07_01
+donemodel BUG01_M07_01

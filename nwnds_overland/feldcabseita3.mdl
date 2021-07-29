@@ -1,0 +1,2999 @@
+# Exported from NWMax Plus v6.11.28 at 12/14/2020 8:37:46 PM
+# mdl file
+#
+#NWMax Plus MODEL  ASCII
+# model: feldcabseita3
+filedependancy Unknown
+newmodel feldcabseita3
+setsupermodel feldcabseita3 NULL
+classification Tile
+#NWMax Plus GEOM  ASCII
+beginmodelgeom feldcabseita3
+node dummy feldcabseita3
+  parent NULL
+endnode
+node dummy kohlkopf07
+  parent feldcabseita3
+  position 0.77 -1.68 2.95
+  orientation 0.0333034 0.111916 0.993159 -1.19306
+  wirecolor 0.341176 0.882353 0.776471 
+endnode
+#Tile trimesh node
+node trimesh geosphere84
+  parent kohlkopf07
+  position -0.18 -0.09 -0.02
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 0.5 1.0 7.5 
+  bitmap kohlmitte
+  verts 9
+    -0.2 0.03 0.06
+    -0.13 -0.19 -0.01
+    -0.08 -0.11 0.19
+    -0.05 0.13 0.19
+    -0.07 0.22 -0.04
+    0.04 -0.2 0.07
+    0.12 -0.01 0.19
+    0.11 0.21 0.05
+    0.21 0.02 -0.04
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+#Tile trimesh node
+node trimesh geosphere83
+  parent kohlkopf07
+  position -0.16 -0.07 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 15.5 5.0 -1.5 
+  bitmap cabbageleaf
+  verts 4
+    0.0 0.0 -0.16
+    0.69 -0.08 0.13
+    -0.38 -0.57 0.13
+    -0.31 0.67 0.13
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+node light feldplgseitaml1
+  parent feldcabseita3
+  position 0.0 0.0 8.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 1.0 1.0 1.0 
+  radius 14.0
+  multiplier 1.0
+  color 0.0 0.0 0.0 
+  ambientonly 0
+  nDynamicType 0
+  affectDynamic 1
+  shadow 0
+  lightpriority 5
+  fadingLight 0
+endnode
+node light feldplgseitaml2
+  parent feldcabseita3
+  position 2.31 -1.77 6.08
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 1.0 1.0 1.0 
+  radius 5.0
+  multiplier 1.0
+  color 0.00392157 0.00392157 0.00392157 
+  ambientonly 0
+  nDynamicType 0
+  affectDynamic 1
+  shadow 0
+  lightpriority 5
+  fadingLight 0
+endnode
+#Tile trimesh node
+node trimesh plane01
+  parent feldcabseita3
+  position 0.0 0.0 3.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.0156863 0.521569 0.0156863 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 0.0 240.0 0.0 
+  bitmap trd21_sand08
+  verts 18
+    -5.0 0.3 0.0
+    -3.0 0.3 0.0
+    -0.3 -0.2 0.0
+    0.3 -0.2 0.0
+    3.0 0.3 0.0
+    5.0 0.3 0.0
+    -5.0 3.0 0.0
+    -3.0 3.0 0.0
+    -0.3 3.0 0.0
+    0.3 3.0 0.0
+    3.0 3.0 0.0
+    5.0 3.0 0.0
+    -5.0 5.0 0.0
+    -3.0 5.0 0.0
+    -0.3 5.0 0.0
+    0.3 5.0 0.0
+    3.0 5.0 0.0
+    5.0 5.0 0.0
+  faces 20
+    6 0 7  1  6 0 7  1
+    1 7 0  1  1 7 0  1
+    7 1 8  1  7 1 8  1
+    2 8 1  1  2 8 1  1
+    8 2 9  1  8 2 9  1
+    3 9 2  1  3 9 2  1
+    9 3 10  1  9 3 10  1
+    4 10 3  1  4 10 3  1
+    10 4 11  1  10 4 11  1
+    5 11 4  1  5 11 4  1
+    12 6 13  1  12 6 13  1
+    7 13 6  1  7 13 6  1
+    13 7 14  1  13 7 14  1
+    8 14 7  1  8 14 7  1
+    14 8 15  1  14 8 15  1
+    9 15 8  1  9 15 8  1
+    15 9 16  1  15 9 16  1
+    10 16 9  1  10 16 9  1
+    16 10 17  1  16 10 17  1
+    11 17 10  1  11 17 10  1
+  tverts 18
+    0.0 1.014 0
+    0.39629 1.014 0
+    0.93128 1.014 0
+    1.05017 1.014 0
+    1.58516 1.014 0
+    1.98145 1.014 0
+    0.0 1.6 0
+    0.39629 1.6 0
+    0.93128 1.6 0
+    1.05017 1.6 0
+    1.58516 1.6 0
+    1.98145 1.6 0
+    0.0 1.99072 0
+    0.39629 1.99072 0
+    0.93128 1.99072 0
+    1.05017 1.99072 0
+    1.58516 1.99072 0
+    1.98145 1.99072 0
+endnode
+node dummy kohlkopf08
+  parent feldcabseita3
+  position 2.66 -1.33 2.91
+  orientation 0.31281 0.0112613 -0.949749 -1.10256
+  wirecolor 0.6 0.894118 0.839216 
+endnode
+#Tile trimesh node
+node trimesh geosphere85
+  parent kohlkopf08
+  position -0.18 -0.07 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 17.5 6.5 -1.5 
+  bitmap cabbageleaf
+  verts 4
+    0.0 0.01 -0.16
+    0.75 -0.1 0.13
+    -0.4 -0.56 0.13
+    -0.36 0.69 0.12
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+#Tile trimesh node
+node trimesh geosphere86
+  parent kohlkopf08
+  position -0.19 -0.08 -0.02
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center -0.5 2.0 7.0 
+  bitmap kohlmitte
+  verts 9
+    -0.23 0.04 0.05
+    -0.14 -0.18 -0.01
+    -0.09 -0.09 0.18
+    -0.07 0.15 0.18
+    -0.09 0.23 -0.04
+    0.05 -0.19 0.07
+    0.13 -0.01 0.18
+    0.11 0.22 0.04
+    0.22 0.01 -0.04
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+node dummy kohlkopf28
+  parent feldcabseita3
+  position -1.34 -1.34 2.93
+  orientation 0.0818982 0.0879062 -0.992756 -1.32941
+  wirecolor 0.776471 0.882353 0.341176 
+endnode
+#Tile trimesh node
+node trimesh geosphere125
+  parent kohlkopf28
+  position -0.16 -0.06 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 16.0 5.5 -2.0 
+  bitmap cabbageleaf
+  verts 4
+    0.01 0.01 -0.17
+    0.68 -0.09 0.13
+    -0.36 -0.5 0.13
+    -0.32 0.61 0.11
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+#Tile trimesh node
+node trimesh geosphere126
+  parent kohlkopf28
+  position -0.17 -0.08 -0.01
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 1.5 1.0 7.5 
+  bitmap kohlmitte
+  verts 9
+    -0.19 0.03 0.05
+    -0.11 -0.16 -0.01
+    -0.07 -0.09 0.18
+    -0.05 0.12 0.18
+    -0.07 0.2 -0.04
+    0.06 -0.18 0.07
+    0.14 -0.01 0.19
+    0.12 0.19 0.04
+    0.22 0.01 -0.04
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+node dummy kohlkopf
+  parent feldcabseita3
+  position 4.85 -3.35 2.92
+  orientation 0.0 0.0 -1.0 -0.816461
+  wirecolor 0.776471 0.882353 0.341176 
+endnode
+#Tile trimesh node
+node trimesh geosphere69
+  parent kohlkopf
+  position -0.2 -0.08 -0.02
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 0.0 1.0 6.5 
+  bitmap kohlmitte
+  verts 9
+    -0.23 0.05 0.05
+    -0.13 -0.18 -0.02
+    -0.08 -0.09 0.18
+    -0.06 0.15 0.18
+    -0.08 0.22 -0.04
+    0.06 -0.2 0.06
+    0.14 -0.01 0.18
+    0.12 0.22 0.04
+    0.23 0.02 -0.05
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+#Tile trimesh node
+node trimesh geosphere70
+  parent kohlkopf
+  position -0.19 -0.07 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 18.5 6.0 -1.5 
+  bitmap cabbageleaf
+  verts 4
+    0.01 0.0 -0.16
+    0.76 -0.11 0.13
+    -0.39 -0.57 0.13
+    -0.36 0.69 0.13
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+node dummy kohlkopf01
+  parent feldcabseita3
+  position 2.63 -3.33 2.93
+  orientation 0.0463941 0.0363411 -0.998262 -1.13975
+  wirecolor 0.878431 0.337255 0.337255 
+endnode
+#Tile trimesh node
+node trimesh geosphere71
+  parent kohlkopf01
+  position -0.15 -0.06 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 15.5 7.5 -2.0 
+  bitmap cabbageleaf
+  verts 4
+    0.0 0.01 -0.16
+    0.67 -0.15 0.12
+    -0.33 -0.55 0.12
+    -0.36 0.7 0.12
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+#Tile trimesh node
+node trimesh geosphere72
+  parent kohlkopf01
+  position -0.17 -0.07 -0.02
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center -0.5 0.5 6.5 
+  bitmap kohlmitte
+  verts 9
+    -0.21 0.04 0.05
+    -0.12 -0.18 -0.02
+    -0.08 -0.1 0.18
+    -0.07 0.14 0.18
+    -0.09 0.22 -0.04
+    0.06 -0.21 0.06
+    0.12 -0.02 0.18
+    0.09 0.21 0.04
+    0.2 0.0 -0.05
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+node dummy kohlkopf02
+  parent feldcabseita3
+  position 0.66 -3.3 2.93
+  orientation 0.0 0.0 -1.0 -0.446519
+  wirecolor 0.882353 0.345098 0.780392 
+endnode
+#Tile trimesh node
+node trimesh geosphere73
+  parent kohlkopf02
+  position -0.18 -0.07 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 17.5 6.0 -1.5 
+  bitmap cabbageleaf
+  verts 4
+    0.01 0.0 -0.16
+    0.75 -0.1 0.13
+    -0.4 -0.56 0.13
+    -0.35 0.68 0.13
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+#Tile trimesh node
+node trimesh geosphere74
+  parent kohlkopf02
+  position -0.19 -0.08 -0.02
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 0.5 1.0 6.5 
+  bitmap kohlmitte
+  verts 9
+    -0.22 0.04 0.05
+    -0.14 -0.18 -0.02
+    -0.09 -0.1 0.18
+    -0.06 0.14 0.18
+    -0.08 0.22 -0.04
+    0.05 -0.2 0.06
+    0.13 -0.01 0.18
+    0.12 0.22 0.04
+    0.23 0.01 -0.05
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+node dummy kohlkopf25
+  parent feldcabseita3
+  position -0.63 -2.35 2.93
+  orientation 0.145732 0.0975595 -0.984502 -0.872574
+  wirecolor 0.109804 0.34902 0.694118 
+endnode
+#Tile trimesh node
+node trimesh geosphere119
+  parent kohlkopf25
+  position -0.16 -0.06 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 16.0 6.0 -2.0 
+  bitmap cabbageleaf
+  verts 4
+    0.0 0.01 -0.17
+    0.68 -0.09 0.13
+    -0.36 -0.49 0.13
+    -0.32 0.61 0.11
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+#Tile trimesh node
+node trimesh geosphere120
+  parent kohlkopf25
+  position -0.17 -0.08 -0.01
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 1.0 1.5 7.5 
+  bitmap kohlmitte
+  verts 9
+    -0.2 0.04 0.05
+    -0.11 -0.16 -0.01
+    -0.07 -0.09 0.18
+    -0.04 0.12 0.18
+    -0.06 0.2 -0.04
+    0.06 -0.17 0.07
+    0.13 -0.01 0.19
+    0.11 0.2 0.04
+    0.22 0.01 -0.04
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+node dummy kohlkopf05
+  parent feldcabseita3
+  position 3.31 -2.22 2.95
+  orientation 0.00127969 0.0842046 -0.996448 -1.40925
+  wirecolor 0.0235294 0.529412 0.227451 
+endnode
+#Tile trimesh node
+node trimesh geosphere79
+  parent kohlkopf05
+  position -0.18 -0.07 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 17.5 6.0 -2.5 
+  bitmap cabbageleaf
+  verts 4
+    0.0 0.01 -0.17
+    0.75 -0.1 0.12
+    -0.4 -0.56 0.12
+    -0.36 0.68 0.12
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+#Tile trimesh node
+node trimesh geosphere80
+  parent kohlkopf05
+  position -0.19 -0.08 -0.02
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center -0.5 2.0 6.5 
+  bitmap kohlmitte
+  verts 9
+    -0.23 0.05 0.05
+    -0.15 -0.18 -0.03
+    -0.09 -0.09 0.18
+    -0.07 0.14 0.18
+    -0.09 0.22 -0.04
+    0.05 -0.19 0.06
+    0.12 -0.01 0.17
+    0.11 0.23 0.04
+    0.22 0.02 -0.05
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+node dummy kohlkopf06
+  parent feldcabseita3
+  position 1.52 -2.38 2.93
+  orientation -1.0 0.0 0.0 -0.0698131
+  wirecolor 0.0235294 0.529412 0.227451 
+endnode
+#Tile trimesh node
+node trimesh geosphere81
+  parent kohlkopf06
+  position -0.18 -0.05 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 18.5 5.5 -1.5 
+  bitmap cabbageleaf
+  verts 4
+    0.01 0.01 -0.17
+    0.76 -0.07 0.12
+    -0.39 -0.43 0.12
+    -0.35 0.54 0.14
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+#Tile trimesh node
+node trimesh geosphere82
+  parent kohlkopf06
+  position -0.19 -0.07 -0.02
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 0.5 1.5 7.5 
+  bitmap kohlmitte
+  verts 9
+    -0.22 0.03 0.05
+    -0.13 -0.14 -0.02
+    -0.08 -0.07 0.18
+    -0.06 0.12 0.19
+    -0.08 0.17 -0.04
+    0.06 -0.15 0.06
+    0.14 0.0 0.19
+    0.12 0.18 0.04
+    0.23 0.01 -0.04
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+node dummy kohlkopf09
+  parent feldcabseita3
+  position 4.97 -1.43 2.92
+  orientation 0.0 0.0 1.0 -0.456383
+  wirecolor 0.839216 0.894118 0.6 
+endnode
+#Tile trimesh node
+node trimesh geosphere87
+  parent kohlkopf09
+  position -0.21 -0.08 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 17.5 5.0 -1.5 
+  bitmap cabbageleaf
+  verts 4
+    0.0 0.01 -0.16
+    0.86 -0.04 0.13
+    -0.51 -0.6 0.13
+    -0.36 0.7 0.13
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+#Tile trimesh node
+node trimesh geosphere88
+  parent kohlkopf09
+  position -0.23 -0.1 -0.02
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 0.0 2.5 6.5 
+  bitmap kohlmitte
+  verts 9
+    -0.26 0.03 0.05
+    -0.17 -0.19 -0.02
+    -0.11 -0.1 0.18
+    -0.06 0.14 0.18
+    -0.08 0.23 -0.04
+    0.05 -0.19 0.06
+    0.15 0.0 0.18
+    0.15 0.24 0.04
+    0.26 0.03 -0.05
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+node dummy kohlkopf26
+  parent feldcabseita3
+  position -4.5 -2.36 2.93
+  orientation 0.0554193 0.0838086 -0.99494 -1.65897
+  wirecolor 0.890196 0.6 0.6 
+endnode
+#Tile trimesh node
+node trimesh geosphere122
+  parent kohlkopf26
+  position -0.17 -0.08 -0.01
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 1.0 1.0 7.5 
+  bitmap kohlmitte
+  verts 9
+    -0.19 0.03 0.05
+    -0.11 -0.17 -0.01
+    -0.07 -0.1 0.18
+    -0.05 0.11 0.18
+    -0.07 0.2 -0.04
+    0.06 -0.18 0.07
+    0.13 -0.01 0.19
+    0.11 0.19 0.04
+    0.21 0.0 -0.04
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+#Tile trimesh node
+node trimesh geosphere121
+  parent kohlkopf26
+  position -0.16 -0.06 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 15.5 5.5 -2.0 
+  bitmap cabbageleaf
+  verts 4
+    0.0 0.0 -0.17
+    0.67 -0.1 0.12
+    -0.36 -0.5 0.13
+    -0.32 0.61 0.11
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+node dummy kohlkopf23
+  parent feldcabseita3
+  position -1.87 -3.4 2.93
+  orientation -0.0144853 -0.0773673 0.996897 -3.82897
+  wirecolor 0.898039 0.603922 0.843137 
+endnode
+#Tile trimesh node
+node trimesh geosphere115
+  parent kohlkopf23
+  position -0.16 -0.06 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 16.0 5.5 -2.0 
+  bitmap cabbageleaf
+  verts 4
+    0.0 0.02 -0.17
+    0.68 -0.08 0.13
+    -0.36 -0.5 0.13
+    -0.32 0.61 0.11
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+#Tile trimesh node
+node trimesh geosphere116
+  parent kohlkopf23
+  position -0.17 -0.08 -0.01
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 1.5 1.0 7.5 
+  bitmap kohlmitte
+  verts 9
+    -0.19 0.04 0.05
+    -0.11 -0.16 -0.01
+    -0.06 -0.09 0.18
+    -0.04 0.13 0.18
+    -0.07 0.2 -0.04
+    0.06 -0.18 0.07
+    0.13 -0.01 0.19
+    0.12 0.2 0.04
+    0.22 0.01 -0.04
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+node dummy kohlkopf24
+  parent feldcabseita3
+  position -3.59 -3.34 2.93
+  orientation 0.0818982 0.0879062 -0.992756 -1.32941
+  wirecolor 0.345098 0.564706 0.882353 
+endnode
+#Tile trimesh node
+node trimesh geosphere117
+  parent kohlkopf24
+  position -0.16 -0.06 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 16.0 5.5 -2.0 
+  bitmap cabbageleaf
+  verts 4
+    0.0 0.01 -0.17
+    0.68 -0.09 0.13
+    -0.36 -0.5 0.13
+    -0.32 0.61 0.11
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+#Tile trimesh node
+node trimesh geosphere118
+  parent kohlkopf24
+  position -0.17 -0.08 -0.01
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 0.5 0.5 7.5 
+  bitmap kohlmitte
+  verts 9
+    -0.2 0.03 0.05
+    -0.12 -0.16 -0.01
+    -0.07 -0.09 0.18
+    -0.05 0.12 0.18
+    -0.07 0.19 -0.04
+    0.06 -0.18 0.07
+    0.13 -0.01 0.19
+    0.11 0.19 0.04
+    0.21 0.01 -0.04
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+node dummy kohlkopf27
+  parent feldcabseita3
+  position -2.67 -2.35 2.93
+  orientation 0.0818982 0.0879062 -0.992756 -1.32941
+  wirecolor 0.341176 0.882353 0.560784 
+endnode
+#Tile trimesh node
+node trimesh geosphere123
+  parent kohlkopf27
+  position -0.16 -0.06 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 16.0 6.0 -2.0 
+  bitmap cabbageleaf
+  verts 4
+    0.0 0.01 -0.17
+    0.68 -0.09 0.13
+    -0.36 -0.5 0.13
+    -0.32 0.62 0.11
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+#Tile trimesh node
+node trimesh geosphere124
+  parent kohlkopf27
+  position -0.17 -0.08 -0.01
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 1.0 1.5 7.5 
+  bitmap kohlmitte
+  verts 9
+    -0.19 0.04 0.05
+    -0.11 -0.16 -0.01
+    -0.07 -0.08 0.18
+    -0.05 0.13 0.18
+    -0.07 0.2 -0.04
+    0.06 -0.17 0.07
+    0.13 0.0 0.19
+    0.11 0.2 0.04
+    0.21 0.01 -0.04
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+node dummy kohlkopf29
+  parent feldcabseita3
+  position -3.62 -1.33 2.93
+  orientation 0.148135 0.0979166 -0.984108 -0.861041
+  wirecolor 0.341176 0.882353 0.560784 
+endnode
+#Tile trimesh node
+node trimesh geosphere127
+  parent kohlkopf29
+  position -0.16 -0.06 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 16.0 5.0 -2.0 
+  bitmap cabbageleaf
+  verts 4
+    0.0 0.01 -0.17
+    0.68 -0.1 0.12
+    -0.36 -0.51 0.13
+    -0.32 0.61 0.11
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+#Tile trimesh node
+node trimesh geosphere128
+  parent kohlkopf29
+  position -0.17 -0.08 -0.01
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 0.5 1.0 7.5 
+  bitmap kohlmitte
+  verts 9
+    -0.2 0.03 0.05
+    -0.11 -0.16 -0.01
+    -0.07 -0.09 0.18
+    -0.05 0.13 0.18
+    -0.08 0.2 -0.04
+    0.05 -0.18 0.07
+    0.12 -0.02 0.19
+    0.11 0.2 0.04
+    0.21 0.01 -0.04
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+node aabb walk
+  parent feldcabseita3
+  position 0.0 0.0 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.0156863 0.521569 0.0156863 
+  multimaterial 30
+    Dirt
+    Obscuring
+    Grass
+    Stone
+    Wood
+    Water
+    Nonwalk
+    Transparent
+    Carpet
+    Metal
+    Puddles
+    Swamp
+    Mud
+    Leaves
+    Lava
+    BottomlessPit
+    DeepWater
+    Door
+    Snow
+    Sand
+    BareBones
+    StoneBridge
+    Temp1
+    Temp2
+    Temp3
+    Temp4
+    Temp5
+    Temp6
+    Temp7
+    Trigger
+  ambient 0.588 0.588 0.588 
+  diffuse 0.937255 0.941177 0.564706 
+  specular 0.0 0.0 0.0 
+  shininess 10.0
+  bitmap Sand
+  verts 90
+    -5.0 -0.3 2.7
+    -3.0 -0.3 2.7
+    -0.3 -0.7 2.7
+    0.3 -0.7 2.7
+    3.0 -0.3 2.7
+    5.0 -0.3 2.7
+    -5.0 0.3 3.0
+    -3.0 0.3 3.0
+    -0.3 -0.3 3.0
+    0.3 -0.3 3.0
+    3.0 0.3 3.0
+    5.0 0.3 3.0
+    -5.0 3.0 3.0
+    -3.0 3.0 3.0
+    0.0 2.5 3.0
+    3.0 3.0 3.0
+    5.0 3.0 3.0
+    -5.0 5.0 3.0
+    -3.0 5.0 3.0
+    -0.3 5.0 3.0
+    0.3 5.0 3.0
+    3.0 5.0 3.0
+    5.0 5.0 3.0
+    5.0 -0.96 2.7
+    5.0 -2.47 2.7
+    4.88 -1.18 2.7
+    4.29 -1.38 2.7
+    2.91 -1.43 2.7
+    2.29 -1.43 2.7
+    0.9 -1.36 2.7
+    0.28 -1.36 2.7
+    4.81 -1.73 2.7
+    2.67 -1.93 2.7
+    0.66 -1.86 2.7
+    3.63 -2.27 2.7
+    3.0 -2.27 2.7
+    1.69 -2.27 2.7
+    1.06 -2.27 2.7
+    3.37 -2.77 2.7
+    1.43 -2.77 2.7
+    4.87 -3.23 2.7
+    4.32 -3.52 2.7
+    2.94 -3.31 2.7
+    2.31 -3.31 2.7
+    0.83 -3.26 2.7
+    0.21 -3.26 2.7
+    4.85 -3.8 2.7
+    2.65 -3.81 2.7
+    0.55 -3.76 2.7
+    -5.0 -1.37 2.7
+    -3.79 -3.67 2.7
+    -3.17 -3.67 2.7
+    -2.01 -3.64 2.7
+    -1.39 -3.64 2.7
+    -3.53 -3.17 2.7
+    -1.75 -3.14 2.7
+    -4.72 -2.63 2.7
+    -4.09 -2.65 2.7
+    -2.94 -2.67 2.7
+    -2.31 -2.67 2.7
+    -0.97 -2.72 2.7
+    -0.35 -2.72 2.7
+    -4.43 -2.13 2.7
+    -2.65 -2.17 2.7
+    -0.68 -2.22 2.7
+    -4.02 -1.67 2.7
+    -3.4 -1.67 2.7
+    -1.62 -1.7 2.7
+    -0.99 -1.7 2.7
+    -3.75 -1.17 2.7
+    -1.34 -1.2 2.7
+    5.0 -5.0 2.7
+    1.09 -5.0 2.7
+    3.67 -4.26 2.7
+    3.05 -4.26 2.7
+    1.53 -4.31 2.7
+    0.9 -4.31 2.7
+    3.4 -4.76 2.7
+    1.25 -4.81 2.7
+    -5.0 -5.0 2.7
+    -2.37 -5.0 2.7
+    -4.59 -4.55 2.7
+    -3.98 -4.55 2.7
+    -2.82 -4.6 2.7
+    -2.2 -4.6 2.7
+    -1.13 -4.6 2.7
+    -0.51 -4.6 2.7
+    -4.13 -4.05 2.7
+    -2.58 -4.1 2.7
+    -0.9 -4.1 2.7
+  faces 159
+    6 0 7  1  0 0 0  20
+    1 7 0  1  0 0 0  20
+    7 1 8  1  0 0 0  20
+    2 8 1  1  0 0 0  20
+    8 2 9  1  0 0 0  20
+    3 9 2  1  0 0 0  20
+    9 3 10  1  0 0 0  20
+    4 10 3  1  0 0 0  20
+    10 4 11  1  0 0 0  20
+    5 11 4  1  0 0 0  20
+    12 6 13  1  0 0 0  20
+    7 13 6  1  0 0 0  20
+    13 7 14  1  0 0 0  20
+    8 14 7  1  0 0 0  20
+    14 8 9  1  0 0 0  20
+    14 9 15  1  0 0 0  20
+    10 15 9  1  0 0 0  20
+    15 10 16  1  0 0 0  20
+    11 16 10  1  0 0 0  20
+    17 12 18  1  0 0 0  20
+    13 18 12  1  0 0 0  20
+    18 13 19  1  0 0 0  20
+    14 19 13  1  0 0 0  20
+    19 14 20  1  0 0 0  20
+    20 14 21  1  0 0 0  20
+    15 21 14  1  0 0 0  20
+    21 15 22  1  0 0 0  20
+    16 22 15  1  0 0 0  20
+    30 33 29  0  0 0 0  8
+    28 32 27  0  0 0 0  8
+    26 31 25  0  0 0 0  8
+    37 39 36  0  0 0 0  8
+    35 38 34  0  0 0 0  8
+    45 48 44  0  0 0 0  8
+    43 47 42  0  0 0 0  8
+    41 46 40  0  0 0 0  8
+    39 38 36  0  0 0 0  20
+    36 38 35  0  0 0 0  20
+    39 44 43  0  0 0 0  20
+    43 38 39  0  0 0 0  20
+    43 42 38  0  0 0 0  20
+    38 42 41  0  0 0 0  20
+    42 46 41  0  0 0 0  20
+    42 47 46  0  0 0 0  20
+    44 47 43  0  0 0 0  20
+    44 48 47  0  0 0 0  20
+    27 31 26  0  0 0 0  20
+    27 32 31  0  0 0 0  20
+    29 33 32  0  0 0 0  20
+    32 28 29  0  0 0 0  20
+    33 37 36  0  0 0 0  20
+    36 32 33  0  0 0 0  20
+    36 35 32  0  0 0 0  20
+    32 35 34  0  0 0 0  20
+    34 31 32  0  0 0 0  20
+    34 38 41  0  0 0 0  20
+    34 24 31  0  0 0 0  20
+    34 41 24  0  0 0 0  20
+    24 41 40  0  0 0 0  20
+    31 24 25  0  0 0 0  20
+    45 44 39  0  0 0 0  20
+    45 39 37  0  0 0 0  20
+    45 37 33  0  0 0 0  20
+    45 33 30  0  0 0 0  20
+    25 24 23  0  0 0 0  20
+    26 25 23  0  0 0 0  20
+    53 55 52  0  0 0 0  8
+    51 54 50  0  0 0 0  8
+    61 64 60  0  0 0 0  8
+    59 63 58  0  0 0 0  8
+    57 62 56  0  0 0 0  8
+    68 70 67  0  0 0 0  8
+    66 69 65  0  0 0 0  8
+    55 54 52  0  0 0 0  20
+    52 54 51  0  0 0 0  20
+    55 60 59  0  0 0 0  20
+    59 54 55  0  0 0 0  20
+    59 58 54  0  0 0 0  20
+    54 58 57  0  0 0 0  20
+    58 62 57  0  0 0 0  20
+    58 63 62  0  0 0 0  20
+    60 63 59  0  0 0 0  20
+    60 64 63  0  0 0 0  20
+    64 68 63  0  0 0 0  20
+    63 68 67  0  0 0 0  20
+    67 66 63  0  0 0 0  20
+    63 66 62  0  0 0 0  20
+    62 66 65  0  0 0 0  20
+    50 54 57  0  0 0 0  20
+    50 57 87  0  0 0 0  20
+    79 57 56  0  0 0 0  20
+    56 49 79  0  0 0 0  20
+    62 49 56  0  0 0 0  20
+    65 49 62  0  0 0 0  20
+    69 49 65  0  0 0 0  20
+    45 61 60  0  0 0 0  20
+    45 60 55  0  0 0 0  20
+    45 55 53  0  0 0 0  20
+    76 78 75  0  0 0 0  8
+    74 77 73  0  0 0 0  8
+    48 76 47  0  0 0 0  20
+    47 76 75  0  0 0 0  20
+    75 74 47  0  0 0 0  20
+    47 74 46  0  0 0 0  20
+    46 74 73  0  0 0 0  20
+    40 71 24  0  0 0 0  20
+    46 71 40  0  0 0 0  20
+    73 71 46  0  0 0 0  20
+    77 71 73  0  0 0 0  20
+    76 72 78  0  0 0 0  20
+    86 89 85  0  0 0 0  8
+    84 88 83  0  0 0 0  8
+    82 87 81  0  0 0 0  8
+    83 87 82  0  0 0 0  20
+    83 88 87  0  0 0 0  20
+    85 89 88  0  0 0 0  20
+    88 84 85  0  0 0 0  20
+    89 53 52  0  0 0 0  20
+    52 88 89  0  0 0 0  20
+    52 51 88  0  0 0 0  20
+    88 51 50  0  0 0 0  20
+    50 87 88  0  0 0 0  20
+    45 53 89  0  0 0 0  20
+    45 89 86  0  0 0 0  20
+    85 84 80  0  0 0 0  20
+    80 84 83  0  0 0 0  20
+    82 81 79  0  0 0 0  20
+    80 82 79  0  0 0 0  20
+    80 83 82  0  0 0 0  20
+    71 77 72  0  0 0 0  20
+    77 78 72  0  0 0 0  20
+    77 75 78  0  0 0 0  20
+    77 74 75  0  0 0 0  20
+    30 68 64  0  0 0 0  20
+    45 30 61  0  0 0 0  20
+    61 30 64  0  0 0 0  20
+    72 86 85  0  0 0 0  20
+    85 80 72  0  0 0 0  20
+    72 76 86  0  0 0 0  20
+    86 76 48  0  0 0 0  20
+    48 45 86  0  0 0 0  20
+    23 4 26  0  0 0 0  20
+    23 5 4  0  0 0 0  20
+    4 27 26  0  0 0 0  20
+    69 0 49  0  0 0 0  20
+    66 1 69  0  0 0 0  20
+    67 1 66  0  0 0 0  20
+    70 1 67  0  0 0 0  20
+    1 0 69  0  0 0 0  20
+    2 1 70  0  0 0 0  20
+    30 70 68  0  0 0 0  20
+    30 2 70  0  0 0 0  20
+    30 3 2  0  0 0 0  20
+    29 3 30  0  0 0 0  20
+    29 4 3  0  0 0 0  20
+    29 28 4  0  0 0 0  20
+    28 27 4  0  0 0 0  20
+    87 57 81  0  0 0 0  20
+    81 57 79  0  0 0 0  20
+    aabb         -5.0 -5.0 2.7 5.0 5.0 3.0 -1
+        -5.0 -5.0 2.7 1.09 5.0 3.0 -1
+        -5.0 -5.0 2.7 1.09 -1.36 2.7 -1
+        -5.0 -5.0 2.7 -1.75 -1.37 2.7 -1
+        -5.0 -5.0 2.7 -2.01 -2.65 2.7 -1
+        -5.0 -5.0 2.7 -2.37 -2.65 2.7 -1
+        -5.0 -5.0 2.7 -3.98 -2.65 2.7 -1
+        -5.0 -5.0 2.7 -3.98 -4.05 2.7 -1
+        -5.0 -5.0 2.7 -3.98 -4.55 2.7 126
+        -4.59 -4.55 2.7 -3.98 -4.05 2.7 112
+        -5.0 -5.0 2.7 -4.09 -2.65 2.7 -1
+        -5.0 -5.0 2.7 -4.09 -2.65 2.7 158
+        -4.59 -4.55 2.7 -4.09 -2.65 2.7 157
+        -5.0 -5.0 2.7 -2.37 -4.05 2.7 -1
+        -5.0 -5.0 2.7 -2.37 -4.55 2.7 127
+        -4.13 -4.6 2.7 -2.82 -4.05 2.7 113
+        -4.13 -5.0 2.7 -2.01 -3.64 2.7 -1
+        -4.13 -5.0 2.7 -2.37 -3.67 2.7 -1
+        -4.13 -4.1 2.7 -2.58 -3.67 2.7 121
+        -4.13 -5.0 2.7 -2.37 -3.67 2.7 -1
+        -4.13 -4.6 2.7 -2.58 -3.67 2.7 -1
+        -3.79 -4.1 2.7 -2.58 -3.67 2.7 120
+        -4.13 -4.6 2.7 -2.58 -4.05 2.7 114
+        -3.98 -5.0 2.7 -2.37 -4.55 2.7 128
+        -3.17 -4.6 2.7 -2.01 -3.64 2.7 -1
+        -3.17 -4.1 2.7 -2.01 -3.64 2.7 119
+        -2.82 -4.6 2.7 -2.2 -4.1 2.7 111
+        -5.0 -5.0 2.7 -1.75 -1.37 2.7 -1
+        -5.0 -5.0 2.7 -1.75 -1.37 2.7 -1
+        -5.0 -5.0 2.7 -2.01 -2.63 2.7 -1
+        -5.0 -5.0 2.7 -3.79 -2.63 2.7 -1
+        -4.13 -4.05 2.7 -3.79 -2.65 2.7 89
+        -5.0 -5.0 2.7 -4.09 -2.63 2.7 90
+        -3.79 -3.67 2.7 -2.01 -3.17 2.7 -1
+        -3.79 -3.67 2.7 -3.17 -3.17 2.7 67
+        -3.53 -3.67 2.7 -2.01 -3.17 2.7 74
+        -5.0 -5.0 2.7 -1.75 -1.37 2.7 -1
+        -4.09 -3.67 2.7 -3.53 -2.65 2.7 88
+        -5.0 -5.0 2.7 -1.75 -1.37 2.7 -1
+        -5.0 -5.0 2.7 -4.72 -1.37 2.7 91
+        -3.53 -3.17 2.7 -1.75 -2.67 2.7 76
+        -4.72 -3.17 2.7 -2.31 -2.13 2.7 -1
+        -4.72 -3.17 2.7 -2.94 -2.13 2.7 -1
+        -4.72 -2.65 2.7 -4.09 -2.13 2.7 70
+        -4.43 -3.17 2.7 -2.94 -2.13 2.7 -1
+        -4.43 -2.67 2.7 -2.94 -2.13 2.7 79
+        -4.09 -3.17 2.7 -2.94 -2.65 2.7 78
+        -4.43 -3.17 2.7 -2.31 -2.13 2.7 -1
+        -4.43 -2.67 2.7 -2.65 -2.13 2.7 80
+        -3.53 -3.17 2.7 -2.31 -2.17 2.7 -1
+        -3.53 -3.17 2.7 -2.31 -2.67 2.7 77
+        -2.94 -2.67 2.7 -2.31 -2.17 2.7 69
+        -3.53 -5.0 2.7 1.09 -1.36 2.7 -1
+        -3.53 -5.0 2.7 -0.68 -2.17 2.7 -1
+        -3.53 -5.0 2.7 -0.97 -2.17 2.7 -1
+        -2.82 -5.0 2.7 -1.13 -4.1 2.7 -1
+        -2.82 -5.0 2.7 -2.2 -4.6 2.7 125
+        -2.58 -5.0 2.7 -1.13 -4.1 2.7 -1
+        -2.58 -4.6 2.7 -1.13 -4.1 2.7 116
+        -2.37 -5.0 2.7 -1.13 -4.6 2.7 124
+        -3.53 -3.64 2.7 -0.97 -2.17 2.7 -1
+        -3.53 -3.64 2.7 -1.75 -3.14 2.7 73
+        -2.65 -2.72 2.7 -0.97 -2.17 2.7 81
+        -2.65 -4.6 2.7 -0.68 -2.17 2.7 -1
+        -2.58 -4.6 2.7 -0.9 -3.14 2.7 -1
+        -2.58 -4.1 2.7 -0.9 -3.14 2.7 -1
+        -2.58 -4.1 2.7 -0.9 -3.64 2.7 118
+        -2.01 -3.64 2.7 -1.39 -3.14 2.7 66
+        -2.58 -4.6 2.7 -0.9 -3.64 2.7 -1
+        -2.58 -4.6 2.7 -0.9 -4.1 2.7 115
+        -2.01 -4.1 2.7 -0.9 -3.64 2.7 117
+        -2.65 -3.14 2.7 -0.68 -2.17 2.7 -1
+        -2.31 -3.14 2.7 -0.97 -2.67 2.7 75
+        -2.65 -2.72 2.7 -0.68 -2.17 2.7 82
+        -2.37 -5.0 2.7 1.09 -1.36 2.7 -1
+        -2.37 -5.0 2.7 1.09 -3.26 2.7 -1
+        -2.37 -5.0 2.7 1.09 -3.26 2.7 -1
+        -2.37 -5.0 2.7 1.09 -4.1 2.7 -1
+        -1.13 -4.6 2.7 -0.51 -4.1 2.7 110
+        -2.37 -5.0 2.7 1.09 -4.6 2.7 137
+        -1.39 -4.1 2.7 0.21 -3.26 2.7 122
+        -1.13 -5.0 2.7 1.09 -3.26 2.7 -1
+        -0.9 -4.6 2.7 0.21 -3.26 2.7 123
+        -1.13 -5.0 2.7 1.09 -4.6 2.7 136
+        -1.75 -3.64 2.7 0.28 -1.36 2.7 -1
+        -1.75 -3.64 2.7 0.21 -2.72 2.7 -1
+        -1.75 -3.64 2.7 0.21 -2.72 2.7 -1
+        -1.75 -3.64 2.7 0.21 -3.14 2.7 97
+        -1.75 -3.26 2.7 0.21 -2.72 2.7 96
+        -0.97 -3.26 2.7 0.21 -2.72 2.7 95
+        -0.97 -2.72 2.7 0.28 -1.36 2.7 -1
+        -0.97 -2.72 2.7 -0.35 -2.22 2.7 68
+        -0.68 -2.72 2.7 0.28 -1.36 2.7 135
+        -5.0 -2.63 2.7 0.3 5.0 3.0 -1
+        -5.0 -2.63 2.7 0.3 0.3 3.0 -1
+        -5.0 -2.63 2.7 -1.62 0.3 3.0 -1
+        -5.0 -2.63 2.7 -3.0 -0.3 2.7 -1
+        -5.0 -2.63 2.7 -3.4 -1.37 2.7 -1
+        -5.0 -2.63 2.7 -4.02 -1.37 2.7 -1
+        -5.0 -2.63 2.7 -4.43 -1.37 2.7 92
+        -5.0 -2.13 2.7 -4.02 -1.37 2.7 93
+        -4.43 -2.13 2.7 -3.4 -1.67 2.7 87
+        -5.0 -1.67 2.7 -3.0 -0.3 2.7 -1
+        -5.0 -1.67 2.7 -3.75 -0.3 2.7 -1
+        -5.0 -1.67 2.7 -3.75 -1.17 2.7 94
+        -5.0 -1.37 2.7 -3.75 -0.3 2.7 144
+        -5.0 -1.17 2.7 -3.0 -0.3 2.7 148
+        -5.0 -2.17 2.7 -1.62 0.3 3.0 -1
+        -5.0 -2.17 2.7 -2.65 0.3 3.0 -1
+        -4.43 -2.17 2.7 -2.65 -1.17 2.7 -1
+        -4.02 -1.67 2.7 -3.4 -1.17 2.7 72
+        -4.43 -2.17 2.7 -2.65 -1.67 2.7 86
+        -5.0 -1.67 2.7 -3.0 0.3 3.0 -1
+        -5.0 -0.3 2.7 -3.0 0.3 3.0 1
+        -3.75 -1.67 2.7 -3.0 -0.3 2.7 145
+        -3.4 -2.17 2.7 -1.62 -0.3 2.7 -1
+        -3.4 -2.17 2.7 -1.62 -1.67 2.7 85
+        -3.4 -1.7 2.7 -1.62 -0.3 2.7 146
+        -3.0 -2.22 2.7 0.3 0.3 3.0 -1
+        -3.0 -2.22 2.7 -0.3 0.3 3.0 -1
+        -3.0 -2.17 2.7 -0.3 0.3 3.0 -1
+        -3.0 -1.7 2.7 -0.3 0.3 3.0 -1
+        -3.0 -0.3 2.7 -0.3 0.3 3.0 2
+        -3.0 -1.7 2.7 -1.34 -0.3 2.7 147
+        -2.65 -2.17 2.7 -0.99 -1.7 2.7 84
+        -3.0 -2.22 2.7 -0.3 -0.3 3.0 -1
+        -3.0 -2.22 2.7 -0.3 -0.3 2.7 -1
+        -3.0 -1.2 2.7 -0.3 -0.3 2.7 149
+        -2.65 -2.22 2.7 -0.68 -1.7 2.7 83
+        -3.0 -1.7 2.7 -0.3 -0.3 3.0 -1
+        -1.62 -1.7 2.7 -0.99 -1.2 2.7 71
+        -3.0 -0.7 2.7 -0.3 -0.3 3.0 3
+        -1.34 -2.22 2.7 0.3 -0.3 3.0 -1
+        -1.34 -2.22 2.7 0.28 -1.2 2.7 -1
+        -1.34 -1.7 2.7 0.28 -1.2 2.7 150
+        -0.99 -2.22 2.7 0.28 -1.36 2.7 133
+        -1.34 -1.36 2.7 0.3 -0.3 3.0 -1
+        -1.34 -1.36 2.7 0.28 -0.7 2.7 151
+        -0.3 -0.7 2.7 0.3 -0.3 3.0 4
+        -5.0 -0.3 2.7 0.3 5.0 3.0 -1
+        -5.0 -0.3 2.7 -3.0 5.0 3.0 -1
+        -5.0 -0.3 2.7 -3.0 3.0 3.0 -1
+        -5.0 -0.3 2.7 -3.0 0.3 3.0 0
+        -5.0 0.3 3.0 -3.0 3.0 3.0 -1
+        -5.0 0.3 3.0 -3.0 3.0 3.0 11
+        -5.0 0.3 3.0 -3.0 3.0 3.0 10
+        -5.0 3.0 3.0 -3.0 5.0 3.0 -1
+        -5.0 3.0 3.0 -3.0 5.0 3.0 19
+        -5.0 3.0 3.0 -3.0 5.0 3.0 20
+        -3.0 -0.3 3.0 0.3 5.0 3.0 -1
+        -3.0 -0.3 3.0 0.3 3.0 3.0 -1
+        -3.0 -0.3 3.0 0.0 3.0 3.0 -1
+        -3.0 -0.3 3.0 0.0 2.5 3.0 13
+        -3.0 0.3 3.0 0.0 3.0 3.0 12
+        -0.3 -0.3 3.0 0.3 2.5 3.0 14
+        -3.0 2.5 3.0 0.3 5.0 3.0 -1
+        -3.0 2.5 3.0 0.0 5.0 3.0 -1
+        -3.0 3.0 3.0 -0.3 5.0 3.0 21
+        -3.0 2.5 3.0 0.0 5.0 3.0 22
+        -0.3 2.5 3.0 0.3 5.0 3.0 23
+        -0.51 -5.0 2.7 5.0 5.0 3.0 -1
+        -0.51 -5.0 2.7 5.0 -1.36 2.7 -1
+        -0.51 -5.0 2.7 3.4 -1.36 2.7 -1
+        -0.51 -5.0 2.7 1.69 -1.36 2.7 -1
+        -0.51 -5.0 2.7 1.53 -3.26 2.7 -1
+        -0.51 -5.0 2.7 1.09 -3.26 2.7 -1
+        -0.51 -5.0 2.7 1.09 -3.76 2.7 -1
+        -0.51 -4.6 2.7 0.9 -3.76 2.7 139
+        -0.51 -5.0 2.7 1.09 -4.31 2.7 138
+        -0.51 -4.6 2.7 0.83 -3.26 2.7 -1
+        -0.51 -4.6 2.7 0.55 -3.26 2.7 140
+        0.21 -3.76 2.7 0.83 -3.26 2.7 33
+        0.9 -5.0 2.7 1.53 -4.31 2.7 -1
+        0.9 -5.0 2.7 1.25 -4.31 2.7 109
+        0.9 -4.81 2.7 1.53 -4.31 2.7 98
+        -0.35 -3.26 2.7 1.69 -1.36 2.7 -1
+        -0.35 -3.26 2.7 1.06 -1.36 2.7 -1
+        -0.35 -3.26 2.7 1.06 -1.36 2.7 -1
+        0.21 -3.26 2.7 1.06 -1.86 2.7 62
+        -0.35 -3.26 2.7 0.28 -1.36 2.7 134
+        0.21 -3.26 2.7 0.66 -1.36 2.7 63
+        0.21 -3.26 2.7 1.69 -1.86 2.7 -1
+        0.21 -3.26 2.7 1.43 -2.27 2.7 -1
+        0.21 -3.26 2.7 1.43 -2.77 2.7 60
+        0.21 -3.26 2.7 1.43 -2.27 2.7 61
+        0.66 -2.27 2.7 1.69 -1.86 2.7 50
+        0.55 -5.0 2.7 3.4 -1.93 2.7 -1
+        0.55 -5.0 2.7 3.4 -3.26 2.7 -1
+        0.55 -4.31 2.7 2.65 -3.26 2.7 -1
+        0.55 -4.31 2.7 2.65 -3.26 2.7 -1
+        0.55 -3.81 2.7 2.65 -3.26 2.7 45
+        0.55 -4.31 2.7 2.65 -3.76 2.7 100
+        0.9 -4.31 2.7 2.65 -3.81 2.7 101
+        1.09 -5.0 2.7 3.4 -3.81 2.7 -1
+        1.09 -5.0 2.7 3.4 -4.31 2.7 -1
+        1.09 -5.0 2.7 3.4 -4.76 2.7 130
+        1.25 -4.81 2.7 3.4 -4.31 2.7 131
+        1.53 -4.31 2.7 3.05 -3.81 2.7 102
+        0.83 -3.81 2.7 3.37 -1.93 2.7 -1
+        0.83 -3.81 2.7 2.65 -2.27 2.7 -1
+        0.83 -3.31 2.7 2.31 -2.27 2.7 -1
+        1.06 -2.77 2.7 1.69 -2.27 2.7 31
+        0.83 -3.31 2.7 2.31 -2.77 2.7 38
+        0.83 -3.81 2.7 2.65 -3.26 2.7 44
+        1.43 -3.31 2.7 3.37 -1.93 2.7 -1
+        1.43 -2.77 2.7 3.37 -2.27 2.7 36
+        1.43 -3.31 2.7 3.37 -1.93 2.7 -1
+        1.43 -3.31 2.7 3.37 -2.77 2.7 39
+        1.69 -2.27 2.7 3.0 -1.93 2.7 52
+        1.09 -5.0 2.7 5.0 -1.73 2.7 -1
+        1.09 -5.0 2.7 5.0 -1.93 2.7 -1
+        1.53 -4.76 2.7 3.63 -1.93 2.7 -1
+        1.53 -4.76 2.7 3.4 -2.77 2.7 -1
+        1.53 -4.76 2.7 3.4 -4.26 2.7 132
+        2.31 -3.81 2.7 3.37 -2.77 2.7 -1
+        2.31 -3.81 2.7 2.94 -3.31 2.7 34
+        2.31 -3.31 2.7 3.37 -2.77 2.7 40
+        1.69 -2.77 2.7 3.63 -1.93 2.7 -1
+        1.69 -2.77 2.7 3.37 -2.27 2.7 37
+        2.67 -2.27 2.7 3.63 -1.93 2.7 53
+        1.09 -5.0 2.7 5.0 -2.27 2.7 -1
+        1.09 -5.0 2.7 5.0 -2.27 2.7 -1
+        1.09 -5.0 2.7 5.0 -4.76 2.7 129
+        3.0 -4.76 2.7 3.67 -2.27 2.7 -1
+        3.05 -4.76 2.7 3.67 -4.26 2.7 99
+        3.0 -2.77 2.7 3.63 -2.27 2.7 32
+        2.65 -4.26 2.7 4.85 -2.77 2.7 -1
+        2.65 -3.81 2.7 4.85 -3.31 2.7 43
+        2.65 -4.26 2.7 4.85 -2.77 2.7 -1
+        2.65 -4.26 2.7 4.85 -3.8 2.7 103
+        2.94 -3.52 2.7 4.32 -2.77 2.7 41
+        2.94 -5.0 2.7 5.0 -1.73 2.7 -1
+        2.94 -5.0 2.7 5.0 -2.47 2.7 -1
+        3.05 -5.0 2.7 5.0 -3.23 2.7 -1
+        3.05 -5.0 2.7 5.0 -3.8 2.7 -1
+        3.05 -4.26 2.7 4.85 -3.8 2.7 104
+        3.4 -5.0 2.7 5.0 -4.26 2.7 108
+        3.67 -5.0 2.7 5.0 -3.23 2.7 -1
+        3.67 -5.0 2.7 5.0 -3.8 2.7 107
+        4.85 -5.0 2.7 5.0 -3.23 2.7 106
+        2.94 -5.0 2.7 5.0 -2.47 2.7 -1
+        2.94 -5.0 2.7 5.0 -2.47 2.7 -1
+        4.87 -5.0 2.7 5.0 -2.47 2.7 105
+        2.94 -3.8 2.7 4.85 -3.31 2.7 42
+        4.32 -3.8 2.7 4.87 -3.23 2.7 35
+        3.37 -3.52 2.7 5.0 -1.73 2.7 -1
+        3.37 -3.52 2.7 5.0 -2.27 2.7 -1
+        3.37 -3.52 2.7 4.32 -2.27 2.7 55
+        3.63 -3.52 2.7 5.0 -2.27 2.7 -1
+        3.63 -3.52 2.7 5.0 -2.27 2.7 57
+        4.32 -3.52 2.7 5.0 -2.47 2.7 58
+        3.63 -2.47 2.7 5.0 -1.73 2.7 56
+        -0.3 -2.47 2.7 5.0 5.0 3.0 -1
+        -0.3 -2.47 2.7 5.0 0.3 3.0 -1
+        -0.3 -2.27 2.7 3.0 0.3 3.0 -1
+        -0.3 -1.86 2.7 3.0 0.3 3.0 -1
+        -0.3 -1.36 2.7 0.9 -0.3 3.0 -1
+        -0.3 -1.36 2.7 0.3 -0.3 3.0 -1
+        -0.3 -1.36 2.7 0.3 -0.7 2.7 152
+        -0.3 -0.7 2.7 0.3 -0.3 3.0 5
+        0.28 -1.36 2.7 0.9 -0.7 2.7 153
+        0.28 -1.86 2.7 3.0 0.3 3.0 -1
+        0.28 -1.86 2.7 0.9 -1.36 2.7 28
+        0.3 -0.7 2.7 3.0 0.3 3.0 6
+        0.3 -2.27 2.7 3.0 0.3 3.0 -1
+        0.3 -2.27 2.7 3.0 -0.3 2.7 -1
+        0.3 -1.93 2.7 3.0 -0.3 2.7 -1
+        0.3 -1.36 2.7 3.0 -0.3 2.7 154
+        0.66 -1.93 2.7 2.67 -1.36 2.7 48
+        0.66 -2.27 2.7 2.67 -1.86 2.7 51
+        0.3 -1.93 2.7 3.0 0.3 3.0 -1
+        0.3 -1.93 2.7 3.0 0.3 3.0 -1
+        0.9 -1.93 2.7 2.67 -1.36 2.7 49
+        0.3 -1.43 2.7 3.0 0.3 3.0 -1
+        0.9 -1.43 2.7 3.0 -0.3 2.7 155
+        0.3 -0.7 2.7 3.0 0.3 3.0 7
+        2.29 -1.93 2.7 2.91 -1.43 2.7 29
+        2.29 -2.47 2.7 5.0 -0.3 2.7 -1
+        2.29 -2.27 2.7 4.81 -0.3 2.7 -1
+        2.29 -1.43 2.7 4.29 -0.3 2.7 -1
+        2.29 -1.43 2.7 3.0 -0.3 2.7 156
+        2.91 -1.43 2.7 4.29 -0.3 2.7 143
+        2.67 -2.27 2.7 4.81 -1.38 2.7 -1
+        2.67 -2.27 2.7 4.81 -1.43 2.7 -1
+        2.67 -1.93 2.7 4.81 -1.43 2.7 47
+        2.67 -2.27 2.7 4.81 -1.73 2.7 54
+        2.91 -1.73 2.7 4.81 -1.38 2.7 46
+        3.0 -2.47 2.7 5.0 -0.3 2.7 -1
+        4.29 -2.47 2.7 5.0 -0.96 2.7 -1
+        4.81 -2.47 2.7 5.0 -1.18 2.7 59
+        4.29 -2.47 2.7 5.0 -0.96 2.7 -1
+        4.88 -2.47 2.7 5.0 -0.96 2.7 64
+        4.29 -1.73 2.7 4.88 -1.18 2.7 30
+        3.0 -1.38 2.7 5.0 -0.3 2.7 -1
+        3.0 -1.38 2.7 5.0 -0.3 2.7 -1
+        3.0 -1.38 2.7 5.0 -0.3 2.7 141
+        3.0 -0.96 2.7 5.0 -0.3 2.7 142
+        4.29 -1.38 2.7 5.0 -0.96 2.7 65
+        0.0 -0.3 2.7 5.0 5.0 3.0 -1
+        0.0 -0.3 2.7 5.0 3.0 3.0 -1
+        0.0 -0.3 3.0 3.0 3.0 3.0 -1
+        0.3 -0.3 3.0 3.0 3.0 3.0 16
+        0.0 -0.3 3.0 3.0 3.0 3.0 15
+        3.0 -0.3 2.7 5.0 3.0 3.0 -1
+        3.0 -0.3 2.7 5.0 0.3 3.0 -1
+        3.0 -0.3 2.7 5.0 0.3 3.0 8
+        3.0 -0.3 2.7 5.0 0.3 3.0 9
+        3.0 0.3 3.0 5.0 3.0 3.0 -1
+        3.0 0.3 3.0 5.0 3.0 3.0 18
+        3.0 0.3 3.0 5.0 3.0 3.0 17
+        0.0 2.5 3.0 5.0 5.0 3.0 -1
+        0.0 2.5 3.0 3.0 5.0 3.0 -1
+        0.0 2.5 3.0 3.0 5.0 3.0 24
+        0.0 2.5 3.0 3.0 5.0 3.0 25
+        3.0 3.0 3.0 5.0 5.0 3.0 -1
+        3.0 3.0 3.0 5.0 5.0 3.0 26
+        3.0 3.0 3.0 5.0 5.0 3.0 27
+endnode
+node dummy kohlkopf21
+  parent feldcabseita3
+  position -2.61 -4.31 2.93
+  orientation 0.053628 0.0835294 -0.995061 -1.68584
+  wirecolor 0.0235294 0.529412 0.0235294 
+endnode
+#Tile trimesh node
+node trimesh geosphere111
+  parent kohlkopf21
+  position -0.16 -0.06 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 16.0 5.5 -2.0 
+  bitmap cabbageleaf
+  verts 4
+    0.01 0.01 -0.17
+    0.68 -0.09 0.13
+    -0.36 -0.5 0.13
+    -0.32 0.61 0.11
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+#Tile trimesh node
+node trimesh geosphere112
+  parent kohlkopf21
+  position -0.17 -0.08 -0.01
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 1.0 1.0 7.5 
+  bitmap kohlmitte
+  verts 9
+    -0.19 0.03 0.05
+    -0.11 -0.16 -0.01
+    -0.06 -0.09 0.18
+    -0.05 0.12 0.18
+    -0.06 0.19 -0.04
+    0.06 -0.18 0.07
+    0.14 -0.01 0.19
+    0.11 0.2 0.04
+    0.21 0.01 -0.04
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+node dummy kohlkopf20
+  parent feldcabseita3
+  position -0.85 -4.3 2.93
+  orientation 0.0818982 0.0879062 -0.992756 -1.32941
+  wirecolor 0.0235294 0.529412 0.0235294 
+endnode
+#Tile trimesh node
+node trimesh geosphere110
+  parent kohlkopf20
+  position -0.17 -0.07 -0.01
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 1.5 0.5 7.5 
+  bitmap kohlmitte
+  verts 9
+    -0.19 0.03 0.05
+    -0.11 -0.17 -0.01
+    -0.07 -0.09 0.18
+    -0.04 0.12 0.18
+    -0.07 0.19 -0.04
+    0.06 -0.18 0.07
+    0.14 -0.01 0.19
+    0.12 0.19 0.04
+    0.22 0.0 -0.04
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+#Tile trimesh node
+node trimesh geosphere109
+  parent kohlkopf20
+  position -0.16 -0.05 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 16.0 5.0 -2.0 
+  bitmap cabbageleaf
+  verts 4
+    0.01 0.0 -0.17
+    0.68 -0.09 0.13
+    -0.36 -0.51 0.13
+    -0.31 0.61 0.11
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+node dummy kohlkopf22
+  parent feldcabseita3
+  position -4.23 -4.3 2.93
+  orientation 0.206204 0.106405 -0.972706 -0.650148
+  wirecolor 0.894118 0.839216 0.6 
+endnode
+#Tile trimesh node
+node trimesh geosphere114
+  parent kohlkopf22
+  position -0.17 -0.07 -0.01
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 0.5 1.0 7.5 
+  bitmap kohlmitte
+  verts 9
+    -0.2 0.03 0.05
+    -0.11 -0.16 -0.01
+    -0.07 -0.1 0.18
+    -0.05 0.12 0.18
+    -0.07 0.2 -0.04
+    0.05 -0.18 0.07
+    0.13 -0.02 0.19
+    0.11 0.19 0.04
+    0.21 0.0 -0.04
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+#Tile trimesh node
+node trimesh geosphere113
+  parent kohlkopf22
+  position -0.16 -0.05 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 16.0 5.0 -2.0 
+  bitmap cabbageleaf
+  verts 4
+    0.0 0.01 -0.17
+    0.68 -0.09 0.13
+    -0.36 -0.51 0.13
+    -0.33 0.61 0.11
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+node dummy kohlkopf04
+  parent feldcabseita3
+  position 3.35 -4.3 2.93
+  orientation 0.0818982 0.0879062 -0.992756 -1.32941
+  wirecolor 0.337255 0.337255 0.337255 
+endnode
+#Tile trimesh node
+node trimesh geosphere78
+  parent kohlkopf04
+  position -0.16 -0.08 -0.01
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 0.5 0.5 7.5 
+  bitmap kohlmitte
+  verts 9
+    -0.2 0.03 0.05
+    -0.12 -0.16 -0.01
+    -0.08 -0.09 0.18
+    -0.05 0.12 0.18
+    -0.07 0.19 -0.04
+    0.05 -0.18 0.07
+    0.13 -0.01 0.19
+    0.11 0.19 0.04
+    0.21 0.01 -0.04
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+#Tile trimesh node
+node trimesh geosphere77
+  parent kohlkopf04
+  position -0.15 -0.06 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 15.0 5.5 -2.0 
+  bitmap cabbageleaf
+  verts 4
+    0.0 0.01 -0.17
+    0.67 -0.09 0.13
+    -0.37 -0.5 0.13
+    -0.32 0.61 0.11
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+node dummy kohlkopf03
+  parent feldcabseita3
+  position 1.41 -4.48 2.92
+  orientation 0.0157159 -0.514578 -0.8573 -0.273515
+  wirecolor 0.835294 0.603922 0.898039 
+endnode
+#Tile trimesh node
+node trimesh geosphere75
+  parent kohlkopf03
+  position -0.18 -0.07 0.0
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.784314 0.0 0.792157 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center 18.5 6.0 -2.5 
+  bitmap cabbageleaf
+  verts 4
+    0.0 0.01 -0.17
+    0.76 -0.1 0.12
+    -0.39 -0.57 0.12
+    -0.35 0.69 0.12
+  faces 6
+    0 1 2  1  7 6 8  1
+    0 2 3  2  1 0 2  1
+    0 3 1  4  4 3 5  1
+    1 0 2  8  6 7 8  1
+    2 0 3  16  0 1 2  1
+    3 0 1  32  3 4 5  1
+  tverts 9
+    -0.160365 0.741556 0
+    0.52525 0.238725 0
+    1.18511 0.76115 0
+    -0.160365 0.754357 0
+    0.509651 0.241781 0
+    1.18769 0.77927 0
+    -0.163529 0.754582 0
+    0.50583 0.243629 0
+    1.17956 0.776911 0
+endnode
+#Tile trimesh node
+node trimesh geosphere76
+  parent kohlkopf03
+  position -0.19 -0.08 -0.02
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.521569 0.858824 0.972549 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center -0.5 2.0 6.5 
+  bitmap kohlmitte
+  verts 9
+    -0.23 0.04 0.05
+    -0.14 -0.17 -0.03
+    -0.09 -0.1 0.18
+    -0.07 0.15 0.18
+    -0.09 0.23 -0.05
+    0.05 -0.19 0.06
+    0.13 0.0 0.18
+    0.12 0.23 0.03
+    0.22 0.02 -0.05
+  faces 10
+    0 1 2  1  0 1 2  1
+    0 2 3  1  0 2 3  1
+    0 3 4  1  0 3 4  1
+    2 5 6  1  2 5 6  1
+    3 6 7  1  3 6 7  1
+    5 2 1  1  5 2 1  1
+    6 3 2  1  6 3 2  1
+    7 4 3  1  7 4 3  1
+    8 6 5  1  8 6 5  1
+    8 7 6  1  8 7 6  1
+  tverts 9
+    0.510362 0.15862 0
+    0.879996 0.333058 0
+    0.74877 0.413264 0
+    0.301091 0.429671 0
+    0.155636 0.359605 0
+    0.899173 0.711917 0
+    0.54139 0.771627 0
+    0.174813 0.738464 0
+    0.544447 0.912902 0
+endnode
+#Tile trimesh node
+node trimesh erde001
+  parent feldcabseita3
+  position 0.0 0.4 0.69
+  orientation  0.0 0.0 0.0  0.0
+  wirecolor 0.0156863 0.521569 0.0156863 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 1
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfIllumColor 0.0 0.0 0.0 
+  ambient 1.0 1.0 1.0 
+  Diffuse 1.0 1.0 1.0 
+  Specular 0.0 0.0 0.0 
+  shininess 11
+  center undefined
+  bitmap feldgen
+  verts 41
+    -5.0 -0.7 2.01
+    -3.0 -0.7 2.01
+    -0.3 -1.0 2.01
+    0.3 -1.0 2.01
+    3.0 -0.7 2.01
+    5.0 -0.7 2.01
+    -5.0 -0.1 2.31
+    -3.0 -0.1 2.31
+    -0.3 -0.6 2.31
+    0.3 -0.6 2.31
+    3.0 -0.1 2.31
+    5.0 -0.1 2.31
+    -5.0 -1.4 2.01
+    5.0 -1.4 2.01
+    0.0 -1.4 2.01
+    -3.0 -1.4 2.01
+    3.0 -1.4 2.01
+    -5.0 -5.4 2.01
+    5.0 -5.4 2.01
+    -5.0 -4.9 2.16
+    5.0 -4.9 2.16
+    -5.0 -4.4 2.01
+    5.0 -4.4 2.01
+    -5.0 -3.9 2.16
+    5.0 -3.9 2.16
+    -5.0 -3.4 2.01
+    5.0 -3.4 2.01
+    -5.0 -2.9 2.16
+    5.0 -2.9 2.16
+    -5.0 -2.4 2.01
+    5.0 -2.4 2.01
+    -5.0 -1.9 2.16
+    5.0 -1.9 2.16
+    5.3 -1.9 2.01
+    5.3 -2.9 2.01
+    5.3 -3.9 2.01
+    5.3 -4.9 2.01
+    -5.3 -1.9 2.01
+    -5.3 -2.9 2.01
+    -5.3 -3.9 2.01
+    -5.3 -4.9 2.01
+  faces 51
+    6 0 7  1  6 0 7  1
+    1 7 0  1  1 7 0  1
+    7 1 8  1  7 1 8  1
+    2 8 1  1  2 8 1  1
+    8 2 9  1  8 2 9  1
+    3 9 2  1  3 9 2  1
+    9 3 10  1  9 3 10  1
+    4 10 3  1  4 10 3  1
+    10 4 11  1  10 4 11  1
+    5 11 4  1  5 11 4  1
+    12 15 1  1  12 42 1  1
+    12 1 0  1  12 1 0  1
+    15 14 2  1  42 14 2  1
+    15 2 1  1  42 2 1  1
+    14 3 2  1  14 3 2  1
+    14 16 4  1  14 15 4  1
+    14 4 3  1  14 4 3  1
+    16 13 5  1  15 13 5  1
+    16 5 4  1  15 5 4  1
+    19 17 20  1  16 17 18  1
+    18 20 17  1  19 18 17  1
+    21 19 22  1  20 16 21  1
+    20 22 19  1  18 21 16  1
+    23 21 24  1  22 20 23  1
+    22 24 21  1  21 23 20  1
+    25 23 26  1  24 22 25  1
+    24 26 23  1  23 25 22  1
+    27 25 28  1  26 24 27  1
+    26 28 25  1  25 27 24  1
+    29 27 30  1  28 26 29  1
+    28 30 27  1  27 29 26  1
+    31 29 32  1  30 28 31  1
+    30 32 29  1  29 31 28  1
+    12 31 13  1  32 30 33  1
+    32 13 31  1  31 33 30  1
+    37 29 31  1  38 28 30  1
+    38 25 27  1  39 24 26  1
+    39 21 23  1  40 20 22  1
+    40 17 19  1  41 17 16  1
+    36 22 20  1  37 21 18  1
+    35 26 24  1  36 25 23  1
+    34 30 28  1  35 29 27  1
+    33 13 32  1  34 33 31  1
+    30 33 32  1  29 34 31  1
+    26 34 28  1  25 35 27  1
+    22 35 24  1  21 36 23  1
+    18 36 20  1  19 37 18  1
+    12 37 31  1  32 38 30  1
+    29 38 27  1  28 39 26  1
+    25 39 23  1  24 40 22  1
+    21 40 19  1  20 41 16  1
+  tverts 43
+    0.963954 1.00101 0
+    0.961798 0.754056 0
+    0.961798 0.531112 0
+    0.961354 0.469807 0
+    0.96149 0.224783 0
+    0.961354 0.0021115 0
+    1.00246 1.00101 0
+    1.00005 0.752716 0
+    1.00005 0.529772 0
+    1.00005 0.469807 0
+    1.00019 0.224783 0
+    1.00005 0.0021115 0
+    0.918633 1.00174 0
+    0.916213 0.0021115 0
+    0.916658 0.501129 0
+    0.916349 0.224783 0
+    0.125 0.900144 0
+    0.083 0.9 0
+    0.125 0.1 0
+    0.083 0.1 0
+    0.167 0.9 0
+    0.167 0.1 0
+    0.208 0.899881 0
+    0.208 0.1 0
+    0.25 0.9 0
+    0.25 0.1 0
+    0.292 0.899617 0
+    0.291 0.1 0
+    0.332574 0.9 0
+    0.333 0.1 0
+    0.375 0.9 0
+    0.375 0.1 0
+    0.417 0.9 0
+    0.417 0.1 0
+    0.366185 0.0523471 0
+    0.287281 0.0563284 0
+    0.20397 0.0592833 0
+    0.115613 0.0557184 0
+    0.37459 0.943654 0
+    0.285066 0.943928 0
+    0.204495 0.944175 0
+    0.114971 0.944449 0
+    0.917102 0.755396 0
+endnode
+endmodelgeom feldcabseita3
+donemodel feldcabseita3

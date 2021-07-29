@@ -1,0 +1,74 @@
+# Exported from NWMax Plus v6.11.28 at 5/25/2020 9:01:20 PM
+# wok file
+#
+#NWMax Plus WALKMESH  ASCII
+beginwalkmeshgeom BUG01_J08_01
+node aabb wok_134
+  parent BUG01_J08_01
+  position 0.0 0.0 14.0626
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.0 0.0 0.0 
+  multimaterial 31
+    ttd21_sand01
+    Dirt
+    Obscuring
+    Grass
+    Stone
+    Wood
+    Water
+    Nonwalk
+    Transparent
+    Carpet
+    Metal
+    Puddles
+    Swamp
+    Mud
+    Leaves
+    Lava
+    BottomlessPit
+    DeepWater
+    Door
+    Snow
+    Sand
+    BareBones
+    StoneBridge
+    Temp1
+    Temp2
+    Temp3
+    Temp4
+    Temp5
+    Temp6
+    Temp7
+    Trigger
+  ambient 0.6 0.34 0.16 
+  diffuse 0.6 0.34 0.16 
+  specular 0.0 0.0 0.0 
+  shininess 10.0
+  bitmap Dirt
+  verts 5
+    -5.0 -5.0 0.0
+    5.0 -5.0 0.0
+    -5.0 5.0 0.0
+    5.0 0.11 0.0
+    5.0 5.0 0.0
+  faces 3
+    3 4 2  0  0 1 2  2
+    2 0 3  0  3 4 5  2
+    3 0 1  0  6 7 8  2
+  tverts 9
+    15.0166 -15.92 0
+    14.9241 -14.9944 0
+    13.107 -15.0111 0
+    13.107 -15.0111 0
+    13.296 -16.9028 0
+    15.0166 -15.92 0
+    15.0166 -15.92 0
+    13.296 -16.9028 0
+    15.1315 -16.8727 0
+    aabb         -5.0 -5.0 -0.00260254 5.0 5.0 -0.00260254 -1
+        -5.0 -5.0 -0.00260254 5.0 5.0 -0.00260254 1
+        -5.0 -5.0 -0.00260254 5.0 5.0 -0.00260254 -1
+        -5.0 -5.0 -0.00260254 5.0 0.11 -0.00260254 2
+        -5.0 0.11 -0.00260254 5.0 5.0 -0.00260254 0
+endnode
+endwalkmeshgeom BUG01_J08_01

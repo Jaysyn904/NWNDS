@@ -1,0 +1,121 @@
+# Exported from NWMax Plus v6.11.28 at 5/25/2020 9:00:30 PM
+# mdl file
+#
+#NWMax Plus MODEL  ASCII
+# model: BUG01_C14_01
+filedependancy bigbugdungeon010.max
+newmodel BUG01_C14_01
+setsupermodel BUG01_C14_01 NULL
+classification Tile
+#NWMax Plus GEOM  ASCII
+beginmodelgeom BUG01_C14_01
+node dummy BUG01_C14_01
+  parent NULL
+endnode
+node light BUG01_C14_01ml1
+  parent BUG01_C14_01
+  position 0.0 0.0 5.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.694118 0.345098 0.105882 
+  radius 14.0
+  multiplier 1.0
+  color 0.0 0.0 0.0 
+  ambientonly 0
+  nDynamicType 0
+  affectDynamic 1
+  shadow 0
+  lightpriority 5
+  fadingLight 0
+endnode
+node light BUG01_C14_01ml2
+  parent BUG01_C14_01
+  position -2.0 -2.0 4.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.541176 0.0313726 0.431373 
+  radius 5.0
+  multiplier 1.0
+  color 0.0 0.0 0.0 
+  ambientonly 0
+  nDynamicType 0
+  affectDynamic 1
+  shadow 0
+  lightpriority 5
+  fadingLight 0
+endnode
+node aabb wok_42
+  parent BUG01_C14_01
+  position 0.0 -4.88281e-006 3.30183
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.0 0.0 0.0 
+  multimaterial 31
+    trd21_sand08
+    Dirt
+    Obscuring
+    Grass
+    Stone
+    Wood
+    Water
+    Nonwalk
+    Transparent
+    Carpet
+    Metal
+    Puddles
+    Swamp
+    Mud
+    Leaves
+    Lava
+    BottomlessPit
+    DeepWater
+    Door
+    Snow
+    Sand
+    BareBones
+    StoneBridge
+    Temp1
+    Temp2
+    Temp3
+    Temp4
+    Temp5
+    Temp6
+    Temp7
+    Trigger
+  ambient 0.784314 0.784314 0.784314 
+  diffuse 0.784314 0.784314 0.784314 
+  specular 0.0 0.0 0.0 
+  shininess 10.0
+  bitmap Snow
+  verts 6
+    -5.0 -5.0 0.3
+    5.0 -5.0 -0.3
+    -0.97 -5.0 0.06
+    -5.0 5.0 0.3
+    5.0 5.0 -0.3
+    -3.96 5.0 0.24
+  faces 4
+    3 2 5  0  0 1 2  20
+    3 0 2  0  3 4 5  20
+    2 1 4  0  6 7 8  20
+    4 5 2  0  9 10 11  20
+  tverts 12
+    23.6089 -29.3659 0
+    24.3018 -31.6465 0
+    23.7847 -29.3975 0
+    23.6089 -29.3659 0
+    23.6235 -31.5243 0
+    24.3018 -31.6465 0
+    24.3018 -31.6465 0
+    25.336 -31.6688 0
+    25.336 -29.431 0
+    25.336 -29.431 0
+    23.7847 -29.3975 0
+    24.3018 -31.6465 0
+    aabb         -5.0 -5.0 -0.301829 5.0 5.0 0.298171 -1
+        -5.0 -5.0 0.0581708 -0.97 5.0 0.298171 -1
+        -5.0 -5.0 0.0581708 -0.97 5.0 0.298171 1
+        -5.0 -5.0 0.0581708 -0.97 5.0 0.298171 0
+        -3.96 -5.0 -0.301829 5.0 5.0 0.238171 -1
+        -0.97 -5.0 -0.301829 5.0 5.0 0.0581708 2
+        -3.96 -5.0 -0.301829 5.0 5.0 0.238171 3
+endnode
+endmodelgeom BUG01_C14_01
+donemodel BUG01_C14_01
