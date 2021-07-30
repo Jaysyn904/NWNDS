@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Exported from NWMax Plus v6.11.28 at 5/17/2020 10:54:43 AM
+=======
+# Exported from NWMax Plus v6.11.28 at 6/28/2021 7:43:07 PM
+>>>>>>> nwnds_acidchalk
 # mdl file
 #
 #NWMax Plus MODEL  ASCII
@@ -12,6 +16,7 @@ beginmodelgeom ttd21_d003_02
 node dummy ttd21_d003_02
   parent NULL
 endnode
+<<<<<<< HEAD
 #Tile trimesh node
 node trimesh cote03
   parent ttd21_d003_02
@@ -60,6 +65,8 @@ node trimesh cote03
     0.999996 0.147887 0
     0.999997 0.992958 0
 endnode
+=======
+>>>>>>> nwnds_acidchalk
 node aabb WOK
   parent ttd21_d003_02
   position 0.0 -1.31134e-007 3.0
@@ -141,8 +148,13 @@ node trimesh wok002
   Diffuse 1.0 1.0 1.0 
   Specular 0.0 0.0 0.0 
   shininess 1
+<<<<<<< HEAD
   center undefined
   bitmap ttd21_sand01
+=======
+  center 0.0 0.0 32.5 
+  bitmap trd21_sand08
+>>>>>>> nwnds_acidchalk
   verts 46
     -5.0 -5.0 0.0
     -2.5 -5.0 0.0

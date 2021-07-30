@@ -4012,7 +4012,11 @@ node trimesh Plane37_33
   Specular 0.0 0.0 0.0 
   shininess 0
   center 366.0 -368.0 22.5 
+<<<<<<< HEAD
   bitmap ttd21_sand01
+=======
+  bitmap trd21_sand08
+>>>>>>> nwnds_acidchalk
   verts 20
     -1.34 1.32 0.15
     -1.34 -1.18 0.15

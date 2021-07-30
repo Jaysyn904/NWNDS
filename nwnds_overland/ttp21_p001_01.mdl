@@ -75,7 +75,11 @@ node trimesh c01_03floor1.005
   diffuse 1.00 1.00 1.00
   specular 0.00 0.00 0.00
   selfillumcolor 0.00 0.00 0.00
+<<<<<<< HEAD
   bitmap ttd21_sand01
+=======
+  bitmap trd21_sand08
+>>>>>>> nwnds_acidchalk
   shininess 0
   rotatetexture 0
   tilefade 0

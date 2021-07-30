@@ -18,7 +18,11 @@ node trimesh floor14.008
   ambient 1 1 1
   diffuse 1 1 1
   specular 0 0 0
+<<<<<<< HEAD
   bitmap ttd21_sand01
+=======
+  bitmap trd21_sand08
+>>>>>>> nwnds_acidchalk
   shininess 10
   render 1
   shadow 0

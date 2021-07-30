@@ -1055,7 +1055,11 @@ node trimesh ground_17
   diffuse 1 1 1
   specular 0 0 0
   shininess 1
+<<<<<<< HEAD
   bitmap ttd21_sand01
+=======
+  bitmap trd21_sand08
+>>>>>>> nwnds_acidchalk
   verts 67
     1.25 5 4.34
     5 -1.25 4.34
@@ -1296,7 +1300,11 @@ node trimesh ground_018
   diffuse 1 1 1
   specular 0 0 0
   shininess 1
+<<<<<<< HEAD
   bitmap ttd21_sand01
+=======
+  bitmap trd21_sand08
+>>>>>>> nwnds_acidchalk
   verts 46
     -1.81 -3.49 2.66
     -5.17 0.25 3.27

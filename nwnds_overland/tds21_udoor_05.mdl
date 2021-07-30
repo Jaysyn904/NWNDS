@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 # Exported from NWMax Plus v6.11.28 at 6/13/2021 1:58:45 AM
+=======
+# Exported from NWMax Plus v6.11.28 at 6/16/2021 4:57:01 PM
+>>>>>>> nwnds_acidchalk
 # mdl file
 #
 #NWMax Plus MODEL  ASCII
 # model: TDS21_UDoor_05
+<<<<<<< HEAD
 filedependancy keeps.max
+=======
+filedependancy Unknown
+>>>>>>> nwnds_acidchalk
 newmodel TDS21_UDoor_05
 setsupermodel TDS21_UDoor_05 NULL
 classification Door
@@ -16,25 +24,41 @@ node dummy TDS21_UDoor_05head
   parent TDS21_UDoor_05
   position 0.0 0.0 2.50064
   orientation 1.0 0.0 0.0 0.0
+<<<<<<< HEAD
   wirecolor 0.341176 0.882353 0.776471 
+=======
+  wirecolor 0.65098 0.898039 0.898039 
+>>>>>>> nwnds_acidchalk
 endnode
 node dummy TDS21_UDoor_05hhit
   parent TDS21_UDoor_05
   position 0.0 0.0 2.17507
   orientation 1.0 0.0 0.0 0.0
+<<<<<<< HEAD
   wirecolor 0.541176 0.0313726 0.431373 
+=======
+  wirecolor 0.898039 0.603922 0.843137 
+>>>>>>> nwnds_acidchalk
 endnode
 node dummy TDS21_UDoor_05impc
   parent TDS21_UDoor_05
   position 0.0 0.0 1.63648
   orientation 1.0 0.0 0.0 0.0
+<<<<<<< HEAD
   wirecolor 0.541176 0.0313726 0.431373 
+=======
+  wirecolor 0.898039 0.603922 0.843137 
+>>>>>>> nwnds_acidchalk
 endnode
 node dummy TIN01_B13_09
   parent TDS21_UDoor_05
   position -1.0 0.0 -2.44141e-006
   orientation 0.0 0.0 -1.0 -1.5708
+<<<<<<< HEAD
   wirecolor 0.541176 0.0313726 0.431373 
+=======
+  wirecolor 0.898039 0.603922 0.843137 
+>>>>>>> nwnds_acidchalk
 endnode
 node trimesh Box55
   parent TIN01_B13_09
@@ -55,7 +79,11 @@ node trimesh Box55
   Diffuse 1.0 1.0 1.0 
   Specular 0.05 0.05 0.05 
   shininess 26
+<<<<<<< HEAD
   center -39.2817 4.52995e-005 120.522 
+=======
+  center -39.2817 5.00679e-005 120.522 
+>>>>>>> nwnds_acidchalk
   bitmap ttj21_wood02
   verts 18
     -1.0 0.100001 2.41045
@@ -162,9 +190,15 @@ node trimesh Box56
   Diffuse 1.0 1.0 1.0 
   Specular 0.05 0.05 0.05 
   shininess 26
+<<<<<<< HEAD
   center -69.3555 -5.49999 -42.7215 
   bitmap ttd01_tusk01
   verts 22
+=======
+  center -69.3555 11.8056 -42.7215 
+  bitmap ttd01_tusk01
+  verts 44
+>>>>>>> nwnds_acidchalk
     -0.763555 -0.0599999 -0.192215
     -0.623555 -0.0599999 -0.192215
     -0.623555 0.0200001 -0.192215
@@ -187,7 +221,33 @@ node trimesh Box56
     -0.723555 -0.0699999 -0.622215
     -0.663555 -0.13 -0.662215
     -0.723555 -0.13 -0.662215
+<<<<<<< HEAD
   faces 36
+=======
+    -0.763555 0.296112 -0.192215
+    -0.623555 0.296112 -0.192215
+    -0.623555 0.216112 -0.192215
+    -0.763555 0.216112 -0.192215
+    -0.623555 0.286112 -0.232215
+    -0.623555 0.216112 -0.232215
+    -0.763555 0.216112 -0.232215
+    -0.763555 0.286112 -0.232215
+    -0.643555 0.316112 -0.352215
+    -0.743555 0.316112 -0.352215
+    -0.743555 0.356112 -0.342215
+    -0.643555 0.356112 -0.342215
+    -0.663555 0.256112 -0.602215
+    -0.723555 0.256112 -0.602215
+    -0.663555 0.286112 -0.602215
+    -0.723555 0.286112 -0.602215
+    -0.663555 0.276112 -0.632215
+    -0.723555 0.276112 -0.632215
+    -0.663555 0.306112 -0.622215
+    -0.723555 0.306112 -0.622215
+    -0.663555 0.366112 -0.662215
+    -0.723555 0.366112 -0.662215
+  faces 72
+>>>>>>> nwnds_acidchalk
     0 1 2  1  44 45 46  1
     2 3 0  1  46 47 44  1
     4 5 2  1  22 23 24  4
@@ -224,7 +284,46 @@ node trimesh Box56
     18 19 21  1  18 19 21  5
     21 20 18  1  21 20 18  5
     19 17 21  1  41 40 43  5
+<<<<<<< HEAD
   tverts 48
+=======
+    23 22 24  1  93 92 94  1
+    25 24 22  1  95 94 92  1
+    27 26 24  1  71 70 72  4
+    23 24 26  1  73 72 70  4
+    28 27 25  1  54 53 51  6
+    24 25 27  1  50 51 53  6
+    29 28 22  1  75 74 76  3
+    25 22 28  1  77 76 74  3
+    26 29 30  1  52 55 56  5
+    31 30 29  1  57 56 55  5
+    22 23 32  1  48 49 58  5
+    33 32 23  1  59 58 49  5
+    23 26 33  1  73 70 78  5
+    30 33 26  1  79 78 70  5
+    29 22 31  1  75 76 80  5
+    32 31 22  1  81 80 76  5
+    30 31 34  1  56 57 60  5
+    35 34 31  1  61 60 57  5
+    33 30 36  1  78 79 82  5
+    34 36 30  1  83 82 79  5
+    32 33 37  1  58 59 63  5
+    36 37 33  1  62 63 59  5
+    31 32 35  1  80 81 84  5
+    37 35 32  1  85 84 81  5
+    34 35 38  1  60 61 64  5
+    39 38 35  1  65 64 61  5
+    36 34 40  1  82 83 86  5
+    38 40 34  1  87 86 83  5
+    37 36 41  1  63 62 67  5
+    40 41 36  1  66 67 62  5
+    35 37 39  1  84 85 88  5
+    41 39 37  1  89 88 85  5
+    40 38 42  1  86 87 90  5
+    41 40 43  1  67 66 69  5
+    42 43 40  1  68 69 66  5
+    39 41 43  1  88 89 91  5
+  tverts 96
     0.0 1.0 0
     0.284114 1.0 0
     0.284115 1.0 0
@@ -273,6 +372,56 @@ node trimesh Box56
     0.286444 0.846707 0
     0.286444 1.0 0
     4.19055e-007 1.0 0
+>>>>>>> nwnds_acidchalk
+    0.0 1.0 0
+    0.284114 1.0 0
+    0.284115 1.0 0
+    4.09762e-007 1.0 0
+    0.284114 0.926829 0
+    0.284115 0.926828 0
+    4.09762e-007 0.926828 0
+    0.0 0.926829 0
+    0.243526 0.707314 0
+    0.0405878 0.707314 0
+    0.0405878 0.725607 0
+    0.243526 0.725607 0
+    0.202939 0.249991 0
+    0.0811757 0.249991 0
+    0.202939 0.249992 0
+    0.0811752 0.249992 0
+    0.202939 0.195113 0
+    0.0811752 0.195113 0
+    0.202939 0.213406 0
+    0.0811752 0.213406 0
+    0.202939 0.140234 0
+    0.0811752 0.140234 0
+    0.139918 0.926533 0
+    0.0 0.926533 0
+    0.0 1.0 0
+    0.159906 1.0 0
+    1.20806e-007 0.926533 0
+    0.139918 0.926533 0
+    0.159906 1.0 0
+    0.0 1.0 0
+    0.279836 0.724501 0
+    0.199883 0.706134 0
+    0.199883 0.706134 0
+    0.279836 0.724501 0
+    0.139919 0.246968 0
+    0.0799543 0.246968 0
+    0.0799542 0.246968 0
+    0.139919 0.246968 0
+    0.179895 0.210235 0
+    0.119931 0.191868 0
+    0.119931 0.191868 0
+    0.179895 0.210235 0
+    0.299825 0.136769 0
+    0.299825 0.136769 0
+    0.0 0.846707 0
+    0.286444 0.846707 0
+    0.286444 1.0 0
+    4.19055e-007 1.0 0
+<<<<<<< HEAD
 endnode
 node trimesh Box62
   parent Box55
@@ -378,12 +527,18 @@ node trimesh Box62
     0.0835056 0.213152 0
     0.205269 0.13998 0
     0.0835056 0.13998 0
+=======
+>>>>>>> nwnds_acidchalk
 endnode
 node dummy TDS21_UDoor_05grnd
   parent TDS21_UDoor_05
   position 0.0 0.0 0.0
   orientation 1.0 0.0 0.0 0.0
+<<<<<<< HEAD
   wirecolor 0.6 0.894118 0.839216 
+=======
+  wirecolor 0.341176 0.882353 0.560784 
+>>>>>>> nwnds_acidchalk
 endnode
 node emitter fire!15
   parent TDS21_UDoor_05
@@ -471,7 +626,11 @@ node trimesh sam
   Diffuse 0.8 0.8 0.8 
   Specular 0.0 0.0 0.0 
   shininess 1
+<<<<<<< HEAD
   center 0.000148773 40.2734 -28.8313 
+=======
+  center 0.000150204 40.2734 -28.8313 
+>>>>>>> nwnds_acidchalk
   bitmap NULL
   verts 8
     -0.08 1.02 -1.49
@@ -531,9 +690,12 @@ newanim opening1 TDS21_UDoor_05
     node trimesh Box56
         parent Box55
     endnode
+<<<<<<< HEAD
     node trimesh Box62
         parent Box55
     endnode
+=======
+>>>>>>> nwnds_acidchalk
     node dummy TDS21_UDoor_05grnd
         parent TDS21_UDoor_05
     endnode
@@ -585,9 +747,12 @@ newanim closing1 TDS21_UDoor_05
     node trimesh Box56
         parent Box55
     endnode
+<<<<<<< HEAD
     node trimesh Box62
         parent Box55
     endnode
+=======
+>>>>>>> nwnds_acidchalk
     node dummy TDS21_UDoor_05grnd
         parent TDS21_UDoor_05
     endnode
@@ -642,9 +807,12 @@ newanim opening2 TDS21_UDoor_05
     node trimesh Box56
         parent Box55
     endnode
+<<<<<<< HEAD
     node trimesh Box62
         parent Box55
     endnode
+=======
+>>>>>>> nwnds_acidchalk
     node dummy TDS21_UDoor_05grnd
         parent TDS21_UDoor_05
     endnode
@@ -703,9 +871,12 @@ newanim die TDS21_UDoor_05
     node trimesh Box56
         parent Box55
     endnode
+<<<<<<< HEAD
     node trimesh Box62
         parent Box55
     endnode
+=======
+>>>>>>> nwnds_acidchalk
     node dummy TDS21_UDoor_05grnd
         parent TDS21_UDoor_05
     endnode
@@ -759,9 +930,12 @@ newanim closing2 TDS21_UDoor_05
     node trimesh Box56
         parent Box55
     endnode
+<<<<<<< HEAD
     node trimesh Box62
         parent Box55
     endnode
+=======
+>>>>>>> nwnds_acidchalk
     node dummy TDS21_UDoor_05grnd
         parent TDS21_UDoor_05
     endnode
@@ -800,8 +974,13 @@ newanim closed TDS21_UDoor_05
     node dummy TIN01_B13_09
         parent TDS21_UDoor_05
         orientationkey
+<<<<<<< HEAD
             0.0 5.00209e-007 -5.00211e-007 -1.0 -1.5708
             0.0333333 9.99785e-007 -9.99789e-007 -1.0 -1.5708
+=======
+            0.0 8.24277e-007 -8.2428e-007 -1.0 -1.5708
+            0.0333333 1.00184e-006 -1.00185e-006 -1.0 -1.5708
+>>>>>>> nwnds_acidchalk
         endlist
     endnode
     node trimesh Box55
@@ -810,9 +989,12 @@ newanim closed TDS21_UDoor_05
     node trimesh Box56
         parent Box55
     endnode
+<<<<<<< HEAD
     node trimesh Box62
         parent Box55
     endnode
+=======
+>>>>>>> nwnds_acidchalk
     node dummy TDS21_UDoor_05grnd
         parent TDS21_UDoor_05
     endnode
@@ -855,9 +1037,12 @@ newanim opened2 TDS21_UDoor_05
     node trimesh Box56
         parent Box55
     endnode
+<<<<<<< HEAD
     node trimesh Box62
         parent Box55
     endnode
+=======
+>>>>>>> nwnds_acidchalk
     node dummy TDS21_UDoor_05grnd
         parent TDS21_UDoor_05
     endnode
@@ -895,7 +1080,11 @@ newanim opened1 TDS21_UDoor_05
         parent TDS21_UDoor_05
         orientationkey
             0.0 0.0 0.0 -1.0 -0.23562
+<<<<<<< HEAD
             0.0333333 0.0 0.0 -1.0 -0.23562
+=======
+            0.0333333 5.03596e-007 0.0 -1.0 -0.23562
+>>>>>>> nwnds_acidchalk
         endlist
     endnode
     node trimesh Box55
@@ -904,9 +1093,12 @@ newanim opened1 TDS21_UDoor_05
     node trimesh Box56
         parent Box55
     endnode
+<<<<<<< HEAD
     node trimesh Box62
         parent Box55
     endnode
+=======
+>>>>>>> nwnds_acidchalk
     node dummy TDS21_UDoor_05grnd
         parent TDS21_UDoor_05
     endnode
@@ -949,9 +1141,12 @@ newanim trans TDS21_UDoor_05
     node trimesh Box56
         parent Box55
     endnode
+<<<<<<< HEAD
     node trimesh Box62
         parent Box55
     endnode
+=======
+>>>>>>> nwnds_acidchalk
     node dummy TDS21_UDoor_05grnd
         parent TDS21_UDoor_05
     endnode
@@ -1002,9 +1197,12 @@ newanim dead TDS21_UDoor_05
     node trimesh Box56
         parent Box55
     endnode
+<<<<<<< HEAD
     node trimesh Box62
         parent Box55
     endnode
+=======
+>>>>>>> nwnds_acidchalk
     node dummy TDS21_UDoor_05grnd
         parent TDS21_UDoor_05
     endnode

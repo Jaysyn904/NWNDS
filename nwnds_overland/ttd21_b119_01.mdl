@@ -3594,7 +3594,11 @@ node trimesh wok004
   Specular 0.0 0.0 0.0 
   shininess 1
   center 0.0 -1000.0 332.5 
+<<<<<<< HEAD
   bitmap ttd21_sand01
+=======
+  bitmap trd21_sand08
+>>>>>>> nwnds_acidchalk
   verts 50
     -5.0 -15.0 3.0
     -2.5 -15.0 3.0

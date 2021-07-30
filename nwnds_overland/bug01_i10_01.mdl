@@ -48,7 +48,11 @@ node aabb wok_122
   orientation 1.0 0.0 0.0 0.0
   wirecolor 0.0 0.0 0.0 
   multimaterial 31
+<<<<<<< HEAD
     ttd21_sand01
+=======
+    trd21_sand08
+>>>>>>> nwnds_acidchalk
     Dirt
     Obscuring
     Grass

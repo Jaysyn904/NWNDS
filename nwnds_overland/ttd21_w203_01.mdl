@@ -903,7 +903,11 @@ node trimesh object12.004
   diffuse 1 1 1
   specular 0 0 0
   selfillumcolor 0 0 0
+<<<<<<< HEAD
   bitmap ttd21_sand01
+=======
+  bitmap trd21_sand08
+>>>>>>> nwnds_acidchalk
   shininess 1
   render 1
   shadow 0

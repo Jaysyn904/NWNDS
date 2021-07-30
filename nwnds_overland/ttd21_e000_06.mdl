@@ -347,7 +347,11 @@ node trimesh plane538
   beaming 0
   render 1
   transparencyhint 0
+<<<<<<< HEAD
   bitmap ttd21_sand01
+=======
+  bitmap trd21_sand08
+>>>>>>> nwnds_acidchalk
   rotatetexture 1
   orientation 0 0 0 0
   alpha 1

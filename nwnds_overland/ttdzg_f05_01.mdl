@@ -4388,7 +4388,11 @@ node trimesh a_ziggurat
   Specular 0.0 0.0 0.0 
   shininess 1
   center -56.833 -467.0 659.008 
+<<<<<<< HEAD
   bitmap ttd21_sand01
+=======
+  bitmap trd21_sand08
+>>>>>>> nwnds_acidchalk
   verts 273
     -49.47 -27.53 3.0
     -40.56 -27.53 10.76
