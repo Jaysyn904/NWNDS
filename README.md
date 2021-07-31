@@ -19,5 +19,7 @@ Merricksdad - Red Desert Tileset
 
 LordofWorms - Jungle Mountain Tileset
 
+Pasilli (R.I.P) & CTP - CTP Babylon Tileset
+
 
 
