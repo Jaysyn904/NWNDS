@@ -1,0 +1,35 @@
+The dunes and steppes of Athas are home to thousands of tribes of nomadic elves. While each tribe is very different culturally, the elves within 
+them remain a race of long-limbed sprinters given to theft, raiding, and warfare.
+
+An Athasian elf stands between 6 1/2 and 7 1/2 feet tall. They are slender, lean, and generally in terrific physical condition. Their features are deeply etched into their weather-toughened faces, and their skin made rugged by the windblown sands and baking sun of the wilderness. Elves typically dress to survive in the desert environment. Even when at an oases or in the cities, elves tend to prefer their native garb, designed to wrap the wearer against the brutality of the elements.
+
+Elves are all brethren within their own tribe, but regard all outsiders as potential enemies. There is no racial unity among the elves-an elf from outside the tribe is just as much a foe as a human, halfling, or thri-kreen. Acceptance of an outsider by an individual elf can be achieved, but trust will only develop over time. Acceptance of an outsider by an entire tribe is also possible, but rare. It is usually only awarded after some great sacrifice has been made on behalf of the tribe-many outsiders have been accepted posthumously into elven desert tribes.
+
+Individually, tribal elves are swift, sure, and self-reliant in the extreme. An elf is conditioned to run quickly over sandy and rocky terrain, sometimes for days at a time -an elf warrior can cross better than 50 miles per day. An elven war party on the move is a deadly force of endurance and maneuverability. Elves use no beasts of burden for personal transportation, though they do sometimes engage kanks and similar creatures for baggage or raw materials transport. It is dishonorable among elves to ride on an animal unless wounded and near death-even pregnant women and old elves are expected to keep up with the tribe or be left behind.
+
+While most elven tribes make their living through herding, some have turned to commerce and others to raiding. Elven traders are rightly considered the most capable on Athas. Not only can they barter and deal with a variety of races, they can move and protect their goods across the vast wilderness.
+
+Elven culture, while savage, is also very rich and diverse. A player character elf can be from a wild, tribal background or from a city state upbringing-there are many elves that have settled in the cities as bazaar  vendors, and still many more that have been dragged there in chains.
+
+Elven Ability Adjustments: +2 Dex, -2 Con.
+
+Favored Class (Rogue): A multiclass elf's rogue class does not count when determining whether he suffers an XP penalty for multiclassing.
+
+Racial Traits:
+- Elven base land speed is 40 feet.
+- Medium: As Medium creatures, elves have no special bonuses of penalties due to size.
+- Low-Light Vision: Allows them to see better than normal in the dark.
+- Sleeplessness: Immune to spells and effects of the 'Sleep' subtype.
+- Hardiness vs. Enchantments: +2 racial bonus on saving throws against mind-affecting spells.
+- Bonus Proficiencies (Longsword, Rapier, Shortbow, Longbow)
+- Skill Affinity (Listen): +2 racial bonus to Listen checks.
+- Skill Affinity (Search): +2 racial bonus to Search checks.
+- Skill Affinity (Spot): +2 racial bonus to Spot checks.
+- Skill Affinity (Perform): +2 racial bonus to Perform checks.
+- Elemental Resiliance: Elves have a natural resistance to extreme temperatures and aren’t adversely affected by the heat of the day or the chill of the night.
+- Keen Senses: Elves make active Search checks automatically and with no movement penalties.
+- Elf Run: After a minute of warm–up and a Concentration check (DC 10), elves can induce an elf run state. This state allows elves to hustle for long distances as easily as a human can move normally, and run for long distances as easily as a human can hustle.
+
+Automatic Languages: Common and Elven
+
+Bonus Languages: Dwarven, Entomic, Kreen, Gith, Saurian, and Terran

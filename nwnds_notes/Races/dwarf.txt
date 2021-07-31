@@ -21,6 +21,4 @@ Special Abilities:
 
 Automatic Languages: Common, Dwarven. 
 
-Bonus languages: Elven, Giant, Gith, Kreen, Saurian.
-
-Level Adjustment: +0.
+Bonus languages: Elven, Giant, Gith, Kreen, Saurian
