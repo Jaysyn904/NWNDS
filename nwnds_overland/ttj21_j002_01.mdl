@@ -1237,11 +1237,7 @@ node trimesh c01_03floor1.001
   diffuse 1.00 1.00 1.00
   specular 0.00 0.00 0.00
   selfillumcolor 0.00 0.00 0.00
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   shininess 1
   render 1
   shadow 0
@@ -1498,11 +1494,7 @@ node trimesh c01_03floor1.005
   diffuse 1.00 1.00 1.00
   specular 0.00 0.00 0.00
   selfillumcolor 0.00 0.00 0.00
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   shininess 1
   render 1
   shadow 0

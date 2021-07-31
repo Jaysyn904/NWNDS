@@ -182,11 +182,7 @@ node trimesh nmc_08029a84
   shininess 1
   shadow 0
   rotatetexture 1
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   orientation 0 0 0 0
   scale 1
   alpha 1

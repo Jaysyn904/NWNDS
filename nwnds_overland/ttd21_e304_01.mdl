@@ -285,11 +285,7 @@ node trimesh plane20
   Specular 0.0 0.0 0.0 
   shininess 1
   center 0.0 0.0 44.097 
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   verts 31
     -5.0 -1.0 0.0
     -5.0 -5.0 0.0
@@ -1239,11 +1235,7 @@ node trimesh floor133.001
   Specular 0.0 0.0 0.0 
   shininess 10
   center -460.0 -460.269 1190.0 
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   verts 9
     -4.2 4.8 11.8
     -4.8 4.2 11.8

@@ -500,11 +500,7 @@ node trimesh colmesh33
   specular 0.0 0.0 0.0 
   shininess 1
   center -503.5 -194.5 -129.5 
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   verts 51
     -5.72 -5.0 -1.6
     -4.72 -5.0 -1.4

@@ -517,11 +517,7 @@ node trimesh nmc_07ffa620
   shininess 1
   shadow 0
   rotatetexture 1
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   orientation 0 0 0 0
   scale 1
   alpha 1
@@ -574,11 +570,7 @@ node trimesh nmc_07ffaa78
   shininess 1
   shadow 0
   rotatetexture 1
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   orientation 0 0 0 0
   scale 1
   alpha 1

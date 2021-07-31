@@ -132,11 +132,7 @@ node trimesh mesh11
   shininess 1
   shadow 0
   rotatetexture 1
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   orientation 0 0 0 0
   alpha 1
   scale 1
@@ -447,11 +443,7 @@ node trimesh plane31
   shininess 1
   shadow 0
   rotatetexture 1
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   orientation 0 0 0 0
   alpha 1
   scale 1

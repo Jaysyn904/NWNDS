@@ -562,11 +562,7 @@ node trimesh grass
   specular 0.0 0.0 0.0 
   shininess 10
   center 0.0 0.0 -2.5 
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   verts 81
     4.0 -4.0 0.0
     3.99 -2.67 0.0

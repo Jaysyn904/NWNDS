@@ -33,11 +33,7 @@ node trimesh groundbot109.007
   Specular 0.0 0.0 0.0 
   shininess 1
   center 0.0 0.0 348.0 
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   verts 116
     -4.8 -4.8 3.0
     -4.8 4.8 3.0
@@ -2040,11 +2036,7 @@ node aabb wok
   orientation 1.0 0.0 0.0 0.0
   wirecolor 0.0196078 0.517647 0.0196078 
   multimaterial 3
-<<<<<<< HEAD
-    ttd21_sand01
-=======
     trd21_sand08
->>>>>>> nwnds_acidchalk
     ds_tt_stucco08
     black
   bitmap NULL

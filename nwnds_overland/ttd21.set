@@ -133,11 +133,7 @@ ChangedHeight=1
 Count=0
 
 [TILES]
-<<<<<<< HEAD
-Count=827
-=======
 Count=836
->>>>>>> nwnds_acidchalk
 
 [TILE0]
 Model=ttd21_e000_01
@@ -3618,8 +3614,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE123DOOR0]
 Type=0
 X=-4.70
@@ -3627,7 +3621,6 @@ Y=0
 Z=3.02
 Orientation=-90
 
->>>>>>> nwnds_acidchalk
 [TILE124]
 Model=ttd21_s105_01
 WalkMesh=msb01
@@ -3656,8 +3649,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE124DOOR0]
 Type=0
 X=-4.70
@@ -3665,7 +3656,6 @@ Y=0
 Z=3.02
 Orientation=-90
 
->>>>>>> nwnds_acidchalk
 [TILE125]
 Model=ttd21_s106_01
 WalkMesh=msb01
@@ -3694,8 +3684,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE125DOOR0]
 Type=0
 X=-4.65
@@ -3703,7 +3691,6 @@ Y=2.75
 Z=3.02
 Orientation=-90
 
->>>>>>> nwnds_acidchalk
 [TILE126]
 Model=ttd21_s107_01
 WalkMesh=msb01
@@ -3732,8 +3719,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE126DOOR0]
 Type=0
 X=-4.65
@@ -3741,7 +3726,6 @@ Y=-2.75
 Z=3.02
 Orientation=-90
 
->>>>>>> nwnds_acidchalk
 [TILE127]
 Model=ttd21_s108_01
 WalkMesh=msb01
@@ -3770,8 +3754,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE127DOOR0]
 Type=0
 X=-4.65
@@ -3779,7 +3761,6 @@ Y=-2.75
 Z=3.02
 Orientation=-90
 
->>>>>>> nwnds_acidchalk
 [TILE128]
 Model=ttd21_s109_01
 WalkMesh=msb01
@@ -3808,8 +3789,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE128DOOR0]
 Type=0
 X=-4.65
@@ -3817,7 +3796,6 @@ Y=2.75
 Z=3.02
 Orientation=-90
 
->>>>>>> nwnds_acidchalk
 [TILE129]
 Model=ttd21_s110_01
 WalkMesh=msb01
@@ -3846,8 +3824,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE129DOOR0]
 Type=0
 X=-4.70
@@ -3855,7 +3831,6 @@ Y=0
 Z=3.02
 Orientation=-90
 
->>>>>>> nwnds_acidchalk
 [TILE130]
 Model=ttd21_s111_01
 WalkMesh=msb01
@@ -3884,8 +3859,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE130DOOR0]
 Type=0
 X=-4.65
@@ -3893,7 +3866,6 @@ Y=-2.75
 Z=3.02
 Orientation=-90
 
->>>>>>> nwnds_acidchalk
 [TILE131]
 Model=ttd21_s112_01
 WalkMesh=msb01
@@ -3922,8 +3894,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE131DOOR0]
 Type=0
 X=-4.65
@@ -3931,7 +3901,6 @@ Y=2.75
 Z=3.02
 Orientation=-90
 
->>>>>>> nwnds_acidchalk
 [TILE132]
 Model=ttd21_s113_01
 WalkMesh=msb01
@@ -3960,8 +3929,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE132DOOR0]
 Type=0
 X=-4.65
@@ -3969,7 +3936,6 @@ Y=2.75
 Z=3.02
 Orientation=-90
 
->>>>>>> nwnds_acidchalk
 [TILE133]
 Model=ttd21_s114_01
 WalkMesh=msb01
@@ -3998,8 +3964,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE133DOOR0]
 Type=0
 X=-4.70
@@ -4007,7 +3971,6 @@ Y=0
 Z=3.02
 Orientation=-90
 
->>>>>>> nwnds_acidchalk
 [TILE134]
 Model=ttd21_s115_01
 WalkMesh=msb01
@@ -4036,8 +3999,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE134DOOR0]
 Type=0
 X=-4.65
@@ -4045,7 +4006,6 @@ Y=-2.75
 Z=3.02
 Orientation=-90
 
->>>>>>> nwnds_acidchalk
 [TILE135]
 Model=ttd21_s116_01
 WalkMesh=msb01
@@ -4074,8 +4034,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE135DOOR0]
 Type=0
 X=0
@@ -4083,7 +4041,6 @@ Y=-4.9
 Z=3.02
 Orientation=0
 
->>>>>>> nwnds_acidchalk
 [TILE136]
 Model=ttd21_s117_01
 WalkMesh=msb01
@@ -4112,8 +4069,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE136DOOR0]
 Type=0
 X=0
@@ -4121,7 +4076,6 @@ Y=-4.9
 Z=3.02
 Orientation=0
 
->>>>>>> nwnds_acidchalk
 [TILE137]
 Model=ttd21_s118_01
 WalkMesh=msb01
@@ -4150,8 +4104,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE137DOOR0]
 Type=0
 X=0
@@ -4159,7 +4111,6 @@ Y=-4.9
 Z=3.02
 Orientation=0
 
->>>>>>> nwnds_acidchalk
 [TILE138]
 Model=ttd21_s119_01
 WalkMesh=msb01
@@ -4188,8 +4139,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE138DOOR0]
 Type=0
 X=0
@@ -4197,7 +4146,6 @@ Y=-4.9
 Z=3.02
 Orientation=0
 
->>>>>>> nwnds_acidchalk
 [TILE139]
 Model=ttd21_s120_01
 WalkMesh=msb01
@@ -4226,8 +4174,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE139DOOR0]
 Type=0
 X=-4.40
@@ -4235,7 +4181,6 @@ Y=0
 Z=3.02
 Orientation=-90
 
->>>>>>> nwnds_acidchalk
 [TILE140]
 Model=ttd21_e150_01
 WalkMesh=msb01
@@ -6819,11 +6764,7 @@ Orientation=0
 ImageMap2D=mitd01_P03
 
 [TILE231]
-<<<<<<< HEAD
-Model=ttd21_b020_10
-=======
 Model=twm_b049_11
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -6851,11 +6792,7 @@ Orientation=0
 ImageMap2D=mitd01_P03
 
 [TILE232]
-<<<<<<< HEAD
-Model=ttd21_b020_11
-=======
 Model=twm_b049_12
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -6883,11 +6820,7 @@ Orientation=0
 ImageMap2D=mitd01_P03
 
 [TILE233]
-<<<<<<< HEAD
-Model=ttd21_b020_12
-=======
 Model=twm_b049_13
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -6915,11 +6848,7 @@ Orientation=0
 ImageMap2D=mitd01_P03
 
 [TILE234]
-<<<<<<< HEAD
-Model=ttd21_b020_13
-=======
 Model=twm_b049_14
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -6932,11 +6861,7 @@ BottomRightHeight=0
 Top=
 Right=
 Bottom=
-<<<<<<< HEAD
-Left=
-=======
 Left=wall06
->>>>>>> nwnds_acidchalk
 MainLight1=1
 MainLight2=1
 SourceLight1=1
@@ -6951,11 +6876,7 @@ Orientation=0
 ImageMap2D=mitd01_P03
 
 [TILE235]
-<<<<<<< HEAD
-Model=ttd21_b020_14
-=======
 Model=twm_b049_15
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -6982,10 +6903,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-[TILE236]
-Model=ttd21_b020_15
-=======
 [TILE235DOOR0]
 Type=254
 X=14.85
@@ -7030,7 +6947,6 @@ Orientation=90
 
 [TILE236]
 Model=twm_b049_16
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -7041,11 +6957,7 @@ BottomLeftHeight=0
 BottomRight=Desert
 BottomRightHeight=0
 Top=
-<<<<<<< HEAD
-Right=
-=======
 Right=wall06
->>>>>>> nwnds_acidchalk
 Bottom=
 Left=
 MainLight1=1
@@ -7062,11 +6974,7 @@ Orientation=0
 ImageMap2D=mitd01_P03
 
 [TILE237]
-<<<<<<< HEAD
-Model=ttd21_b020_16
-=======
 Model=twm_b049_17
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -7094,11 +7002,7 @@ Orientation=0
 ImageMap2D=mitd01_P03
 
 [TILE238]
-<<<<<<< HEAD
-Model=ttd21_b020_17
-=======
 Model=twm_b049_18
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -7126,11 +7030,7 @@ Orientation=0
 ImageMap2D=mitd01_P03
 
 [TILE239]
-<<<<<<< HEAD
-Model=ttd21_b020_18
-=======
 Model=twm_b049_19
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -7158,11 +7058,7 @@ Orientation=0
 ImageMap2D=mitd01_P03
 
 [TILE240]
-<<<<<<< HEAD
-Model=ttd21_b020_19
-=======
 Model=twm_b042_02
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -7172,13 +7068,8 @@ BottomLeft=Desert
 BottomLeftHeight=0
 BottomRight=Desert
 BottomRightHeight=0
-<<<<<<< HEAD
-Top=
-Right=
-=======
 Top=wall06
 Right=wall06
->>>>>>> nwnds_acidchalk
 Bottom=
 Left=
 MainLight1=1
@@ -7194,10 +7085,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-[TILE241]
-Model=ttd21_b020_20
-=======
 [TILE240DOOR0]
 Type=254
 X=-0.395
@@ -7221,7 +7108,6 @@ Orientation=180
 
 [TILE241]
 Model=twm_b044_02
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -7231,17 +7117,10 @@ BottomLeft=Desert
 BottomLeftHeight=0
 BottomRight=Desert
 BottomRightHeight=0
-<<<<<<< HEAD
-Top=
-Right=
-Bottom=
-Left=
-=======
 Top=wall06
 Right=wall06
 Bottom=wall06
 Left=wall06
->>>>>>> nwnds_acidchalk
 MainLight1=1
 MainLight2=1
 SourceLight1=1
@@ -7255,10 +7134,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-[TILE242]
-Model=ttd21_b020_21
-=======
 [TILE241DOOR0]
 Type=254
 X=0.395
@@ -7296,7 +7171,6 @@ Orientation=-90
 
 [TILE242]
 Model=twm_b043_02
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -7306,15 +7180,9 @@ BottomLeft=Desert
 BottomLeftHeight=0
 BottomRight=Desert
 BottomRightHeight=0
-<<<<<<< HEAD
-Top=
-Right=
-Bottom=
-=======
 Top=wall06
 Right=wall06
 Bottom=wall06
->>>>>>> nwnds_acidchalk
 Left=
 MainLight1=1
 MainLight2=1
@@ -7329,10 +7197,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-[TILE243]
-Model=ttd21_b020_22
-=======
 [TILE242DOOR0]
 Type=254
 X=0.395
@@ -7363,7 +7227,6 @@ Orientation=90
 
 [TILE243]
 Model=twm_b045_02
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -7373,15 +7236,9 @@ BottomLeft=Desert
 BottomLeftHeight=0
 BottomRight=Desert
 BottomRightHeight=0
-<<<<<<< HEAD
-Top=
-Right=
-Bottom=
-=======
 Top=wall06
 Right=
 Bottom=wall06
->>>>>>> nwnds_acidchalk
 Left=
 MainLight1=1
 MainLight2=1
@@ -7396,10 +7253,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-[TILE244]
-Model=twm_b041_01
-=======
 [TILE243DOOR0]
 Type=254
 X=0.395
@@ -7416,7 +7269,6 @@ Orientation=180
 
 [TILE244]
 Model=twm_b045_01
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -7738,11 +7590,7 @@ Orientation=0
 ImageMap2D=mitd01_P03
 
 [TILE254]
-<<<<<<< HEAD
-Model=twm_b045_01
-=======
 Model=twm_b043_01
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -7798,11 +7646,7 @@ Orientation=0
 ImageMap2D=mitd01_P03
 
 [TILE256]
-<<<<<<< HEAD
-Model=twm_b043_01
-=======
 Model=twm_b042_01
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -7830,11 +7674,7 @@ Orientation=0
 ImageMap2D=mitd01_P03
 
 [TILE257]
-<<<<<<< HEAD
-Model=twm_b040_03
-=======
 Model=twm_b041_03
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -7862,11 +7702,7 @@ Orientation=0
 ImageMap2D=mitd01_P03
 
 [TILE258]
-<<<<<<< HEAD
-Model=twm_b040_02
-=======
 Model=twm_b041_02
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -7893,10 +7729,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-[TILE259]
-Model=twm_b040_01
-=======
 [TILE258DOOR0]
 Type=254
 X=-0.395
@@ -7913,7 +7745,6 @@ Orientation=180
 
 [TILE259]
 Model=twm_b041_01
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -7941,11 +7772,7 @@ Orientation=0
 ImageMap2D=mitd01_P03
 
 [TILE260]
-<<<<<<< HEAD
-Model=twm_b042_01
-=======
 Model=twm_b040_01
->>>>>>> nwnds_acidchalk
 WalkMesh=msb01
 TopLeft=Desert
 TopLeftHeight=0
@@ -9036,8 +8863,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE298DOOR0]
 Type=0
 X=-1.37
@@ -9045,7 +8870,6 @@ Y=-0.03
 Z=3.02
 Orientation=90.0
 
->>>>>>> nwnds_acidchalk
 [TILE299]
 Model=ttd21_d003_05
 WalkMesh=msb01
@@ -24465,8 +24289,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
-<<<<<<< HEAD
-=======
 [TILE827]
 Model=ttd21_d006_01
 WalkMesh=msb01
@@ -24719,7 +24541,6 @@ PathNode=A
 Orientation=0
 ImageMap2D=mitd01_P03
 
->>>>>>> nwnds_acidchalk
 [GROUPS]
 Count=169
 
@@ -25236,131 +25057,79 @@ Tile0=230
 Name=Tyr Wall 10
 Rows=1
 Columns=1
-<<<<<<< HEAD
-Tile0=231
-=======
 Tile0=1
->>>>>>> nwnds_acidchalk
 
 [GROUP80]
 Name=Tyr Wall 11
 Rows=1
 Columns=1
-<<<<<<< HEAD
-Tile0=232
-=======
 Tile0=1
->>>>>>> nwnds_acidchalk
 
 [GROUP81]
 Name=Tyr Wall 12
 Rows=1
 Columns=1
-<<<<<<< HEAD
-Tile0=233
-=======
 Tile0=1
->>>>>>> nwnds_acidchalk
 
 [GROUP82]
 Name=Tyr Wall 13
 Rows=1
 Columns=1
-<<<<<<< HEAD
-Tile0=234
-=======
 Tile0=1
->>>>>>> nwnds_acidchalk
 
 [GROUP83]
 Name=Tyr Wall 14
 Rows=1
 Columns=1
-<<<<<<< HEAD
-Tile0=235
-=======
 Tile0=1
->>>>>>> nwnds_acidchalk
 
 [GROUP84]
 Name=Tyr Wall 15
 Rows=1
 Columns=1
-<<<<<<< HEAD
-Tile0=236
-=======
 Tile0=1
->>>>>>> nwnds_acidchalk
 
 [GROUP85]
 Name=Tyr Wall 16
 Rows=1
 Columns=1
-<<<<<<< HEAD
-Tile0=237
-=======
 Tile0=1
->>>>>>> nwnds_acidchalk
 
 [GROUP86]
 Name=Tyr Wall 17
 Rows=1
 Columns=1
-<<<<<<< HEAD
-Tile0=238
-=======
 Tile0=1
->>>>>>> nwnds_acidchalk
 
 [GROUP87]
 Name=Tyr Wall 18
 Rows=1
 Columns=1
-<<<<<<< HEAD
-Tile0=239
-=======
 Tile0=1
->>>>>>> nwnds_acidchalk
 
 [GROUP88]
 Name=Tyr Wall 19
 Rows=1
 Columns=1
-<<<<<<< HEAD
-Tile0=240
-=======
 Tile0=1
->>>>>>> nwnds_acidchalk
 
 [GROUP89]
 Name=Tyr Wall 20
 Rows=1
 Columns=1
-<<<<<<< HEAD
-Tile0=241
-=======
 Tile0=1
->>>>>>> nwnds_acidchalk
 
 [GROUP90]
 Name=Tyr Wall 21
 Rows=1
 Columns=1
-<<<<<<< HEAD
-Tile0=242
-=======
 Tile0=1
->>>>>>> nwnds_acidchalk
 
 [GROUP91]
 Name=Tyr Wall 22
 Rows=1
 Columns=1
-<<<<<<< HEAD
-Tile0=243
-=======
 Tile0=1
->>>>>>> nwnds_acidchalk
 
 [GROUP92]
 Name=Tyr Wall 23
@@ -25453,24 +25222,6 @@ Columns=1
 Tile0=1
 
 [GROUP107]
-<<<<<<< HEAD
-Name=Tyr Wall 38
-Rows=1
-Columns=1
-Tile0=1
-
-[GROUP108]
-Name=Tyr Wall 39
-Rows=1
-Columns=1
-Tile0=1
-
-[GROUP109]
-Name=Tyr Wall 40
-Rows=1
-Columns=1
-Tile0=1
-=======
 Name=kledsuntemple
 Rows=3
 Columns=3
@@ -25503,7 +25254,6 @@ Name=keep2ent
 Rows=1
 Columns=1
 Tile0=243
->>>>>>> nwnds_acidchalk
 
 [GROUP110]
 Name=Tyr Wall 41

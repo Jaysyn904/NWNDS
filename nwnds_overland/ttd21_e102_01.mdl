@@ -1054,11 +1054,7 @@ node trimesh roc01.001
   Specular 0.0 0.0 0.0 
   shininess 1
   center -328.0 131.0 151.0 
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   verts 78
     -8.28 6.31 3.0
     -3.71 3.0 3.02

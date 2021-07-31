@@ -30,11 +30,7 @@ node trimesh ground_005
   specular 0 0 0
   shininess 1
   center 0 0 515
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   verts 97
     -1 5 5
     -3 5 5.25
