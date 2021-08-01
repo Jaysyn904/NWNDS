@@ -40,6 +40,7 @@ const int EVENT_USER_DEFINED_POSTSPAWN = 1511;
 #include "ms_name_inc"
 #include "NW_O2_CONINCLUDE"
 #include "x2_inc_switches"
+#include "ds_rnd_armor_inc"
 
 void main()
 {
@@ -49,34 +50,7 @@ void main()
     // User defined OnSpawn event requested?
     int nSpecEvent = GetLocalInt(OBJECT_SELF,"X2_USERDEFINED_ONSPAWN_EVENTS");
 
-    //Randomizes Armor
-    int nResult = d6(1);
-    object oArmor;
-    string sItem;
-    if (nResult == 1)
-        {
-            sItem = "AR_ALTSL_BONE01";
-        }
-    else if(nResult == 2)
-        {
-            sItem = "AR_ALTSL_IVORY";
-        }
-    else if(nResult == 3)
-        {
-            sItem = "AR_ALTLT_LEATHER";
-        }
-    else if(nResult ==4)
-        {
-            sItem = "AR_ALTLT_MEKILOT";
-        }
-    else if(nResult == 5)
-        {
-            sItem = "AR_ALTPD_CLOTH01";
-        }
-    else
-        sItem = "AR_ACLCL_HARNESS";
 
-    DelayCommand(3.0, ActionEquipItem(CreateItemOnObject(sItem), INVENTORY_SLOT_CHEST));
 
 
     // Pre Spawn Event requested
@@ -412,8 +386,11 @@ void main()
     nHairColor = Random(15);
     SetColor(OBJECT_SELF, COLOR_CHANNEL_HAIR, nHairColor);
 
- //Calls the Random Name Generator
+//Calls the Random Name Generator
     ms_Nomenclature(OBJECT_SELF);
+
+// Randomize Armor
+    GuardArmor(OBJECT_SELF);
 
 
     SetLocalInt(OBJECT_SELF, "iDialogue", Random(10) + 1);

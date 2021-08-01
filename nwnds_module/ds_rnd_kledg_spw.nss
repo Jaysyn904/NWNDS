@@ -40,10 +40,13 @@ const int EVENT_USER_DEFINED_POSTSPAWN = 1511;
 #include "ms_name_inc"
 #include "NW_O2_CONINCLUDE"
 #include "x2_inc_switches"
+#include "ds_rnd_armor_inc"
+
 
 void main()
 {
     string sTag;
+    object oPC = OBJECT_SELF;
     object oNPC;
     ExecuteScript("prc_npc_spawn", OBJECT_SELF);
     // User defined OnSpawn event requested?
@@ -391,37 +394,12 @@ void main()
     nTattoo2 = Random(15);
     SetColor(OBJECT_SELF, COLOR_CHANNEL_TATTOO_2, nTattoo2);
 
+ //Randomizes Armor
+    RndDwarfGuardArmor(OBJECT_SELF);
+
  //Calls the Random Name Generator
     ms_Nomenclature(OBJECT_SELF);
 
-//Randomizes Armor
-    int nResult = d6(1);
-    object oArmor;
-    string sItem;
-    if (nResult == 1)
-        {
-            sItem = "AR_ALTSL_BONE01";
-        }
-    else if(nResult == 2)
-        {
-            sItem = "AR_ALTSL_IVORY";
-        }
-    else if(nResult == 3)
-        {
-            sItem = "DS_AMDBP_KLED001";
-        }
-    else if(nResult ==4)
-        {
-            sItem = "AR_ALTLT_MEKILOT";
-        }
-    else if(nResult == 5)
-        {
-            sItem = "DS_AMDBP_KLED002";
-        }
-    else
-        sItem = "DS_AMDBP_KLED003";
-
-    DelayCommand(1.0, ActionEquipItem(CreateItemOnObject(sItem), INVENTORY_SLOT_CHEST));
 
 
     SetLocalInt(OBJECT_SELF, "iDialogue", Random(10) + 1);

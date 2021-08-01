@@ -1,4 +1,4 @@
-# NWNDS
+# Neverwtinter Nights Dark Sun [NWNDS]
 Repository for the code & various resources for the NWN Dark Sun project.
 
 ## Features
@@ -24,5 +24,13 @@ Pasilli (R.I.P) & CTP - CTP Babylon Tileset
 Mark Ip - Aztec Exterior Redux Tilset
 
 ILmaTeR / ReAver - CODI/Daggerdale Swamp Tileset 
+
+
+### Athas Reborn / Dark Sun Online Contributors
+
+The CEP Team
+
+Acidchalk, Andrak the Mad, Antoneagle, Aserath, Dante, Danule, Deek, Dom, Dreaderick, Dred, Drohgan, Elanthis Seldavius, Hellfire, Ihsaan, Jaysyn, Josten, Kenquinn, Klonapin, Kyriana Agrivar, Lorack, Magnus, Master Pain, Natana, NiteCap, Noob Punchingbag, Ranulf Majere, Rashod81100, Shadara, Sirna, Squirrel, Sutered, The Deadheart, The Inquisitor, The Obsidian Oracle, Tik, Trump, Wayne & Wrains
+
 
 
