@@ -21,5 +21,8 @@ LordofWorms - Jungle Mountain Tileset
 
 Pasilli (R.I.P) & CTP - CTP Babylon Tileset
 
+Mark Ip - Aztec Exterior Redux Tilset
+
+ILmaTeR / ReAver - CODI/Daggerdale Swamp Tileset 
 
 
