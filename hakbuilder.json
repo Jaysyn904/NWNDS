@@ -82,10 +82,5 @@
       "Path": "./wormjungle/",
       "CompileModels": false
     },
-    {
-      "Name":  "nwnds_module",
-      "Path": "./nwnds_module/",
-      "CompileModels": false
-    },
   ]
 }
