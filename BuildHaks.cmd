@@ -1,0 +1,1 @@
+NWN.CLI.exe -k
