@@ -28,9 +28,9 @@ ILmaTeR / ReAver - CODI/Daggerdale Swamp Tileset
 
 ### Athas Reborn / Dark Sun Online Contributors
 
-The CEP Team
+#### The CEP Team
 
-Athas Reborn & Dark Sun Online contributors"
+#### Athas Reborn & Dark Sun Online contributors:
 Acidchalk, Andrak the Mad, Antoneagle, Aserath, Dante, Danule, Deek, Dom, Dreaderick, Dred, Drohgan, Elanthis Seldavius, Hellfire, Ihsaan, Jaysyn, Josten, Kenquinn, Klonapin, Kyriana Agrivar, Lorack, Magnus, Master Pain, Natana, NiteCap, Noob Punchingbag, Ranulf Majere, Rashod81100, Shadara, Sirna, Squirrel, Sutered, The Deadheart, The Inquisitor, The Obsidian Oracle, Tik, Trump, Wayne & Wrains
 
 
