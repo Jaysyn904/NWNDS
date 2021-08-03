@@ -1,5 +1,5 @@
-# Neverwtinter Nights Dark Sun [NWNDS]
-Repository for the code & various resources for the NWN Dark Sun project.
+# Neverwinter Nights Dark Sun [NWNDS] / Hakfiles
+Hak file internals repository for the NWN Dark Sun persistent world project.
 
 ## Features
 
