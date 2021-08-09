@@ -82,5 +82,10 @@
       "Path": "./wormjungle/",
       "CompileModels": false
     },
+	{
+      "Name":  "pk_hut_interior",
+      "Path": "./pk_hut_interior/",
+      "CompileModels": false
+    },
   ]
 }

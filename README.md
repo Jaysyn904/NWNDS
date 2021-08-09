@@ -25,6 +25,8 @@ Mark Ip - Aztec Exterior Redux Tilset
 
 ILmaTeR / ReAver - CODI/Daggerdale Swamp Tileset 
 
+Lord Rosenkantz - Hut Interiors v1.3 
+
 
 ### Athas Reborn / Dark Sun Online Contributors
 
