@@ -87,5 +87,20 @@
       "Path": "./pk_hut_interior/",
       "CompileModels": false
     },
+	{
+      "Name":  "nwnds_anatomy3",
+      "Path": "./nwnds_anatomy3/",
+      "CompileModels": false
+    },
+	{
+      "Name":  "nwds_kreen",
+      "Path": "./nwds_kreen/",
+      "CompileModels": false
+    },
+	{
+      "Name":  "nwds_heads",
+      "Path": "./nwds_heads/",
+      "CompileModels": false
+    },
   ]
 }
