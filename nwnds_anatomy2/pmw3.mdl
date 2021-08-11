@@ -1,0 +1,146 @@
+#Exported from 3ds max by MDL Plug-in Suite 1.0b
+#http://www.bricksbuilder.com/nwn/utils/
+#MAXMODEL ASCII
+# model: pmw2
+filedependancy pmw2 Wemic Male vFINAL2.max
+newmodel pmw2
+setsupermodel pmw2 wemic
+classification Character
+setanimationscale 1.0
+#MAXGEOM  ASCII
+beginmodelgeom pmw2
+node dummy pmw2
+  parent NULL
+endnode
+node dummy headconjure
+  parent pmw2
+  position 0 -0.223819 2.76816
+  orientation 0 0 0 0
+  wirecolor 0.542969 0.542969 0.542969
+endnode
+node dummy handconjure
+  parent pmw2
+  position 0 0.493417 1.68779
+  orientation 0 0 0 0
+  wirecolor 0.542969 0.542969 0.542969
+endnode
+node dummy rootdummy
+  parent pmw2
+  position -0.000405273 0.0200069 1.54716
+  orientation 0 0 0 0
+  wirecolor 0.242188 0.242188 0.242188
+endnode
+node dummy torso_g
+  parent rootdummy
+  position 0.000405271 -0.00656894 -0.0156587
+  orientation 0 0 0 0
+  wirecolor 0.0351563 0.0351563 0.0351563
+endnode
+node dummy Lbicep_g
+  parent torso_g
+  position -0.301005 -0.0794903 0.459985
+  orientation 0 0 0 0
+  wirecolor 0.695313 0.695313 0.695313
+endnode
+node dummy lforearm_g
+  parent Lbicep_g
+  position -0.0590347 0.0212191 -0.411921
+  orientation 0 0 0 0
+  wirecolor 0.582031 0.582031 0.582031
+endnode
+node dummy lhand_g
+  parent lforearm_g
+  position -0.0460899 0.0353936 -0.396763
+  orientation 0 0 0 0
+  wirecolor 0.347656 0.347656 0.347656
+endnode
+node dummy lhand
+  parent lhand_g
+  position -0.0153358 0 -0.0945175
+  orientation 0 0 0 0
+  wirecolor 0.882813 0.882813 0.882813
+endnode
+node dummy lforearm
+  parent lforearm_g
+  position -0.0301828 0 -0.187034
+  orientation 0 -1 0 -0.069811
+  wirecolor 0.347656 0.347656 0.347656
+endnode
+node dummy Lshoulder_g
+  parent Lbicep_g
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.582031 0.582031 0.582031
+endnode
+node dummy neck_g
+  parent torso_g
+  position 0 -0.0810529 0.59895
+  orientation 0 0 0 0
+  wirecolor 0.695313 0.695313 0.695313
+endnode
+node dummy head_g
+  parent neck_g
+  position 0 0.0186997 0.0867157
+  orientation 0 0 0 0
+  wirecolor 0.582031 0.582031 0.582031
+endnode
+node dummy head
+  parent head_g
+  position 0 0.00557895 0.240719
+  orientation 1 0 0 0
+  wirecolor 0.347656 0.347656 0.347656
+endnode
+node dummy Rbicep_g
+  parent torso_g
+  position 0.30101 -0.0794903 0.459986
+  orientation 0 0 0 0
+  wirecolor 0.695313 0.695313 0.695313
+endnode
+node dummy Rshoulder_g
+  parent Rbicep_g
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.582031 0.582031 0.582031
+endnode
+node dummy rforearm_g
+  parent Rbicep_g
+  position 0.0590298 0.0212191 -0.411921
+  orientation 0 0 0 0
+  wirecolor 0.582031 0.582031 0.582031
+endnode
+node dummy rhand_g
+  parent rforearm_g
+  position 0.0460899 0.0353936 -0.396762
+  orientation 0 0 0 0
+  wirecolor 0.347656 0.347656 0.347656
+endnode
+node dummy rhand
+  parent rhand_g
+  position 0.0110701 0 -0.0961304
+  orientation 0 0 0 0
+  wirecolor 0.882813 0.882813 0.882813
+endnode
+node dummy Impact
+  parent torso_g
+  position 0 0.164208 0.192726
+  orientation 0 0 0 0
+  wirecolor 0.695313 0.695313 0.695313
+endnode
+node dummy belt_g
+  parent torso_g
+  position 0 0 0
+  orientation 0 0 0 0
+  wirecolor 0.695313 0.695313 0.695313
+endnode
+node dummy wings
+  parent torso_g
+  position 0.0 -0.459149 -0.270485
+  orientation -1.0 0.0 0.0 1.0
+endnode
+node dummy tail
+  parent rootdummy
+  position 0.0 0.0 0.0
+  orientation 0 0 0 0
+endnode
+endmodelgeom pmw2
+donemodel pmw2

@@ -67,7 +67,7 @@ node trimesh pelvis_g
   tilefade 0
   scale 1.0
   render 0
-  shadow 1
+  Shadow 0
   beaming 0
   inheritcolor 0
   rotatetexture 0
@@ -495,7 +495,7 @@ node trimesh belt_g1
   tilefade 0
   scale 1.0
   render 0
-  shadow 1
+  Shadow 0
   beaming 0
   inheritcolor 0
   rotatetexture 0
@@ -626,7 +626,7 @@ node trimesh FB1_g01
   tilefade 0
   scale 1.0
   render 0
-  shadow 1
+  Shadow 0
   beaming 0
   inheritcolor 0
   rotatetexture 0
@@ -702,7 +702,7 @@ node trimesh FB2_g01
   tilefade 0
   scale 1.0
   render 0
-  shadow 1
+  Shadow 0
   beaming 0
   inheritcolor 0
   rotatetexture 0
@@ -764,7 +764,7 @@ node trimesh FB4_g01
   tilefade 0
   scale 1.0
   render 0
-  shadow 1
+  Shadow 0
   beaming 0
   inheritcolor 0
   rotatetexture 0
@@ -1001,7 +1001,7 @@ node trimesh TF1_g
   tilefade 0
   scale 1.0
   render 0
-  shadow 1
+  Shadow 0
   beaming 0
   inheritcolor 0
   rotatetexture 0
@@ -1094,7 +1094,7 @@ node trimesh TF1L_g
   tilefade 0
   scale 1.0
   render 0
-  shadow 1
+  Shadow 0
   beaming 0
   inheritcolor 0
   rotatetexture 0
@@ -1160,7 +1160,7 @@ node trimesh TF2_g
   tilefade 0
   scale 1.0
   render 0
-  shadow 1
+  Shadow 0
   beaming 0
   inheritcolor 0
   rotatetexture 0
@@ -1206,7 +1206,7 @@ node trimesh TF3_g01
   tilefade 0
   scale 1.0
   render 0
-  shadow 1
+  Shadow 0
   beaming 0
   inheritcolor 0
   rotatetexture 0
@@ -1269,7 +1269,7 @@ node trimesh TF1R_g
   tilefade 0
   scale 1.0
   render 0
-  shadow 1
+  Shadow 0
   beaming 0
   inheritcolor 0
   rotatetexture 0
