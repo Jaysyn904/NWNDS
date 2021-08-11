@@ -1,0 +1,179 @@
+#MAXMODEL ASCII
+# model: pmY0
+filedependancy pmY0.max
+newmodel pmY0
+setsupermodel pmY0 a_ba
+classification character
+setanimationscale 1
+#MAXGEOM  ASCII
+beginmodelgeom pmY0
+node dummy pmY0
+scale 1.04
+  parent NULL
+  #part-number 0
+endnode
+node dummy rootdummy
+  parent pmY0
+  #part-number 1
+  position -0.000405272993 0.0200069007 1.20720005
+  orientation 0 0 0 0
+endnode
+node dummy torso_g
+  parent rootdummy
+  #part-number 2
+  position 0.000405272993 0.0108289002 0.000205994002
+  orientation 0 0 0 0
+endnode
+node dummy Lbicep_g
+  parent torso_g
+  #part-number 8
+  position -0.173005998 -0.065490298 0.322984993
+  orientation 0 0 0 0
+endnode
+node dummy lforearm_g
+  parent Lbicep_g
+  #part-number 9
+  position -0.0280342996 0.0172191001 -0.264420986
+  orientation 0 0 0 0
+endnode
+node dummy lhand_g
+  parent lforearm_g
+  #part-number 10
+  position -0.0230898 0.0173936002 -0.256262988
+  orientation 0 0 0 0
+endnode
+node dummy lhand
+  parent lhand_g
+  #part-number 11
+  position -0.0153355999 -2.06257994e-007 -0.0776598006
+  orientation 0 0 0 0
+endnode
+node dummy lforearm
+  parent lforearm_g
+  #part-number 12
+  position -0.0263624992 -2.30444996e-007 -0.163362995
+  orientation 1.50038011e-006 -1 -5.04775053e-005 -0.0698110014
+endnode
+node dummy Lshoulder_g
+  parent Lbicep_g
+  #part-number -1
+  position 4.26768992e-007 0 0
+  orientation 0 0 0 0
+endnode
+node dummy neck_g
+  parent torso_g
+  #part-number 14
+  position -3.79086003e-007 -0.0670529008 0.414950013
+  orientation 0 0 0 0
+endnode
+node dummy head_g
+  parent neck_g
+  #part-number 15
+  position 3.05176002e-007 0.0146997003 0.0807155967
+  orientation 0 0 0 0
+endnode
+node dummy head
+  parent head_g
+  #part-number -1
+  position -0.0233731009 0.0187478997 0.166207001
+  orientation 0 0 0 0
+endnode
+node dummy Rbicep_g
+  parent torso_g
+  #part-number 3
+  position 0.173010007 -0.065490298 0.322986007
+  orientation 0 0 0 0
+endnode
+node dummy Rshoulder_g
+  parent Rbicep_g
+  #part-number -1
+  position 1.83582003e-007 0 0
+  orientation 0 0 0 0
+endnode
+node dummy rforearm_g
+  parent Rbicep_g
+  #part-number 4
+  position 0.0280303005 0.0172191001 -0.264420986
+  orientation 0 0 0 0
+endnode
+node dummy rhand_g
+  parent rforearm_g
+  #part-number 5
+  position 0.0230898 0.0173936002 -0.256262988
+  orientation 0 0 0 0
+endnode
+node dummy rhand
+  parent rhand_g
+  #part-number 6
+  position 0.0110699004 1.4071e-007 -0.0792727023
+  orientation 0 0 0 0
+endnode
+node dummy Impact
+  parent torso_g
+  #part-number 16
+  position -3.79086003e-007 0.092869699 0.229258001
+  orientation 0 0 0 0
+endnode
+node dummy pelvis_g
+  parent rootdummy
+  #part-number 17
+  position 0.000405272993 0.0108289002 0.000205994002
+  orientation 0 0 0 0
+endnode
+node dummy belt_g
+  parent pelvis_g
+  #part-number -1
+  position -3.79086003e-007 0 0
+  orientation 0 0 0 0
+endnode
+node dummy lthigh_g
+  parent pelvis_g
+  #part-number 18
+  position -0.0880692005 -0.0199426003 -0.162441
+  orientation 0 0 0 0
+endnode
+node dummy lshin_g
+  parent lthigh_g
+  #part-number 19
+  position 0.0216218997 -0.0129709998 -0.411936015
+  orientation 0 0 0 0
+endnode
+node dummy lfoot_g
+  parent lshin_g
+  #part-number 20
+  position 0.0144269001 -0.0536266007 -0.382407993
+  orientation 0 0 0 0
+endnode
+node dummy rthigh_g
+  parent pelvis_g
+  #part-number 21
+  position 0.0880696997 -0.0199426003 -0.162441
+  orientation 0 0 0 0
+endnode
+node dummy rshin_g
+  parent rthigh_g
+  #part-number 22
+  position -0.0204571001 -0.0129709998 -0.411936015
+  orientation 0 0 0 0
+endnode
+node dummy rfoot_g
+  parent rshin_g
+  #part-number 23
+  position -0.0155926999 -0.0536266007 -0.382407993
+  orientation 0 0 0 0
+endnode
+node dummy headconjure
+  parent pmY0
+  #part-number -1
+  position -0.0233730003 -0.105269998 2.23125005
+  orientation 0 0 0 0
+endnode
+node dummy handconjure
+  parent pmY0
+  #part-number -1
+  position 0.00713287992 0.279424012 1.37363994
+  orientation 0 0 0 0
+endnode
+endmodelgeom pmY0
+
+donemodel pmY0

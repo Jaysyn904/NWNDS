@@ -1,0 +1,20 @@
+#MAXMODEL ASCII
+# model: pm$0_footl016
+filedependancy pm$0_footl016.max
+newmodel pm$0_footl016
+setsupermodel pm$0_footl016 NULL
+classification CHARACTER
+setanimationscale 1
+#MAXGEOM  ASCII
+beginmodelgeom pm$0_footl016
+node dummy pm$0_footl016
+  parent NULL
+endnode
+node dummy Dummy01
+  parent pm$0_footl016
+  position 0.0000000 0.0000000 0.0000000
+  orientation 0 0 0 0
+endnode
+endmodelgeom pm$0_footl016
+
+donemodel pm$0_footl016
