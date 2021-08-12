@@ -64,7 +64,7 @@ Count=0
 Count=0
 
 [TILES]
-Count=257
+Count=258
 
 [TILE0]
 Model=tjj01_a01_01
@@ -7691,8 +7691,36 @@ PathNode=I
 Orientation=0
 ImageMap2D=mi_tjj01_a01_01
 
+[TILE257]
+Model=acd01_a01_06
+WalkMesh=msb01
+TopLeft=Rock_floor
+TopLeftHeight=0
+TopRight=Rock_floor
+TopRightHeight=0
+BottomLeft=Rock_floor
+BottomLeftHeight=0
+BottomRight=Rock_floor
+BottomRightHeight=0
+Top=
+Right=
+Bottom=
+Left=
+MainLight1=1
+MainLight2=1
+SourceLight1=1
+SourceLight2=1
+AnimLoop1=1
+AnimLoop2=1
+AnimLoop3=1
+Doors=1
+Sounds=-1
+PathNode=I
+Orientation=0
+ImageMap2D=mi_tjj01_a01_01
+
 [GROUPS]
-Count=31
+Count=32
 
 [GROUP0]
 Name=Platform_Lookout
@@ -7900,3 +7928,9 @@ Tile0=253
 Tile1=254
 Tile2=255
 Tile3=256
+
+[GROUP31]
+Name=Ziggurat Small
+Rows=1
+Columns=1
+Tile0=257
