@@ -1,0 +1,17 @@
+# Exported from NWMax Plus v6.11.28 at 11/22/2018 4:22:05 PM
+# mdl file
+#
+#NWMax Plus MODEL  ASCII
+# model: pfr0_forer001
+filedependancy Unknown
+newmodel pfr0_forer001
+setsupermodel pfr0_forer001 NULL
+classification Character
+setanimationscale 1.0
+#NWMax Plus GEOM  ASCII
+beginmodelgeom pfr0_forer001
+node dummy pfr0_forer001
+  parent NULL
+endnode
+endmodelgeom pfr0_forer001
+donemodel pfr0_forer001

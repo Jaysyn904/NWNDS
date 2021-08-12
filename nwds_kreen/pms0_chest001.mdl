@@ -1,0 +1,17 @@
+# Exported from NWMax Plus v6.11.28 at 11/22/2018 4:21:49 PM
+# mdl file
+#
+#NWMax Plus MODEL  ASCII
+# model: pms0_chest001
+filedependancy Unknown
+newmodel pms0_chest001
+setsupermodel pms0_chest001 NULL
+classification Character
+setanimationscale 1.0
+#NWMax Plus GEOM  ASCII
+beginmodelgeom pms0_chest001
+node dummy pms0_chest001
+  parent NULL
+endnode
+endmodelgeom pms0_chest001
+donemodel pms0_chest001
