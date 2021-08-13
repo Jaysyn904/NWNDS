@@ -3,9 +3,13 @@ Hak file internals repository for the NWN Dark Sun persistent world project.
 
 ## Features
 
-PRC 4.1.4a & 3 custom Dark Sun 3.5e classes, with more to come.
+DMFI + CPE 2.6 + PRC 4.1.4a
 
-36 Custom Dark Sun Races.
+3 Dark Sun 3.5e classes, with more to come.
+
+24 Dark Sun Player Races
+
+11 more Prestige Races.
 
 12 Dark Sun Animal Companions, with more to come.
 
