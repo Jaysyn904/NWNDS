@@ -3,7 +3,7 @@ Hak file internals repository for the NWN Dark Sun persistent world project.
 
 ## Features
 
-DMFI + CPE 2.6 + PRC 4.1.4a
+DMFI + CEP 2.6 + PRC 4.1.4a
 
 3 Dark Sun 3.5e classes, with more to come.
 
