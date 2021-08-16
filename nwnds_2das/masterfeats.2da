@@ -53,7 +53,7 @@
 49         ****                  ****     ****        ****             
 50         SpellLikeAbility      16822760 16822761    ife_X2ESpell     
 51         ****                  ****     ****        ****             
-52         ****                  ****     ****        ****             
+52         BindingFeats          16835231 16835232    fot_oracle       
 53         IncarnumFeats         16838110 16838111    ife_psi_focus    
 54         ShadowcastingFeats    16836244 16836245    ife_X1SDaze      
 55         HatedFoe              16824268 16824269    ife_racehate     
@@ -97,13 +97,13 @@
 93         SanctifyMartial       16823244 16823245    ife_combat       
 94         WeaponChoiceTempus    16822944 16822945    ife_X2WpCh       
 95         Evilbrand             16822849 16822850    ife_X2BoneSk1    
-96         ****                  ****     ****        ****             
+96         Aberrant              16790214 16790215    ife_dfrm_gaunt   
 97         ****                  ****     ****        ****             
 98         ****                  ****     ****        ****             
 99         ****                  ****     ****        ****             
 100        ****                  ****     ****        ****             
 101        MinorOozyTouch        16825040 16825041    is_ghoultch      
-102        MAjorOozyTouch        16825050 16825051    is_ghoultch      
+102        MajorOozyTouch        16825050 16825051    is_ghoultch      
 103        ToBFeats              16836033 16836034    im_MithTornado   
 104        BaneMagic             16793665 16793666    ife_banemagic    
 105        MinstrelSongTier1     16823496 16823497    ife_minstrel     
