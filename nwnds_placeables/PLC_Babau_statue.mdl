@@ -1,4 +1,4 @@
-# Exported from NWmax 0.8 b61 at 7/29/2021 11:14:53 PM
+# Exported from NWmax 0.8 b61 at 8/15/2021 8:43:34 PM
 # mdl file
 #
 #NWmax MODEL ASCII
@@ -16,7 +16,7 @@ node dummy PLC_Babau_statue
 endnode
 node trimesh Base
   parent PLC_Babau_statue
-  position -0.0167078 0.0118022 0.0284364
+  position -0.0167078 0.0118021 0.0284364
   orientation -1.0 0.0 0.0 -1.5708
   wirecolor 0.984314 0.972549 0.976471 
   tilefade 0
@@ -33,7 +33,7 @@ node trimesh Base
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 1
-  center undefined
+  center -0.117798 18.3277 16.7109 
   bitmap ds_statue_base
   verts 56
     -0.847366 0.333295 -0.823292
@@ -2742,7 +2742,7 @@ node trimesh torso
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 0.0102997 2.5586 39.4613 
   bitmap plc_babau1c
   verts 53
     0.00051476 0.133254 0.272464
@@ -2942,7 +2942,7 @@ node trimesh torso
 endnode
 node trimesh neck
   parent torso
-  position 0.0 0.0373555 0.654027
+  position 0.0 0.0373557 0.654027
   orientation 1.0 0.0 0.0 0.0
   wirecolor 1.0 1.0 1.0 
   tilefade 0
@@ -2959,7 +2959,7 @@ node trimesh neck
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 0.0514503 12.0272 18.1608 
   bitmap plc_babau1c
   verts 10
     0.118189 0.0696033 0.0966727
@@ -3018,7 +3018,7 @@ node trimesh head01
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center -0.00265121 9.1823 6.7912 
   bitmap plc_babau1c
   verts 60
     0.0505773 0.17227 -0.0667874
@@ -3249,7 +3249,7 @@ node trimesh head01
 endnode
 node trimesh jaw01
   parent head01
-  position 0.00130646 0.030721 -0.00957185
+  position 0.00130646 0.0307212 -0.00957176
   orientation 0.999972 -0.00697616 0.00282764 -1.36457
   wirecolor 1.0 1.0 1.0 
   tilefade 0
@@ -3266,7 +3266,7 @@ node trimesh jaw01
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 0.0478797 7.17382 -0.972351 
   bitmap plc_babau2c
   verts 27
     0.0740247 -0.0375403 -0.0529481
@@ -3390,7 +3390,7 @@ node trimesh Object02
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 2.0494 -6.31126 -0.787785 
   bitmap plc_babau1c
   verts 12
     0.0216492 -0.0956873 0.0058442
@@ -3448,7 +3448,7 @@ node trimesh Object01
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 3.20449 -5.42637 -0.43792 
   bitmap plc_babau1c
   verts 12
     0.0137954 -0.0683623 0.0265097
@@ -3506,7 +3506,7 @@ node trimesh tailend
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center -1.88623 25.9418 -14.5418 
   bitmap plc_babau1c
   verts 36
     0.0507197 0.12309 0.0292937
@@ -3667,7 +3667,7 @@ node trimesh Lbicep
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center -0.7873 -2.24367 -27.2495 
   bitmap plc_babau2c
   verts 19
     -0.0468836 0.0642546 -0.0619193
@@ -3754,7 +3754,7 @@ node trimesh Lbicep
 endnode
 node trimesh Lforearm_g
   parent Lbicep
-  position -0.141492 -0.0271041 -0.567146
+  position -0.141492 -0.0271042 -0.567146
   orientation -1.0 0.0 0.0 -1.27409
   wirecolor 1.0 1.0 1.0 
   tilefade 0
@@ -3771,7 +3771,7 @@ node trimesh Lforearm_g
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center -2.51626 -1.41932 -24.8761 
   bitmap plc_babau2c
   verts 24
     0.0176746 -0.104865 0.146956
@@ -3883,7 +3883,7 @@ node trimesh Lforearm_g
 endnode
 node trimesh Lhand_g
   parent Lforearm_g
-  position -0.0540948 -0.00190771 -0.608156
+  position -0.0540948 -0.00190756 -0.608156
   orientation -0.104163 -0.209806 0.972179 -1.79774
   wirecolor 1.0 1.0 1.0 
   tilefade 0
@@ -3900,7 +3900,7 @@ node trimesh Lhand_g
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 0.6766 5.56356 -26.172 
   bitmap plc_babau2c
   verts 47
     0.0126266 0.0248435 0.0369629
@@ -4126,7 +4126,7 @@ node trimesh Lhand_g
 endnode
 node danglymesh braclet02
   parent Lbicep
-  position -0.147229 -0.0204624 -0.449869
+  position -0.147229 -0.0204623 -0.449869
   orientation 0.761476 -0.637675 0.116294 -0.364528
   wirecolor 1.0 1.0 1.0 
   tilefade 0
@@ -4143,13 +4143,13 @@ node danglymesh braclet02
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 0.0 -1.00136e-005 2.01464e-005 
   period 7.0
   tightness 3.0
   displacement 0.1
   showdispl true
   displtype 1
-  center undefined
+  center 0.0 -1.00136e-005 2.01464e-005 
   bitmap plc_babau1c
   verts 10
     -0.0147693 -0.0657835 -0.0395039
@@ -4228,7 +4228,7 @@ node trimesh Rbicep
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 1.6491 -2.43054 -28.4755 
   bitmap plc_babau2c
   verts 19
     0.0555026 0.0623862 -0.0680267
@@ -4315,7 +4315,7 @@ node trimesh Rbicep
 endnode
 node trimesh Rforearm
   parent Rbicep
-  position 0.149513 -0.0271055 -0.567146
+  position 0.149513 -0.0271054 -0.567146
   orientation -1.0 0.0 0.0 -1.5708
   wirecolor 1.0 1.0 1.0 
   tilefade 0
@@ -4332,7 +4332,7 @@ node trimesh Rforearm
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 2.81246 -1.60445 -25.503 
   bitmap plc_babau2c
   verts 24
     -0.0170781 -0.106733 0.140848
@@ -4461,13 +4461,13 @@ node danglymesh braclet
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 5.24521e-006 0.0 5.00679e-006 
   period 7.0
   tightness 3.0
   displacement 0.1
   showdispl true
   displtype 1
-  center undefined
+  center 5.24521e-006 0.0 5.00679e-006 
   bitmap plc_babau1c
   verts 10
     -0.0147692 -0.0657834 -0.0395041
@@ -4546,13 +4546,13 @@ node danglymesh braclet01
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 0.0 1.00136e-005 -5.00679e-006 
   period 7.0
   tightness 3.0
   displacement 0.1
   showdispl true
   displtype 1
-  center undefined
+  center 0.0 1.00136e-005 -5.00679e-006 
   bitmap plc_babau1c
   verts 10
     -0.0147695 -0.0657833 -0.021587
@@ -4631,7 +4631,7 @@ node trimesh Rhand_g
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 0.1854 5.3771 -26.1533 
   bitmap plc_babau2c
   verts 47
     -0.00400656 0.0229796 0.0371489
@@ -4859,7 +4859,7 @@ node dummy impact
   parent torso
   position 0.00354492 0.183922 0.317623
   orientation -0.873299 0.122733 0.471471 -0.579415
-  wirecolor 0.345098 0.694118 0.101961 
+  wirecolor 0.443137 0.52549 0.0235294 
 endnode
 node trimesh pelvis
   parent PLC_Babau_statue
@@ -4880,7 +4880,7 @@ node trimesh pelvis
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 0.0514498 -0.8349 -3.97525 
   bitmap plc_babau1c
   verts 35
     0.0453899 0.152727 -0.202084
@@ -5018,7 +5018,7 @@ node trimesh pelvis
 endnode
 node trimesh Rthigh
   parent pelvis
-  position 0.20465 0.0131197 -0.084574
+  position 0.20465 0.0131198 -0.084574
   orientation -0.924827 0.254497 0.282713 -1.13029
   wirecolor 1.0 1.0 1.0 
   tilefade 0
@@ -5035,7 +5035,7 @@ node trimesh Rthigh
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center -3.70129 -5.72732 -34.0076 
   bitmap plc_babau2c
   verts 19
     -0.0357031 0.0642186 0.00835774
@@ -5126,7 +5126,7 @@ node trimesh Rthigh
 endnode
 node trimesh Rcalf
   parent Rthigh
-  position -0.043058 -0.143997 -0.724397
+  position -0.0430579 -0.143997 -0.724397
   orientation -1.0 0.0 0.0 -4.10098
   wirecolor 1.0 1.0 1.0 
   tilefade 0
@@ -5143,7 +5143,7 @@ node trimesh Rcalf
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center -0.946765 -0.920035 -28.8877 
   bitmap plc_babau2c
   verts 22
     -0.0210128 0.0572472 -0.654826
@@ -5228,7 +5228,7 @@ node trimesh Rcalf
 endnode
 node trimesh Rfoot
   parent Rcalf
-  position -0.021157 0.00222809 -0.64229
+  position -0.0211569 0.00222796 -0.64229
   orientation -1.0 0.0 0.0 -1.69768
   wirecolor 1.0 1.0 1.0 
   tilefade 0
@@ -5245,7 +5245,7 @@ node trimesh Rfoot
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center -1.70281 0.581625 -17.7434 
   bitmap plc_babau2c
   verts 19
     0.000412505 -0.0566916 0.0733735
@@ -5325,8 +5325,8 @@ node trimesh Rfoot
 endnode
 node trimesh Rfootclaws
   parent Rfoot
-  position -0.00400009 0.0373515 -0.42737
-  orientation 1.0 0.0 2.2876e-007 -0.558534
+  position -0.00400006 0.0373516 -0.42737
+  orientation 1.0 -3.64242e-007 1.29014e-007 -0.558534
   wirecolor 1.0 1.0 1.0 
   tilefade 0
   scale 1.0
@@ -5342,7 +5342,7 @@ node trimesh Rfootclaws
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 3.3293 24.0178 -16.2078 
   bitmap plc_babau2c
   verts 51
     0.030059 0.0130153 0.0210567
@@ -5579,7 +5579,7 @@ node trimesh Rfootclaws
 endnode
 node trimesh Lthigh
   parent pelvis
-  position -0.189287 0.0131197 -0.0845741
+  position -0.189287 0.0131198 -0.0845741
   orientation -0.794228 -0.412749 -0.445915 -0.524256
   wirecolor 1.0 1.0 1.0 
   tilefade 0
@@ -5596,7 +5596,7 @@ node trimesh Lthigh
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 2.25233 -5.72732 -34.0076 
   bitmap plc_babau2c
   verts 19
     0.0212138 0.0642186 0.00835775
@@ -5704,7 +5704,7 @@ node trimesh Lcalf
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 1.13293 -1.39911 -29.5345 
   bitmap plc_babau2c
   verts 22
     0.0230969 0.052438 -0.661057
@@ -5789,8 +5789,8 @@ node trimesh Lcalf
 endnode
 node trimesh Lfoot
   parent Lcalf
-  position 0.0217187 -0.00247958 -0.653242
-  orientation -0.999763 -0.0216003 -0.00260234 -1.69801
+  position 0.0217187 -0.00247963 -0.653242
+  orientation -0.999763 -0.0216001 -0.00260219 -1.69801
   wirecolor 1.0 1.0 1.0 
   tilefade 0
   scale 1.0
@@ -5806,7 +5806,7 @@ node trimesh Lfoot
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center 2.35723 1.08131 -17.7592 
   bitmap plc_babau2c
   verts 19
     0.000464574 -0.0519694 0.0729002
@@ -5886,7 +5886,7 @@ node trimesh Lfoot
 endnode
 node trimesh Lfootclaws
   parent Lfoot
-  position -0.0052953 0.0369644 -0.425747
+  position -0.00529535 0.0369643 -0.425747
   orientation 0.181532 0.899029 -0.398489 -0.127484
   wirecolor 1.0 1.0 1.0 
   tilefade 0
@@ -5903,7 +5903,7 @@ node trimesh Lfootclaws
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 10
-  center undefined
+  center -1.3375 24.5419 -15.7627 
   bitmap plc_babau2c
   verts 51
     -0.0101411 0.018256 0.0255075
@@ -6157,7 +6157,7 @@ node trimesh polearm
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 1
-  center undefined
+  center 5.00679e-006 -26.431 -8.09705 
   bitmap statue_Polearm
   verts 172
     -0.00512149 -1.5094 0.0489701
