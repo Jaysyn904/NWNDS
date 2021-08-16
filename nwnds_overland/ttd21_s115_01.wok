@@ -1,25 +1,14 @@
-<<<<<<< HEAD
-# Exported from NWmax 0.8 b61 at 6/7/2020 10:21:57 PM
-# wok file
-#
-#NWmax WALKMESH  ASCII
-=======
 # Exported from NWMax Plus v6.11.28 at 6/28/2021 11:37:26 PM
 # wok file
 #
 #NWMax Plus WALKMESH  ASCII
->>>>>>> nwnds_acidchalk
 beginwalkmeshgeom ttd21_s115_01
 node aabb mesh21
   parent ttd21_s115_01
   position -2.27593e-007 0.0 4.35
   orientation 0.0 0.0 1.0 -1.5708
   wirecolor 0.101961 0.694118 0.337255 
-<<<<<<< HEAD
-  multimaterial 20
-=======
   multimaterial 30
->>>>>>> nwnds_acidchalk
     Dirt
     Obscuring
     Grass
@@ -40,9 +29,6 @@ node aabb mesh21
     Door
     Snow
     Sand
-<<<<<<< HEAD
-  ambient 0.0 0.0 0.0 
-=======
     BareBones
     StoneBridge
     Temp1
@@ -54,7 +40,6 @@ node aabb mesh21
     Temp7
     Trigger
   ambient 0.588 0.588 0.588 
->>>>>>> nwnds_acidchalk
   diffuse 0.5 0.5 0.5 
   specular 0.0 0.0 0.0 
   shininess 10.0

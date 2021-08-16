@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Exported from NWMax Plus v6.11.28 at 5/17/2020 10:54:47 AM
-=======
 # Exported from NWMax Plus v6.11.28 at 6/28/2021 7:42:52 PM
->>>>>>> nwnds_acidchalk
 # mdl file
 #
 #NWMax Plus MODEL  ASCII
@@ -36,24 +32,15 @@ node trimesh cote03
   Diffuse 1.0 1.0 1.0 
   Specular 0.0 0.0 0.0 
   shininess 0
-<<<<<<< HEAD
-  center 0.0 -250.0 300.0 
-  bitmap ttd01_tusk01
-  verts 6
-=======
   center 0.0 -1000.0 300.0 
   bitmap ttd01_tusk01
   verts 61
->>>>>>> nwnds_acidchalk
     5.0 0.0 0.0
     -5.0 0.0 0.0
     5.0 -2.0 6.0
     -5.0 -2.0 6.0
     5.0 -5.0 6.0
     -5.0 -5.0 6.0
-<<<<<<< HEAD
-  faces 4
-=======
     -10.0 0.0 0.0
     -10.0 -5.0 0.0
     -8.0 -2.0 6.0
@@ -110,26 +97,10 @@ node trimesh cote03
     8.0 -18.0 6.0
     8.0 -15.0 6.0
   faces 84
->>>>>>> nwnds_acidchalk
     5 4 2  4  0 1 2  1
     2 3 5  4  3 4 5  1
     3 2 0  8  6 7 8  5
     0 1 3  8  9 10 11  5
-<<<<<<< HEAD
-  tverts 12
-    1.0 0.0 0
-    0.0 0.0 0
-    -2.38419e-007 -0.3 0
-    -2.38419e-007 -0.3 0
-    1.0 -0.3 0
-    1.0 0.0 0
-    1.0 0.992958 0
-    1.49012e-007 0.992958 0
-    0.0 0.147887 0
-    0.0 0.147887 0
-    1.0 0.147887 0
-    1.0 0.992958 0
-=======
     5 3 8  0  12 13 14  1
     8 9 5  0  15 16 17  1
     9 8 6  0  18 19 20  5
@@ -463,7 +434,6 @@ node trimesh cote03
     -8.94069e-007 0.443661 0
     3.0 0.443661 0
     3.0 2.97887 0
->>>>>>> nwnds_acidchalk
 endnode
 node aabb WOK
   parent ttd21_d003_08
@@ -546,13 +516,8 @@ node trimesh wok006
   Diffuse 1.0 1.0 1.0 
   Specular 0.0 0.0 0.0 
   shininess 1
-<<<<<<< HEAD
-  center undefined
-  bitmap ttd21_sand01
-=======
   center 0.0 0.0 32.5 
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   verts 46
     -5.0 -5.0 0.0
     -2.5 -5.0 0.0

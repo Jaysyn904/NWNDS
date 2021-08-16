@@ -1,0 +1,22 @@
+2DA V2.0
+
+           NAME         BASERESREF     STRREF   DESCRIPTION 
+0          Jankx        DS_AC_JANKX    16778467 16778468    
+1          Kivit        DS_AC_KIVIT    16778483 16778484    
+2          Viper_Medium DS_AC_MVIPER   16778489 16778490    
+3          Boar         NW_AC_BOAR     1577     5988        
+4          Hawk         NW_AC_HAWK     5989     5990        
+5          Panther      NW_AC_PANT     5991     5992        
+6          Boneclaw     DS_AC_BONECLAW 16778475 16778476    
+7          Kes'trekel   DS_AC_KESTREK  16778485 16778486    
+8          Direrat      DS_AC_DIRERAT  16778481 16778482    
+9          Jhakar       DS_AC_JHAKAR   16778469 16778470    
+10         Cobra        NW_AC_COBRA    111372   16789834    
+11         Owl          DS_AC_OWL      16778487 16778488    
+12         SandHowler   DS_AC_SANDHOWL 16778473 16778474    
+13         Erdlu        DS_AC_ERDLU    16778479 16778480    
+14         Bat          NW_AC_BAT      12376    16789838    
+15         Carru        DS_AC_CARRU    16778477 16778478    
+16         Krenshar     NW_AC_KRENSHAR 12625    16789840    
+17         Z'tal        DS_AC_ZTAL     16778471 16778472    
+18         CragCat      NW_AC_CRAGCAT  57919    16789842    

@@ -1,0 +1,32 @@
+Giants dominate many of the islands and coastal areas of the Silt Sea, wading across it to plunder the communities of smaller races where they find them. In some lost millennium, as a bizarre experiment or perhaps as some sort of curse, giants were magically crossbred with humans. Half-giants are now fairly common, especially to human controlled lands at the edge of the sea of dust.
+
+A half-giant is an enormous individual, standing between 10 and 12 feet tall, and weighing in the neighborhood of 1,600 pounds. Their features are human, but exaggerated.
+
+Simply put, a half-giant gains terrific size from his giant heritage, but also inherits that race's dull wits. His human background, however, provides him with an interest in communication and cooperation, not to mention more reserved traits such as curiosity, a willingness to learn, and a general tendency toward kindness. At any rate, half-giants are capable of far more kindness than their often tyrannical, bloodthirsty giant kin.
+
+Though no one knows for certain, half-giants seem to be a fairly young race, perhaps only a few tens of centuries old. There is no half-giant culture common to all of their kind. On the contrary, having insufficient history and overall intelligence to have their own culture, half-giants tend to readily adopt the cultures of other creatures they admire or associate with. Half-giants are very imitative creatures, eager to fit into new situations as they present themselves.
+
+Half-giants sometimes collect into communities of their own, though they most often adopt the culture and customs of those creatures that are nearby. When near an elven nation, for instance, half-giants will form their own hunting and raiding parties, adopting the ways of the elven marauders. They won't mix with the elves, neither will they fight with them. In most instances, imitative half-giant communities will compete directly with the race whom they are likening themselves to. It is their great size and combat prowess that keeps their competitors at a safe distance.
+
+Half-Giant Ability Adjustments: +8 Str, +4 Con, -2 Dex, -4 Int, -4 Wis, -4 Cha.
+
+Favored Class (Barbarian):  A multiclass half-giant's barbarian class does not count when determining whether he suffers an XP penalty for multiclassing.
+
+
+Racial Traits:
+- A half-giant's base land speed is 40 feet.
+- Large: As Large creatures, half-giants ave the following bonuses & penalties:
+  10' Reach
+  –1 size penalty to Armor Class
+  –1 penalty on all attack rolls
+  -4 size penalty to Hide checks
+  -4 size penalty to Move Silently checks.
+- Giant: Half-giants are creatures with the giant type
+- Darkvision:  Half-Giants are able to see in the dark.
+- Natural Armor: Half-giants gain a +2 natural armor bonus to AC.
+
+Automatic Languages: Common.
+
+Bonus Languages: Dwarven, Gith, Giant. 
+
+Level Adjustment: +2.

@@ -1,0 +1,18 @@
+# Exported from NWmax 0.8 b61 at 8/16/2020 10:35:00 PM
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: pmf0_legl007
+#local file: Unknown
+filedependancy Unknown
+newmodel pmf0_legl007
+setsupermodel pmf0_legl007 NULL
+classification Character
+setanimationscale 1.0
+#NWmax GEOM  ASCII
+beginmodelgeom pmf0_legl007
+node dummy pmf0_legl007
+  parent NULL
+endnode
+endmodelgeom pmf0_legl007
+donemodel pmf0_legl007

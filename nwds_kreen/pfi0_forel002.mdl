@@ -1,0 +1,17 @@
+# Exported from NWMax Plus v6.11.28 at 11/22/2018 4:21:59 PM
+# mdl file
+#
+#NWMax Plus MODEL  ASCII
+# model: pfi0_forel002
+filedependancy Unknown
+newmodel pfi0_forel002
+setsupermodel pfi0_forel002 NULL
+classification Character
+setanimationscale 1.0
+#NWMax Plus GEOM  ASCII
+beginmodelgeom pfi0_forel002
+node dummy pfi0_forel002
+  parent NULL
+endnode
+endmodelgeom pfi0_forel002
+donemodel pfi0_forel002

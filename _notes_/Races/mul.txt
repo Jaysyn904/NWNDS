@@ -1,0 +1,26 @@
+A mul is an incredibly tough crossbreed of a human and dwarf. They retain the height and cunning of their human parent, plus the durability and raw strength of their dwarven heritage. Muls are usually the products of the slave pits; owners recognize the muls' assets as gladiators and laborers, and so order the births of as many muls as can be managed within the ranks of their slaves. Muls are born sterile; they cannot perpetuate their kind.
+
+A full-grown mul stands 6 to 6 1/2 feet tall and weighs 240-300 pounds. They are fair skinned, sometimes tending toward a copperish coloration. Their dwarven ancestry gives them a well-muscled frame and an incredible constitution; mul laborers can perform heavy work for days at a time without stopping. Muls have stern facial features. They are unmistakably human in appearance, though their ears are swept back and slightly pointed. Most muls, whether male or female, have no hair or beard.
+
+Born as they are to lives of slave labor, with the taskmaster's whip taking the place of parents and family, muls are given to a gruff personality and violent reactions. Understandably, many never seek friends or companionship but live out their lives in servitude, driven by hatred and spite. Most, however, learn who to trust in the slave pits and who not to, gaining favor and reputation among the other slaves.
+
+Many slave muls have either escaped or otherwise won their freedom and now live independent lives all over Athas. Of these, a large percentage have bartered their combat prowess, making their way as soldiers or guards. A few others, given to more cerebral pursuits, have turned to priestly devotions or the mental disciplines of psionics.
+
+Mul Ability Adjustments: +4 Str, +2 Con, -2 Cha.
+
+Favored Class (Gladiator):  A multiclass mul's gladiator class does not count when determining whether he suffers an XP penalty for multiclassing.
+
+Racial Traits:
+- Mul base land speed is 30 feet.
+- Medium: As Medium creatures, muls have no bonuses or penalties due to size.
+- Darkvision:  Muls are able to see in the dark.
+- Tireless: Muls get a +4 racial bonus to checks for performing a physical action that extends over a period of time (running, swimming, holding breath, and so on).  This bonus stacks with the Endurance feat.
+- Extended Activity: Muls may engage in up to 12 hours of hard labor or forced marching without suffering from fatigue.
+- Dwarven Blood: For all effects related to race, a mul is considered a dwarf. Muls, for example, are just as vulnerable to effects that affect dwarves as their dwarf ancestors are, and they can use magic items that are only usable by dwarves.
+- Nonlethal Damage Resistance 1/–. Muls are difficult to subdue, and do not notice minor bruises, scrapes, and other discomforts that pain creatures of other races.
+
+Automatic Language: Common
+
+Bonus Languages: Dwarven, Elven, Gith, and Giant
+
+Level Adjustment: +1

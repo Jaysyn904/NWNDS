@@ -1654,11 +1654,7 @@ node trimesh w0101
   diffuse 1.0 1.0 1.0 
   specular 0.0 0.0 0.0 
   shininess 1.0
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   verts 38
     1.25 -4.69 3.7
     0.0 -2.5 3.92

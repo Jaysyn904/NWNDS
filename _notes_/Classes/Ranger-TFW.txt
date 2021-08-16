@@ -1,0 +1,34 @@
+The wastes of Athas are home to fierce and cunning creatures, from the bloodthirsty tembo to the malicious gaj.  One of the most cunning and powerful creatures of the wastes is the ranger, a skilled hunter and stalker.  He knows his lands as if they were his home (as indeed they are); he knows his prey in deadly detail.
+
+Rangers are capable in combat, although less so in open melee than the fighter, gladiator, or barbarian.  His skills allow him to survive in the wilderness, to find his prey and to avoid detection.  The ranger has the ability to gain special knowledge of certain types of creatures or lands.  Knowledge of his enemies makes him more capable of finding and defeating those foes.  Knowledge of terrain types or of specific favored lands makes it easier for him to live off the land, and makes it easier for him to take advantage of less knowledgeable foes.  Rangers eventually learn to use the lesser spirits that inhabit Athas in order to produce spell-like effects.  These lesser spirits inhabit small features of the land – rocks, trees, cacti and the like.  These spirits are relatively powerless, and cannot manifest themselves.  Their awareness is low, and their instincts are of the most primitive sort.  The relationship between these lesser spirits and the creatures known as Spirits of the Land is unknown.
+
+WARNING:  To cast a spell, a ranger must have a Wisdom score of 10 + the spell's level.  For example, to cast a 3rd-level spell, a ranger must have a Wisdom of 13.
+
+- Hit Die: d8.
+- Proficiencies: All simple and martial weapons, light and medium armor, and shields.
+- Skill Points (*4 at 1st level): 6 + Int Modifier.
+Spellcasting: Ranger Spells.  Divine (Wisdom based, armor-related chance of spell failure is ignored).
+	
+
+Level  Base Att Bonus     Fort  Ref  Will  Special                                   Spells per Day
+                                                                                   1st  2nd  3rd  4th
+1st    +1                 +2    +2   +0    1st Favored Enemy, Track, Wild Empathy  -    -    -    -
+2nd    +2                 +3    +3   +0    Combat Style (Two-Weapon Fighting)      -    -    -    -
+3rd    +3                 +3    +3   +1    Endurance                               -    -    -    -
+4th    +4                 +4    +4   +1    Animal Companion                        0    -    -    -
+5th    +5                 +4    +4   +1    2nd Favored Enemy / Terrain             0    -    -    -
+6th    +6/+1              +5    +5   +2    Improved Combat Style (Imp TWF)         1    -    -    -
+7th    +7/+2              +5    +5   +2    Woodland Stride                         1    -    -    -
+8th    +8/+3              +6    +6   +2    Swift Tracker                           1    0    -    -
+9th    +9/+4              +6    +6   +3    Evasion                                 1    0    -    -
+10th   +10/+5             +7    +7   +3    3rd Favored Enemy / Terrain             1    1    -    -
+11th   +11/+6/+1          +7    +7   +3    Combat Style Mastery (Greater TWF)      1    1    0    -
+12th   +12/+7/+2          +8    +8   +4                                            1    1    1    -
+13th   +13/+8/+3          +8    +8   +4    Camouflage                              1    1    1    -
+14th   +14/+9/+4          +9    +9   +4                                            2    1    1    0
+15th   +15/+10/+5         +9    +9   +5    4th Favored Enemy / Terrain             2    1    1    1
+16th   +16/+11/+6/+1      +10   +10  +5                                            2    2    1    1
+17th   +17/+12/+7/+2      +10   +10  +5    Hide in Plain Sight                     2    2    2    1
+18th   +18/+13/+8/+3      +11   +11  +6                                            3    2    2    1
+19th   +19/+14/+9/+4      +11   +11  +6                                            3    3    3    2
+20th   +20/+15/+10/+5     +12   +12  +6    5th Favored Enemy / Terrain             3    3    3    3

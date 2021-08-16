@@ -1,0 +1,26 @@
+proceduretype arturo
+channelscale 8
+0
+0
+0
+0
+	
+channeltranslate 8
+0
+0
+1
+0.5
+
+distort 8
+arturowidth 128
+arturoheight 128
+distortionamplitude 64
+speed 4
+
+defaultheight 128
+defaultwidth 128
+
+downsamplemin 0
+downsamplemax 0
+
+alphamean 0.1

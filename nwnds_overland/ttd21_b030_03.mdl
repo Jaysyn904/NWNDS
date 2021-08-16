@@ -2772,11 +2772,7 @@ node trimesh groundbot103
   specular 0 0 0
   shininess 1
   center 340.5 1.5 43.5
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   verts 104
     -1.39 4.8 -0.46
     0.96 4.81 0.04

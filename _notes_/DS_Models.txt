@@ -1,0 +1,60 @@
+2DA V2.0
+
+           (Dynamic) Illithid                                  $ 
+488        "[Mounted] Halfling Female"                         A 
+489        "[Mounted] Halfling Male"                           A 
+2047       "(Dynamic) Halfling"                                A 
+1002       "(Dynamic) Brownie* (Kinarr Greycloak)"             B 
+2342       Aarakocra                                           B 
+474        "Golem: Dwarf"                                      D 
+482        "[Mounted] Dwarf Female"                            D 
+483        "[Mounted] Dwarf Male"                              D 
+2044       "(Dynamic) Dwarf"                                   D 
+484        "[Mounted] Elf Female"                              E 
+485        "[Mounted] Elf Male"                                E 
+2045       "(Dynamic) Elf"                                     E 
+2          "(Dynamic) Gnome"                                   G 
+486        "[Mounted] Gnome Female"                            G 
+487        "[Mounted] Gnome Male"                              G 
+490        "[Mounted] Half-Elf Female"                         H 
+491        "[Mounted] Half-Elf Male"                           H 
+494        "[Mounted] Human Female"                            H 
+495        "[Mounted] Human Male"                              H 
+2046       "(Dynamic) Human"                                   H 
+2144       "DS: Marble Sentinel 2 [AR]"                        H 
+2357       Tohr-Kreen-Jeral                                    I 
+2052       "(Dynamic) Aarakocra"                               J 
+2348       Dwarf                                               J 
+2041       "(Dynamic) Kobold"                                  K 
+2347       Thri-Kreen                                          K 
+2048       "(Dynamic) Half-Elf"                                L 
+2346       Elf                                                 L 
+2049       "(Dynamic) Mul"                                     M 
+2356       Tohr-Kreen-To'ksa                                   M 
+2051       "(Dynamic) Yuan-Ti Pureblood"                       N 
+2351       Yuan-ti                                             N 
+5          "(Dynamic) Half-Orc"                                O 
+475        "Golem: Half-Orc"                                   O 
+492        "[Mounted] Half-Orc Female"                         O 
+493        "[Mounted] Half-Orc Male"                           O 
+2143       "DS: Marble Sentinel 1 [AR]"                        O 
+2050       "(Dynamic) Pterran"                                 P 
+2340       Pterran                                             P 
+2352       Tohr-Kreen-J'ez                                     Q 
+2353       Tohr-Kreen-Tondi                                    R 
+1030       "(Dynamic) Armor Stand* (Kinarr Greycloak)"         S 
+2354       Tohr-Kreen-T'keech                                  S 
+2053       "(Dynamic) Tarek"                                   T 
+2345       Tarek                                               T 
+2129       "(Dynamic) Half-Ogre"                               U 
+2341       Mul                                                 U 
+1309       "[Mounted] Skeleton Female * (Proleric)"            V 
+1310       "[Mounted] Skeleton Male * (Proleric)"              V 
+1769       "(Dynamic) Skeleton* (Amala)"                       V 
+2349       Halfling                                            V 
+1000       "(Dynamic) Wemic* (Eligio Sacateca & Ghostfactory)" W 
+2350       Half-Elf                                            W 
+2355       Tohr-Kreen-J'hol                                    X 
+2040       "(Dynamic) Half-Giant [AR]"                         Y 
+2344       Half_Giant                                          Y 
+2343       Human                                               Z 

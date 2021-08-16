@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Exported from NWMax Plus v6.11.28 at 6/12/2021 3:52:16 AM
-=======
 # Exported from NWMax Plus v6.11.28 at 6/14/2021 5:03:18 PM
->>>>>>> nwnds_acidchalk
 # mdl file
 #
 #NWMax Plus MODEL  ASCII
@@ -67,11 +63,7 @@ node trimesh wok01
   Specular 0.0 0.0 0.0 
   shininess 1
   center 0.0 0.0 32.5 
-<<<<<<< HEAD
-  bitmap ttd21_sand01
-=======
   bitmap trd21_sand08
->>>>>>> nwnds_acidchalk
   verts 46
     -5.0 -5.0 0.0
     -2.5 -5.0 0.0

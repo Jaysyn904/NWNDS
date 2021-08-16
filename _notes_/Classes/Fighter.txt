@@ -1,0 +1,37 @@
+On Athas, the fighter is a trained warrior, a soldier skilled in mass warfare.  Every society on Athas maintains an army of fighters to protect itself from an attack or to wage wars of plunder and annihilation against its neighbors.  Fighters are both the comanders and soldiers in these armies, and at higher levels are experts in both individual and formation combat, leadership, and morale.  The desperate populations of Athas are constantly on the lookout for great commanders; warriors who will lead them on campaigns of glory.
+
+From the small forts in sandy wastes of Athas to the guards of the merchant houses in the city-states, fighters are Athas' most common sight.  Whether it is as mercenaries for the sorcerer-kings or as hired guards protecting the wealth of the nobility, fighters can be found everywhere in the Tablelands.  Athas' fighters are trained to fight in small groups or huge units.  Those that have proven themselves become the commanders in the city-states' armies, commanding hundreds or even thousands of men into war.
+
+- Hit Die: d10.
+- Proficiencies: All simple and martial weapons, all armor, and shields.
+- Skill Points (*4 at 1st level): 2 + Int Modifier.
+	
+
+Level  Base Att Bonus     Fort  Ref  Will  Special
+
+1st    +1                 +2    +0   +0    Bonus Feat
+2nd    +2                 +3    +0   +0    Bonus Feat
+3rd    +3                 +3    +1   +1
+4th    +4                 +4    +1   +1    Bomus Feat
+5th    +5                 +4    +1   +1
+6th    +6/+1              +5    +2   +2    Bonus Feat
+7th    +7/+2              +5    +2   +2
+8th    +8/+3              +6    +2   +2    Bonus Feat
+9th    +9/+4              +6    +3   +3
+10th   +10/+5             +7    +3   +3    Bonus Feat
+11th   +11/+6/+1          +7    +3   +3
+12th   +12/+7/+2          +8    +4   +4    Bonus Feat
+13th   +13/+8/+3          +8    +4   +4
+14th   +14/+9/+4          +9    +4   +4    Bonus Feat
+15th   +15/+10/+5         +9    +5   +5
+16th   +16/+11/+6/+1      +10   +5   +5    Bonus Feat
+17th   +17/+12/+7/+2      +10   +5   +5
+18th   +18/+13/+8/+3      +11   +5   +6    Bonus Feat
+19th   +19/+14/+9/+4      +11   +5   +6
+20th   +20/+15/+10/+5     +12   +5   +6    Bonus Feat
+
+Bonus Feats
+
+At 1st level, a fighter gets a bonus combat-oriented feat in addition to the feat that any 1st-level character gets and the bonus feat granted to a human character. The fighter gains an additional bonus feat at 2nd level and every two fighter levels thereafter (4th, 6th, 8th, 10th, 12th, 14th, 16th, 18th, and 20th). These bonus feats must be drawn from following list. A fighter must still meet all prerequisites for a bonus feat, including ability score and base attack bonus minimums.
+
+Blind-Fight, Combat Expertise, Improved Disarm, Improved Trip, Whirlwind Attack, Dodge, Mobility, Spring Attack, Exotic Weapon Proficiency, Improved Critical, Improved Initiative, Improved Shield Bash, Improved Unarmed Strike, Deflect Arrows, Improved Grapple, Stunning Fist, Mounted Combat, Mounted Archery, Trample, Point Blank Shot, Rapid Shot, Manyshot, Improved Rapid Shot, Power Attack, Cleave, Great Cleave, Improved Bull Rush, Improved Overrun, Rapid Reload, Two-Weapon Fighting, Two-Weapon Defense, Improved Two-Weapon Fighting, Greater Two-Weapon Fighting, Weapon Finesse, Weapon Focus, Weapon Specialization
