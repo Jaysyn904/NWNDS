@@ -5,13 +5,15 @@ Hak file internals repository for the NWN Dark Sun persistent world project.
 
 DMFI + CEP 2.6 + PRC 4.1.4a
 
-3 Dark Sun 3.5e classes, with more to come.
+3 Athasian 3.5e classes, with more to come.
 
-24 Dark Sun Player races including 6 dynamic kreen models
+24 Athasian Player races including 6 dynamic kreen models
 
-11 more Prestige races.
+11 more Athasian Prestige races.  Be the Belgoi!
 
-12 Dark Sun animal companions, with more to come.
+12 Athasian animal companions, with more to come.
+
+70+ Athasian poisons integrated into the the PRC's poisoncrafting system.
 
 Custom Overworld Map System with over 5100 kilometers of Athasian terrain to explore.
 
