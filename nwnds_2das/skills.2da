@@ -40,5 +40,5 @@
 36         Psicraft       16832210 16832211    isk_spellcraft 0         INT        0                 0                ****     ****  SKILL_PSICRAFT         0            
 37         Climb          16847418 16847419    isk_climb      1         STR        1                 1                ****     ****  SKILL_CLIMB            0            
 38         CraftGeneral   16832369 16832370    isk_X2CArm     1         INT        0                 1                ****     ****  SKILL_CRAFT_GENERAL    0            
-39         Swim           16777242 16777243    isk_climb      0         STR        1                 1                ****     ****  SKILL_SWIM             0            
+39         Swim           16777242 16777243    isk_climb      1         STR        1                 1                ****     ****  SKILL_SWIM             0            
 40         Survival       16777244 16777245    isk_climb      1         WIS        0                 1                ****     ****  SKILL_SURVIVAL         0            
