@@ -93,13 +93,13 @@
       "CompileModels": false
     },
 	{
-      "Name":  "nwds_kreen",
-      "Path": "./nwds_kreen/",
+      "Name":  "nwnds_kreen",
+      "Path": "./nwnds_kreen/",
       "CompileModels": false
     },
 	{
-      "Name":  "nwds_heads",
-      "Path": "./nwds_heads/",
+      "Name":  "nwnds_heads",
+      "Path": "./nwnds_heads/",
       "CompileModels": false
     },
   ]
