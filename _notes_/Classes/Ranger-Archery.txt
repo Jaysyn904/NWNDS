@@ -22,7 +22,7 @@ Level  Base Att Bonus     Fort  Ref  Will  Special                              
 8th    +8/+3              +6    +6   +2    Swift Tracker                            1    0    -    -
 9th    +9/+4              +6    +6   +3    Evasion                                  1    0    -    -
 10th   +10/+5             +7    +7   +3    3rd Favored Enemy / Terrain              1    1    -    -
-11th   +11/+6/+1          +7    +7   +3    Combat Style Mastery (Imp Precise Shot)  1    1    0    -
+11th   +11/+6/+1          +7    +7   +3    Combat Style Mastery (Imp Rapid Shot)    1    1    0    -
 12th   +12/+7/+2          +8    +8   +4                                             1    1    1    -
 13th   +13/+8/+3          +8    +8   +4    Camouflage                               1    1    1    -
 14th   +14/+9/+4          +9    +9   +4                                             2    1    1    0
