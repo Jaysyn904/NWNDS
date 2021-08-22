@@ -52,7 +52,7 @@ Count=0
 Count=0
 
 [TILES]
-Count=1201
+Count=1202
 
 [TILE0]
 Model=trd21_0000_1
@@ -33686,6 +33686,47 @@ VisibilityNode=A
 VisibilityOrientation=270
 ImageMap2D=mitd01_C04
 
+[TILE1201]
+Model=trd21_a01_01
+WalkMesh=msb01
+TopLeft=sand
+TopLeftHeight=-2
+TopRight=sand
+TopRightHeight=-1
+BottomLeft=sand
+BottomLeftHeight=2
+BottomRight=sand
+BottomRightHeight=2
+Top=
+Right=
+Bottom=
+Left=
+MainLight1=0
+MainLight2=0
+SourceLight1=0
+SourceLight2=0
+AnimLoop1=0
+AnimLoop2=0
+AnimLoop3=0
+Doors=0
+Sounds=0
+PathNode=A
+Orientation=0
+ImageMap2D=(null)
+
+[TILE1201DOOR0]
+Type=53
+X=0
+Y=-1.5
+Z=-1.48
+Orientation=180
+
 [GROUPS]
-Count=0
+Count=1
+
+[GROUP0]
+Name=cave1
+Rows=1
+Columns=1
+Tile0=1201
 
