@@ -52,7 +52,7 @@ Count=0
 Count=0
 
 [TILES]
-Count=1202
+Count=1206
 
 [TILE0]
 Model=trd21_0000_1
@@ -80,7 +80,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1]
 Model=trd21_0001_1
@@ -108,7 +108,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE2]
 Model=trd21_0002_1
@@ -136,7 +136,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE3]
 Model=trd21_0003_1
@@ -164,7 +164,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE4]
 Model=trd21_0004_1
@@ -192,7 +192,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE5]
 Model=trd21_000s_1
@@ -220,7 +220,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE6]
 Model=trd21_000w_1
@@ -248,7 +248,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE7]
 Model=trd21_0011_1
@@ -276,7 +276,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE8]
 Model=trd21_0012_1
@@ -304,7 +304,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE9]
 Model=trd21_0013_1
@@ -332,7 +332,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE10]
 Model=trd21_0014_1
@@ -360,7 +360,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE11]
 Model=trd21_001s_1
@@ -388,7 +388,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE12]
 Model=trd21_001w_1
@@ -416,7 +416,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE13]
 Model=trd21_0021_1
@@ -444,7 +444,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE14]
 Model=trd21_0022_1
@@ -472,7 +472,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE15]
 Model=trd21_0023_1
@@ -500,7 +500,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE16]
 Model=trd21_0024_1
@@ -528,7 +528,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE17]
 Model=trd21_002s_1
@@ -556,7 +556,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE18]
 Model=trd21_002w_1
@@ -584,7 +584,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE19]
 Model=trd21_0031_1
@@ -612,7 +612,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE20]
 Model=trd21_0032_1
@@ -640,7 +640,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE21]
 Model=trd21_0033_1
@@ -668,7 +668,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE22]
 Model=trd21_0034_1
@@ -696,7 +696,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE23]
 Model=trd21_003s_1
@@ -724,7 +724,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE24]
 Model=trd21_003w_1
@@ -752,7 +752,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE25]
 Model=trd21_0041_1
@@ -780,7 +780,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE26]
 Model=trd21_0042_1
@@ -808,7 +808,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE27]
 Model=trd21_0043_1
@@ -836,7 +836,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE28]
 Model=trd21_0044_1
@@ -864,7 +864,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE29]
 Model=trd21_004s_1
@@ -892,7 +892,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE30]
 Model=trd21_004w_1
@@ -920,7 +920,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE31]
 Model=trd21_00s1_1
@@ -948,7 +948,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE32]
 Model=trd21_00s2_1
@@ -976,7 +976,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE33]
 Model=trd21_00s3_1
@@ -1004,7 +1004,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE34]
 Model=trd21_00s4_1
@@ -1032,7 +1032,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE35]
 Model=trd21_00ss_1
@@ -1060,7 +1060,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE36]
 Model=trd21_00sw_1
@@ -1088,7 +1088,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE37]
 Model=trd21_00w1_1
@@ -1116,7 +1116,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE38]
 Model=trd21_00w2_1
@@ -1144,7 +1144,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE39]
 Model=trd21_00w3_1
@@ -1172,7 +1172,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE40]
 Model=trd21_00w4_1
@@ -1200,7 +1200,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE41]
 Model=trd21_00ws_1
@@ -1228,7 +1228,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE42]
 Model=trd21_00ww_1
@@ -1256,7 +1256,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE43]
 Model=trd21_0110_1
@@ -1284,7 +1284,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE44]
 Model=trd21_0111_1
@@ -1312,7 +1312,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE45]
 Model=trd21_0112_1
@@ -1340,7 +1340,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE46]
 Model=trd21_0113_1
@@ -1368,7 +1368,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE47]
 Model=trd21_0114_1
@@ -1396,7 +1396,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE48]
 Model=trd21_011s_1
@@ -1424,7 +1424,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE49]
 Model=trd21_011w_1
@@ -1452,7 +1452,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE50]
 Model=trd21_0120_1
@@ -1480,7 +1480,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE51]
 Model=trd21_0121_1
@@ -1508,7 +1508,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE52]
 Model=trd21_0122_1
@@ -1536,7 +1536,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE53]
 Model=trd21_0123_1
@@ -1564,7 +1564,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE54]
 Model=trd21_0124_1
@@ -1592,7 +1592,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE55]
 Model=trd21_012s_1
@@ -1620,7 +1620,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE56]
 Model=trd21_012w_1
@@ -1648,7 +1648,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE57]
 Model=trd21_0130_1
@@ -1676,7 +1676,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE58]
 Model=trd21_0131_1
@@ -1704,7 +1704,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE59]
 Model=trd21_0132_1
@@ -1732,7 +1732,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE60]
 Model=trd21_0133_1
@@ -1760,7 +1760,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE61]
 Model=trd21_0134_1
@@ -1788,7 +1788,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE62]
 Model=trd21_013s_1
@@ -1816,7 +1816,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE63]
 Model=trd21_013w_1
@@ -1844,7 +1844,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE64]
 Model=trd21_0140_1
@@ -1872,7 +1872,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE65]
 Model=trd21_0141_1
@@ -1900,7 +1900,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE66]
 Model=trd21_0142_1
@@ -1928,7 +1928,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE67]
 Model=trd21_0143_1
@@ -1956,7 +1956,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE68]
 Model=trd21_0144_1
@@ -1984,7 +1984,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE69]
 Model=trd21_014s_1
@@ -2012,7 +2012,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE70]
 Model=trd21_014w_1
@@ -2040,7 +2040,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE71]
 Model=trd21_01s0_1
@@ -2068,7 +2068,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE72]
 Model=trd21_01s1_1
@@ -2096,7 +2096,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE73]
 Model=trd21_01s2_1
@@ -2124,7 +2124,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE74]
 Model=trd21_01s3_1
@@ -2152,7 +2152,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE75]
 Model=trd21_01s4_1
@@ -2180,7 +2180,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE76]
 Model=trd21_01ss_1
@@ -2208,7 +2208,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE77]
 Model=trd21_01sw_1
@@ -2236,7 +2236,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE78]
 Model=trd21_01w0_1
@@ -2264,7 +2264,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE79]
 Model=trd21_01w1_1
@@ -2292,7 +2292,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE80]
 Model=trd21_01w2_1
@@ -2320,7 +2320,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE81]
 Model=trd21_01w3_1
@@ -2348,7 +2348,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE82]
 Model=trd21_01w4_1
@@ -2376,7 +2376,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE83]
 Model=trd21_01ws_1
@@ -2404,7 +2404,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE84]
 Model=trd21_01ww_1
@@ -2432,7 +2432,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE85]
 Model=trd21_0211_1
@@ -2460,7 +2460,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE86]
 Model=trd21_0212_1
@@ -2488,7 +2488,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE87]
 Model=trd21_0213_1
@@ -2516,7 +2516,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE88]
 Model=trd21_0214_1
@@ -2544,7 +2544,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE89]
 Model=trd21_021s_1
@@ -2572,7 +2572,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE90]
 Model=trd21_021w_1
@@ -2600,7 +2600,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE91]
 Model=trd21_0220_1
@@ -2628,7 +2628,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE92]
 Model=trd21_0221_1
@@ -2656,7 +2656,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE93]
 Model=trd21_0222_1
@@ -2684,7 +2684,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE94]
 Model=trd21_0223_1
@@ -2712,7 +2712,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE95]
 Model=trd21_0224_1
@@ -2740,7 +2740,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE96]
 Model=trd21_022s_1
@@ -2768,7 +2768,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE97]
 Model=trd21_022w_1
@@ -2796,7 +2796,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE98]
 Model=trd21_0230_1
@@ -2824,7 +2824,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE99]
 Model=trd21_0231_1
@@ -2852,7 +2852,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE100]
 Model=trd21_0232_1
@@ -2880,7 +2880,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE101]
 Model=trd21_0233_1
@@ -2908,7 +2908,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE102]
 Model=trd21_0234_1
@@ -2936,7 +2936,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE103]
 Model=trd21_023s_1
@@ -2964,7 +2964,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE104]
 Model=trd21_023w_1
@@ -2992,7 +2992,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE105]
 Model=trd21_0240_1
@@ -3020,7 +3020,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE106]
 Model=trd21_0241_1
@@ -3048,7 +3048,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE107]
 Model=trd21_0242_1
@@ -3076,7 +3076,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE108]
 Model=trd21_0243_1
@@ -3104,7 +3104,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE109]
 Model=trd21_0244_1
@@ -3132,7 +3132,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE110]
 Model=trd21_024s_1
@@ -3160,7 +3160,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE111]
 Model=trd21_024w_1
@@ -3188,7 +3188,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE112]
 Model=trd21_02s0_1
@@ -3216,7 +3216,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE113]
 Model=trd21_02s1_1
@@ -3244,7 +3244,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE114]
 Model=trd21_02s2_1
@@ -3272,7 +3272,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE115]
 Model=trd21_02s3_1
@@ -3300,7 +3300,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE116]
 Model=trd21_02s4_1
@@ -3328,7 +3328,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE117]
 Model=trd21_02ss_1
@@ -3356,7 +3356,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE118]
 Model=trd21_02sw_1
@@ -3384,7 +3384,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE119]
 Model=trd21_02w0_1
@@ -3412,7 +3412,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE120]
 Model=trd21_02w1_1
@@ -3440,7 +3440,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE121]
 Model=trd21_02w2_1
@@ -3468,7 +3468,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE122]
 Model=trd21_02w3_1
@@ -3496,7 +3496,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE123]
 Model=trd21_02w4_1
@@ -3524,7 +3524,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE124]
 Model=trd21_02ws_1
@@ -3552,7 +3552,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE125]
 Model=trd21_02ww_1
@@ -3580,7 +3580,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE126]
 Model=trd21_0311_1
@@ -3608,7 +3608,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE127]
 Model=trd21_0312_1
@@ -3636,7 +3636,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE128]
 Model=trd21_0313_1
@@ -3664,7 +3664,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE129]
 Model=trd21_0314_1
@@ -3692,7 +3692,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE130]
 Model=trd21_031s_1
@@ -3720,7 +3720,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE131]
 Model=trd21_031w_1
@@ -3748,7 +3748,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE132]
 Model=trd21_0321_1
@@ -3776,7 +3776,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE133]
 Model=trd21_0322_1
@@ -3804,7 +3804,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE134]
 Model=trd21_0323_1
@@ -3832,7 +3832,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE135]
 Model=trd21_0324_1
@@ -3860,7 +3860,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE136]
 Model=trd21_032s_1
@@ -3888,7 +3888,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE137]
 Model=trd21_032w_1
@@ -3916,7 +3916,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE138]
 Model=trd21_0330_1
@@ -3944,7 +3944,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE139]
 Model=trd21_0331_1
@@ -3972,7 +3972,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE140]
 Model=trd21_0332_1
@@ -4000,7 +4000,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE141]
 Model=trd21_0333_1
@@ -4028,7 +4028,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE142]
 Model=trd21_0334_1
@@ -4056,7 +4056,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE143]
 Model=trd21_033s_1
@@ -4084,7 +4084,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE144]
 Model=trd21_033w_1
@@ -4112,7 +4112,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE145]
 Model=trd21_0340_1
@@ -4140,7 +4140,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE146]
 Model=trd21_0341_1
@@ -4168,7 +4168,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE147]
 Model=trd21_0342_1
@@ -4196,7 +4196,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE148]
 Model=trd21_0343_1
@@ -4224,7 +4224,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE149]
 Model=trd21_0344_1
@@ -4252,7 +4252,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE150]
 Model=trd21_034s_1
@@ -4280,7 +4280,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE151]
 Model=trd21_034w_1
@@ -4308,7 +4308,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE152]
 Model=trd21_03s0_1
@@ -4336,7 +4336,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE153]
 Model=trd21_03s1_1
@@ -4364,7 +4364,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE154]
 Model=trd21_03s2_1
@@ -4392,7 +4392,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE155]
 Model=trd21_03s3_1
@@ -4420,7 +4420,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE156]
 Model=trd21_03s4_1
@@ -4448,7 +4448,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE157]
 Model=trd21_03ss_1
@@ -4476,7 +4476,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE158]
 Model=trd21_03sw_1
@@ -4504,7 +4504,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE159]
 Model=trd21_03w0_1
@@ -4532,7 +4532,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE160]
 Model=trd21_03w1_1
@@ -4560,7 +4560,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE161]
 Model=trd21_03w2_1
@@ -4588,7 +4588,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE162]
 Model=trd21_03w3_1
@@ -4616,7 +4616,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE163]
 Model=trd21_03w4_1
@@ -4644,7 +4644,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE164]
 Model=trd21_03ws_1
@@ -4672,7 +4672,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE165]
 Model=trd21_03ww_1
@@ -4700,7 +4700,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE166]
 Model=trd21_0411_1
@@ -4728,7 +4728,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE167]
 Model=trd21_0412_1
@@ -4756,7 +4756,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE168]
 Model=trd21_0413_1
@@ -4784,7 +4784,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE169]
 Model=trd21_0414_1
@@ -4812,7 +4812,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE170]
 Model=trd21_041s_1
@@ -4840,7 +4840,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE171]
 Model=trd21_041w_1
@@ -4868,7 +4868,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE172]
 Model=trd21_0421_1
@@ -4896,7 +4896,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE173]
 Model=trd21_0422_1
@@ -4924,7 +4924,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE174]
 Model=trd21_0423_1
@@ -4952,7 +4952,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE175]
 Model=trd21_0424_1
@@ -4980,7 +4980,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE176]
 Model=trd21_042s_1
@@ -5008,7 +5008,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE177]
 Model=trd21_042w_1
@@ -5036,7 +5036,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE178]
 Model=trd21_0431_1
@@ -5064,7 +5064,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE179]
 Model=trd21_0432_1
@@ -5092,7 +5092,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE180]
 Model=trd21_0433_1
@@ -5120,7 +5120,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE181]
 Model=trd21_0434_1
@@ -5148,7 +5148,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE182]
 Model=trd21_043s_1
@@ -5176,7 +5176,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE183]
 Model=trd21_043w_1
@@ -5204,7 +5204,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE184]
 Model=trd21_0440_1
@@ -5232,7 +5232,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE185]
 Model=trd21_0441_1
@@ -5260,7 +5260,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE186]
 Model=trd21_0442_1
@@ -5288,7 +5288,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE187]
 Model=trd21_0443_1
@@ -5316,7 +5316,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE188]
 Model=trd21_0444_1
@@ -5344,7 +5344,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE189]
 Model=trd21_044s_1
@@ -5372,7 +5372,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE190]
 Model=trd21_044w_1
@@ -5400,7 +5400,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE191]
 Model=trd21_04s0_1
@@ -5428,7 +5428,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE192]
 Model=trd21_04s1_1
@@ -5456,7 +5456,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE193]
 Model=trd21_04s2_1
@@ -5484,7 +5484,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE194]
 Model=trd21_04s3_1
@@ -5512,7 +5512,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE195]
 Model=trd21_04s4_1
@@ -5540,7 +5540,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE196]
 Model=trd21_04ss_1
@@ -5568,7 +5568,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE197]
 Model=trd21_04sw_1
@@ -5596,7 +5596,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE198]
 Model=trd21_04w0_1
@@ -5624,7 +5624,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE199]
 Model=trd21_04w1_1
@@ -5652,7 +5652,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE200]
 Model=trd21_04w2_1
@@ -5680,7 +5680,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE201]
 Model=trd21_04w3_1
@@ -5708,7 +5708,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE202]
 Model=trd21_04w4_1
@@ -5736,7 +5736,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE203]
 Model=trd21_04ws_1
@@ -5764,7 +5764,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE204]
 Model=trd21_04ww_1
@@ -5792,7 +5792,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE205]
 Model=trd21_0s11_1
@@ -5820,7 +5820,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE206]
 Model=trd21_0s12_1
@@ -5848,7 +5848,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE207]
 Model=trd21_0s13_1
@@ -5876,7 +5876,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE208]
 Model=trd21_0s14_1
@@ -5904,7 +5904,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE209]
 Model=trd21_0s1s_1
@@ -5932,7 +5932,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE210]
 Model=trd21_0s1w_1
@@ -5960,7 +5960,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE211]
 Model=trd21_0s21_1
@@ -5988,7 +5988,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE212]
 Model=trd21_0s22_1
@@ -6016,7 +6016,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE213]
 Model=trd21_0s23_1
@@ -6044,7 +6044,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE214]
 Model=trd21_0s24_1
@@ -6072,7 +6072,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE215]
 Model=trd21_0s2s_1
@@ -6100,7 +6100,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE216]
 Model=trd21_0s2w_1
@@ -6128,7 +6128,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE217]
 Model=trd21_0s31_1
@@ -6156,7 +6156,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE218]
 Model=trd21_0s32_1
@@ -6184,7 +6184,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE219]
 Model=trd21_0s33_1
@@ -6212,7 +6212,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE220]
 Model=trd21_0s34_1
@@ -6240,7 +6240,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE221]
 Model=trd21_0s3s_1
@@ -6268,7 +6268,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE222]
 Model=trd21_0s3w_1
@@ -6296,7 +6296,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE223]
 Model=trd21_0s41_1
@@ -6324,7 +6324,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE224]
 Model=trd21_0s42_1
@@ -6352,7 +6352,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE225]
 Model=trd21_0s43_1
@@ -6380,7 +6380,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE226]
 Model=trd21_0s44_1
@@ -6408,7 +6408,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE227]
 Model=trd21_0s4s_1
@@ -6436,7 +6436,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE228]
 Model=trd21_0s4w_1
@@ -6464,7 +6464,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE229]
 Model=trd21_0ss0_1
@@ -6492,7 +6492,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE230]
 Model=trd21_0ss1_1
@@ -6520,7 +6520,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE231]
 Model=trd21_0ss2_1
@@ -6548,7 +6548,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE232]
 Model=trd21_0ss3_1
@@ -6576,7 +6576,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE233]
 Model=trd21_0ss4_1
@@ -6604,7 +6604,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE234]
 Model=trd21_0sss_1
@@ -6632,7 +6632,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE235]
 Model=trd21_0ssw_1
@@ -6660,7 +6660,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE236]
 Model=trd21_0sw0_1
@@ -6688,7 +6688,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE237]
 Model=trd21_0sw1_1
@@ -6716,7 +6716,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE238]
 Model=trd21_0sw2_1
@@ -6744,7 +6744,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE239]
 Model=trd21_0sw3_1
@@ -6772,7 +6772,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE240]
 Model=trd21_0sw4_1
@@ -6800,7 +6800,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE241]
 Model=trd21_0sws_1
@@ -6828,7 +6828,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE242]
 Model=trd21_0sww_1
@@ -6856,7 +6856,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE243]
 Model=trd21_0w11_1
@@ -6884,7 +6884,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE244]
 Model=trd21_0w12_1
@@ -6912,7 +6912,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE245]
 Model=trd21_0w13_1
@@ -6940,7 +6940,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE246]
 Model=trd21_0w14_1
@@ -6968,7 +6968,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE247]
 Model=trd21_0w1s_1
@@ -6996,7 +6996,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE248]
 Model=trd21_0w1w_1
@@ -7024,7 +7024,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE249]
 Model=trd21_0w21_1
@@ -7052,7 +7052,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE250]
 Model=trd21_0w22_1
@@ -7080,7 +7080,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE251]
 Model=trd21_0w23_1
@@ -7108,7 +7108,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE252]
 Model=trd21_0w24_1
@@ -7136,7 +7136,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE253]
 Model=trd21_0w2s_1
@@ -7164,7 +7164,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE254]
 Model=trd21_0w2w_1
@@ -7192,7 +7192,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE255]
 Model=trd21_0w31_1
@@ -7220,7 +7220,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE256]
 Model=trd21_0w32_1
@@ -7248,7 +7248,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE257]
 Model=trd21_0w33_1
@@ -7276,7 +7276,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE258]
 Model=trd21_0w34_1
@@ -7304,7 +7304,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE259]
 Model=trd21_0w3s_1
@@ -7332,7 +7332,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE260]
 Model=trd21_0w3w_1
@@ -7360,7 +7360,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE261]
 Model=trd21_0w41_1
@@ -7388,7 +7388,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE262]
 Model=trd21_0w42_1
@@ -7416,7 +7416,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE263]
 Model=trd21_0w43_1
@@ -7444,7 +7444,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE264]
 Model=trd21_0w44_1
@@ -7472,7 +7472,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE265]
 Model=trd21_0w4s_1
@@ -7500,7 +7500,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE266]
 Model=trd21_0w4w_1
@@ -7528,7 +7528,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE267]
 Model=trd21_0ws1_1
@@ -7556,7 +7556,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE268]
 Model=trd21_0ws2_1
@@ -7584,7 +7584,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE269]
 Model=trd21_0ws3_1
@@ -7612,7 +7612,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE270]
 Model=trd21_0ws4_1
@@ -7640,7 +7640,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE271]
 Model=trd21_0wss_1
@@ -7668,7 +7668,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE272]
 Model=trd21_0wsw_1
@@ -7696,7 +7696,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE273]
 Model=trd21_0ww0_1
@@ -7724,7 +7724,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE274]
 Model=trd21_0ww1_1
@@ -7752,7 +7752,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE275]
 Model=trd21_0ww2_1
@@ -7780,7 +7780,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE276]
 Model=trd21_0ww3_1
@@ -7808,7 +7808,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE277]
 Model=trd21_0ww4_1
@@ -7836,7 +7836,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE278]
 Model=trd21_0wws_1
@@ -7864,7 +7864,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE279]
 Model=trd21_0www_1
@@ -7892,7 +7892,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE280]
 Model=trd21_111s_1
@@ -7920,7 +7920,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE281]
 Model=trd21_111w_1
@@ -7948,7 +7948,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE282]
 Model=trd21_112s_1
@@ -7976,7 +7976,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE283]
 Model=trd21_112w_1
@@ -8004,7 +8004,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE284]
 Model=trd21_113s_1
@@ -8032,7 +8032,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE285]
 Model=trd21_113w_1
@@ -8060,7 +8060,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE286]
 Model=trd21_114s_1
@@ -8088,7 +8088,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE287]
 Model=trd21_114w_1
@@ -8116,7 +8116,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE288]
 Model=trd21_11s2_1
@@ -8144,7 +8144,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE289]
 Model=trd21_11s3_1
@@ -8172,7 +8172,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE290]
 Model=trd21_11s4_1
@@ -8200,7 +8200,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE291]
 Model=trd21_11ss_1
@@ -8228,7 +8228,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE292]
 Model=trd21_11sw_1
@@ -8256,7 +8256,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE293]
 Model=trd21_11w2_1
@@ -8284,7 +8284,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE294]
 Model=trd21_11w3_1
@@ -8312,7 +8312,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE295]
 Model=trd21_11w4_1
@@ -8340,7 +8340,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE296]
 Model=trd21_11ws_1
@@ -8368,7 +8368,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE297]
 Model=trd21_11ww_1
@@ -8396,7 +8396,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE298]
 Model=trd21_122s_1
@@ -8424,7 +8424,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE299]
 Model=trd21_122w_1
@@ -8452,7 +8452,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE300]
 Model=trd21_123s_1
@@ -8480,7 +8480,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE301]
 Model=trd21_123w_1
@@ -8508,7 +8508,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE302]
 Model=trd21_124s_1
@@ -8536,7 +8536,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE303]
 Model=trd21_124w_1
@@ -8564,7 +8564,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE304]
 Model=trd21_12s1_1
@@ -8592,7 +8592,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE305]
 Model=trd21_12s2_1
@@ -8620,7 +8620,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE306]
 Model=trd21_12s3_1
@@ -8648,7 +8648,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE307]
 Model=trd21_12s4_1
@@ -8676,7 +8676,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE308]
 Model=trd21_12ss_1
@@ -8704,7 +8704,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE309]
 Model=trd21_12sw_1
@@ -8732,7 +8732,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE310]
 Model=trd21_12w1_1
@@ -8760,7 +8760,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE311]
 Model=trd21_12w2_1
@@ -8788,7 +8788,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE312]
 Model=trd21_12w3_1
@@ -8816,7 +8816,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE313]
 Model=trd21_12w4_1
@@ -8844,7 +8844,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE314]
 Model=trd21_12ws_1
@@ -8872,7 +8872,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE315]
 Model=trd21_12ww_1
@@ -8900,7 +8900,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE316]
 Model=trd21_132s_1
@@ -8928,7 +8928,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE317]
 Model=trd21_132w_1
@@ -8956,7 +8956,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE318]
 Model=trd21_133s_1
@@ -8984,7 +8984,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE319]
 Model=trd21_133w_1
@@ -9012,7 +9012,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE320]
 Model=trd21_134s_1
@@ -9040,7 +9040,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE321]
 Model=trd21_134w_1
@@ -9068,7 +9068,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE322]
 Model=trd21_13s1_1
@@ -9096,7 +9096,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE323]
 Model=trd21_13s2_1
@@ -9124,7 +9124,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE324]
 Model=trd21_13s3_1
@@ -9152,7 +9152,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE325]
 Model=trd21_13s4_1
@@ -9180,7 +9180,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE326]
 Model=trd21_13ss_1
@@ -9208,7 +9208,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE327]
 Model=trd21_13sw_1
@@ -9236,7 +9236,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE328]
 Model=trd21_13w1_1
@@ -9264,7 +9264,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE329]
 Model=trd21_13w2_1
@@ -9292,7 +9292,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE330]
 Model=trd21_13w3_1
@@ -9320,7 +9320,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE331]
 Model=trd21_13w4_1
@@ -9348,7 +9348,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE332]
 Model=trd21_13ws_1
@@ -9376,7 +9376,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE333]
 Model=trd21_13ww_1
@@ -9404,7 +9404,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE334]
 Model=trd21_142s_1
@@ -9432,7 +9432,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE335]
 Model=trd21_142w_1
@@ -9460,7 +9460,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE336]
 Model=trd21_143s_1
@@ -9488,7 +9488,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE337]
 Model=trd21_143w_1
@@ -9516,7 +9516,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE338]
 Model=trd21_144s_1
@@ -9544,7 +9544,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE339]
 Model=trd21_144w_1
@@ -9572,7 +9572,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE340]
 Model=trd21_14s1_1
@@ -9600,7 +9600,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE341]
 Model=trd21_14s2_1
@@ -9628,7 +9628,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE342]
 Model=trd21_14s3_1
@@ -9656,7 +9656,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE343]
 Model=trd21_14s4_1
@@ -9684,7 +9684,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE344]
 Model=trd21_14ss_1
@@ -9712,7 +9712,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE345]
 Model=trd21_14sw_1
@@ -9740,7 +9740,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE346]
 Model=trd21_14w1_1
@@ -9768,7 +9768,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE347]
 Model=trd21_14w2_1
@@ -9796,7 +9796,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE348]
 Model=trd21_14w3_1
@@ -9824,7 +9824,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE349]
 Model=trd21_14w4_1
@@ -9852,7 +9852,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE350]
 Model=trd21_14ws_1
@@ -9880,7 +9880,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE351]
 Model=trd21_14ww_1
@@ -9908,7 +9908,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE352]
 Model=trd21_1s22_1
@@ -9936,7 +9936,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE353]
 Model=trd21_1s23_1
@@ -9964,7 +9964,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE354]
 Model=trd21_1s24_1
@@ -9992,7 +9992,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE355]
 Model=trd21_1s2s_1
@@ -10020,7 +10020,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE356]
 Model=trd21_1s2w_1
@@ -10048,7 +10048,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE357]
 Model=trd21_1s32_1
@@ -10076,7 +10076,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE358]
 Model=trd21_1s33_1
@@ -10104,7 +10104,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE359]
 Model=trd21_1s34_1
@@ -10132,7 +10132,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE360]
 Model=trd21_1s3s_1
@@ -10160,7 +10160,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE361]
 Model=trd21_1s3w_1
@@ -10188,7 +10188,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE362]
 Model=trd21_1s42_1
@@ -10216,7 +10216,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE363]
 Model=trd21_1s43_1
@@ -10244,7 +10244,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE364]
 Model=trd21_1s44_1
@@ -10272,7 +10272,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE365]
 Model=trd21_1s4s_1
@@ -10300,7 +10300,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE366]
 Model=trd21_1s4w_1
@@ -10328,7 +10328,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE367]
 Model=trd21_1ss1_1
@@ -10356,7 +10356,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE368]
 Model=trd21_1ss2_1
@@ -10384,7 +10384,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE369]
 Model=trd21_1ss3_1
@@ -10412,7 +10412,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE370]
 Model=trd21_1ss4_1
@@ -10440,7 +10440,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE371]
 Model=trd21_1sss_1
@@ -10468,7 +10468,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE372]
 Model=trd21_1ssw_1
@@ -10496,7 +10496,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE373]
 Model=trd21_1sw1_1
@@ -10524,7 +10524,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE374]
 Model=trd21_1sw2_1
@@ -10552,7 +10552,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE375]
 Model=trd21_1sw3_1
@@ -10580,7 +10580,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE376]
 Model=trd21_1sw4_1
@@ -10608,7 +10608,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE377]
 Model=trd21_1sws_1
@@ -10636,7 +10636,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE378]
 Model=trd21_1sww_1
@@ -10664,7 +10664,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE379]
 Model=trd21_1w22_1
@@ -10692,7 +10692,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE380]
 Model=trd21_1w23_1
@@ -10720,7 +10720,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE381]
 Model=trd21_1w24_1
@@ -10748,7 +10748,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE382]
 Model=trd21_1w2s_1
@@ -10776,7 +10776,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE383]
 Model=trd21_1w2w_1
@@ -10804,7 +10804,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE384]
 Model=trd21_1w32_1
@@ -10832,7 +10832,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE385]
 Model=trd21_1w33_1
@@ -10860,7 +10860,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE386]
 Model=trd21_1w34_1
@@ -10888,7 +10888,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE387]
 Model=trd21_1w3s_1
@@ -10916,7 +10916,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE388]
 Model=trd21_1w3w_1
@@ -10944,7 +10944,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE389]
 Model=trd21_1w42_1
@@ -10972,7 +10972,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE390]
 Model=trd21_1w43_1
@@ -11000,7 +11000,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE391]
 Model=trd21_1w44_1
@@ -11028,7 +11028,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE392]
 Model=trd21_1w4s_1
@@ -11056,7 +11056,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE393]
 Model=trd21_1w4w_1
@@ -11084,7 +11084,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE394]
 Model=trd21_1ws2_1
@@ -11112,7 +11112,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE395]
 Model=trd21_1ws3_1
@@ -11140,7 +11140,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE396]
 Model=trd21_1ws4_1
@@ -11168,7 +11168,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE397]
 Model=trd21_1wss_1
@@ -11196,7 +11196,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE398]
 Model=trd21_1wsw_1
@@ -11224,7 +11224,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE399]
 Model=trd21_1ww1_1
@@ -11252,7 +11252,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE400]
 Model=trd21_1ww2_1
@@ -11280,7 +11280,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE401]
 Model=trd21_1ww3_1
@@ -11308,7 +11308,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE402]
 Model=trd21_1ww4_1
@@ -11336,7 +11336,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE403]
 Model=trd21_1wws_1
@@ -11364,7 +11364,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE404]
 Model=trd21_1www_1
@@ -11392,7 +11392,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE405]
 Model=trd21_222s_1
@@ -11420,7 +11420,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE406]
 Model=trd21_222w_1
@@ -11448,7 +11448,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE407]
 Model=trd21_223s_1
@@ -11476,7 +11476,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE408]
 Model=trd21_223w_1
@@ -11504,7 +11504,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE409]
 Model=trd21_224s_1
@@ -11532,7 +11532,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE410]
 Model=trd21_224w_1
@@ -11560,7 +11560,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE411]
 Model=trd21_22s3_1
@@ -11588,7 +11588,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE412]
 Model=trd21_22s4_1
@@ -11616,7 +11616,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE413]
 Model=trd21_22ss_1
@@ -11644,7 +11644,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE414]
 Model=trd21_22sw_1
@@ -11672,7 +11672,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE415]
 Model=trd21_22w3_1
@@ -11700,7 +11700,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE416]
 Model=trd21_22w4_1
@@ -11728,7 +11728,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE417]
 Model=trd21_22ws_1
@@ -11756,7 +11756,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE418]
 Model=trd21_22ww_1
@@ -11784,7 +11784,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE419]
 Model=trd21_233s_1
@@ -11812,7 +11812,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE420]
 Model=trd21_233w_1
@@ -11840,7 +11840,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE421]
 Model=trd21_234s_1
@@ -11868,7 +11868,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE422]
 Model=trd21_234w_1
@@ -11896,7 +11896,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE423]
 Model=trd21_23s2_1
@@ -11924,7 +11924,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE424]
 Model=trd21_23s3_1
@@ -11952,7 +11952,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE425]
 Model=trd21_23s4_1
@@ -11980,7 +11980,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE426]
 Model=trd21_23ss_1
@@ -12008,7 +12008,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE427]
 Model=trd21_23sw_1
@@ -12036,7 +12036,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE428]
 Model=trd21_23w2_1
@@ -12064,7 +12064,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE429]
 Model=trd21_23w3_1
@@ -12092,7 +12092,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE430]
 Model=trd21_23w4_1
@@ -12120,7 +12120,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE431]
 Model=trd21_23ws_1
@@ -12148,7 +12148,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE432]
 Model=trd21_23ww_1
@@ -12176,7 +12176,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE433]
 Model=trd21_243s_1
@@ -12204,7 +12204,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE434]
 Model=trd21_243w_1
@@ -12232,7 +12232,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE435]
 Model=trd21_244s_1
@@ -12260,7 +12260,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE436]
 Model=trd21_244w_1
@@ -12288,7 +12288,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE437]
 Model=trd21_24s2_1
@@ -12316,7 +12316,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE438]
 Model=trd21_24s3_1
@@ -12344,7 +12344,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE439]
 Model=trd21_24s4_1
@@ -12372,7 +12372,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE440]
 Model=trd21_24ss_1
@@ -12400,7 +12400,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE441]
 Model=trd21_24sw_1
@@ -12428,7 +12428,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE442]
 Model=trd21_24w2_1
@@ -12456,7 +12456,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE443]
 Model=trd21_24w3_1
@@ -12484,7 +12484,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE444]
 Model=trd21_24w4_1
@@ -12512,7 +12512,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE445]
 Model=trd21_24ws_1
@@ -12540,7 +12540,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE446]
 Model=trd21_24ww_1
@@ -12568,7 +12568,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE447]
 Model=trd21_2s33_1
@@ -12596,7 +12596,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE448]
 Model=trd21_2s34_1
@@ -12624,7 +12624,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE449]
 Model=trd21_2s3s_1
@@ -12652,7 +12652,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE450]
 Model=trd21_2s3w_1
@@ -12680,7 +12680,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE451]
 Model=trd21_2s43_1
@@ -12708,7 +12708,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE452]
 Model=trd21_2s44_1
@@ -12736,7 +12736,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE453]
 Model=trd21_2s4s_1
@@ -12764,7 +12764,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE454]
 Model=trd21_2s4w_1
@@ -12792,7 +12792,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE455]
 Model=trd21_2ss2_1
@@ -12820,7 +12820,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE456]
 Model=trd21_2ss3_1
@@ -12848,7 +12848,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE457]
 Model=trd21_2ss4_1
@@ -12876,7 +12876,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE458]
 Model=trd21_2sss_1
@@ -12904,7 +12904,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE459]
 Model=trd21_2ssw_1
@@ -12932,7 +12932,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE460]
 Model=trd21_2sw2_1
@@ -12960,7 +12960,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE461]
 Model=trd21_2sw3_1
@@ -12988,7 +12988,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE462]
 Model=trd21_2sw4_1
@@ -13016,7 +13016,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE463]
 Model=trd21_2sws_1
@@ -13044,7 +13044,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE464]
 Model=trd21_2sww_1
@@ -13072,7 +13072,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE465]
 Model=trd21_2w33_1
@@ -13100,7 +13100,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE466]
 Model=trd21_2w34_1
@@ -13128,7 +13128,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE467]
 Model=trd21_2w3s_1
@@ -13156,7 +13156,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE468]
 Model=trd21_2w3w_1
@@ -13184,7 +13184,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE469]
 Model=trd21_2w43_1
@@ -13212,7 +13212,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE470]
 Model=trd21_2w44_1
@@ -13240,7 +13240,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE471]
 Model=trd21_2w4s_1
@@ -13268,7 +13268,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE472]
 Model=trd21_2w4w_1
@@ -13296,7 +13296,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE473]
 Model=trd21_2ws3_1
@@ -13324,7 +13324,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE474]
 Model=trd21_2ws4_1
@@ -13352,7 +13352,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE475]
 Model=trd21_2wss_1
@@ -13380,7 +13380,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE476]
 Model=trd21_2wsw_1
@@ -13408,7 +13408,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE477]
 Model=trd21_2ww2_1
@@ -13436,7 +13436,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE478]
 Model=trd21_2ww3_1
@@ -13464,7 +13464,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE479]
 Model=trd21_2ww4_1
@@ -13492,7 +13492,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE480]
 Model=trd21_2wws_1
@@ -13520,7 +13520,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE481]
 Model=trd21_2www_1
@@ -13548,7 +13548,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE482]
 Model=trd21_333s_1
@@ -13576,7 +13576,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE483]
 Model=trd21_333w_1
@@ -13604,7 +13604,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE484]
 Model=trd21_334s_1
@@ -13632,7 +13632,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE485]
 Model=trd21_334w_1
@@ -13660,7 +13660,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE486]
 Model=trd21_33s4_1
@@ -13688,7 +13688,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE487]
 Model=trd21_33ss_1
@@ -13716,7 +13716,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE488]
 Model=trd21_33sw_1
@@ -13744,7 +13744,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE489]
 Model=trd21_33w4_1
@@ -13772,7 +13772,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE490]
 Model=trd21_33ws_1
@@ -13800,7 +13800,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE491]
 Model=trd21_33ww_1
@@ -13828,7 +13828,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE492]
 Model=trd21_344s_1
@@ -13856,7 +13856,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE493]
 Model=trd21_344w_1
@@ -13884,7 +13884,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE494]
 Model=trd21_34s3_1
@@ -13912,7 +13912,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE495]
 Model=trd21_34s4_1
@@ -13940,7 +13940,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE496]
 Model=trd21_34ss_1
@@ -13968,7 +13968,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE497]
 Model=trd21_34sw_1
@@ -13996,7 +13996,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE498]
 Model=trd21_34w3_1
@@ -14024,7 +14024,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE499]
 Model=trd21_34w4_1
@@ -14052,7 +14052,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE500]
 Model=trd21_34ws_1
@@ -14080,7 +14080,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE501]
 Model=trd21_34ww_1
@@ -14108,7 +14108,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE502]
 Model=trd21_3s44_1
@@ -14136,7 +14136,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE503]
 Model=trd21_3s4s_1
@@ -14164,7 +14164,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE504]
 Model=trd21_3s4w_1
@@ -14192,7 +14192,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE505]
 Model=trd21_3ss3_1
@@ -14220,7 +14220,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE506]
 Model=trd21_3ss4_1
@@ -14248,7 +14248,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE507]
 Model=trd21_3sss_1
@@ -14276,7 +14276,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE508]
 Model=trd21_3ssw_1
@@ -14304,7 +14304,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE509]
 Model=trd21_3sw3_1
@@ -14332,7 +14332,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE510]
 Model=trd21_3sw4_1
@@ -14360,7 +14360,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE511]
 Model=trd21_3sws_1
@@ -14388,7 +14388,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE512]
 Model=trd21_3sww_1
@@ -14416,7 +14416,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE513]
 Model=trd21_3w44_1
@@ -14444,7 +14444,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE514]
 Model=trd21_3w4s_1
@@ -14472,7 +14472,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE515]
 Model=trd21_3w4w_1
@@ -14500,7 +14500,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE516]
 Model=trd21_3ws4_1
@@ -14528,7 +14528,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE517]
 Model=trd21_3wss_1
@@ -14556,7 +14556,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE518]
 Model=trd21_3wsw_1
@@ -14584,7 +14584,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE519]
 Model=trd21_3ww3_1
@@ -14612,7 +14612,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE520]
 Model=trd21_3ww4_1
@@ -14640,7 +14640,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE521]
 Model=trd21_3wws_1
@@ -14668,7 +14668,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE522]
 Model=trd21_3www_1
@@ -14696,7 +14696,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE523]
 Model=trd21_444s_1
@@ -14724,7 +14724,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE524]
 Model=trd21_444w_1
@@ -14752,7 +14752,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE525]
 Model=trd21_44ss_1
@@ -14780,7 +14780,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE526]
 Model=trd21_44sw_1
@@ -14808,7 +14808,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE527]
 Model=trd21_44ws_1
@@ -14836,7 +14836,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE528]
 Model=trd21_44ww_1
@@ -14864,7 +14864,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE529]
 Model=trd21_4ss4_1
@@ -14892,7 +14892,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE530]
 Model=trd21_4sss_1
@@ -14920,7 +14920,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE531]
 Model=trd21_4ssw_1
@@ -14948,7 +14948,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE532]
 Model=trd21_4sw4_1
@@ -14976,7 +14976,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE533]
 Model=trd21_4sws_1
@@ -15004,7 +15004,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE534]
 Model=trd21_4sww_1
@@ -15032,7 +15032,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE535]
 Model=trd21_4wss_1
@@ -15060,7 +15060,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE536]
 Model=trd21_4wsw_1
@@ -15088,7 +15088,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE537]
 Model=trd21_4ww4_1
@@ -15116,7 +15116,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE538]
 Model=trd21_4wws_1
@@ -15144,7 +15144,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE539]
 Model=trd21_4www_1
@@ -15172,7 +15172,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE540]
 Model=trd21_ssss_1
@@ -15200,7 +15200,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE541]
 Model=trd21_sssw_1
@@ -15228,7 +15228,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE542]
 Model=trd21_ssww_1
@@ -15256,7 +15256,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE543]
 Model=trd21_swws_1
@@ -15284,7 +15284,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE544]
 Model=trd21_swww_1
@@ -15312,7 +15312,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE545]
 Model=trd21_wwww_1
@@ -15340,7 +15340,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE546]
 Model=trd21_0000_2
@@ -15368,7 +15368,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE547]
 Model=trd21_0001_2
@@ -15396,7 +15396,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE548]
 Model=trd21_0002_2
@@ -15424,7 +15424,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE549]
 Model=trd21_0003_2
@@ -15452,7 +15452,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE550]
 Model=trd21_0004_2
@@ -15480,7 +15480,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE551]
 Model=trd21_000s_2
@@ -15508,7 +15508,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE552]
 Model=trd21_000w_2
@@ -15536,7 +15536,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE553]
 Model=trd21_0011_2
@@ -15564,7 +15564,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE554]
 Model=trd21_0012_2
@@ -15592,7 +15592,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE555]
 Model=trd21_0013_2
@@ -15620,7 +15620,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE556]
 Model=trd21_0014_2
@@ -15648,7 +15648,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE557]
 Model=trd21_001s_2
@@ -15676,7 +15676,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE558]
 Model=trd21_001w_2
@@ -15704,7 +15704,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE559]
 Model=trd21_0021_2
@@ -15732,7 +15732,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE560]
 Model=trd21_0022_2
@@ -15760,7 +15760,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE561]
 Model=trd21_0023_2
@@ -15788,7 +15788,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE562]
 Model=trd21_0024_2
@@ -15816,7 +15816,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE563]
 Model=trd21_002s_2
@@ -15844,7 +15844,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE564]
 Model=trd21_002w_2
@@ -15872,7 +15872,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE565]
 Model=trd21_0031_2
@@ -15900,7 +15900,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE566]
 Model=trd21_0032_2
@@ -15928,7 +15928,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE567]
 Model=trd21_0033_2
@@ -15956,7 +15956,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE568]
 Model=trd21_0034_2
@@ -15984,7 +15984,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE569]
 Model=trd21_003s_2
@@ -16012,7 +16012,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE570]
 Model=trd21_003w_2
@@ -16040,7 +16040,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE571]
 Model=trd21_0041_2
@@ -16068,7 +16068,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE572]
 Model=trd21_0042_2
@@ -16096,7 +16096,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE573]
 Model=trd21_0043_2
@@ -16124,7 +16124,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE574]
 Model=trd21_0044_2
@@ -16152,7 +16152,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE575]
 Model=trd21_004s_2
@@ -16180,7 +16180,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE576]
 Model=trd21_004w_2
@@ -16208,7 +16208,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE577]
 Model=trd21_00s1_2
@@ -16236,7 +16236,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE578]
 Model=trd21_00s2_2
@@ -16264,7 +16264,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE579]
 Model=trd21_00s3_2
@@ -16292,7 +16292,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE580]
 Model=trd21_00s4_2
@@ -16320,7 +16320,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE581]
 Model=trd21_00ss_2
@@ -16348,7 +16348,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE582]
 Model=trd21_00sw_2
@@ -16376,7 +16376,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE583]
 Model=trd21_00w1_2
@@ -16404,7 +16404,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE584]
 Model=trd21_00w2_2
@@ -16432,7 +16432,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE585]
 Model=trd21_00w3_2
@@ -16460,7 +16460,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE586]
 Model=trd21_00w4_2
@@ -16488,7 +16488,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE587]
 Model=trd21_00ws_2
@@ -16516,7 +16516,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE588]
 Model=trd21_00ww_2
@@ -16544,7 +16544,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE589]
 Model=trd21_0110_2
@@ -16572,7 +16572,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE590]
 Model=trd21_0111_2
@@ -16600,7 +16600,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE591]
 Model=trd21_0112_2
@@ -16628,7 +16628,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE592]
 Model=trd21_0113_2
@@ -16656,7 +16656,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE593]
 Model=trd21_0114_2
@@ -16684,7 +16684,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE594]
 Model=trd21_011s_2
@@ -16712,7 +16712,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE595]
 Model=trd21_011w_2
@@ -16740,7 +16740,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE596]
 Model=trd21_0120_2
@@ -16768,7 +16768,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE597]
 Model=trd21_0121_2
@@ -16796,7 +16796,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE598]
 Model=trd21_0122_2
@@ -16824,7 +16824,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE599]
 Model=trd21_0123_2
@@ -16852,7 +16852,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE600]
 Model=trd21_0124_2
@@ -16880,7 +16880,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE601]
 Model=trd21_012s_2
@@ -16908,7 +16908,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE602]
 Model=trd21_012w_2
@@ -16936,7 +16936,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE603]
 Model=trd21_0130_2
@@ -16964,7 +16964,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE604]
 Model=trd21_0131_2
@@ -16992,7 +16992,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE605]
 Model=trd21_0132_2
@@ -17020,7 +17020,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE606]
 Model=trd21_0133_2
@@ -17048,7 +17048,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE607]
 Model=trd21_0134_2
@@ -17076,7 +17076,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE608]
 Model=trd21_013s_2
@@ -17104,7 +17104,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE609]
 Model=trd21_013w_2
@@ -17132,7 +17132,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE610]
 Model=trd21_0140_2
@@ -17160,7 +17160,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE611]
 Model=trd21_0141_2
@@ -17188,7 +17188,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE612]
 Model=trd21_0142_2
@@ -17216,7 +17216,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE613]
 Model=trd21_0143_2
@@ -17244,7 +17244,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE614]
 Model=trd21_0144_2
@@ -17272,7 +17272,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE615]
 Model=trd21_014s_2
@@ -17300,7 +17300,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE616]
 Model=trd21_014w_2
@@ -17328,7 +17328,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE617]
 Model=trd21_01s0_2
@@ -17356,7 +17356,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE618]
 Model=trd21_01s1_2
@@ -17384,7 +17384,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE619]
 Model=trd21_01s2_2
@@ -17412,7 +17412,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE620]
 Model=trd21_01s3_2
@@ -17440,7 +17440,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE621]
 Model=trd21_01s4_2
@@ -17468,7 +17468,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE622]
 Model=trd21_01ss_2
@@ -17496,7 +17496,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE623]
 Model=trd21_01sw_2
@@ -17524,7 +17524,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE624]
 Model=trd21_01w0_2
@@ -17552,7 +17552,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE625]
 Model=trd21_01w1_2
@@ -17580,7 +17580,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE626]
 Model=trd21_01w2_2
@@ -17608,7 +17608,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE627]
 Model=trd21_01w3_2
@@ -17636,7 +17636,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE628]
 Model=trd21_01w4_2
@@ -17664,7 +17664,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE629]
 Model=trd21_01ws_2
@@ -17692,7 +17692,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE630]
 Model=trd21_01ww_2
@@ -17720,7 +17720,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE631]
 Model=trd21_0211_2
@@ -17748,7 +17748,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE632]
 Model=trd21_0212_2
@@ -17776,7 +17776,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE633]
 Model=trd21_0213_2
@@ -17804,7 +17804,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE634]
 Model=trd21_0214_2
@@ -17832,7 +17832,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE635]
 Model=trd21_021s_2
@@ -17860,7 +17860,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE636]
 Model=trd21_021w_2
@@ -17888,7 +17888,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE637]
 Model=trd21_0220_2
@@ -17916,7 +17916,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE638]
 Model=trd21_0221_2
@@ -17944,7 +17944,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE639]
 Model=trd21_0222_2
@@ -17972,7 +17972,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE640]
 Model=trd21_0223_2
@@ -18000,7 +18000,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE641]
 Model=trd21_0224_2
@@ -18028,7 +18028,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE642]
 Model=trd21_022s_2
@@ -18056,7 +18056,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE643]
 Model=trd21_022w_2
@@ -18084,7 +18084,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE644]
 Model=trd21_0230_2
@@ -18112,7 +18112,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE645]
 Model=trd21_0231_2
@@ -18140,7 +18140,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE646]
 Model=trd21_0232_2
@@ -18168,7 +18168,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE647]
 Model=trd21_0233_2
@@ -18196,7 +18196,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE648]
 Model=trd21_0234_2
@@ -18224,7 +18224,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE649]
 Model=trd21_023s_2
@@ -18252,7 +18252,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE650]
 Model=trd21_023w_2
@@ -18280,7 +18280,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE651]
 Model=trd21_0240_2
@@ -18308,7 +18308,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE652]
 Model=trd21_0241_2
@@ -18336,7 +18336,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE653]
 Model=trd21_0242_2
@@ -18364,7 +18364,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE654]
 Model=trd21_0243_2
@@ -18392,7 +18392,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE655]
 Model=trd21_0244_2
@@ -18420,7 +18420,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE656]
 Model=trd21_024s_2
@@ -18448,7 +18448,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE657]
 Model=trd21_024w_2
@@ -18476,7 +18476,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE658]
 Model=trd21_02s0_2
@@ -18504,7 +18504,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE659]
 Model=trd21_02s1_2
@@ -18532,7 +18532,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE660]
 Model=trd21_02s2_2
@@ -18560,7 +18560,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE661]
 Model=trd21_02s3_2
@@ -18588,7 +18588,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE662]
 Model=trd21_02s4_2
@@ -18616,7 +18616,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE663]
 Model=trd21_02ss_2
@@ -18644,7 +18644,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE664]
 Model=trd21_02sw_2
@@ -18672,7 +18672,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE665]
 Model=trd21_02w0_2
@@ -18700,7 +18700,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE666]
 Model=trd21_02w1_2
@@ -18728,7 +18728,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE667]
 Model=trd21_02w2_2
@@ -18756,7 +18756,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE668]
 Model=trd21_02w3_2
@@ -18784,7 +18784,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE669]
 Model=trd21_02w4_2
@@ -18812,7 +18812,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE670]
 Model=trd21_02ws_2
@@ -18840,7 +18840,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE671]
 Model=trd21_02ww_2
@@ -18868,7 +18868,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE672]
 Model=trd21_0311_2
@@ -18896,7 +18896,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE673]
 Model=trd21_0312_2
@@ -18924,7 +18924,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE674]
 Model=trd21_0313_2
@@ -18952,7 +18952,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE675]
 Model=trd21_0314_2
@@ -18980,7 +18980,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE676]
 Model=trd21_031s_2
@@ -19008,7 +19008,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE677]
 Model=trd21_031w_2
@@ -19036,7 +19036,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE678]
 Model=trd21_0321_2
@@ -19064,7 +19064,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE679]
 Model=trd21_0322_2
@@ -19092,7 +19092,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE680]
 Model=trd21_0323_2
@@ -19120,7 +19120,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE681]
 Model=trd21_0324_2
@@ -19148,7 +19148,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE682]
 Model=trd21_032s_2
@@ -19176,7 +19176,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE683]
 Model=trd21_032w_2
@@ -19204,7 +19204,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE684]
 Model=trd21_0330_2
@@ -19232,7 +19232,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE685]
 Model=trd21_0331_2
@@ -19260,7 +19260,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE686]
 Model=trd21_0332_2
@@ -19288,7 +19288,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE687]
 Model=trd21_0333_2
@@ -19316,7 +19316,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE688]
 Model=trd21_0334_2
@@ -19344,7 +19344,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE689]
 Model=trd21_033s_2
@@ -19372,7 +19372,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE690]
 Model=trd21_033w_2
@@ -19400,7 +19400,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE691]
 Model=trd21_0340_2
@@ -19428,7 +19428,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE692]
 Model=trd21_0341_2
@@ -19456,7 +19456,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE693]
 Model=trd21_0342_2
@@ -19484,7 +19484,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE694]
 Model=trd21_0343_2
@@ -19512,7 +19512,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE695]
 Model=trd21_0344_2
@@ -19540,7 +19540,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE696]
 Model=trd21_034s_2
@@ -19568,7 +19568,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE697]
 Model=trd21_034w_2
@@ -19596,7 +19596,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE698]
 Model=trd21_03s0_2
@@ -19624,7 +19624,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE699]
 Model=trd21_03s1_2
@@ -19652,7 +19652,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE700]
 Model=trd21_03s2_2
@@ -19680,7 +19680,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE701]
 Model=trd21_03s3_2
@@ -19708,7 +19708,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE702]
 Model=trd21_03s4_2
@@ -19736,7 +19736,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE703]
 Model=trd21_03ss_2
@@ -19764,7 +19764,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE704]
 Model=trd21_03sw_2
@@ -19792,7 +19792,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE705]
 Model=trd21_03w0_2
@@ -19820,7 +19820,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE706]
 Model=trd21_03w1_2
@@ -19848,7 +19848,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE707]
 Model=trd21_03w2_2
@@ -19876,7 +19876,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE708]
 Model=trd21_03w3_2
@@ -19904,7 +19904,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE709]
 Model=trd21_03w4_2
@@ -19932,7 +19932,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE710]
 Model=trd21_03ws_2
@@ -19960,7 +19960,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE711]
 Model=trd21_03ww_2
@@ -19988,7 +19988,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE712]
 Model=trd21_0411_2
@@ -20016,7 +20016,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE713]
 Model=trd21_0412_2
@@ -20044,7 +20044,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE714]
 Model=trd21_0413_2
@@ -20072,7 +20072,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE715]
 Model=trd21_0414_2
@@ -20100,7 +20100,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE716]
 Model=trd21_041s_2
@@ -20128,7 +20128,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE717]
 Model=trd21_041w_2
@@ -20156,7 +20156,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE718]
 Model=trd21_0421_2
@@ -20184,7 +20184,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE719]
 Model=trd21_0422_2
@@ -20212,7 +20212,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE720]
 Model=trd21_0423_2
@@ -20240,7 +20240,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE721]
 Model=trd21_0424_2
@@ -20268,7 +20268,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE722]
 Model=trd21_042s_2
@@ -20296,7 +20296,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE723]
 Model=trd21_042w_2
@@ -20324,7 +20324,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE724]
 Model=trd21_0431_2
@@ -20352,7 +20352,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE725]
 Model=trd21_0432_2
@@ -20380,7 +20380,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE726]
 Model=trd21_0433_2
@@ -20408,7 +20408,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE727]
 Model=trd21_0434_2
@@ -20436,7 +20436,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE728]
 Model=trd21_043s_2
@@ -20464,7 +20464,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE729]
 Model=trd21_043w_2
@@ -20492,7 +20492,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE730]
 Model=trd21_0440_2
@@ -20520,7 +20520,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE731]
 Model=trd21_0441_2
@@ -20548,7 +20548,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE732]
 Model=trd21_0442_2
@@ -20576,7 +20576,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE733]
 Model=trd21_0443_2
@@ -20604,7 +20604,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE734]
 Model=trd21_0444_2
@@ -20632,7 +20632,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE735]
 Model=trd21_044s_2
@@ -20660,7 +20660,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE736]
 Model=trd21_044w_2
@@ -20688,7 +20688,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE737]
 Model=trd21_04s0_2
@@ -20716,7 +20716,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE738]
 Model=trd21_04s1_2
@@ -20744,7 +20744,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE739]
 Model=trd21_04s2_2
@@ -20772,7 +20772,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE740]
 Model=trd21_04s3_2
@@ -20800,7 +20800,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE741]
 Model=trd21_04s4_2
@@ -20828,7 +20828,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE742]
 Model=trd21_04ss_2
@@ -20856,7 +20856,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE743]
 Model=trd21_04sw_2
@@ -20884,7 +20884,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE744]
 Model=trd21_04w0_2
@@ -20912,7 +20912,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE745]
 Model=trd21_04w1_2
@@ -20940,7 +20940,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE746]
 Model=trd21_04w2_2
@@ -20968,7 +20968,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE747]
 Model=trd21_04w3_2
@@ -20996,7 +20996,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE748]
 Model=trd21_04w4_2
@@ -21024,7 +21024,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE749]
 Model=trd21_04ws_2
@@ -21052,7 +21052,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE750]
 Model=trd21_04ww_2
@@ -21080,7 +21080,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE751]
 Model=trd21_0s11_2
@@ -21108,7 +21108,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE752]
 Model=trd21_0s12_2
@@ -21136,7 +21136,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE753]
 Model=trd21_0s13_2
@@ -21164,7 +21164,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE754]
 Model=trd21_0s14_2
@@ -21192,7 +21192,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE755]
 Model=trd21_0s1s_2
@@ -21220,7 +21220,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE756]
 Model=trd21_0s1w_2
@@ -21248,7 +21248,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE757]
 Model=trd21_0s21_2
@@ -21276,7 +21276,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE758]
 Model=trd21_0s22_2
@@ -21304,7 +21304,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE759]
 Model=trd21_0s23_2
@@ -21332,7 +21332,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE760]
 Model=trd21_0s24_2
@@ -21360,7 +21360,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE761]
 Model=trd21_0s2s_2
@@ -21388,7 +21388,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE762]
 Model=trd21_0s2w_2
@@ -21416,7 +21416,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE763]
 Model=trd21_0s31_2
@@ -21444,7 +21444,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE764]
 Model=trd21_0s32_2
@@ -21472,7 +21472,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE765]
 Model=trd21_0s33_2
@@ -21500,7 +21500,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE766]
 Model=trd21_0s34_2
@@ -21528,7 +21528,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE767]
 Model=trd21_0s3s_2
@@ -21556,7 +21556,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE768]
 Model=trd21_0s3w_2
@@ -21584,7 +21584,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE769]
 Model=trd21_0s41_2
@@ -21612,7 +21612,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE770]
 Model=trd21_0s42_2
@@ -21640,7 +21640,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE771]
 Model=trd21_0s43_2
@@ -21668,7 +21668,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE772]
 Model=trd21_0s44_2
@@ -21696,7 +21696,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE773]
 Model=trd21_0s4s_2
@@ -21724,7 +21724,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE774]
 Model=trd21_0s4w_2
@@ -21752,7 +21752,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE775]
 Model=trd21_0ss0_2
@@ -21780,7 +21780,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE776]
 Model=trd21_0ss1_2
@@ -21808,7 +21808,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE777]
 Model=trd21_0ss2_2
@@ -21836,7 +21836,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE778]
 Model=trd21_0ss3_2
@@ -21864,7 +21864,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE779]
 Model=trd21_0ss4_2
@@ -21892,7 +21892,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE780]
 Model=trd21_0sss_2
@@ -21920,7 +21920,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE781]
 Model=trd21_0ssw_2
@@ -21948,7 +21948,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE782]
 Model=trd21_0sw0_2
@@ -21976,7 +21976,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE783]
 Model=trd21_0sw1_2
@@ -22004,7 +22004,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE784]
 Model=trd21_0sw2_2
@@ -22032,7 +22032,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE785]
 Model=trd21_0sw3_2
@@ -22060,7 +22060,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE786]
 Model=trd21_0sw4_2
@@ -22088,7 +22088,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE787]
 Model=trd21_0sws_2
@@ -22116,7 +22116,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE788]
 Model=trd21_0sww_2
@@ -22144,7 +22144,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE789]
 Model=trd21_0w11_2
@@ -22172,7 +22172,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE790]
 Model=trd21_0w12_2
@@ -22200,7 +22200,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE791]
 Model=trd21_0w13_2
@@ -22228,7 +22228,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE792]
 Model=trd21_0w14_2
@@ -22256,7 +22256,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE793]
 Model=trd21_0w1s_2
@@ -22284,7 +22284,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE794]
 Model=trd21_0w1w_2
@@ -22312,7 +22312,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE795]
 Model=trd21_0w21_2
@@ -22340,7 +22340,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE796]
 Model=trd21_0w22_2
@@ -22368,7 +22368,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE797]
 Model=trd21_0w23_2
@@ -22396,7 +22396,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE798]
 Model=trd21_0w24_2
@@ -22424,7 +22424,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE799]
 Model=trd21_0w2s_2
@@ -22452,7 +22452,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE800]
 Model=trd21_0w2w_2
@@ -22480,7 +22480,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE801]
 Model=trd21_0w31_2
@@ -22508,7 +22508,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE802]
 Model=trd21_0w32_2
@@ -22536,7 +22536,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE803]
 Model=trd21_0w33_2
@@ -22564,7 +22564,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE804]
 Model=trd21_0w34_2
@@ -22592,7 +22592,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE805]
 Model=trd21_0w3s_2
@@ -22620,7 +22620,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE806]
 Model=trd21_0w3w_2
@@ -22648,7 +22648,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE807]
 Model=trd21_0w41_2
@@ -22676,7 +22676,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE808]
 Model=trd21_0w42_2
@@ -22704,7 +22704,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE809]
 Model=trd21_0w43_2
@@ -22732,7 +22732,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE810]
 Model=trd21_0w44_2
@@ -22760,7 +22760,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE811]
 Model=trd21_0w4s_2
@@ -22788,7 +22788,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE812]
 Model=trd21_0w4w_2
@@ -22816,7 +22816,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE813]
 Model=trd21_0ws1_2
@@ -22844,7 +22844,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE814]
 Model=trd21_0ws2_2
@@ -22872,7 +22872,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE815]
 Model=trd21_0ws3_2
@@ -22900,7 +22900,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE816]
 Model=trd21_0ws4_2
@@ -22928,7 +22928,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE817]
 Model=trd21_0wss_2
@@ -22956,7 +22956,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE818]
 Model=trd21_0wsw_2
@@ -22984,7 +22984,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE819]
 Model=trd21_0ww0_2
@@ -23012,7 +23012,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE820]
 Model=trd21_0ww1_2
@@ -23040,7 +23040,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE821]
 Model=trd21_0ww2_2
@@ -23068,7 +23068,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE822]
 Model=trd21_0ww3_2
@@ -23096,7 +23096,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE823]
 Model=trd21_0ww4_2
@@ -23124,7 +23124,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE824]
 Model=trd21_0wws_2
@@ -23152,7 +23152,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE825]
 Model=trd21_0www_2
@@ -23180,7 +23180,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE826]
 Model=trd21_111s_2
@@ -23208,7 +23208,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE827]
 Model=trd21_111w_2
@@ -23236,7 +23236,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE828]
 Model=trd21_112s_2
@@ -23264,7 +23264,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE829]
 Model=trd21_112w_2
@@ -23292,7 +23292,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE830]
 Model=trd21_113s_2
@@ -23320,7 +23320,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE831]
 Model=trd21_113w_2
@@ -23348,7 +23348,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE832]
 Model=trd21_114s_2
@@ -23376,7 +23376,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE833]
 Model=trd21_114w_2
@@ -23404,7 +23404,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE834]
 Model=trd21_11s2_2
@@ -23432,7 +23432,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE835]
 Model=trd21_11s3_2
@@ -23460,7 +23460,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE836]
 Model=trd21_11s4_2
@@ -23488,7 +23488,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE837]
 Model=trd21_11ss_2
@@ -23516,7 +23516,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE838]
 Model=trd21_11sw_2
@@ -23544,7 +23544,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE839]
 Model=trd21_11w2_2
@@ -23572,7 +23572,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE840]
 Model=trd21_11w3_2
@@ -23600,7 +23600,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE841]
 Model=trd21_11w4_2
@@ -23628,7 +23628,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE842]
 Model=trd21_11ws_2
@@ -23656,7 +23656,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE843]
 Model=trd21_11ww_2
@@ -23684,7 +23684,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE844]
 Model=trd21_122s_2
@@ -23712,7 +23712,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE845]
 Model=trd21_122w_2
@@ -23740,7 +23740,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE846]
 Model=trd21_123s_2
@@ -23768,7 +23768,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE847]
 Model=trd21_123w_2
@@ -23796,7 +23796,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE848]
 Model=trd21_124s_2
@@ -23824,7 +23824,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE849]
 Model=trd21_124w_2
@@ -23852,7 +23852,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE850]
 Model=trd21_12s1_2
@@ -23880,7 +23880,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE851]
 Model=trd21_12s2_2
@@ -23908,7 +23908,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE852]
 Model=trd21_12s3_2
@@ -23936,7 +23936,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE853]
 Model=trd21_12s4_2
@@ -23964,7 +23964,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE854]
 Model=trd21_12ss_2
@@ -23992,7 +23992,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE855]
 Model=trd21_12sw_2
@@ -24020,7 +24020,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE856]
 Model=trd21_12w1_2
@@ -24048,7 +24048,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE857]
 Model=trd21_12w2_2
@@ -24076,7 +24076,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE858]
 Model=trd21_12w3_2
@@ -24104,7 +24104,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE859]
 Model=trd21_12w4_2
@@ -24132,7 +24132,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE860]
 Model=trd21_12ws_2
@@ -24160,7 +24160,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE861]
 Model=trd21_12ww_2
@@ -24188,7 +24188,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE862]
 Model=trd21_132s_2
@@ -24216,7 +24216,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE863]
 Model=trd21_132w_2
@@ -24244,7 +24244,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE864]
 Model=trd21_133s_2
@@ -24272,7 +24272,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE865]
 Model=trd21_133w_2
@@ -24300,7 +24300,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE866]
 Model=trd21_134s_2
@@ -24328,7 +24328,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE867]
 Model=trd21_134w_2
@@ -24356,7 +24356,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE868]
 Model=trd21_13s1_2
@@ -24384,7 +24384,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE869]
 Model=trd21_13s2_2
@@ -24412,7 +24412,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE870]
 Model=trd21_13s3_2
@@ -24440,7 +24440,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE871]
 Model=trd21_13s4_2
@@ -24468,7 +24468,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE872]
 Model=trd21_13ss_2
@@ -24496,7 +24496,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE873]
 Model=trd21_13sw_2
@@ -24524,7 +24524,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE874]
 Model=trd21_13w1_2
@@ -24552,7 +24552,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE875]
 Model=trd21_13w2_2
@@ -24580,7 +24580,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE876]
 Model=trd21_13w3_2
@@ -24608,7 +24608,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE877]
 Model=trd21_13w4_2
@@ -24636,7 +24636,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE878]
 Model=trd21_13ws_2
@@ -24664,7 +24664,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE879]
 Model=trd21_13ww_2
@@ -24692,7 +24692,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE880]
 Model=trd21_142s_2
@@ -24720,7 +24720,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE881]
 Model=trd21_142w_2
@@ -24748,7 +24748,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE882]
 Model=trd21_143s_2
@@ -24776,7 +24776,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE883]
 Model=trd21_143w_2
@@ -24804,7 +24804,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE884]
 Model=trd21_144s_2
@@ -24832,7 +24832,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE885]
 Model=trd21_144w_2
@@ -24860,7 +24860,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE886]
 Model=trd21_14s1_2
@@ -24888,7 +24888,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE887]
 Model=trd21_14s2_2
@@ -24916,7 +24916,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE888]
 Model=trd21_14s3_2
@@ -24944,7 +24944,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE889]
 Model=trd21_14s4_2
@@ -24972,7 +24972,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE890]
 Model=trd21_14ss_2
@@ -25000,7 +25000,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE891]
 Model=trd21_14sw_2
@@ -25028,7 +25028,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE892]
 Model=trd21_14w1_2
@@ -25056,7 +25056,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE893]
 Model=trd21_14w2_2
@@ -25084,7 +25084,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE894]
 Model=trd21_14w3_2
@@ -25112,7 +25112,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE895]
 Model=trd21_14w4_2
@@ -25140,7 +25140,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE896]
 Model=trd21_14ws_2
@@ -25168,7 +25168,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE897]
 Model=trd21_14ww_2
@@ -25196,7 +25196,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE898]
 Model=trd21_1s22_2
@@ -25224,7 +25224,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE899]
 Model=trd21_1s23_2
@@ -25252,7 +25252,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE900]
 Model=trd21_1s24_2
@@ -25280,7 +25280,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE901]
 Model=trd21_1s2s_2
@@ -25308,7 +25308,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE902]
 Model=trd21_1s2w_2
@@ -25336,7 +25336,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE903]
 Model=trd21_1s32_2
@@ -25364,7 +25364,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE904]
 Model=trd21_1s33_2
@@ -25392,7 +25392,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE905]
 Model=trd21_1s34_2
@@ -25420,7 +25420,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE906]
 Model=trd21_1s3s_2
@@ -25448,7 +25448,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE907]
 Model=trd21_1s3w_2
@@ -25476,7 +25476,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE908]
 Model=trd21_1s42_2
@@ -25504,7 +25504,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE909]
 Model=trd21_1s43_2
@@ -25532,7 +25532,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE910]
 Model=trd21_1s44_2
@@ -25560,7 +25560,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE911]
 Model=trd21_1s4s_2
@@ -25588,7 +25588,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE912]
 Model=trd21_1s4w_2
@@ -25616,7 +25616,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE913]
 Model=trd21_1ss1_2
@@ -25644,7 +25644,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE914]
 Model=trd21_1ss2_2
@@ -25672,7 +25672,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE915]
 Model=trd21_1ss3_2
@@ -25700,7 +25700,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE916]
 Model=trd21_1ss4_2
@@ -25728,7 +25728,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE917]
 Model=trd21_1sss_2
@@ -25756,7 +25756,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE918]
 Model=trd21_1ssw_2
@@ -25784,7 +25784,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE919]
 Model=trd21_1sw1_2
@@ -25812,7 +25812,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE920]
 Model=trd21_1sw2_2
@@ -25840,7 +25840,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE921]
 Model=trd21_1sw3_2
@@ -25868,7 +25868,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE922]
 Model=trd21_1sw4_2
@@ -25896,7 +25896,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE923]
 Model=trd21_1sws_2
@@ -25924,7 +25924,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE924]
 Model=trd21_1sww_2
@@ -25952,7 +25952,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE925]
 Model=trd21_1w22_2
@@ -25980,7 +25980,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE926]
 Model=trd21_1w23_2
@@ -26008,7 +26008,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE927]
 Model=trd21_1w24_2
@@ -26036,7 +26036,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE928]
 Model=trd21_1w2s_2
@@ -26064,7 +26064,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE929]
 Model=trd21_1w2w_2
@@ -26092,7 +26092,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE930]
 Model=trd21_1w32_2
@@ -26120,7 +26120,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE931]
 Model=trd21_1w33_2
@@ -26148,7 +26148,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE932]
 Model=trd21_1w34_2
@@ -26176,7 +26176,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE933]
 Model=trd21_1w3s_2
@@ -26204,7 +26204,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE934]
 Model=trd21_1w3w_2
@@ -26232,7 +26232,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE935]
 Model=trd21_1w42_2
@@ -26260,7 +26260,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE936]
 Model=trd21_1w43_2
@@ -26288,7 +26288,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE937]
 Model=trd21_1w44_2
@@ -26316,7 +26316,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE938]
 Model=trd21_1w4s_2
@@ -26344,7 +26344,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE939]
 Model=trd21_1w4w_2
@@ -26372,7 +26372,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE940]
 Model=trd21_1ws2_2
@@ -26400,7 +26400,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE941]
 Model=trd21_1ws3_2
@@ -26428,7 +26428,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE942]
 Model=trd21_1ws4_2
@@ -26456,7 +26456,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE943]
 Model=trd21_1wss_2
@@ -26484,7 +26484,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE944]
 Model=trd21_1wsw_2
@@ -26512,7 +26512,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE945]
 Model=trd21_1ww1_2
@@ -26540,7 +26540,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE946]
 Model=trd21_1ww2_2
@@ -26568,7 +26568,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE947]
 Model=trd21_1ww3_2
@@ -26596,7 +26596,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE948]
 Model=trd21_1ww4_2
@@ -26624,7 +26624,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE949]
 Model=trd21_1wws_2
@@ -26652,7 +26652,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE950]
 Model=trd21_1www_2
@@ -26680,7 +26680,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE951]
 Model=trd21_222s_2
@@ -26708,7 +26708,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE952]
 Model=trd21_222w_2
@@ -26736,7 +26736,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE953]
 Model=trd21_223s_2
@@ -26764,7 +26764,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE954]
 Model=trd21_223w_2
@@ -26792,7 +26792,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE955]
 Model=trd21_224s_2
@@ -26820,7 +26820,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE956]
 Model=trd21_224w_2
@@ -26848,7 +26848,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE957]
 Model=trd21_22s3_2
@@ -26876,7 +26876,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE958]
 Model=trd21_22s4_2
@@ -26904,7 +26904,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE959]
 Model=trd21_22ss_2
@@ -26932,7 +26932,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE960]
 Model=trd21_22sw_2
@@ -26960,7 +26960,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE961]
 Model=trd21_22w3_2
@@ -26988,7 +26988,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE962]
 Model=trd21_22w4_2
@@ -27016,7 +27016,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE963]
 Model=trd21_22ws_2
@@ -27044,7 +27044,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE964]
 Model=trd21_22ww_2
@@ -27072,7 +27072,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE965]
 Model=trd21_233s_2
@@ -27100,7 +27100,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE966]
 Model=trd21_233w_2
@@ -27128,7 +27128,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE967]
 Model=trd21_234s_2
@@ -27156,7 +27156,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE968]
 Model=trd21_234w_2
@@ -27184,7 +27184,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE969]
 Model=trd21_23s2_2
@@ -27212,7 +27212,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE970]
 Model=trd21_23s3_2
@@ -27240,7 +27240,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE971]
 Model=trd21_23s4_2
@@ -27268,7 +27268,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE972]
 Model=trd21_23ss_2
@@ -27296,7 +27296,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE973]
 Model=trd21_23sw_2
@@ -27324,7 +27324,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE974]
 Model=trd21_23w2_2
@@ -27352,7 +27352,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE975]
 Model=trd21_23w3_2
@@ -27380,7 +27380,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE976]
 Model=trd21_23w4_2
@@ -27408,7 +27408,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE977]
 Model=trd21_23ws_2
@@ -27436,7 +27436,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE978]
 Model=trd21_23ww_2
@@ -27464,7 +27464,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE979]
 Model=trd21_243s_2
@@ -27492,7 +27492,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE980]
 Model=trd21_243w_2
@@ -27520,7 +27520,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE981]
 Model=trd21_244s_2
@@ -27548,7 +27548,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE982]
 Model=trd21_244w_2
@@ -27576,7 +27576,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE983]
 Model=trd21_24s2_2
@@ -27604,7 +27604,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE984]
 Model=trd21_24s3_2
@@ -27632,7 +27632,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE985]
 Model=trd21_24s4_2
@@ -27660,7 +27660,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE986]
 Model=trd21_24ss_2
@@ -27688,7 +27688,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE987]
 Model=trd21_24sw_2
@@ -27716,7 +27716,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE988]
 Model=trd21_24w2_2
@@ -27744,7 +27744,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE989]
 Model=trd21_24w3_2
@@ -27772,7 +27772,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE990]
 Model=trd21_24w4_2
@@ -27800,7 +27800,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE991]
 Model=trd21_24ws_2
@@ -27828,7 +27828,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE992]
 Model=trd21_24ww_2
@@ -27856,7 +27856,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE993]
 Model=trd21_2s33_2
@@ -27884,7 +27884,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE994]
 Model=trd21_2s34_2
@@ -27912,7 +27912,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE995]
 Model=trd21_2s3s_2
@@ -27940,7 +27940,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE996]
 Model=trd21_2s3w_2
@@ -27968,7 +27968,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE997]
 Model=trd21_2s43_2
@@ -27996,7 +27996,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE998]
 Model=trd21_2s44_2
@@ -28024,7 +28024,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE999]
 Model=trd21_2s4s_2
@@ -28052,7 +28052,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1000]
 Model=trd21_2s4w_2
@@ -28080,7 +28080,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1001]
 Model=trd21_2ss2_2
@@ -28108,7 +28108,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1002]
 Model=trd21_2ss3_2
@@ -28136,7 +28136,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1003]
 Model=trd21_2ss4_2
@@ -28164,7 +28164,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1004]
 Model=trd21_2sss_2
@@ -28192,7 +28192,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1005]
 Model=trd21_2ssw_2
@@ -28220,7 +28220,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1006]
 Model=trd21_2sw2_2
@@ -28248,7 +28248,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1007]
 Model=trd21_2sw3_2
@@ -28276,7 +28276,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1008]
 Model=trd21_2sw4_2
@@ -28304,7 +28304,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1009]
 Model=trd21_2sws_2
@@ -28332,7 +28332,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1010]
 Model=trd21_2sww_2
@@ -28360,7 +28360,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1011]
 Model=trd21_2w33_2
@@ -28388,7 +28388,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1012]
 Model=trd21_2w34_2
@@ -28416,7 +28416,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1013]
 Model=trd21_2w3s_2
@@ -28444,7 +28444,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1014]
 Model=trd21_2w3w_2
@@ -28472,7 +28472,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1015]
 Model=trd21_2w43_2
@@ -28500,7 +28500,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1016]
 Model=trd21_2w44_2
@@ -28528,7 +28528,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1017]
 Model=trd21_2w4s_2
@@ -28556,7 +28556,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1018]
 Model=trd21_2w4w_2
@@ -28584,7 +28584,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1019]
 Model=trd21_2ws3_2
@@ -28612,7 +28612,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1020]
 Model=trd21_2ws4_2
@@ -28640,7 +28640,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1021]
 Model=trd21_2wss_2
@@ -28668,7 +28668,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1022]
 Model=trd21_2wsw_2
@@ -28696,7 +28696,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1023]
 Model=trd21_2ww2_2
@@ -28724,7 +28724,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1024]
 Model=trd21_2ww3_2
@@ -28752,7 +28752,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1025]
 Model=trd21_2ww4_2
@@ -28780,7 +28780,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1026]
 Model=trd21_2wws_2
@@ -28808,7 +28808,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1027]
 Model=trd21_2www_2
@@ -28836,7 +28836,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1028]
 Model=trd21_333s_2
@@ -28864,7 +28864,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1029]
 Model=trd21_333w_2
@@ -28892,7 +28892,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1030]
 Model=trd21_334s_2
@@ -28920,7 +28920,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1031]
 Model=trd21_334w_2
@@ -28948,7 +28948,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1032]
 Model=trd21_33s4_2
@@ -28976,7 +28976,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1033]
 Model=trd21_33ss_2
@@ -29004,7 +29004,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1034]
 Model=trd21_33sw_2
@@ -29032,7 +29032,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1035]
 Model=trd21_33w4_2
@@ -29060,7 +29060,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1036]
 Model=trd21_33ws_2
@@ -29088,7 +29088,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1037]
 Model=trd21_33ww_2
@@ -29116,7 +29116,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1038]
 Model=trd21_344s_2
@@ -29144,7 +29144,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1039]
 Model=trd21_344w_2
@@ -29172,7 +29172,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1040]
 Model=trd21_34s3_2
@@ -29200,7 +29200,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1041]
 Model=trd21_34s4_2
@@ -29228,7 +29228,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1042]
 Model=trd21_34ss_2
@@ -29256,7 +29256,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1043]
 Model=trd21_34sw_2
@@ -29284,7 +29284,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1044]
 Model=trd21_34w3_2
@@ -29312,7 +29312,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1045]
 Model=trd21_34w4_2
@@ -29340,7 +29340,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1046]
 Model=trd21_34ws_2
@@ -29368,7 +29368,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1047]
 Model=trd21_34ww_2
@@ -29396,7 +29396,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1048]
 Model=trd21_3s44_2
@@ -29424,7 +29424,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1049]
 Model=trd21_3s4s_2
@@ -29452,7 +29452,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1050]
 Model=trd21_3s4w_2
@@ -29480,7 +29480,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1051]
 Model=trd21_3ss3_2
@@ -29508,7 +29508,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1052]
 Model=trd21_3ss4_2
@@ -29536,7 +29536,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1053]
 Model=trd21_3sss_2
@@ -29564,7 +29564,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1054]
 Model=trd21_3ssw_2
@@ -29592,7 +29592,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1055]
 Model=trd21_3sw3_2
@@ -29620,7 +29620,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1056]
 Model=trd21_3sw4_2
@@ -29648,7 +29648,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1057]
 Model=trd21_3sws_2
@@ -29676,7 +29676,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1058]
 Model=trd21_3sww_2
@@ -29704,7 +29704,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1059]
 Model=trd21_3w44_2
@@ -29732,7 +29732,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1060]
 Model=trd21_3w4s_2
@@ -29760,7 +29760,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1061]
 Model=trd21_3w4w_2
@@ -29788,7 +29788,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1062]
 Model=trd21_3ws4_2
@@ -29816,7 +29816,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1063]
 Model=trd21_3wss_2
@@ -29844,7 +29844,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1064]
 Model=trd21_3wsw_2
@@ -29872,7 +29872,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1065]
 Model=trd21_3ww3_2
@@ -29900,7 +29900,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1066]
 Model=trd21_3ww4_2
@@ -29928,7 +29928,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1067]
 Model=trd21_3wws_2
@@ -29956,7 +29956,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1068]
 Model=trd21_3www_2
@@ -29984,7 +29984,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1069]
 Model=trd21_444s_2
@@ -30012,7 +30012,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1070]
 Model=trd21_444w_2
@@ -30040,7 +30040,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1071]
 Model=trd21_44ss_2
@@ -30068,7 +30068,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1072]
 Model=trd21_44sw_2
@@ -30096,7 +30096,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1073]
 Model=trd21_44ws_2
@@ -30124,7 +30124,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1074]
 Model=trd21_44ww_2
@@ -30152,7 +30152,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1075]
 Model=trd21_4ss4_2
@@ -30180,7 +30180,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1076]
 Model=trd21_4sss_2
@@ -30208,7 +30208,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1077]
 Model=trd21_4ssw_2
@@ -30236,7 +30236,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1078]
 Model=trd21_4sw4_2
@@ -30264,7 +30264,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1079]
 Model=trd21_4sws_2
@@ -30292,7 +30292,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1080]
 Model=trd21_4sww_2
@@ -30320,7 +30320,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1081]
 Model=trd21_4wss_2
@@ -30348,7 +30348,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1082]
 Model=trd21_4wsw_2
@@ -30376,7 +30376,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1083]
 Model=trd21_4ww4_2
@@ -30404,7 +30404,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1084]
 Model=trd21_4wws_2
@@ -30432,7 +30432,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1085]
 Model=trd21_4www_2
@@ -30460,7 +30460,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1086]
 Model=trd21_ssss_2
@@ -30488,7 +30488,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1087]
 Model=trd21_sssw_2
@@ -30516,7 +30516,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1088]
 Model=trd21_ssww_2
@@ -30544,7 +30544,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1089]
 Model=trd21_swws_2
@@ -30572,7 +30572,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1090]
 Model=trd21_swww_2
@@ -30600,7 +30600,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1091]
 Model=trd21_wwww_2
@@ -30628,7 +30628,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1092]
 Model=trd21_0000_3
@@ -30656,7 +30656,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1093]
 Model=trd21_0001_3
@@ -30684,7 +30684,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1094]
 Model=trd21_0002_3
@@ -30712,7 +30712,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1095]
 Model=trd21_0003_3
@@ -30740,7 +30740,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1096]
 Model=trd21_0004_3
@@ -30768,7 +30768,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1097]
 Model=trd21_000s_3
@@ -30796,7 +30796,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1098]
 Model=trd21_000w_3
@@ -30824,7 +30824,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1099]
 Model=trd21_0011_3
@@ -30852,7 +30852,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1100]
 Model=trd21_0022_3
@@ -30880,7 +30880,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1101]
 Model=trd21_0033_3
@@ -30908,7 +30908,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1102]
 Model=trd21_0044_3
@@ -30936,7 +30936,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1103]
 Model=trd21_0110_3
@@ -30964,7 +30964,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1104]
 Model=trd21_0111_3
@@ -30992,7 +30992,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1105]
 Model=trd21_0220_3
@@ -31020,7 +31020,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1106]
 Model=trd21_0222_3
@@ -31048,7 +31048,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1107]
 Model=trd21_0330_3
@@ -31076,7 +31076,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1108]
 Model=trd21_0333_3
@@ -31104,7 +31104,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1109]
 Model=trd21_0440_3
@@ -31132,7 +31132,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1110]
 Model=trd21_0444_3
@@ -31160,7 +31160,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1111]
 Model=trd21_0ww0_3
@@ -31188,7 +31188,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1112]
 Model=trd21_00ww_3
@@ -31216,7 +31216,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1113]
 Model=trd21_0ww0_3
@@ -31244,7 +31244,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1114]
 Model=trd21_0www_3
@@ -31272,7 +31272,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1115]
 Model=trd21_00ss_3
@@ -31300,7 +31300,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1116]
 Model=trd21_0ss0_3
@@ -31328,7 +31328,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1117]
 Model=trd21_0sss_3
@@ -31356,7 +31356,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1118]
 Model=trd21_0000_4
@@ -31384,7 +31384,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1119]
 Model=trd21_0001_4
@@ -31412,7 +31412,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1120]
 Model=trd21_0002_4
@@ -31440,7 +31440,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1121]
 Model=trd21_0003_4
@@ -31468,7 +31468,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1122]
 Model=trd21_0004_4
@@ -31496,7 +31496,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1123]
 Model=trd21_000s_4
@@ -31524,7 +31524,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1124]
 Model=trd21_000w_4
@@ -31552,7 +31552,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1125]
 Model=trd21_0011_4
@@ -31580,7 +31580,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1126]
 Model=trd21_0022_4
@@ -31608,7 +31608,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1127]
 Model=trd21_0033_4
@@ -31636,7 +31636,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1128]
 Model=trd21_0044_4
@@ -31664,7 +31664,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1129]
 Model=trd21_0110_4
@@ -31692,7 +31692,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1130]
 Model=trd21_0111_4
@@ -31720,7 +31720,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1131]
 Model=trd21_0220_4
@@ -31748,7 +31748,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1132]
 Model=trd21_0222_4
@@ -31776,7 +31776,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1133]
 Model=trd21_0330_4
@@ -31804,7 +31804,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1134]
 Model=trd21_0333_4
@@ -31832,7 +31832,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1135]
 Model=trd21_0440_4
@@ -31860,7 +31860,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1136]
 Model=trd21_0444_4
@@ -31888,7 +31888,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1137]
 Model=trd21_0ww0_4
@@ -31916,7 +31916,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1138]
 Model=trd21_00ww_4
@@ -31944,7 +31944,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1139]
 Model=trd21_0ww0_4
@@ -31972,7 +31972,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1140]
 Model=trd21_0www_4
@@ -32000,7 +32000,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1141]
 Model=trd21_00ss_4
@@ -32028,7 +32028,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1142]
 Model=trd21_0ss0_4
@@ -32056,7 +32056,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1143]
 Model=trd21_0sss_4
@@ -32084,7 +32084,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1144]
 Model=trd21_0000_5
@@ -32112,7 +32112,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1145]
 Model=trd21_0001_5
@@ -32140,7 +32140,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1146]
 Model=trd21_0002_5
@@ -32168,7 +32168,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1147]
 Model=trd21_0003_5
@@ -32196,7 +32196,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1148]
 Model=trd21_0004_5
@@ -32224,7 +32224,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1149]
 Model=trd21_000s_5
@@ -32252,7 +32252,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1150]
 Model=trd21_000w_5
@@ -32280,7 +32280,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1151]
 Model=trd21_0011_5
@@ -32308,7 +32308,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1152]
 Model=trd21_0022_5
@@ -32336,7 +32336,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1153]
 Model=trd21_0033_5
@@ -32364,7 +32364,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1154]
 Model=trd21_0044_5
@@ -32392,7 +32392,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1155]
 Model=trd21_0110_5
@@ -32420,7 +32420,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1156]
 Model=trd21_0111_5
@@ -32448,7 +32448,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1157]
 Model=trd21_0220_5
@@ -32476,7 +32476,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1158]
 Model=trd21_0222_5
@@ -32504,7 +32504,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1159]
 Model=trd21_0330_5
@@ -32532,7 +32532,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1160]
 Model=trd21_0333_5
@@ -32560,7 +32560,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1161]
 Model=trd21_0440_5
@@ -32588,7 +32588,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1162]
 Model=trd21_0444_5
@@ -32616,7 +32616,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1163]
 Model=trd21_0ww0_5
@@ -32644,7 +32644,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1164]
 Model=trd21_00ww_5
@@ -32672,7 +32672,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1165]
 Model=trd21_0ww0_5
@@ -32700,7 +32700,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1166]
 Model=trd21_0www_5
@@ -32728,7 +32728,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1167]
 Model=trd21_00ss_5
@@ -32756,7 +32756,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1168]
 Model=trd21_0ss0_5
@@ -32784,7 +32784,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1169]
 Model=trd21_0sss_5
@@ -32812,7 +32812,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1170]
 Model=trd21_0000_6
@@ -32840,7 +32840,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1171]
 Model=trd21_0001_6
@@ -32868,7 +32868,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1172]
 Model=trd21_0002_6
@@ -32896,7 +32896,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1173]
 Model=trd21_0003_6
@@ -32924,7 +32924,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1174]
 Model=trd21_0004_6
@@ -32952,7 +32952,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1175]
 Model=trd21_000s_6
@@ -32980,7 +32980,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1176]
 Model=trd21_000w_6
@@ -33008,7 +33008,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1177]
 Model=trd21_0011_6
@@ -33036,7 +33036,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1178]
 Model=trd21_0022_6
@@ -33064,7 +33064,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1179]
 Model=trd21_0033_6
@@ -33092,7 +33092,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1180]
 Model=trd21_0044_6
@@ -33120,7 +33120,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1181]
 Model=trd21_0110_6
@@ -33148,7 +33148,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1182]
 Model=trd21_0111_6
@@ -33176,7 +33176,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1183]
 Model=trd21_0220_6
@@ -33204,7 +33204,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1184]
 Model=trd21_0222_6
@@ -33232,7 +33232,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1185]
 Model=trd21_0330_6
@@ -33260,7 +33260,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1186]
 Model=trd21_0333_6
@@ -33288,7 +33288,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1187]
 Model=trd21_0440_6
@@ -33316,7 +33316,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1188]
 Model=trd21_0444_6
@@ -33344,7 +33344,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1189]
 Model=trd21_0ww0_6
@@ -33372,7 +33372,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1190]
 Model=trd21_00ww_6
@@ -33400,7 +33400,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1191]
 Model=trd21_0ww0_6
@@ -33428,7 +33428,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1192]
 Model=trd21_0www_6
@@ -33456,7 +33456,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1193]
 Model=trd21_00ss_6
@@ -33484,7 +33484,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1194]
 Model=trd21_0ss0_6
@@ -33512,7 +33512,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1195]
 Model=trd21_0sss_6
@@ -33540,7 +33540,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1196]
 Model=trd21_a08_01
@@ -33712,7 +33712,7 @@ Doors=0
 Sounds=0
 PathNode=A
 Orientation=0
-ImageMap2D=(null)
+ImageMap2D=mitd01_p03
 
 [TILE1201DOOR0]
 Type=53
@@ -33720,6 +33720,122 @@ X=0
 Y=-1.5
 Z=-1.48
 Orientation=180
+
+[TILE1202]
+Model=trd21_c01_02
+WalkMesh=msb01
+TopLeft=sand
+TopLeftHeight=0
+TopRight=sand
+TopRightHeight=0
+BottomLeft=chasm
+BottomLeftHeight=0
+BottomRight=sand
+BottomRightHeight=0
+Top=
+Right=
+Bottom=
+Left=
+MainLight1=1
+MainLight2=1
+SourceLight1=1
+SourceLight2=1
+AnimLoop1=1
+AnimLoop2=1
+AnimLoop3=1
+Doors=0
+Sounds=0
+PathNode=A
+Orientation=0
+ImageMap2D=mitd01_C01
+
+[TILE1203]
+Model=trd21_c02_02
+WalkMesh=msb01
+TopLeft=chasm
+TopLeftHeight=0
+TopRight=sand
+TopRightHeight=0
+BottomLeft=chasm
+BottomLeftHeight=0
+BottomRight=sand
+BottomRightHeight=0
+Top=
+Right=
+Bottom=
+Left=
+MainLight1=1
+MainLight2=1
+SourceLight1=1
+SourceLight2=1
+AnimLoop1=1
+AnimLoop2=1
+AnimLoop3=1
+Doors=0
+Sounds=0
+PathNode=I
+Orientation=180
+VisibilityNode=A
+VisibilityOrientation=180
+ImageMap2D=mitd01_C02
+
+[TILE1204]
+Model=trd21_c03_02
+WalkMesh=msb01
+TopLeft=chasm
+TopLeftHeight=0
+TopRight=sand
+TopRightHeight=0
+BottomLeft=sand
+BottomLeftHeight=0
+BottomRight=chasm
+BottomRightHeight=0
+Top=
+Right=
+Bottom=
+Left=
+MainLight1=1
+MainLight2=1
+SourceLight1=1
+SourceLight2=1
+AnimLoop1=1
+AnimLoop2=1
+AnimLoop3=1
+Doors=0
+Sounds=0
+PathNode=A
+Orientation=0
+ImageMap2D=mitd01_C03
+
+[TILE1205]
+Model=trd21_c04_02
+WalkMesh=msb01
+TopLeft=sand
+TopLeftHeight=0
+TopRight=chasm
+TopRightHeight=0
+BottomLeft=chasm
+BottomLeftHeight=0
+BottomRight=chasm
+BottomRightHeight=0
+Top=
+Right=
+Bottom=
+Left=
+MainLight1=1
+MainLight2=1
+SourceLight1=1
+SourceLight2=1
+AnimLoop1=1
+AnimLoop2=1
+AnimLoop3=1
+Doors=0
+Sounds=0
+PathNode=H
+Orientation=270
+VisibilityNode=A
+VisibilityOrientation=270
+ImageMap2D=mitd01_C04
 
 [GROUPS]
 Count=1
