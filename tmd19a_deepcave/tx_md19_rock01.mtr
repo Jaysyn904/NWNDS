@@ -1,0 +1,4 @@
+  renderhint NormalAndSpecMapped
+  texture0 tx_md19_rock01
+  texture1 tx_md19_rock01n
+  texture2 tx_md19_rock01s

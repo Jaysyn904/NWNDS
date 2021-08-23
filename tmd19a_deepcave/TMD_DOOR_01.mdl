@@ -1,0 +1,1015 @@
+# Exported from NWmax 0.8 b60 at 7/9/2019 12:31:43 PM
+# mdl file
+#
+#NWmax MODEL ASCII
+# model: TMD_DOOR_01
+#local file: C:\GMAX\Scenes\Tilesets\Tileset 2019\Tileset2019_Basetiles 01111178.gmax
+filedependancy Tileset2019_Basetiles 01111178.gmax
+newmodel TMD_DOOR_01
+setsupermodel TMD_DOOR_01 NULL
+classification Door
+#NWmax GEOM  ASCII
+beginmodelgeom TMD_DOOR_01
+node dummy TMD_DOOR_01
+  parent NULL
+endnode
+node dummy TMD_DOOR_01head
+  parent TMD_DOOR_01
+  position 0.0 0.075 2.5
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.694118 0.580392 0.101961 
+endnode
+node dummy TMD_DOOR_01hhit
+  parent TMD_DOOR_01
+  position 0.0 0.075 2.175
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.694118 0.580392 0.101961 
+endnode
+node dummy TMD_DOOR_01impc
+  parent TMD_DOOR_01
+  position 0.0 0.075 1.64
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.694118 0.580392 0.101961 
+endnode
+node dummy TMD_DOOR_01grnd
+  parent TMD_DOOR_01
+  position 0.0 0.075 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.694118 0.580392 0.101961 
+endnode
+node dummy Dummy_pivot
+  parent TMD_DOOR_01
+  position 2.15 0.075 0.0
+  orientation 0.0 1.0 0.0 0.0
+  wirecolor 0.694118 0.580392 0.101961 
+endnode
+node trimesh StrongDoor
+  parent Dummy_pivot
+  position -2.1 -0.125 0.0
+  orientation 0.707107 0.707107 0.0 0.0
+  wirecolor 0.694118 0.580392 0.101961 
+  bitmap NULL
+  alpha 1000
+  verts 24
+    2.1 -0.13 0.0
+    2.1 0.12 0.0
+    2.1 -0.13 5.0
+    2.1 0.12 5.0
+    -2.0 0.12 5.0
+    2.02 0.12 5.8
+    1.79 0.12 6.57
+    1.41 0.12 7.28
+    0.9 0.12 7.9
+    0.28 0.12 8.41
+    -0.43 0.12 8.79
+    -1.2 0.12 9.02
+    -2.0 0.12 9.1
+    2.02 -0.13 5.8
+    1.79 -0.13 6.57
+    1.41 -0.13 7.28
+    0.9 -0.13 7.9
+    0.28 -0.13 8.41
+    -0.43 -0.13 8.79
+    -1.2 -0.13 9.02
+    -2.0 -0.13 9.1
+    -2.0 -0.13 5.0
+    -2.0 0.12 0.0
+    -2.0 -0.13 0.0
+  faces 44
+    0 1 3  0  0 0 0  4
+    3 2 0  0  0 0 0  4
+    4 12 11  0  0 0 0  2
+    4 11 10  0  0 0 0  2
+    4 10 9  0  0 0 0  2
+    4 9 8  0  0 0 0  2
+    4 8 7  0  0 0 0  2
+    4 7 6  0  0 0 0  2
+    4 6 5  0  0 0 0  2
+    4 5 3  0  0 0 0  2
+    13 2 3  0  0 0 0  3
+    3 5 13  0  0 0 0  3
+    14 13 5  0  0 0 0  3
+    5 6 14  0  0 0 0  3
+    15 14 6  0  0 0 0  3
+    6 7 15  0  0 0 0  3
+    16 15 7  0  0 0 0  3
+    7 8 16  0  0 0 0  3
+    17 16 8  0  0 0 0  3
+    8 9 17  0  0 0 0  3
+    18 17 9  0  0 0 0  3
+    9 10 18  0  0 0 0  3
+    19 18 10  0  0 0 0  3
+    10 11 19  0  0 0 0  3
+    20 19 11  0  0 0 0  3
+    11 12 20  0  0 0 0  3
+    0 2 21  0  0 0 0  5
+    21 23 0  0  0 0 0  5
+    23 22 1  0  0 0 0  2
+    1 0 23  0  0 0 0  2
+    21 2 13  0  0 0 0  1
+    21 13 14  0  0 0 0  1
+    21 14 15  0  0 0 0  1
+    21 15 16  0  0 0 0  1
+    21 16 17  0  0 0 0  1
+    21 17 18  0  0 0 0  1
+    21 18 19  0  0 0 0  1
+    21 19 20  0  0 0 0  1
+    4 3 1  0  0 0 0  6
+    1 22 4  0  0 0 0  6
+    4 22 23  0  0 0 0  7
+    4 23 21  0  0 0 0  7
+    4 21 20  0  0 0 0  7
+    4 20 12  0  0 0 0  7
+endnode
+node dummy TMD_DOOR_01_DWK
+  parent TMD_DOOR_01
+  position 0.0 0.075 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.694118 0.580392 0.101961 
+endnode
+node dummy 01_DWK_dp_closed_01
+  parent TMD_DOOR_01_DWK
+  position -1.73949 0.288936 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.694118 0.580392 0.101961 
+endnode
+node dummy 01_DWK_dp_closed_02
+  parent TMD_DOOR_01_DWK
+  position -1.71502 -0.700928 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.694118 0.580392 0.101961 
+endnode
+node dummy 01_DWK_dp_open1_01
+  parent TMD_DOOR_01_DWK
+  position 1.0393 -3.75812 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.694118 0.580392 0.101961 
+endnode
+node dummy 01_DWK_dp_open2_01
+  parent TMD_DOOR_01_DWK
+  position 1.56177 3.74096 0.0
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.694118 0.580392 0.101961 
+endnode
+node trimesh 01_DWK_wg_closed
+  parent TMD_DOOR_01_DWK
+  position 0.0808594 -0.161118 -3.54723e-007
+  orientation 0.0 0.0 1.0 -1.5708
+  wirecolor 0.694118 0.580392 0.101961 
+  tilefade 0
+  scale 1.0
+  render 0
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfillumcolor 0.0 0.0 0.0 
+  center 0.00014019 5.00044 455.0 
+  bitmap NULL
+  verts 12
+    0.14 2.26 0.0
+    -0.13 2.26 0.0
+    0.13 2.1 5.0
+    -0.12 2.1 5.0
+    -0.12 -2.0 9.1
+    -0.12 1.79 6.57
+    -0.12 0.9 7.9
+    0.13 1.79 6.57
+    0.13 0.9 7.9
+    0.13 -2.0 9.1
+    -0.13 -2.16 0.0
+    0.14 -2.16 0.0
+  faces 18
+    0 1 3  0  0 0 0  7
+    3 2 0  0  0 0 0  7
+    4 6 5  0  0 0 0  7
+    4 5 3  0  0 0 0  7
+    7 2 3  0  0 0 0  7
+    3 5 7  0  0 0 0  7
+    8 7 5  0  0 0 0  7
+    5 6 8  0  0 0 0  7
+    9 8 6  0  0 0 0  7
+    6 4 9  0  0 0 0  7
+    0 2 9  0  0 0 0  7
+    9 11 0  0  0 0 0  7
+    9 2 7  0  0 0 0  7
+    9 7 8  0  0 0 0  7
+    4 3 1  0  0 0 0  7
+    1 10 4  0  0 0 0  7
+    4 10 11  0  0 0 0  7
+    4 11 9  0  0 0 0  7
+endnode
+node trimesh 01_DWK_wg_open1
+  parent TMD_DOOR_01_DWK
+  position 1.91245 -2.09756 -3.54723e-007
+  orientation 0.0 0.0 1.0 -1.5708
+  wirecolor 0.694118 0.580392 0.101961 
+  tilefade 0
+  scale 1.0
+  render 0
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfillumcolor 0.0 0.0 0.0 
+  center -4.92403 0.868792 455.0 
+  bitmap NULL
+  verts 12
+    -2.21 0.53 0.0
+    -2.25 0.26 0.0
+    -2.05 0.49 5.0
+    -2.09 0.24 5.0
+    1.95 -0.47 9.1
+    -1.78 0.19 6.57
+    -0.91 0.03 7.9
+    -1.74 0.43 6.57
+    -0.86 0.28 7.9
+    1.99 -0.22 9.1
+    2.11 -0.51 0.0
+    2.15 -0.24 0.0
+  faces 18
+    0 1 3  0  0 0 0  7
+    3 2 0  0  0 0 0  7
+    4 6 5  0  0 0 0  7
+    4 5 3  0  0 0 0  7
+    7 2 3  0  0 0 0  7
+    3 5 7  0  0 0 0  7
+    8 7 5  0  0 0 0  7
+    5 6 8  0  0 0 0  7
+    9 8 6  0  0 0 0  7
+    6 4 9  0  0 0 0  7
+    0 2 9  0  0 0 0  7
+    9 11 0  0  0 0 0  7
+    9 2 7  0  0 0 0  7
+    9 7 8  0  0 0 0  7
+    4 3 1  0  0 0 0  7
+    1 10 4  0  0 0 0  7
+    4 10 11  0  0 0 0  7
+    4 11 9  0  0 0 0  7
+endnode
+node trimesh 01_DWK_wg_open2
+  parent TMD_DOOR_01_DWK
+  position 2.025 2.1 -3.54723e-007
+  orientation 0.0 0.0 1.0 -1.5708
+  wirecolor 0.694118 0.580392 0.101961 
+  tilefade 0
+  scale 1.0
+  render 0
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfillumcolor 0.0 0.0 0.0 
+  center 5.00003 -0.000209808 455.0 
+  bitmap NULL
+  verts 12
+    2.26 -0.14 0.0
+    2.26 0.14 0.0
+    2.1 -0.13 5.0
+    2.1 0.12 5.0
+    -2.0 0.12 9.1
+    1.79 0.12 6.57
+    0.9 0.12 7.9
+    1.79 -0.13 6.57
+    0.9 -0.13 7.9
+    -2.0 -0.13 9.1
+    -2.16 0.14 0.0
+    -2.16 -0.14 0.0
+  faces 18
+    0 1 3  0  0 0 0  7
+    3 2 0  0  0 0 0  7
+    4 6 5  0  0 0 0  7
+    4 5 3  0  0 0 0  7
+    7 2 3  0  0 0 0  7
+    3 5 7  0  0 0 0  7
+    8 7 5  0  0 0 0  7
+    5 6 8  0  0 0 0  7
+    9 8 6  0  0 0 0  7
+    6 4 9  0  0 0 0  7
+    0 2 9  0  0 0 0  7
+    9 11 0  0  0 0 0  7
+    9 2 7  0  0 0 0  7
+    9 7 8  0  0 0 0  7
+    4 3 1  0  0 0 0  7
+    1 10 4  0  0 0 0  7
+    4 10 11  0  0 0 0  7
+    4 11 9  0  0 0 0  7
+endnode
+node trimesh sam
+  parent TMD_DOOR_01
+  position 0.05 -0.05 0.0
+  orientation 0.447214 0.894427 0.0 0.0
+  wirecolor 0.694118 0.580392 0.101961 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 0.0
+  transparencyhint 1
+  selfillumcolor 0.0705882 0.0 1.0 
+  ambient 0.0156863 0.0 0.196078 
+  diffuse 0.054902 0.0 0.784314 
+  specular 0.0 0.0 0.0 
+  shininess 1
+  center 4.99992 0.000142097 455.0 
+  bitmap NULL
+  verts 24
+    2.1 0.12 0.0
+    2.1 0.12 5.0
+    -2.0 0.12 5.0
+    2.02 0.12 5.8
+    1.79 0.12 6.57
+    1.41 0.12 7.28
+    0.9 0.12 7.9
+    0.28 0.12 8.41
+    -0.43 0.12 8.79
+    -1.2 0.12 9.02
+    -2.0 0.12 9.1
+    -2.0 0.12 0.0
+    2.1 0.12 0.0
+    2.1 0.12 5.0
+    -2.0 0.12 5.0
+    2.02 0.12 5.8
+    1.79 0.12 6.57
+    1.41 0.12 7.28
+    0.9 0.12 7.9
+    0.28 0.12 8.41
+    -0.43 0.12 8.79
+    -1.2 0.12 9.02
+    -2.0 0.12 9.1
+    -2.0 0.12 0.0
+  faces 20
+    2 10 9  0  0 0 0  2
+    2 9 8  0  0 0 0  2
+    2 8 7  0  0 0 0  2
+    2 7 6  0  0 0 0  2
+    2 6 5  0  0 0 0  2
+    2 5 4  0  0 0 0  2
+    2 4 3  0  0 0 0  2
+    2 3 1  0  0 0 0  2
+    2 1 0  0  0 0 0  6
+    0 11 2  0  0 0 0  6
+    22 14 21  0  0 0 0  2
+    21 14 20  0  0 0 0  2
+    20 14 19  0  0 0 0  2
+    19 14 18  0  0 0 0  2
+    18 14 17  0  0 0 0  2
+    17 14 16  0  0 0 0  2
+    16 14 15  0  0 0 0  2
+    15 14 13  0  0 0 0  2
+    13 14 12  0  0 0 0  6
+    23 12 14  0  0 0 0  6
+endnode
+endmodelgeom TMD_DOOR_01
+#NWmax ANIM ASCII
+newanim closed TMD_DOOR_01
+  length 0.0333333
+  transtime 0.25
+  animroot TMD_DOOR_01
+    node dummy TMD_DOOR_01
+        parent NULL
+    endnode
+    node dummy TMD_DOOR_01head
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01hhit
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01impc
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01grnd
+        parent TMD_DOOR_01
+    endnode
+    node dummy Dummy_pivot
+        parent TMD_DOOR_01
+        orientationkey
+            0.0 0.0 0.0 0.0 0.0
+            0.0333333 0.0 0.0 0.0 0.0
+        endlist
+    endnode
+    node trimesh StrongDoor
+        parent Dummy_pivot
+    endnode
+    node dummy TMD_DOOR_01_DWK
+        parent TMD_DOOR_01
+    endnode
+    node dummy 01_DWK_dp_closed_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_closed_02
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open1_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open2_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_closed
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open1
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open2
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh sam
+        parent TMD_DOOR_01
+    endnode
+doneanim closed TMD_DOOR_01
+#NWmax ANIM ASCII
+newanim opening2 TMD_DOOR_01
+  length 0.666667
+  transtime 0.25
+  animroot TMD_DOOR_01
+    node dummy TMD_DOOR_01
+        parent NULL
+    endnode
+    node dummy TMD_DOOR_01head
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01hhit
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01impc
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01grnd
+        parent TMD_DOOR_01
+    endnode
+    node dummy Dummy_pivot
+        parent TMD_DOOR_01
+        orientationkey
+            0.0 0.0 0.0 0.0 0.0
+            0.666667 0.0 0.0 1.0 -1.5708
+        endlist
+    endnode
+    node trimesh StrongDoor
+        parent Dummy_pivot
+    endnode
+    node dummy TMD_DOOR_01_DWK
+        parent TMD_DOOR_01
+    endnode
+    node dummy 01_DWK_dp_closed_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_closed_02
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open1_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open2_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_closed
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open1
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open2
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh sam
+        parent TMD_DOOR_01
+    endnode
+doneanim opening2 TMD_DOOR_01
+#NWmax ANIM ASCII
+newanim opened2 TMD_DOOR_01
+  length 0.0333333
+  transtime 0.25
+  animroot TMD_DOOR_01
+    node dummy TMD_DOOR_01
+        parent NULL
+    endnode
+    node dummy TMD_DOOR_01head
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01hhit
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01impc
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01grnd
+        parent TMD_DOOR_01
+    endnode
+    node dummy Dummy_pivot
+        parent TMD_DOOR_01
+        orientationkey
+            0.0 0.0 0.0 1.0 -1.5708
+            0.0333333 0.0 0.0 1.0 -1.5708
+        endlist
+    endnode
+    node trimesh StrongDoor
+        parent Dummy_pivot
+    endnode
+    node dummy TMD_DOOR_01_DWK
+        parent TMD_DOOR_01
+    endnode
+    node dummy 01_DWK_dp_closed_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_closed_02
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open1_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open2_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_closed
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open1
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open2
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh sam
+        parent TMD_DOOR_01
+    endnode
+doneanim opened2 TMD_DOOR_01
+#NWmax ANIM ASCII
+newanim closing2 TMD_DOOR_01
+  length 0.666667
+  transtime 0.25
+  animroot TMD_DOOR_01
+    node dummy TMD_DOOR_01
+        parent NULL
+    endnode
+    node dummy TMD_DOOR_01head
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01hhit
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01impc
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01grnd
+        parent TMD_DOOR_01
+    endnode
+    node dummy Dummy_pivot
+        parent TMD_DOOR_01
+        orientationkey
+            0.0 0.0 0.0 1.0 -1.5708
+            0.666667 0.0 0.0 0.0 -1.68587e-007
+        endlist
+    endnode
+    node trimesh StrongDoor
+        parent Dummy_pivot
+    endnode
+    node dummy TMD_DOOR_01_DWK
+        parent TMD_DOOR_01
+    endnode
+    node dummy 01_DWK_dp_closed_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_closed_02
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open1_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open2_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_closed
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open1
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open2
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh sam
+        parent TMD_DOOR_01
+    endnode
+doneanim closing2 TMD_DOOR_01
+#NWmax ANIM ASCII
+newanim die TMD_DOOR_01
+  length 0.0333333
+  transtime 0.25
+  animroot TMD_DOOR_01
+    node dummy TMD_DOOR_01
+        parent NULL
+    endnode
+    node dummy TMD_DOOR_01head
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01hhit
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01impc
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01grnd
+        parent TMD_DOOR_01
+    endnode
+    node dummy Dummy_pivot
+        parent TMD_DOOR_01
+        positionkey
+            0.0 2.15 0.075 0.0
+            0.0333333 2.15 0.075 -140.0
+        endlist
+        orientationkey
+            0.0 0.0 0.0 0.0 -1.68587e-007
+            0.0333333 0.0 0.0 0.0 -1.68587e-007
+        endlist
+    endnode
+    node trimesh StrongDoor
+        parent Dummy_pivot
+    endnode
+    node dummy TMD_DOOR_01_DWK
+        parent TMD_DOOR_01
+    endnode
+    node dummy 01_DWK_dp_closed_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_closed_02
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open1_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open2_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_closed
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open1
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open2
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh sam
+        parent TMD_DOOR_01
+    endnode
+doneanim die TMD_DOOR_01
+#NWmax ANIM ASCII
+newanim dead TMD_DOOR_01
+  length 0.0333333
+  transtime 0.25
+  animroot TMD_DOOR_01
+    node dummy TMD_DOOR_01
+        parent NULL
+    endnode
+    node dummy TMD_DOOR_01head
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01hhit
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01impc
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01grnd
+        parent TMD_DOOR_01
+    endnode
+    node dummy Dummy_pivot
+        parent TMD_DOOR_01
+        positionkey
+            0.0 2.15 0.075 -140.0
+            0.0333333 2.15 0.075 -140.0
+        endlist
+    endnode
+    node trimesh StrongDoor
+        parent Dummy_pivot
+    endnode
+    node dummy TMD_DOOR_01_DWK
+        parent TMD_DOOR_01
+    endnode
+    node dummy 01_DWK_dp_closed_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_closed_02
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open1_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open2_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_closed
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open1
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open2
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh sam
+        parent TMD_DOOR_01
+    endnode
+doneanim dead TMD_DOOR_01
+#NWmax ANIM ASCII
+newanim trans TMD_DOOR_01
+  length 0.0333333
+  transtime 0.25
+  animroot TMD_DOOR_01
+    node dummy TMD_DOOR_01
+        parent NULL
+    endnode
+    node dummy TMD_DOOR_01head
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01hhit
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01impc
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01grnd
+        parent TMD_DOOR_01
+    endnode
+    node dummy Dummy_pivot
+        parent TMD_DOOR_01
+    endnode
+    node trimesh StrongDoor
+        parent Dummy_pivot
+    endnode
+    node dummy TMD_DOOR_01_DWK
+        parent TMD_DOOR_01
+    endnode
+    node dummy 01_DWK_dp_closed_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_closed_02
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open1_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open2_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_closed
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open1
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open2
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh sam
+        parent TMD_DOOR_01
+        alphakey
+            0.0 0.25 
+            0.0333333 0.25 
+        endlist
+    endnode
+doneanim trans TMD_DOOR_01
+#NWmax ANIM ASCII
+newanim opening1 TMD_DOOR_01
+  length 0.666667
+  transtime 0.25
+  animroot TMD_DOOR_01
+    node dummy TMD_DOOR_01
+        parent NULL
+    endnode
+    node dummy TMD_DOOR_01head
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01hhit
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01impc
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01grnd
+        parent TMD_DOOR_01
+    endnode
+    node dummy Dummy_pivot
+        parent TMD_DOOR_01
+        orientationkey
+            0.0 0.0 0.0 0.0 -1.68587e-007
+            0.666667 2.39524e-007 0.0 -1.0 -1.39626
+        endlist
+    endnode
+    node trimesh StrongDoor
+        parent Dummy_pivot
+    endnode
+    node dummy TMD_DOOR_01_DWK
+        parent TMD_DOOR_01
+    endnode
+    node dummy 01_DWK_dp_closed_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_closed_02
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open1_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open2_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_closed
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open1
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open2
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh sam
+        parent TMD_DOOR_01
+    endnode
+doneanim opening1 TMD_DOOR_01
+#NWmax ANIM ASCII
+newanim opened1 TMD_DOOR_01
+  length 0.0333333
+  transtime 0.25
+  animroot TMD_DOOR_01
+    node dummy TMD_DOOR_01
+        parent NULL
+    endnode
+    node dummy TMD_DOOR_01head
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01hhit
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01impc
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01grnd
+        parent TMD_DOOR_01
+    endnode
+    node dummy Dummy_pivot
+        parent TMD_DOOR_01
+        orientationkey
+            0.0 3.9021e-007 -2.26151e-007 -1.0 -1.39626
+            0.0333333 4.40439e-007 -2.68298e-007 -1.0 -1.39626
+        endlist
+    endnode
+    node trimesh StrongDoor
+        parent Dummy_pivot
+    endnode
+    node dummy TMD_DOOR_01_DWK
+        parent TMD_DOOR_01
+    endnode
+    node dummy 01_DWK_dp_closed_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_closed_02
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open1_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open2_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_closed
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open1
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open2
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh sam
+        parent TMD_DOOR_01
+    endnode
+doneanim opened1 TMD_DOOR_01
+#NWmax ANIM ASCII
+newanim closing1 TMD_DOOR_01
+  length 0.666667
+  transtime 0.25
+  animroot TMD_DOOR_01
+    node dummy TMD_DOOR_01
+        parent NULL
+    endnode
+    node dummy TMD_DOOR_01head
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01hhit
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01impc
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01grnd
+        parent TMD_DOOR_01
+    endnode
+    node dummy Dummy_pivot
+        parent TMD_DOOR_01
+        orientationkey
+            0.0 5.91124e-007 -3.94738e-007 -1.0 -1.39626
+            0.666667 0.450442 -0.871039 0.195943 -1.00712e-006
+        endlist
+    endnode
+    node trimesh StrongDoor
+        parent Dummy_pivot
+    endnode
+    node dummy TMD_DOOR_01_DWK
+        parent TMD_DOOR_01
+    endnode
+    node dummy 01_DWK_dp_closed_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_closed_02
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open1_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open2_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_closed
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open1
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open2
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh sam
+        parent TMD_DOOR_01
+    endnode
+doneanim closing1 TMD_DOOR_01
+#NWmax ANIM ASCII
+newanim default TMD_DOOR_01
+  length 0.0333333
+  transtime 0.25
+  animroot TMD_DOOR_01
+    node dummy TMD_DOOR_01
+        parent NULL
+    endnode
+    node dummy TMD_DOOR_01head
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01hhit
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01impc
+        parent TMD_DOOR_01
+    endnode
+    node dummy TMD_DOOR_01grnd
+        parent TMD_DOOR_01
+    endnode
+    node dummy Dummy_pivot
+        parent TMD_DOOR_01
+        orientationkey
+            0.0 0.0 0.0 0.0 0.0
+            0.0333333 0.0 0.0 0.0 0.0
+        endlist
+    endnode
+    node trimesh StrongDoor
+        parent Dummy_pivot
+    endnode
+    node dummy TMD_DOOR_01_DWK
+        parent TMD_DOOR_01
+    endnode
+    node dummy 01_DWK_dp_closed_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_closed_02
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open1_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node dummy 01_DWK_dp_open2_01
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_closed
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open1
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh 01_DWK_wg_open2
+        parent TMD_DOOR_01_DWK
+    endnode
+    node trimesh sam
+        parent TMD_DOOR_01
+    endnode
+doneanim default TMD_DOOR_01
+donemodel TMD_DOOR_01

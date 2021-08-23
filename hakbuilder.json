@@ -102,5 +102,10 @@
       "Path": "./nwnds_heads/",
       "CompileModels": false
     },
+	{
+      "Name":  tmd19a_deepcave",
+      "Path": "./tmd19a_deepcave/",
+      "CompileModels": false
+    },
   ]
 }

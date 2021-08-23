@@ -259,7 +259,7 @@
 255        keepdoor3           TDS21_UDoor_10 ttd21   nw_door_ttr_09   5349          1          1            2            
 256        HutDoor2            TJJ01_UDoor_01 tjj01   nw_door_ttr_04   5349          1          1            1            
 257        HutDoor3            TJJ01_UDoor_02 tjj01   nw_door_ttr_04   5349          1          1            1            
-258        COMMUNITY_RESERVED  ****           ****    ****             ****          ****       ****         ****         
+258        DeepCaveDoor1       TMD_DOOR_01    TMD19   ****             ****          1          1            0            
 259        COMMUNITY_RESERVED  ****           ****    ****             ****          ****       ****         ****         
 260        COMMUNITY_RESERVED  ****           ****    ****             ****          ****       ****         ****         
 261        COMMUNITY_RESERVED  ****           ****    ****             ****          ****       ****         ****         
