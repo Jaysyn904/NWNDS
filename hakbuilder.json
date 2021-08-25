@@ -103,8 +103,13 @@
       "CompileModels": false
     },
 	{
-      "Name":  tmd19a_deepcave",
+      "Name":  "tmd19a_deepcave",
       "Path": "./tmd19a_deepcave/",
+      "CompileModels": false
+    },
+	{
+      "Name":  "nwnds_scripts",
+      "Path": "./nwnds_scripts/",
       "CompileModels": false
     },
   ]
