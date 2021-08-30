@@ -1,14 +1,14 @@
 
 Athasian Assassin Spell List
 
-1st Level: Color Spray, Disguise Self, Jump, Obscuring Mist, Sleep, True Strike
+1st Level: Addiction, Angry Ache, Blade of Blood, Color Spray, Disguise Self, Expeditious Retrat, Jump, Lesser Dispel Magic, Obscuring Mist, Protection from Alignment, Shield, Sleep, True Strike
 
-2nd Level: Alter Self, Cat's Grace, Continual Flame, Darkness, Fox's Cunning, Ghostly Visage, Heroism, Invisibility, Mirror Image, See Invisibility, Shadow Spray, Silence, Ultravision, Undetectable Alignment
+2nd Level: Alter Self, Cat's Grace, Clarity, Continual Flame, Darkness, Fox's Cunning, Ghostly Visage, Heroism, Invisibility, Mirror Image, See Invisibility, Shadow Spray, Silence, Ultravision, Undetectable Alignment
 
-3rd Level: Curse of the Putrid Husk, Deep Slumber, Deeper Darkness, Displacement, Dispel Magic, False Life, Invisablity Sphere, Magic Circle vs. Good, Nondetection, Reality Blind
+3rd Level: Curse of the Putrid Husk, Deep Slumber, Deeper Darkness, Displacement, Dispel Magic, False Life, Find Traps, Invisablity Sphere,  Masochism, Nondetection, Reality Blind, Water Breathing
 
-4th Level: Clairaudiance / Clarivoyance, Dimension Door, Glibness, Freedom of Movement, Improved Invisability, Locate Creature, Mass Ultravision, Neutralize Poison, Phantasmal Killer, Poison, Shadow Conjuration, Shout, Rainbow Pattern
+4th Level: Clairaudiance / Clarivoyance, Dimension Door, Glibness, Freedom of Movement, Improved Invisability, Locate Creature, Mass Ultravision, Neutralize Poison, Phantasmal Killer, Poison, Shadow Conjuration, Shout, Stop Heart, Rainbow Pattern
 
 5th Level: Break Enchantment, Ethereal Visage, Greater Dispel Magic, Greater Shadow Conjuration, Mind Fog, Mislead, Song of Discord, True Seeing
 
-6th Level: Energy Buffer, Eyebite, Greater Heroism, Greater Shout, Mass Cat's Grace, Mass Fox's Cunning, Shades, Waves of Pain
+6th Level: Energy Buffer, Eyebite, Greater Heroism, Greater Shout, Mass Cat's Grace, Mass Fox's Cunning, Shades, Shadow Shield, Wave of Pain

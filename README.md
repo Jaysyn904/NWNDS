@@ -5,6 +5,8 @@ Hak file internals repository for the NWN Dark Sun persistent world project.
 
 DMFI + CEP 2.6 + PRC 4.1.4a
 
+21 Base Classes & 46 Prestige Classes from the PRC
+
 3 Athasian 3.5e classes, with more to come.
 
 24 Athasian Player races including 6 dynamic kreen models
