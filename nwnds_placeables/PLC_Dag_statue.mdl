@@ -38181,3 +38181,4 @@ node trimesh Base
 endnode
 endmodelgeom PLC_Dag_statue
 donemodel PLC_Dag_statue
+g_statue
