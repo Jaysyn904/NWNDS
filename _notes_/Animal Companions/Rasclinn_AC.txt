@@ -1,0 +1,26 @@
+Wagging its tail but eyeing you warily, this canine creature has a strange, metallic hide and tufts of wiry hair around its salivating jawline. 
+
+Skills: Hide +15, Listen +11, Spot +7, Survival +9
+Feats: Low Light Vision , Alertness*, Weapon Finesse		
+
+Progression:
+PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat           Special
+1st-2nd     +0        +0           +0        -              -
+3rd-5th     +0        +0           +0        Alertness*     Link, share spells
+6th-8th     +2        +2           +1        Imp Nat Att    Evasion
+9th-11th    +4        +4           +2        -              Devotion
+12th-14th   +6        +6           +3        WF (Creature)  Multiattack
+15th-17th   +8        +8           +4        Dodge          -
+18th-20th   +10       +10          +5        -              Imp Evasion
+
+Epic Progression:
+PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat           Special    
+21st-23rd   +12       +12          +6        Mobility       -
+24th-26th   +14       +14          +7        Spring Att     -
+27th-29th   +16       +16          +8        -              -
+30th-32nd   +18       +18          +9        Imp Crit       -
+33rd-35th   +20       +20          +10       Blind-fight    -
+36th-38th   +22       +22          +11       -              -
+39th-40th   +24       +24          +12       EWF (Creature) -
+     -								
+
