@@ -2,19 +2,19 @@
 # mdl file
 #
 #NWMax Plus MODEL  ASCII
-# model: pmy0_head010
+# model: pmy0_head056
 filedependancy Unknown
-newmodel pmy0_head010
-setsupermodel pmy0_head010 NULL
+newmodel pmy0_head056
+setsupermodel pmy0_head056 NULL
 classification Character
 setanimationscale 1.0
 #NWMax Plus GEOM  ASCII
-beginmodelgeom pmy0_head010
-node dummy pmy0_head010
+beginmodelgeom pmy0_head056
+node dummy pmy0_head056
   parent NULL
 endnode
 node danglymesh beard001g
-  parent pmy0_head010
+  parent pmy0_head056
   position 0.0 0.0 0.0
   orientation 1.0 0.0 0.0 0.0
   wirecolor 1.0 1.0 1.0 
@@ -39,7 +39,7 @@ node danglymesh beard001g
   showdispl true
   displtype 1
   center 0.00718117 19.1806 -11.2932 
-  bitmap pmy0_head009
+  bitmap pmy0_head056
   verts 45
     0.0168997 0.167252 0.0275918
     0.0282349 0.179189 -0.0318608
@@ -254,8 +254,8 @@ node danglymesh beard001g
     0.0
     0.0
 endnode
-node trimesh pmy0_head009g
-  parent pmy0_head010
+node trimesh pmy0_head056g
+  parent pmy0_head056
   position 0.0 0.0 0.0
   orientation 1.0 0.0 0.0 0.0
   wirecolor 0.8 0.8 0.8 
@@ -274,7 +274,7 @@ node trimesh pmy0_head009g
   Specular 0.0 0.0 0.0 
   shininess 10
   center -0.0439458 6.67604 6.88722 
-  bitmap pmy0_head009
+  bitmap pmy0_head056
   verts 200
     -0.000441599 0.0551963 0.252606
     -0.000441599 0.0961478 0.242644
@@ -1178,7 +1178,7 @@ node trimesh pmy0_head009g
     0.300551 0.564844 0
 endnode
 node trimesh teeth
-  parent pmy0_head009g
+  parent pmy0_head056g
   position 0.0 -0.0766244 0.0453005
   orientation 1.0 0.0 0.0 0.0
   wirecolor 0.8 0.8 0.8 
@@ -1197,7 +1197,7 @@ node trimesh teeth
   Specular 0.0 0.0 0.0 
   shininess 10
   center -0.0513499 24.3988 -6.03773 
-  bitmap pmy0_head009
+  bitmap pmy0_head056
   verts 28
     -0.000513487 0.272756 -0.0719894
     -0.000513487 0.27116 -0.06557
@@ -1299,7 +1299,7 @@ node trimesh teeth
     0.601668 0.332373 0
 endnode
 node danglymesh pmh0_head002g
-  parent pmy0_head010
+  parent pmy0_head056
   position 0.0 0.0 0.0
   orientation 1.0 0.0 0.0 0.0
   wirecolor 1.0 1.0 1.0 
@@ -1324,7 +1324,7 @@ node danglymesh pmh0_head002g
   showdispl true
   displtype 1
   center -0.074563 2.42997 10.7578 
-  bitmap pmy0_head009
+  bitmap pmy0_head056
   verts 47
     -0.091326 0.161835 0.222847
     -0.087425 0.222827 0.141931
@@ -1544,5 +1544,5 @@ node danglymesh pmh0_head002g
     80.0
     80.0
 endnode
-endmodelgeom pmy0_head010
-donemodel pmy0_head010
+endmodelgeom pmy0_head056
+donemodel pmy0_head056

@@ -2,19 +2,19 @@
 # mdl file
 #
 #NWMax Plus MODEL  ASCII
-# model: pmy0_head024
+# model: pmy0_head045
 filedependancy Unknown
-newmodel pmy0_head024
-setsupermodel pmy0_head024 NULL
+newmodel pmy0_head045
+setsupermodel pmy0_head045 NULL
 classification Character
 setanimationscale 1.0
 #NWMax Plus GEOM  ASCII
-beginmodelgeom pmy0_head024
-node dummy pmy0_head024
+beginmodelgeom pmy0_head045
+node dummy pmy0_head045
   parent NULL
 endnode
 node trimesh hat
-  parent pmy0_head024
+  parent pmy0_head045
   position 0.00617 0.0 0.0
   orientation 1.0 0.0 0.0 0.0
   wirecolor 0.8 0.8 0.8 
@@ -2874,7 +2874,7 @@ node trimesh hat
     0.382057 0.734752 0
 endnode
 node trimesh head
-  parent pmy0_head024
+  parent pmy0_head045
   position 0.0 0.0 0.0
   orientation 1.0 0.0 0.0 0.0
   wirecolor 0.8 0.8 0.8 
@@ -14880,5 +14880,5 @@ node trimesh head
     0.7394 0.4974 0
     0.75 0.4978 0
 endnode
-endmodelgeom pmy0_head024
-donemodel pmy0_head024
+endmodelgeom pmy0_head045
+donemodel pmy0_head045
