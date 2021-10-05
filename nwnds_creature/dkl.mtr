@@ -1,9 +1,0 @@
- 
-renderhint NormalAndSpecMapped 
- 
-// Textures 
-texture0 DKL 
-texture1 DKL_n 
-texture2 null 
-texture3 null 
-texture4 null 

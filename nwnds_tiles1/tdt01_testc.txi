@@ -1,2 +1,0 @@
-clamp 2
-mipmap 0

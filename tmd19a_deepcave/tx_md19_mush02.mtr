@@ -1,7 +1,0 @@
-  //customshadervs vslitc_nm  
-  //customshaderfs fslit_nm_i
-  renderhint NormalAndSpecMapped
-  texture0 tx_md19_mush02
-  texture1 tx_md18_mush01n
-  texture2 tx_md18_mush01s
-  //texture5 tx_md18_mush01i

@@ -1,2 +1,0 @@
-envmaptexture tx_md19_env001
-alphamean 0.364

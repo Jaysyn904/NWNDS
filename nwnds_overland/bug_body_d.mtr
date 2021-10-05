@@ -1,9 +1,0 @@
- 
-renderhint NormalAndSpecMapped 
- 
-// Textures 
-texture0 Bug_Body_D
-texture1 Bug_Body_N 
-texture2 Bug_Body_S 
-texture3 null 
-texture4 null 

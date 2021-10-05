@@ -1,9 +1,0 @@
- 
-renderhint NormalAndSpecMapped 
- 
-// Textures 
-texture0 hive01 
-texture1 hive01_N 
-texture2 hive01_S 
-texture3 null 
-texture4 null 

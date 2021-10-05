@@ -1,5 +1,0 @@
-  //customshaderfs fslit_sm_nm
-  renderhint NormalAndSpecMapped
-  texture0 tx_md19_cave012
-  texture1 tx_md19_cave012n
-  texture2 tx_md19_cave012s

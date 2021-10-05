@@ -1,7 +1,0 @@
-2DA V2.0
-
-     Corner1   Edge       Corner2   Height   Model          
-0    Wall      ****       Wall      0        mze40_z01_01   
-1    Wall      ****       ****      0        mze40_z01_01   
-2    Wall      Corridor   Wall      0        mze40_a01_01   
-3    ****      ****       ****      ****     ****           

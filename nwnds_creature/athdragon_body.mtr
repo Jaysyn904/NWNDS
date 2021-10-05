@@ -1,9 +1,0 @@
- 
-renderhint NormalAndSpecMapped 
- 
-// Textures 
-texture0 AthDragon_body 
-texture1 AthDragon_body_n 
-texture2 null 
-texture3 null 
-texture4 null 

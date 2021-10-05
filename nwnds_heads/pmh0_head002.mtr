@@ -1,9 +1,0 @@
- 
-renderhint NormalAndSpecMapped 
- 
-// Textures 
-texture0 pmh0_head002 
-texture1 pmh0_head002_n 
-texture2 pmh0_head002_s 
-texture3 null 
-texture4 null 
