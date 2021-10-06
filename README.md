@@ -1,5 +1,5 @@
-# Neverwinter Nights Dark Sun [NWNDS] / Hakfiles
-Hak file internals repository for the NWN Dark Sun persistent world project.
+# Neverwinter Nights Dark Sun [NWNDS] Issues & Information
+This repo deals with project tracking, bugfixing & information for the NWN Dark Sun persistent world.
 
 ## Features
 
