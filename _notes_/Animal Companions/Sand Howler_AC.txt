@@ -1,24 +1,26 @@
 This heavy-set, doglike quadruped has a broad head sporting a nest of eight eyes and a pair of curving tusks.  Its semi-reptilian body is muscled and bears armored plates along the spine.  Their ability to paralyze with a stare makes them a valuable animal companion.
 
-Skills: Spot +9, Move Silently +4, Jump +5
-Feats: Low-Light Vision, Weapon Focus (creature)*, Darkvision, Scent
+Skills: Jump +5, Move Silently +4, Spot +9, Survival +1*
+Feats: Multiattack, Weapon Focus (Creature)*, Darkvision, Low-light vision, Scent
 
 Progression:
-PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat           Special
-1st-2nd     +0        +0           +0        WF (Creature)  Link, share spells
-3rd-5th     +2        +2           +1        Imp Init       Evasion
-6th-8th     +4        +4           +2        Dodge          Devotion
-9th-11th    +6        +6           +3        -              Multiattack
-12th-14th   +8        +8           +4        Imp Crit       -
-15th-17th   +10       +10          +5        Mobility       Improved evasion
-18th-20th   +12       +12          +6        -              -
+PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat            Special
+1st-2nd     +0        +0           +0        WF (Creature)*  -
+3rd-5th     +0        +0           +0        Blind-fight     Link, share spells
+6th-8th     +2        +2           +1        Dodge           Evasion
+9th-11th    +4        +4           +2        -               Devotion
+12th-14th   +6        +6           +3        Mobility        Multiattack
+15th-17th   +8        +8           +4        Spring Attack   -
+18th-20th   +10       +10          +5        -               Imp Evasion
 
 Epic Progression:
 PC Level    Bonus HD  Natural AC+  Str/Dex+  Feat            Special    
-21st-23rd   +14       +14          +7        Pwr Att         -
-24th-26th   +16       +16          +8        Spg Att         -
-27th-29th   +18       +18          +9        -               -
-30th-32nd   +20       +20          +10       Cleave          -
-33rd-35th   +22       +22          +11       EWF (Creature)  -
-36th-38th   +24       +24          +12       -               -
-39th-40th   +26       +26          +13       Armor Skin      -
+21st-23rd   +12       +12          +6        Imp Crit        -
+24th-26th   +14       +14          +7        Power Attack    -
+27th-29th   +16       +16          +8        -               -
+30th-32nd   +18       +18          +9        Cleave          -
+33rd-35th   +20       +20          +10       EWF (Creature)  -
+36th-38th   +22       +22          +11       -               -
+39th-40th   +24       +24          +12       Armor Skin      -
+     -								
+
