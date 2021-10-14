@@ -1,0 +1,410 @@
+Book of Vile Darkness
+Templates (Bone Creature, Corpse Creature)
+
+Creature Collection I (Revised)
+Angler Ooze
+Barrow Worm
+Berserker Wasp
+Blade Hood
+Cathedral Beetle
+Cave Moth
+Cave Shrike
+Child Trap
+Cold Slime
+Desert Falcon
+Dire Monitor
+Dragon, Mock
+Drowned Lady
+Dune Delver
+Ebon Eel
+Forge Wight
+Gore Beetle
+Hookwing
+Lotus Flowers
+Night Singer
+Night Tyrant
+Pyre
+Red Colony
+Rumbler
+Sand Burrower
+Scythe Falcon
+Serpent Root
+Solar Scarab
+Sour Grub
+Storm Kin
+Thunder Orb
+Vrail
+Wolf Spider, Giant
+
+Creature Collection II
+Bitter Tree
+Blood Moth
+Carnivorous Tree
+Cloudsting
+Gallows Vine
+Leeching Willow
+Lightning Hawk
+Lurker Below
+Sand Wyvern
+Shadow Lord
+Shard Spider
+Siege Undead
+Spectral Plant
+Spined Lizard
+Swamp Fisher
+Swamp Tyrant
+Tar Beetle
+Thunder Kite
+Windrider
+
+Creature Collection III
+Allergorhai-Horhai (Death Worm)
+Ashcloud
+Barbed Thrasher
+Bitterfly
+Canopy Creeper
+Dart Blossom
+Dirgewood Tree
+Dread Crawler
+Flay Beast
+Golem
+Gray Lancer
+Living Bog
+Marble Sentinel
+Mist Murderer
+Mulchworm
+Ooze
+Patient Doom
+Quillwolf
+Razorleaf
+Sand Hulk
+Sand Sloth
+Sand Trapper
+Shellrak
+Speakerstones
+Spider, Saber
+Swarm (Bee, Dunefish, Gilings, Glutton Locust, Hive-fly,
+Poison Wing, Termite, Wasp)
+Tent Bird
+Templates (Multi-Armed, Wild Bier)
+
+Expanded Psionics Handbook
+Astral Constructs
+Blue
+Brain Mole
+Caller in Darkness
+Crysmal
+Dromite
+Folugub
+Githyanki (psionic)
+Githzerai (psionic)
+Intellect Devourer
+Phrenic Creature
+Phthisic
+Psicrystal
+Psion Killer
+Puppeteer
+Thought Eater (can move between gray and prime instead
+of ethereal and prime)
+Thought Slayer
+Udoroot
+Yuan-Ti (psionic)
+Fiend Folio
+Ahuizotl
+Aquatic Ooze
+Blackstone Gigant
+Bloodhawk
+Caryatid Column
+Century Worm
+Chwidencha
+Crawling Head
+Darkweaver
+Flame Snake
+Iron Cobra
+Kelp Angle
+Living Holocaust
+Lucent Worm
+Mongrelfolk
+Necrophidius
+Octopus Tree
+Ocularon
+Phiuhl
+Shadow Asp
+Sporebat
+Swarm, Plague Ant
+Swarm, Scarab Beetle
+Swarm, Viper
+Terror Bird
+Thunder Worm
+Tunnel Terror
+Wicker Man
+Yellow Musk Creeper
+Yellow Musk Zombie
+Manual of the Planes
+Energon
+Ephemera
+Genie
+Paraelemental
+Templates (Element, Half-Elemental, Shadow)
+Miniatures Handbook
+Magma Hurler
+Nothic
+Shadow Beast
+Stonechild
+Walking Wall
+
+Monsters of Faerun
+Aballin
+Bat, Deep
+Cloaker Lord
+Crawling Claw
+Dark Tree
+Giant Strider
+Golem
+Spider, Subterranean
+
+Monster Manual
+Animal (ape, bat, black bear, brown bear, cat, cheetah,
+dog, eagle, hawk, leopard, lion, lizard, monitor lizard,
+monkey, octopus, owl, rat, raven, snake, squid, tiger)
+Animated Object
+Ankheg
+Aranea
+Arrowhawk
+Assassin Vine
+Azer
+Basilisk
+Beetle
+Behir
+Belker
+Bulette
+Chimera
+Cockatrice
+Darkmantle
+Dire Ape
+Dire Bat
+Dire Bear
+Dire Lion
+Dire Rat
+Dire Tiger
+Displacer Beast
+Dragonne
+Elemental
+Ettercap
+Ettin
+Genie
+Girallon
+Githyanki
+Githzerai
+Golem
+Hell Hound
+Imp
+Invisible Stalker
+Krenshar
+Magmin
+Mephit (all except i
+Owlbear
+Pseudodragon
+Rast
+Remorhaz, desert
+Scorpion, all
+Sea Cat
+Shadow
+Shadow Mastiff
+Skeleton
+Spider, all
+Spider Eater
+Thoqqua
+Tojanida
+Vermin
+Wyvern
+Yuan-Ti
+Zombie
+
+Monster Manual 2
+Breathdrinker
+Bronze Serpent
+Dire Hawk
+Dire Snake
+Dune Stalker
+Elemental Weird
+Fire Bat
+Forest Sloth
+Greenvise
+Juggernaut
+Megapede
+Moonbeast
+Nightmare Beast
+Psurlon
+Rampager
+Red Sundew
+Shadow Spider
+Spirit of the Land
+Tempest
+Thri-Kreen
+Templates
+Chimeric Creature
+Half Golem
+Monster of Legend (replace god with SM or SotL)
+Spellstiched
+Tauric
+Titanic
+Warbeast
+Monster Manual 3
+Arcane Ooze
+Astral Stalker
+Avalancher
+Battlebriar
+Brood Keeper
+Cadaver Collector
+Chelicera
+Chraal
+Cinder Swarm
+Conflagration Ooze
+Dread Blossom Swarm
+Dust Wight
+Elemental, Storm
+Golem (alchemical, hangman, mud, shadesteel, web)
+Harpoon Spider
+Kenku
+Knell Beetle
+Living Spell
+Night Twist
+Omnimental
+Salt Mummy
+Spellwarped Creature
+Summoning Ooze
+Swamp Strider Swarm
+Woodling
+Oriental Adventures
+Nature Spirit
+Tako
+Toad, Giant
+Savage Species
+Templates
+Feral Creature
+Gelatinous Creature
+Ghost Brute
+Incarnate Construct
+Insectile Creature
+Monstrous Beast
+Multiheaded Creature
+Mummified Creature
+Reptilian Creature
+Spectral Creature
+Symbiotic Creature
+Umbral Creature
+Wight
+Winged Creature
+Wraith
+Yuan-ti
+Tome of Horrors
+(Duplicates not included)
+Aerial Servant
+Algoid
+Amphisbaena
+Ant Lion
+Archer Bush
+Ascomoid
+Axe Beak
+Baric
+Basidirond
+Beetle
+Belabra
+Brown Pudding
+Cave Cricket
+Cave Moray
+Chrystones
+Clam, Giant
+Clubnek
+Cobra Flower
+Crab, Monstrous
+Crayfish, Monstrous
+Crystal Ooze
+Crystalline Horror
+Death Worm
+Decapus
+Diger
+Dragonfish
+Drake, Salt
+Dun Pudding
+Dust Digger
+Eel, Giant Moray
+Elemental (Lightning Quasi, Psionic)
+False Spider
+Fire Nymph
+Fire Snake
+Firefiend
+Floating Eye
+Forester‘s Bane
+Frog, Monstrous (Giant, Giant Dire, Killer)
+Froghemoth
+Gloomwing
+Golem
+Hamster, Giant
+Hangman Tree
+Hell Moth
+Jellyfish, Monstrous
+Jupiter Bloodsucker
+Kampfult
+Kelp Devil
+Khargra
+Land Lamprey
+Leech, Giant
+Livestone
+Lizard, Rock-Horned
+Luker Above
+Magma Ooze
+Madragora
+Mantari
+Marble Snake
+Memory Moss
+Mercury Ooze
+Mihstu
+Mudman
+Mustard Jelly
+Obsidian Minotaur
+Olive Slime
+Phycomid
+Piercer
+Purple Moss
+Quickwood
+Rat, Shadow
+Rot Grub
+Russet Mold
+Sandling
+Sandman
+Scarlet Spider
+Scythe Tree
+Shadow, Lesser
+Slithering Tracker
+Slug, Giant
+Spinal Leech
+Stegocentipede
+Stranglweed
+Stunjelly
+Symiotic Jelly
+Tenebrous Worm
+Throat Leech
+Tick, Giant
+Tiger Barb, Giant
+Tri-Flower Frond
+Tunnel Worm
+Twilight Mushroom
+Vampire Rose
+Vilstrak
+White Pudding
+Wind Walker
+Witherweed
+Wolf-Spider
+Animals (barracuda, deer, electric eel, quipper)
+Templates (Abomination)
+Underdark
+Earth Glider
+Giant Cockroach
+Giant Maggot
+Lith
+Lurker
+Maur
+Stone Flyer
+Templates (Mineral Warrior)
