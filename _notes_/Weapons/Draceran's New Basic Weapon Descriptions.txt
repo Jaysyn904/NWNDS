@@ -5,3 +5,11 @@ Dagger
 For most intelligent species on Athas, having or not having a knife is the difference in being able to prepare wood for a fire, skins for clothing, food for consumption, or even wounds for dressing.  While as serviceable as any other short, sharp object when it comes to the art of amateur bloodletting, remember that the knife is a tool of utility first, and a weapon of violence second, and act accordingly.
 
 This particular specimen, however, is not a tool.  Front toward enemy, clean after use."
+
+
+
+"Swords, by their very nature, are weapons of vanity.
+
+It does not take a three foot long, relatively delicate blade to kill a man, and the training required to make use of a sword is far in excess of that of other, comparably lethal weapons.  Organs, to be blunt, simply do not care whether what punctures them is rich and complex, or crude and cheap.
+
+Thus, in a practical society, such as on Athas, that makes these weapons more signal than armament.  A person openly brandishing a sword may either be displaying they have the wealth or prestige necessary to own it, or they are one of the few with the sheer bloody skill needed to use it.  In either event, it is a warning to others that the bearer is not to be trifled with.  Which category you fall into is entirely up to you."
