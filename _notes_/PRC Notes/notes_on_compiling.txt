@@ -1,0 +1,28 @@
+A few notes about compiling:
+
+There are a bunch of batch files at the nwnprc/ module root. These are your interface to the build system.
+The makefile depends on a machine-specific file called config.make. This file specifies the location of NWN
+on the current system and the PRC version string.
+
+#begin example config.make
+NWN_DIR = E:\NeverWinterNights\NWN
+PRC_VERSION = 23a
+PRC_INSTALLVERSION = 2.3a
+#end example config.make
+
+
+The batch files:
+
+clean.bat - Cleans all object files. Use after drastic changes to make sure no old cruft lies around. Also always to be used before building a release.
+
+make.bat  - Builds the makefile and then runs it
+
+buildmake.bat - Builds the makefile
+runmake.bat   - Runs a pre-built makefile
+
+
+
+By default, the build process compiles each of the scripts. The scripts are then packaged into haks that are placed
+under CompiledResources. The erfs are similarly built and placed under CompiledResources.
+The tlk.xml file is converted into a tlk file.
+These generated files are also installed into their respective subdirectories under your NWN directory.

@@ -1,0 +1,17 @@
+Racial SLAs:
+
+1) Add new line with to spells.2da, copy line from spell entry and update impact script to race_sla, change any class spell level entries to ****
+
+2) Define new constant in prc_spell_const.nss with name pointing to newly added spells.2da line number
+
+3) Add new case to race_sla.nss using constant defined in step 2
+    a.    Set caster level using nCasterLvl = 1; 
+    b.    Set spell script to run using nSpell = SPELL_FAERIE_FIRE;  (spell constant from prc_spell_const.nss)
+
+4) Add line to feat.2da with name and description of racial SLA, make sure SPELLID column matches line number from spells.2da defined in #1. Set uses per day column
+
+5) Update cls_feat_allBaseClasses.2da in \devnotes\, adding the feats under the **RacialFeats** line but before **BonusDomains**
+
+6) Run update_all_base_classes_feats.bat before compile
+
+7) Full compile

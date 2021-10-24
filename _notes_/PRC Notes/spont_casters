@@ -1,0 +1,27 @@
+Spont:
+Make cls_spgn_*.2da
+Make cls_spkn_*.2da
+Make cls_spcr_*.2da
+Make blank cls_spell_*.2da
+Add cls_spkn_*.2da and cls_spgn_*.2da to classes.2da
+Add class entry in prc_classes.2da
+Add class to GetSpellbookTypeForClass() below
+Add class to GetAbilityScoreForClass() below
+Add class to bKnowsAllClassSpells() below if necessary
+Add class to GetIsArcaneClass() or GetIsDivineClass() in prc_inc_castlvl as appropriate
+Add class to GetCasterLevelModifier() in prc_inc_castlvl if necessary
+Add class to SetupLookupStage() in inc_lookups
+Add class to GetCasterLvl() in prc_inc_spells
+Add Practiced Spellcaster feat to feat.2da and to PracticedSpellcasting() in prc_inc_castlvl
+Add class to prc_amagsys_gain if(CheckMissingSpells(oPC, CLASS_TYPE_SORCERER, MinimumSpellLevel, MaximumSpellLevel))
+Add class to ExecuteScript("prc_amagsys_gain", oPC) list in EvalPRCFeats in prc_inc_function
+Run the assemble_spellbooks.bat file
+Make the prc_* scripts in newspellbook
+
+prc_classes.2da entry:
+Label       - name for the class
+Name        - tlk file strref
+SpellCaster - does the class cast spells? 0 = No, 1 = Yes (used for bonus spellslot item properties)
+SBType      - S = spontaneous, P = prepared
+AL          - does the class use Advanced Learning of any type? 0 = No, 1 = Yes
+*/
