@@ -5,7 +5,7 @@ This repo deals with project tracking, bugfixing & information for the NWN Dark 
 
 DMFI + HCR2 + CEP 2.6 + PRC 4.1.4a
 
-21 Base Classes & 46 Prestige Classes from the PRC
+20 Base Classes & 45 Prestige Classes
 
 3 Athasian 3.5e classes, with more to come.
 
@@ -40,7 +40,6 @@ Lord Rosenkantz - Hut Interiors v1.3
 Zunath - Buildable Persistent Player Housing System
 
 HCR2 - Hunger, Thirst & Fatigue
-
 
 
 ### Athas Reborn / Dark Sun Online Contributors
