@@ -23,7 +23,7 @@ Custom Overworld Map System with over 5100 kilometers of Athasian terrain to exp
 
 Draygoth, Acidchalk, Azimn, Tonden - Models & tilesets
 
-Dizzit_Gardan - Quests & scripting.
+Dizzit_Gardan - Quests, scripting, tilesets & models.
 
 Draceran & Dromin - Wordsmithing
 
