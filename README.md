@@ -3,7 +3,7 @@ This repo deals with project tracking, bugfixing & information for the NWN Dark 
 
 ## Features
 
-DMFI + HCR2 + CEP 2.6 + PRC 4.1.4a
+DMFI + HCR2 + CEP 2.6 + PRC 4.1.5
 
 20 Base Classes & 45 Prestige Classes
 
