@@ -1,0 +1,40 @@
+Assassin
+
+(EPIC PRESTIGE CLASS)
+The Athasian assassin is a master illusion as well as dealing quick, lethal blows. Assassins often function as spies, informants, killers for hire, or agents of vengeance. Their skill in a variety of dark arts allows them to carry out missions of death with shocking, terrifying precision. Epic rogues and bards are the only classes that can transition into the arcane Athasian assassin.
+
+WARNING: To cast a spell, an Assassin must have a Intelligence score of 10 + the spell's level. For example, to cast a 6th-level spell, an Assassin must have a Intelligence of 16.
+
+- Hit Die: d6.
+- Proficiencies: Simple Weapons, Light Armor Proficiency.
+- Skill Points: 4 + Int Modifier.
+
+REQUIREMENTS:
+
+- Alignment: Any non-good.
+- Skills: Hide 8 ranks, Move Silently 8 ranks.
+- 20th lvl Bard or 20th lvl Rogue
+
+
+Level BAB         Fort  Ref  Will  Special                                            Spells per Day 
+                                                                               1st  2nd  3rd  4th  5th  6th
+1st   +0          +2    +0   +2    Spellcasting, Use Poison, Death Att +1d6		1    -    -    -    -    -  
+2nd   +1          +3    +0   +3    Uncanny Dodge I, +1 Poison Saves             2    -    -    -    -    -  
+3rd   +2          +3    +1   +3    Death Attack +2d6                            2    1    -    -    -    -  
+4th   +3          +4    +1   +4    +2 Poison Saves                              3    2    -    -    -    -  
+5th   +3          +4    +1   +4    Death Attack +3d6, Uncanny Dodge II          3    2    1    -    -    -  
+6th   +4          +5    +2   +5    +3 Poison Saves                              3    3    2    -    -    -  
+7th   +5          +5    +2   +5    Hide in Plain Sight, Death Attack +4d6       4    3    2    1    -    - 
+8th   +6/+1       +6    +2   +6    +4 Poison Saves                              4    3    3    2    -    -
+9th   +6/+1       +6    +3   +6    Death Attack +5d6                            4    4    3    2    1    -
+10th  +7/+2       +7    +3   +7    Uncanny Dodge III, +5 Poison Saves           4    4    3    3    2    -
+11th  +8/+3       +7    +3   +7    Death Attack +6d6                            4    4    4    3    2    1
+12th  +9/+4       +8    +4   +8    +6 Poison Saves                              4    4    4    3    3    2
+13th  +9/+4       +8    +4   +8    Death Attack +7d6                            4    4    4    4    3    2
+14th  +10/+5      +9    +4   +9    +7 Poison Saves                              4    4    4    4    3    3
+15th  +11/+6/+1   +9    +5   +9    Death Attack +8d6               				4    4    4    4    4    3
+16th  +12/+7/+2   +10   +5   +10   +8 Poison Saves                   			4    4    4    4    4    3
+17th  +12/+7/+2   +10   +5   +10   Death Attack +9d6                            4    4    4    4    4    4
+18th  +13/+8/+3   +11   +6   +11   +9 Poison Saves            					4    4    4    4    4    4
+19th  +14/+9/+4   +11   +6   +11   Death Attack +10d6                           4    4    4    4    4    4
+20th  +15/+10/+5  +12   +6   +12   +10 Poison Saves   							4    4    4    4    4    4

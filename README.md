@@ -43,20 +43,6 @@ Zunath - Buildable Persistent Player Housing System
 
 HCR2 - Hunger, Thirst & Fatigue
 
-Gaoneng - Castle Interior Windows
-
-Stephen Nispel - Windows for Castle Interior
-
-YellowLab - Round Tiles for Castle Tileset
-
-Danmar - LOK Tileset Addon #7 (Blank tiles)
-
-Sithen - Dais
-
-BRolanda - Usable beds
-
-Sarchasm - Stone Room Bath
-
 
 ### Athas Reborn / Dark Sun Online Contributors
 
