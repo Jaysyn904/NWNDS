@@ -1,0 +1,41 @@
+H2_HT_ALCOHOL_VALUE  FLOAT 10
+
+H2_HT_THIRST_VALUE  FLOAT 33.3
+
+Asticles wine has a pale golden color and a tart, dry scent. It has a light taste that leaves the mouth dry. It is a very fine drink and as such is very expensive. Asticles wine is the preferred drink of nobles in Tyr. 
+
+Brown wine is thick and is an acquired taste.
+
+Broy is made from fermented kank nectar. Spiced broy and watered-down broy are also available. When served plain, it is potent and foul tasting. However, broy can be served warm and spiced with a pungent herb that disguises its sourness, as well as enhanced its enrapturing powers.
+
+The bulis berries can be made into a wine with a dark blue-purple color. The taste is sickeningly sweet and so is often mixed with water.
+
+Many elven tribes make their own wine, thought the process and quality vary from tribe to tribe. The Fastcoin elven tribe specializes in the sale of a simplistic elven wine, light on taste but fast and cheap to produce. Sky Singer wine, on the other hand, is made from kank honey and is an acquired taste, potent in both flavor as well as alcohol content. 
+
+Fermented goat's milk is served in most bars. 
+
+Honey barley ale is made from honey barley. It has a smooth taste that is slightly sweet.
+
+Fermented javo nectar is potent. The nectar retains the sweet flavor of the javo, but does not have the obnoxious smell.
+
+Klick-win is a sickly-sweet wine made from fermented flowers by tohr-kreen.
+
+Kola nuts are from Gulg. The nuts can be ground into a fine powder which is then steeped in water. The resulting beverage is tasty and also stimulates the mind and wards off sleep.
+
+Milkwine is a gummy liquid.
+
+Palm wine is of poor quality but is affordable to the lower classes.
+
+A sweet dessert wine, port is drank exclusively by the nobility.
+
+Pulque is fermented cactus juice that is drunk in Draj. Pulque comes from the huge maguey cactus. The taste is milky and slightly sour. 
+
+A thick red wine that is served in Tyr.
+
+Sapwine is tart. It is fermented from tree resin and has a powerful kick. Most consider it to be the foulest drink available in the wine shops of Tyr and Gulg.
+
+The scuppernong is a hearty, roughskinned silver berry that grows on small shrubs.  It can be fermented into a silver wine that is thick, with a slightly bitter taste.
+
+A common beverage, spiced mead is served in many taverns.
+
+Spiced wine is sold in most wine shops. The wine is mixed with a variety of spices to give it a strong flavor.
