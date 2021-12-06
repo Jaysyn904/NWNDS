@@ -1,3 +1,45 @@
+0	Dark_Sun_Dwarf
+1	Dark_Sun_Elf
+2	Mul
+3	Dark_Sun_Halfling
+4	Dark_Sun_HalfElf
+21	DRAY_1ST_GEN
+22	DRAY_2ND_GEN
+30	Villichi
+31	Gith
+32	Aarakocra
+33	Magma_Genasi
+34	Rain_Genasi
+35	Silt_Genasi
+36	Sun_Genasi
+37	Belgoi
+39	Pterran
+41	Tari
+42	Tarek
+43	Thor-Kreen_Jez   HLSLANG_43_48
+44	Thor-Kreen_Tondi
+45	Thri-Kreen_Toksa
+46	Thor-Kreen_Jhol
+47	Thor-Kreen_Tkeech
+48	Thri-Kreen_Jeral
+199	Air_Genasi
+200	Earth_Genasi
+202	Fire_Genasi
+205	Water_Genasi
+219	Lizardfolk
+220	YuanTi_Pure
+222	Githyanki
+225	Illithid
+
+HLSLANG_199
+
+This token allows you to speak Aquan, the language of the elemental plane of water.
+
+This token allows you to speak the belgoi tongue.
+
+
+####OLD 
+
 Language - Aarakocran - hlslang_106
 Language - Dwarven - hlslang_4
 Language - Elven - hlslang_1
