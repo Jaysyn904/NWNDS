@@ -1,7 +1,3 @@
-H2_HT_ALCOHOL_VALUE  FLOAT 10
-
-H2_HT_THIRST_VALUE  FLOAT 33.3
-
 Asticles wine has a pale golden color and a tart, dry scent. It has a light taste that leaves the mouth dry. It is a very fine drink and as such is very expensive. Asticles wine is the preferred drink of nobles in Tyr. 
 
 Brown wine is thick and is an acquired taste.
