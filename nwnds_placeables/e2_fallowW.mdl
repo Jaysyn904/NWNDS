@@ -1,0 +1,68 @@
+# Exported from NWMax Plus for gMax v3.10.14 at 5/31/2014 4:04:12 AM
+# mdl file
+#
+#NWMax Plus MODEL ASCII
+# model: e2_fallowW
+filedependancy hut1.gmax
+newmodel e2_fallowW
+setsupermodel e2_fallowW NULL
+classification Character
+setanimationscale 0.25
+#NWMax Plus GEOM  ASCII
+beginmodelgeom e2_fallowW
+node dummy e2_fallowW
+  parent NULL
+endnode
+node trimesh temp
+  parent e2_fallowW
+  position -17.643 4.18992 -0.279575
+  orientation 1.0 0.0 0.0 0.0
+  wirecolor 0.568627 0.109804 0.694118 
+  tilefade 0
+  scale 1.0
+  render 1
+  Shadow 0
+  beaming 0
+  inheritcolor 0
+  rotatetexture 0
+  alpha 1.0
+  transparencyhint 0
+  selfillumcolor 0.0 0.0 0.0 
+  center 1768.3 -414.412 16.9456 
+  ambient 0.980392 0.980392 0.980392 
+  diffuse 0.980392 0.980392 0.980392 
+  specular 0.0 0.0 0.0 
+  shininess 10.0
+  bitmap e2_fallow1
+  verts 8
+    13.8229 -0.40305 0.338912
+    13.8229 -8.11545 0.338912
+    21.4682 -8.11545 0.338912
+    21.4682 -0.40305 0.338912
+    12.9955 0.543379 0.0
+    12.9955 -8.83162 0.0
+    22.3705 -8.83162 0.0
+    22.3705 0.543379 0.0
+  faces 10
+    0 1 2  1  0 1 2  1
+    2 3 0  2  2 3 0  1
+    4 5 1  3  4 5 1  1
+    1 0 4  4  1 0 4  1
+    5 6 2  5  5 6 2  1
+    2 1 5  6  2 1 5  1
+    6 7 3  7  6 7 3  1
+    3 2 6  8  3 2 6  1
+    7 4 0  9  7 4 0  1
+    0 3 7  10  0 3 7  1
+  tverts 8
+    0.0881597 0.0881599 0
+    0.91184 0.0881597 0
+    0.91184 0.91184 0
+    0.0881599 0.91184 0
+    0.000499487 0.000499785 0
+    0.9995 0.000499547 0
+    0.999501 0.9995 0
+    0.000499725 0.9995 0
+endnode
+endmodelgeom e2_fallowW
+donemodel e2_fallowW
