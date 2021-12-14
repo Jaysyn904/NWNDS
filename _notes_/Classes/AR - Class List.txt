@@ -1,86 +1,65 @@
-Barbarian
 Bard
 Cleric
 Druid
 Fighter
 Ranger
 Rogue
-Sorcerer
-Wizard
+Preserver (Wizard)
 Shadowdancer
-Arcane_Archer
+Arcane Archer
 Assassin
-Blackguard
-WeaponMaster
-Pale_Master
-Shifter
-Dwarven_Defender
-Dragon_Disciple
+Weapon Master
+Pale Master
+Dwarven Defender
+Drake Child (Dragon Disciple)
+Ranger (Archery Focus)
+Templar
+Defiler (Wizard)
+Psionicist
 Gladiator
-Abjurant Champion ???
-Mystic_Thurge
+Reaping Mauler
+Mystic Thurge
 Warpriest
 Virtuoso
-Marshal
 Swashbuckler
 Scout
-Healer
-Mage_Killer
-Elemental_Savant_Fire
-Elemental_Savant_Cold
-Elemental_Savant_Elec
-Elemental_Savant_Acid
-DIV_ELE_Savant_Fire
-DIV_ELE_Savant_Cold
-DIV_ELE_Savant_Elec
-DIV_ELE_Savant_Acid
+Spell Sword
+Elemental Savant
 Beguiler
 Duelist
 Hierophant
-Vigilant
-PnPShifter
-Arcane_Duelist
+Shifter
+Arcane Duelist
+Abjurant Champion
 Archmage
 Oozemaster
-ShadowAdept
-ManAtArms
-BondedSummoner
-Bowman
-Sacred_Fist
-Legendary_Dreadnought
-Shadowblade
+Psychic Rogue
+Bonded Summoner
+Legendary Dreadnought
 Psion
-Psychic_Warrior
+Psychic Warrior
 Soulknife
 Wilder
-True_Necro
-Arcane_Trickster
-Peerless_Archer
+True Necromancer
+Arcane Trickster
+Peerless Archer
 Lasher
-Combat_Medic
+Bow Initiate
+Combat Medic
 Ollam
-WarslingSniper
-MasterOfShrouds
-Frenzied_Berserker
+Warsling Sniper
+Frenzied Berserker
 Tempest
-Foe_Hunter
-DreadNecromancer
-Archivist - no
-Templar
-Enlightened_Fist
-Pyrokineticist - >  Kineticist
+Foe Hunter
+Dread Necromancer
+Elementalist (Pyrokineticist)
 Shadowmind
-Psychic_Thurge
+Psychic Thurge
 Cerebremancer
 Thrallherd
-Contemplative
-Warchief
 Warmind
-IronMind
-SanctifiedMind
-Dirgesinger
-SkullclanHunter
-MasterAlchemist
+Iron Mind
+Sanctified Mind
+Skullclan Hunter
+Master Alchemist
 Warblade
-Minstrel_of_the_Edge
-Brawler - disable
