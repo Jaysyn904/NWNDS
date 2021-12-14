@@ -1,21 +1,34 @@
+Dark Sun Dwarf
+Dark Sun Elf
+Mul
+Dark Sun Halfling
+Dark Sun HalfElf
+Dark Sun HalfGiant
 Human
+1st Gen Dray
+2nd Gen Dray
+Villichi
 Gith
 Aarakocra
-Dark_Sun_Dwarf
-Dark_Sun_Elf
-Dark_Sun_HalfElf
-Dark_Sun_HalfGiant
-Dark_Sun_Halfling
-Mul
+Magma Genasi
+Rain Genasi
+Silt Genasi
+Sun Genasi
+Belgoi
 Pterran
-Thri_Kreen
 Tari
-Air_Genasi
-Earth_Genasi
-Fire_Genasi
-Water_Genasi
+Tarek
+Thor-Kreen, Jez
+Thor-Kreen, Tondi
+Thri-Kreen, Toksa
+Thor-Kreen, Jhol
+Thor-Kreen, Tkeech
+Thri-Kreen, Jeral
+Air Genasi
+Earth Genasi
+Fire Genasi
+Water Genasi
 Lizardfolk
-YuanTi_Pure
+YuanTi, Pureblood
 Githyanki
-Githzerai
 Illithid
