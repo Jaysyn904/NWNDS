@@ -43,6 +43,8 @@ Zunath - Buildable Persistent Player Housing System
 
 HCR2 - Hunger, Thirst & Fatigue
 
+69MEH69 - Module Builders Henchman Kit
+
 
 ### Athas Reborn / Dark Sun Online Contributors
 
