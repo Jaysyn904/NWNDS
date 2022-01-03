@@ -1,0 +1,71 @@
+epic_sp_audstone	Audience of Stone 		
+epic_sp_achilles	Achilles Heel 		
+epic_sp_allmart		Allied Martyr 		
+epic_sp_allhope		All Hope Lost 		
+epic_sp_anarchy		Anarchy's Call
+epic_sp_animblas	Animus Blast				
+epic_sp_animbliz	Animus Blizzard 		
+epic_sp_armyunfa	Army Unfallen
+epic_sp_batbound	Battle Bounding		
+epic_sp_celcounc	Celestial Council		
+epic_sp_champval	Champion's Valor	
+epic_sp_contresu	Contingent Resurrection		
+epic_sp_contreun	Contingent Reunion	
+epic_sp_deadeyes	Deadeye Sense	
+epic_sp_direwint	Dire Winter	
+epic_sp_dreamscp	Dreamscape	
+epic_sp_dragonkn	Dragon Knight		
+epic_sp_deathmrk	Deathmark		
+epic_sp_dullblad	Dullblades
+epic_sp_dweomert	Dweomer Thief		
+epic_sp_enslave		Enslave	
+epic_sp_epmagarm	Epic Mage Armor 		
+epic_sp_eprepuls	Epic Repulsion	
+epic_sp_epspellr	Epic Spell Reflection 	
+epic_sp_epwardin	Epic Warding	
+epic_sp_eterfree	Eternal Freedom	
+epic_sp_fiendwrd	Fiendish Words 		
+epic_sp_fleetnes	Fleetness of Foot	
+epic_sp_gemcage		Gem Cage 		
+epic_sp_godsmite	Godsmite
+epic_sp_greatrui	Greater Ruin
+epic_sp_grspellr	Greater Spell Resistance 			
+epic_sp_grtimest	Greater Timestop		
+epic_sp_hellball	Hellball
+epic_sp_hellsend	Hell Send		
+epic_sp_hercalli	Herculean Alliance		
+epic_sp_hercempo	Herculean Empowerment		
+epic_sp_impenetr	Impenetrability
+epic_sp_leechfie	Leech Field	
+epic_sp_legendar	Legendary Artisan	
+epic_sp_lifeforc	Life Force Transfer		
+epic_sp_magmabur	Magma Burst	
+epic_sp_masspeng	Mass Penguin 		
+epic_sp_momentom	Momento Mori		
+epic_sp_mummdust	Mummy Dust	
+epic_sp_nailedsk	Nailed to the Sky 	
+epic_sp_nightsun	Night's Undoing		
+epic_sp_orderres	Order Restored	
+epic_sp_pathsbec	Paths Become Known 		
+epic_sp_peerless	Peerless Penitence 	
+epic_sp_pestilen	Pestilence	
+epic_sp_piouspar	Pious Parley 		
+epic_sp_planarce	Planar Cell 		
+epic_sp_psionics	Psionic Salvo 		
+epic_sp_rainfire	Rain of Fire 	
+epic_sp_risenreu	Risen Reunited 		
+epic_sp_ruin		Ruin 		
+epic_sp_singsund	Singular Sunder 		
+epic_sp_spelworm	Spell Worm 		
+epic_sp_stormman	Storm Mantle 		
+epic_sp_summaber	Summon Aberration	
+epic_sp_superbdi	Superb Dispelling
+epic_sp_symrusta	Symrustar's Spellbinding	
+epic_sp_thewithe	The Withering	
+epic_sp_tolodine	Tolodine's Killing Wind	
+epic_sp_transvit	Transcendent Vitality 	
+epic_sp_twinfien	Twinfiend	
+epic_sp_unholydi	Unholy Disciple	
+epic_sp_unimping	Unimpinged
+epic_sp_unseenwa	Unseen Wanderer	
+epic_sp_whipshar	Whip of Shar 
