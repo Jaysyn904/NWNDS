@@ -1,68 +1,65 @@
-Barbarian
 Bard
 Cleric
 Druid
 Fighter
 Ranger
 Rogue
-Wizard
+Preserver (Wizard)
 Shadowdancer
-Arcane_Archer
+Arcane Archer
 Assassin
-Blackguard
-WeaponMaster
-Pale_Master
-Dwarven_Defender
-Dragon_Disciple
-Ranger_Archer
+Weapon Master
+Pale Master
+Dwarven Defender
+Drake Child (Dragon Disciple)
+Ranger (Archery Focus)
 Templar
-Defiler
+Defiler (Wizard)
 Psionicist
 Gladiator
-ReapingMauler
-Mystic_Thurge
+Reaping Mauler
+Mystic Thurge
 Warpriest
 Virtuoso
 Swashbuckler
 Scout
-Spell_Sword
-Elemental_Savant
+Spell Sword
+Elemental Savant
 Beguiler
 Duelist
 Hierophant
-PnPShifter
-Arcane_Duelist
-Abjurant_Champion
+Shifter
+Arcane Duelist
+Abjurant Champion
 Archmage
 Oozemaster
-Psychic_Rogue
-BondedSummoner
-Legendary_Dreadnought
-Ravager
+Psychic Rogue
+Bonded Summoner
+Legendary Dreadnought
 Psion
-Psychic_Warrior
+Psychic Warrior
 Soulknife
 Wilder
-True_Necro
-Arcane_Trickster
-Peerless_Archer
+True Necromancer
+Arcane Trickster
+Peerless Archer
 Lasher
-Bow_Initiate
-Combat_Medic
+Bow Initiate
+Combat Medic
 Ollam
-WarslingSniper
-Frenzied_Berserker
+Warsling Sniper
+Frenzied Berserker
 Tempest
-Foe_Hunter
-DreadNecromancer
-Pyrokineticist
+Foe Hunter
+Dread Necromancer
+Elementalist (Pyrokineticist)
 Shadowmind
-Psychic_Thurge
+Psychic Thurge
 Cerebremancer
 Thrallherd
 Warmind
-IronMind
-SanctifiedMind
-SkullclanHunter
-MasterAlchemist
+Iron Mind
+Sanctified Mind
+Skullclan Hunter
+Master Alchemist
 Warblade
