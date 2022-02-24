@@ -163,7 +163,7 @@ Magic Domain (Nibenay)
 1.) Shield
 2.) Identify
 3.) Dispel Magic
-4.)
+4.) Globe of Invulnerability, Minor
 5.) Spell Resistance
 6.) Anitmagic Field
 7.) Spell Turning
@@ -227,49 +227,86 @@ Travel Domain
 
 1.) Longstrider
 2.) Locate Object
-3.)
+3.) Freedom of Movement
 4.) Dimension Door
 5.) Teleport
-6.)
+6.) Haste, Mass
 7.) Teleport, Greater
-8.) 
-9.)
+8.) Word of Recall
+9.) Gate
 
 
 Trickery Domain
 
-1.) 
+1.) Disguise Self
 2.) Invisibility
-3.)
-4.)
-5.)
-6.)
-7.)
-8.)
-9.)
+3.) Nondetection
+4.) Confusion
+5.) Improved Invisibility
+6.) Mislead
+7.) Baleful Polymorph
+8.) Scintillating Pattern
+9.) Time Stop
 
 
 War Domain (Hamanu)
 
-1.) 
-2.)
-3.)
-4.)
-5.)
-6.)
-7.)
-8.)
-9.)
+1.) Magic Weapon 
+2.) Persistent Blade
+3.) Magic Vestment
+4.) Divine Power
+5.) Flame Strike
+6.) Blade Barrier
+7.) Power Word, Blind
+8.) Power Word, Stun
+9.) Power Word, Kill
 
 
 Water Domain
 
-1.) 
+1.) Obscuring Mist
+2.) Fog Cloud
+3.) Water Breathing
+4.) Solid Fog
+5.) Ice Storm
+6.) Cone of Cold
+7.) Acid Fog
+8.) Horrid Wilting
+9.) Elemental Swarm
+
+
+Magma Domain
+
+1.) Flame Weapon
 2.)
 3.)
-4.)
-5.)
-6.)
+4.) Elemental Shield
+5.) Energy Buffer
+6.) Flame Strike
 7.)
-8.)
-9.)
+8.) Incendiary Cloud
+9.) Delayed Blast Fireball
+
+Rain Domain
+
+1.) Obscuring Mist
+2.) Fog Cloud
+3.) Call Lightining
+4.)	Sleet Storm
+5.) Gust of Wind
+6.) Acid Storm
+7.) Control Weather 
+8.) Great Thunderclap
+9.) Storm of Vengeance
+
+Silt Domain
+
+1.) Grease
+2.) Blindness & Deafness
+3.) Glitterdust
+4.)	Acid Breath
+5.) Energy Buffer
+6.) Acid Sheath
+7.) Power Word, Blind
+8.) Horrid Wilting
+9.) Acid Storm
