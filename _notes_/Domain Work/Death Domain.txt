@@ -1,0 +1,6 @@
+Type of Feat: Domain
+Prerequisite: Access to the Death domain.
+Granted Power: You may use a death touch once per day. You must succeed at a melee touch attack. When you touch, 1d6 per cleric level is rolled. If this is equal or greater than the target's hit points, it dies.
+Bonus Spells: The cleric gains access to the following spells at the specified spell level: Cause Fear (1), Death Knell (2), Animate Dead (3), Death Ward (4), Slay Living (5), Create Undead (6), Destruction (7), Create Greater Undead (8), Wail of the Banshee (9)
+
+Use: Automatic.

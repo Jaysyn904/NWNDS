@@ -102,7 +102,7 @@ Good Domain
 1.) Protection from Evil
 2.) Aid
 3.) Magic Circle vs. Evil
-4.) Hammer of the Gods
+4.) Divine Hammer
 5.) Planar Ally
 6.) Blade Barrier
 7.) Holy Word
@@ -138,7 +138,7 @@ Law Domain (Andropinis)
 1.) Protection from Chaos
 2.) Calm Emotions
 3.) Magic Circle against Chaos
-4.) Hammer of the Gods
+4.) Divine Hammer
 5.) Planar Ally
 6.) Hold Monster
 7.) Dictum
@@ -148,10 +148,10 @@ Law Domain (Andropinis)
 Luck Domain
 
 1.) Entropic Shield 
-2.) Aid
+2.) Bestow Curse
 3.) Protection from Elements
 4.) Freedom of Movement
-5.) Break Enchantment
+5.) Sphere of Chaos
 6.) Mislead
 7.) Spell Turning
 8.) Moment of Prescience
@@ -165,7 +165,7 @@ Magic Domain (Nibenay)
 3.) Dispel Magic
 4.) Globe of Invulnerability, Minor
 5.) Spell Resistance
-6.) Anitmagic Field
+6.) Antimagic Field
 7.) Spell Turning
 8.) Protection from Spells
 9.) Disjunction
@@ -279,7 +279,7 @@ Magma Domain
 
 1.) Flame Weapon
 2.)
-3.)
+3.) Channeled Pyroburst
 4.) Elemental Shield
 5.) Energy Buffer
 6.) Flame Strike
@@ -310,3 +310,68 @@ Silt Domain
 7.) Power Word, Blind
 8.) Horrid Wilting
 9.) Acid Storm
+
+Nobility Domain (Andropinis)
+
+1.) Divine Favor
+2.) Enthrall
+3.) Magic Vestment
+4.) Locate Object
+5.) Greater Command
+6.) Greater Heroism
+7.) Repulsion
+8.) Dominate Monster
+9.) Storm of Vengeance
+
+
+Glory Domain (Tectuktitlay)
+
+1.) Disrupt Undead
+2.) Bless Weapon
+3.) Searing Light
+4.) Divine Hammer
+5.) Holy Sword
+6.) Bolt of Glory
+7.) Sunbeam
+8.) Aura of Glory
+9.) Gate
+
+
+Madness Domain (Daskinor)
+
+1.) Color Spray 
+2.) Daze Monster
+3.) Rage
+4.) Confusion
+5.) Mind Fog
+6.) Phantasmal Killer
+7.) Insanity
+8.) Symbol of Insanity
+9.) Weird
+
+
+Mind Domain (Nibenay)
+
+1.) Gentle Reminder
+2.) Blindness / Deafness
+3.) Crushing Despair
+4.) Lesser Mind Blank
+5.) Feeblemind 
+6.) Mind Fog
+7.) Stern Reproof
+8.) Mind Blank
+9.) Weird
+
+
+
+Blank Domain 
+
+1.) 
+2.) 
+3.) 
+4.) 
+5.) 
+6.) 
+7.) 
+8.) 
+9.) 

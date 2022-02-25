@@ -1,0 +1,6 @@
+Type of Feat: Domain
+Prerequisite: Access to the Sun domain.
+Granted Power: Once per day, you can perform a greater turning. The greater turning is like a normal turning attempt, except that undead creatures that would be turned are destroyed instead.
+Bonus Spells: The cleric gains access to the following spells at the specified spell level: Endure Elements (1), Flashburst (2), Searing Light (3), Elemental Shield (4), Flame Strike (5), Prismatic Ray (6), Sunbeam (7), Sunburst (8), Prismatic Sphere (9)
+
+Use: Automatic.

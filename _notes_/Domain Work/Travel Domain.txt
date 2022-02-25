@@ -1,0 +1,6 @@
+Type of Feat: Domain
+Prerequisite: Access to the Travel domain.
+Granted Power: Once per day, you may cast Freedom of Movement on yourself. This lasts for a number of rounds equal to your cleric level.
+Bonus Spells: The cleric gains access to the following spells at the specified spell level: Longstrider (1), Locate Object (2), Freedom of Movement (3), Dimension Door (4), Teleport (5), Haste, Mass (6), Teleport, Greater (7), Word of Recall (8), Gate (9)
+
+Use: Automatic.

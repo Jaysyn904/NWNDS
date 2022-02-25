@@ -1,0 +1,7 @@
+Type of Feat: Domain
+Prerequisite: Access to the Destruction domain.
+Granted Power: Once per day, you may make a single melee attack with a +4 bonus to attack, and a damage bonus equal to your cleric level.
+Bonus Spells: 
+The cleric gains access to the following spells at the specified spell level: Inflict Light Wounds (1), Inflict Moderate Wounds (2), Contagion (3), Inflict Critical Wounds (4), Circle of Doom (5), Harm (6), Disintegrate (7), Earthquake (8), Implosion (9)
+
+Use: Automatic.

@@ -1,0 +1,7 @@
+Type of Feat: Domain
+Prerequisite: Access to the Earth domain.
+Granted Power: Turn or Destroy Air creatures as a good cleric turns undead. Rebuke or Command Earth creatures as an evil cleric rebukes undead. Use these abilities a number of times per day equal to 3 + Charisma modifier
+Bonus Spells: 
+The cleric gains access to the following spells at the specified spell level: Magic Stone (1), Spike Growth (2), Hail of Stones (3), Stonehold (4), Flesh to Stone (5), Stoneskin (6), Earthquake (7), Iron Body (8), Elemental Swarm (9)
+
+Use: Automatic.

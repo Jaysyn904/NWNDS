@@ -1,0 +1,7 @@
+Type of Feat: Domain
+Prerequisite: Access to the Trickery domain.
+Granted Power: Bonus to Hide, Persuade, Search, Disable Trap, Move Silently, Open Lock, and Pick Pockets checks equal to 1 per 2 levels. This effect lasts for 5 turns + the cleric's Charisma modifier.
+Bonus Spells: 
+The cleric gains access to the following spells at the specified spell level: Disguise Self (1), Invisibility (2), Nondetection (3), Confusion (4), Improved Invisibility (5), Mislead (6), Baleful Polymorph (7), Scintillating Pattern (8), Time Stop (9)
+
+Use: Automatic.

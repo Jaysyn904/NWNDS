@@ -1,0 +1,8 @@
+Type of Feat: Domain
+Prerequisite: Access to the Air domain.
+Specifics:
+Granted Power: Turn or Destroy Earth creatures as a good cleric turns undead. Rebuke or Command Air creatures as an evil cleric rebukes undead. Use these abilities a number of times per day equal to 3 + Charisma modifier
+Bonus Spells: 
+The cleric gains access to the following spells at the specified spell level: Obscuring Mist (1), Protection from Arrows (2), Gaseous Form (3), Call Lightining (4), Control Winds (5), Chain Lightining (6), Control Weather (7), Great Thunderclap (8), Elemental Swarm (9)
+
+Use: Automatic.

@@ -1,0 +1,7 @@
+Type of Feat: Domain
+Prerequisite: Access to War domain.
+Granted Power: Free Martial Weapon Proficiency and Weapon Focus.
+Bonus Spells: 
+The cleric gains access to the following spells at the specified spell level: Magic Weapon (1), Persistent Blade (2), Magic Vestment (3), Divine Power (4), Flame Strike (5), Blade Barrier (6), Power Word, Blind (7), Power Word, Stun (8), Power Word, Kill (9)
+
+Use: Once/Day.

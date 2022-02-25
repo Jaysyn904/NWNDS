@@ -1,0 +1,8 @@
+Type of Feat: Domain
+Prerequisite: Access to Chaos domain.
+Specifics: 
+Planar Turning: Able to turn outsiders as if they were undead.
+Bonus Spells: 
+The cleric gains access to the following spells at the specified spell level: Protection From Law (1), Color Spray (2), Magic Circle vs. Law (3), Confusion (4), Sphere of Chaos (5), Animate Objects (6), Word of Chaos (7), Cloak of Chaos (8), Summon Creature IX (9)
+
+Use: Automatic

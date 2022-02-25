@@ -1,0 +1,7 @@
+Type of Feat: Domain
+Prerequisite: Access to the Knowledge domain.
+Granted Power: +1 Caster level on all Divination spells.
+Bonus Spells: 
+The cleric gains access to the following spells at the specified spell level: Identify (1), Knock (2), Clairaudience / Clairvoyance (3), Locate Creature (4), True Seeing (5), Detect Scrying (6), Legend Lore (7), Discern Location (8), Foresight (9)
+
+Use: Automatic.

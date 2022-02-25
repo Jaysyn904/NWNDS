@@ -1,0 +1,7 @@
+Type of Feat: Domain
+Prerequisite: Access to the Plant domain.
+Granted Power: Rebuke or Command Plant creatures as an evil cleric rebukes undead. Use these abilities a number of times per day equal to 3 + Charisma modifier. (NOT IMPLEMENTED).
+Bonus Spells: 
+The cleric gains access to the following spells at the specified spell level: Entangle (1), Barkskin (2), Treeshape (3), Camoflage, Mass (4), Vine Mine (5), Transport via Plants (6), Changestaff (7), Nature's Balance (8), Unyielding Roots (9)
+
+Use: Automatic.

@@ -1,0 +1,7 @@
+Type of Feat: Domain
+Prerequisite: Access to the Healing domain.
+Granted Power: +1 Caster level on Healing Spells.
+Bonus Spells: 
+The cleric gains access to the following spells at the specified spell level: Cure Light Wounds (1), Cure Moderate Wounds (2), Cure Serious Wounds (3), Cure Critical Wounds (4), Healing Circle (5), Heal (6), Regenerate (7), Cure Critical Wounds, Mass (8), Heal, Mass (9)
+
+Use: Automatic.

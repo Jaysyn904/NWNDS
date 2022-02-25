@@ -1,0 +1,7 @@
+Type of Feat: Domain
+Prerequisite: Access to Nobility domain.
+Granted Power: You may grant allies a +2 bonus to Attack, Skills, Damage, and Saves. This does not affect you, and lasts for a number of rounds equal to your Charisma modifier. It can be used once per day.
+Bonus Spells: 
+The cleric gains access to the following spells at the specified spell level: Divine Favor (1), Enthrall (2), Magic Vestment (3), Locate Object (4), Greater Command (5), Greater Heroism (6), Repulsion (7), Dominate Monster (8), Storm of Vengeance (9)
+
+Use: Once/Day.

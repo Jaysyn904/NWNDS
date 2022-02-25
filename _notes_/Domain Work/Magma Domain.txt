@@ -1,0 +1,18 @@
+Type of Feat: Domain
+Prerequisite: Access to the Magma domain.
+Specifics: 
+Elemental Turning: Able to turn elementals as if they were undead. 
+Bonus Spells: 
+The cleric gains access to the following spells at the specified spell level: 
+
+1.) Flame Weapon
+2.)
+3.) Channeled Pyroburst
+4.) Elemental Shield
+5.) Energy Buffer
+6.) Flame Strike
+7.)
+8.) Incendiary Cloud
+9.) Delayed Blast Fireball
+
+Use: Automatic.

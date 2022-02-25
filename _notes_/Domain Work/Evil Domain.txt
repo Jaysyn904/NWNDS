@@ -1,0 +1,6 @@
+Type of Feat: Domain
+Prerequisite: Access to the Evil domain.
+Granted Power: +1 Caster level on Evil spells.
+Bonus Spells: The cleric gains access to the following spells at the specified spell level: Protection from Good (1), Desecrate (2), Magic Circle vs. Good (3), Evil Blight (4), Enervation (5), Create Undead (6), Blasphemy (7), Unholy Aura (8),  Summon Creature IX (9)
+
+Use: Automatic.

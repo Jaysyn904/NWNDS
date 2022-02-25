@@ -1,0 +1,9 @@
+Type of Feat: Domain
+Prerequisite: Access to the Madness domain.
+Specifics: 
+Aberrant Turning: Able to turn aberrations as if they were undead. 
+Bonus Spells: 
+The cleric gains access to the following spells at the specified spell level: Color Spray (1), Daze Monster (2), Rage (3), Confusion (4), Mind Fog (5), Phantasmal Killer (6), Insanity (7), Symbol of Insanity (8), 
+Weird (9)
+
+Use: Automatic.

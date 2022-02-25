@@ -1,0 +1,8 @@
+Type of Feat: Domain
+Prerequisite: Access to Luck domain.
+Specifics:
+Clerics of the Luck domain gain enhanced casting of the Bestow Curse & Sphere of Chaos spells.
+Bonus Spells: 
+The cleric gains access to the following spells at the specified spell level: Entropic Shield (1), Bestow Curse (2), Protection from Elements (3), Freedom of Movement (4), Sphere of Chaos (5), Mislead (6), Spell Turning (7), Moment of Prescience (8), Premonition (9)
+
+Use: Automatic

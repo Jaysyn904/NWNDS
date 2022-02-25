@@ -1,0 +1,7 @@
+Type of Feat: Domain
+Prerequisite: Access to the Protection domain.
+Granted Power: Once per day as a free action, the target gains a saving throw bonus equal to your level. This lasts for 1 round.
+Bonus Spells: 
+The cleric gains access to the following spells at the specified spell level: Sanctuary (1), Shield Other (2), Protection from Elements (3), Spell Mantle, Lesser (4), Spell Resistance (5), Antimagic Field (6), Repulsion (7), Mind Blank (8), Prismatic Sphere (9)
+
+Use: Automatic.

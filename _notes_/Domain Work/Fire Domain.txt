@@ -1,0 +1,7 @@
+Type of Feat: Domain
+Prerequisite: Access to the Fire domain.
+Granted Power: Turn or Destroy Water creatures as a good cleric turns undead. Rebuke or Command Fire creatures as an evil cleric rebukes undead. Use these abilities a number of times per day equal to 3 + Charisma modifier
+Bonus Spells:
+The cleric gains access to the following spells at the specified spell level: Burning Hands (1), Pyrotechnics (2), Resist Elements (3), Wall of Fire (4), Elemental Shield (5), Firebrand (6), Fire Storm (7), Incendiary Cloud (8), Elemental Swarm (9)
+
+Use: Automatic.

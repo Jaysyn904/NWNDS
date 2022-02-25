@@ -1,0 +1,7 @@
+Type of Feat: Domain
+Prerequisite: Access to the Water domain.
+Granted Power: Turn or Destroy Fire creatures as a good cleric turns undead. Rebuke or Command Water creatures as an evil cleric rebukes undead. Use these abilities a number of times per day equal to 3 + Charisma modifier
+Bonus Spells: 
+The cleric gains access to the following spells at the specified spell level: Obscuring Mist (1), Fog Cloud (2), Water Breathing (3), Solid Fog (4), Ice Storm (5), Cone of Cold (6), Acid Fog (7), Horrid Wilting (8), Elemental Swarm (9)
+
+Use: Automatic.

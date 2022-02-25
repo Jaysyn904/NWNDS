@@ -1,0 +1,6 @@
+Type of Feat: Domain
+Prerequisite: Access to the Strength domain.
+Granted Power: Once per day as a free action, you may gain a bonus to Strength equal to your level. This lasts for 1 round.
+Bonus Spells: The cleric gains access to the following spells at the specified spell level: Enlarge Person (1), Bull’s Strength (2), Magic Vestment (3), Spell Mantle, Lesser (4), Righteous Might (5), Stoneskin (6), Grasping Hand (7), Clenched Fist (8), Crushing Hand (9)
+
+Use: Automatic.
