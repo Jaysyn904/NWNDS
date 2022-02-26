@@ -1,0 +1,17 @@
+Assume Domain: You are assigned two domains based on your sorcerer monarch. Each domain gives you access to a domain spell at each spell level you can cast, from 1st on up, as well as a granted power. You also recieve the granted powers of both the assumed domains.
+
+Andropinis  -  Law, Nobility
+Borys  -  Destruction, Protection
+Daskinor  -  Chaos, Madness
+Dregoth  -  Death, Destruction
+Hamanu  -  Strength, War
+Lalali-Puy  -  Animal, Plant
+Nibenay  -  Magic, Mind
+Oronis  -  Knowledge, Protection
+Tectuktitlay  -  Glory, Strength
+
+Alignment: A templar’s alignment must be within one step of his sorcerer-monarch’s (that is, it may be one step away on either the lawful–chaotic axis or the good–evil axis, but not both). Because of that, templars are almost never good. The laws they uphold are corrupt; the monarchs they serve are arguably the vilest creatures on the face of Athas, and often the templars are cruel and unjust themselves. However, many templars take considerable pride in the prosperity and magnificence of their city-state, and in the well–oiled machine of their order.  If your character's alignment at character creation doesn't follow this rule, it willl be set to the sorcerer-monarch's alignment.
+
+NOTE: Templars of Dregoth must be Second Generation Dray and templars of Nibenay must be female.
+
+Use: Automatic
