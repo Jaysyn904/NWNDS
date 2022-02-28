@@ -18,11 +18,11 @@ Belgoi
 Pterran
 Tari
 Tarek
-Thor-Kreen_Jez
-Thor-Kreen_Tondi
+Tohr-Kreen_Jez
+Tohr-Kreen_Tondi
 Thri-Kreen_Toksa
-Thor-Kreen_Jhol
-Thor-Kreen_Tkeech
+Tohr-Kreen_Jhol
+Tohr-Kreen_Tkeech
 Thri-Kreen_Jeral
 Air_Genasi
 Earth_Genasi
