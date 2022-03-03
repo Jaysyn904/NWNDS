@@ -5,7 +5,7 @@ This repo deals with project tracking, bugfixing & information for the NWN Dark 
 
 DMFI + HCR2 + CEP 2.6 + PRC 4.1.5
 
-20 Base Classes & 45 Prestige Classes
+21 Base Classes & 44 Prestige Classes
 
 3 Athasian 3.5e classes, with more to come.
 
