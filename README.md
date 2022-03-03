@@ -17,7 +17,7 @@ DMFI + HCR2 + CEP 2.6 + PRC 4.1.5
 
 70+ Athasian poisons integrated into the the PRC's poisoncrafting system.
 
-Custom Overworld Map System with over 240k kilometers of Athasian terrain to explore.
+Custom Overworld Map System with over 240k square kilometers of Athasian terrain to explore.
 
 ### Contributions & Thanks
 
