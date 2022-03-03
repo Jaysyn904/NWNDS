@@ -9,7 +9,7 @@ DMFI + HCR2 + CEP 2.6 + PRC 4.1.5
 
 3 Athasian 3.5e classes, with more to come.
 
-24 Athasian Player races including 6 dynamic kreen models
+[24 Athasian Player races including 6 dynamic kreen models](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Available-Race-List)
 
 11 more Athasian Prestige races.  Be the Belgoi!
 
