@@ -13,7 +13,7 @@ DMFI + HCR2 + CEP 2.6 + PRC 4.1.5
 
 [10 Athasian Prestige races.  Be the Belgoi!](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Availible-Class-List#prestige-classes)
 
-12 Athasian animal companions, with more to come.
+[15 Athasian animal companions, with more planned.](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Available-Animal-Companions)
 
 Custom Mount system.  Mounted combat from an erdlu?  Yes you can!
 
