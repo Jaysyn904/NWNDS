@@ -5,7 +5,7 @@ This repo deals with project tracking, bugfixing & information for the NWN Dark 
 
 DMFI + HCR2 + CEP 2.6 + PRC 4.1.5
 
-[21 Base Classes & 44 Prestige Classes] (https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Availible-Class-List)
+[21 Base Classes & 44 Prestige Classes](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Availible-Class-List)
 
 3 Athasian 3.5e classes, with more to come.
 
