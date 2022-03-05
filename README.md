@@ -5,19 +5,21 @@ This repo deals with project tracking, bugfixing & information for the NWN Dark 
 
 DMFI + HCR2 + CEP 2.6 + PRC 4.1.5
 
-20 Base Classes & 45 Prestige Classes
+[21 Base Classes & 44 Prestige Classes](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Availible-Class-List)
 
 3 Athasian 3.5e classes, with more to come.
 
-24 Athasian Player races including 6 dynamic kreen models
+[25 Athasian Player races including 6 dynamic kreen models](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Available-Race-List#base-races)
 
-11 more Athasian Prestige races.  Be the Belgoi!
+[10 Athasian Prestige races.  Be the Belgoi!](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Availible-Class-List#prestige-classes)
 
-12 Athasian animal companions, with more to come.
+[15 Athasian animal companions, with more planned.](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Available-Animal-Companions)
+
+Custom Mount system.  Mounted combat from an erdlu?  Yes you can!
 
 70+ Athasian poisons integrated into the the PRC's poisoncrafting system.
 
-Custom Overworld Map System with over 240k kilometers of Athasian terrain to explore.
+Custom Overworld Map System with over 240k square kilometers of Athasian terrain to explore.
 
 ### Contributions & Thanks
 
