@@ -5,6 +5,23 @@ Fighter
 Ranger
 Rogue
 Preserver (Wizard)
+Ranger (Archery Focus)
+Templar
+Defiler (Wizard)
+Psionicist
+Gladiator
+Swashbuckler
+Scout
+Psychic Rogue
+Psion
+Psychic Warrior
+Soulknife
+Wilder
+Dread Necromancer
+Warblade
+
+
+
 Shadowdancer
 Arcane Archer
 Assassin
@@ -12,17 +29,10 @@ Weapon Master
 Pale Master
 Dwarven Defender
 Drake Child (Dragon Disciple)
-Ranger (Archery Focus)
-Templar
-Defiler (Wizard)
-Psionicist
-Gladiator
 Reaping Mauler
 Mystic Thurge
 Warpriest
 Virtuoso
-Swashbuckler
-Scout
 Spell Sword
 Elemental Savant
 Beguiler
@@ -33,13 +43,8 @@ Arcane Duelist
 Abjurant Champion
 Archmage
 Oozemaster
-Psychic Rogue
 Bonded Summoner
 Legendary Dreadnought
-Psion
-Psychic Warrior
-Soulknife
-Wilder
 True Necromancer
 Arcane Trickster
 Peerless Archer
@@ -51,7 +56,6 @@ Warsling Sniper
 Frenzied Berserker
 Tempest
 Foe Hunter
-Dread Necromancer
 Elementalist (Pyrokineticist)
 Shadowmind
 Psychic Thurge
@@ -62,4 +66,3 @@ Iron Mind
 Sanctified Mind
 Skullclan Hunter
 Master Alchemist
-Warblade
