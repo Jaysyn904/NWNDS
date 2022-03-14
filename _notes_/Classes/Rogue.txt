@@ -1,0 +1,48 @@
+Athas is a world of intrigue and treachery, of shady deals and secretive organizations. It's a rogue's paradise. Beyond the cities, among the wasteland tribes and villages, thieves live by their wits. Within the secure walls of the city states, many typically roguish occupations have become institutions unto themselves. Rogues have become pawns of the wealthy, deployed in deadly games of deceit between noble families.
+
+Athasian rogues run the gamut of society. They range from guttersnipes who prey upon the merchants and freemen of the cities to vagabonds who steal what they can from passing caravans or merchant trains. At their best, thieves can be in the employ of the nobility, plying their trade by contract in the name of a royal household or noble do-gooders who seek to steal only from the corrupt and wealthy.
+
+Stanard Abilities:
+- Hit Die: d6.
+- Proficiencies: Proficient with rogue weapons and light armor. Rogues are not proficient with shields.
+- Skill Points (*4 at 1st level): 8 + Int Modifier.
+
+Class Abilities:
+Level
+1: Sneak Attack +1d6
+2: Evasion
+3: Sneak Attack +2d6, Uncanny Dodge I
+5: Sneak Attack +3d6
+6: Uncanny Dodge II
+7: Sneak Attack +4d6
+9: Sneak Attack +5d6
+10: Special Ability
+11: Sneak Attack +6d6, Uncanny Dodge III
+13: Sneak Attack +7d6, Special Ability
+14: Uncanny Dodge IV
+15: Sneak Attack +8d6
+16: Special Ability
+17: Sneak Attack +9d6, Uncanny Dodge V
+19: Sneak Attack +10d6, Special Ability
+20: Uncanny Dodge V
+
+Special Abilities: On achieving 10th level and every three levels thereafter (13th, 16th and 19th), the rogue can choose one of these feats. This is replaced by epic bonus feat progression once the character becomes epic rogue: Crippling Strike, Defensive Roll, Improved Evasion, Opportunist, Skill Mastery, Slippery Mind.
+
+
+
+
+
+You are the ultimate thief with legendary skills and many a tale of a derring-do.
+
+Rogue Illusionists: All bards & rogues gain the ability to cast spells from the illusionist school when they attain 21st level. They are essentially wizards, specifically preservers, with the usual restrictions for spell books and memorization. They are not specialist mages, so they do not gain the specialist advantages.
+
+All spellcasting rules that apply to wizards also apply to rogues. They use components, memorize new spells out of their own spell books, and so on.  Rogue illusionists are preservers. They do not cause defiling damage when they cast their spells.
+
+Hit Die: d6
+Skill Points at Each Additional Level: 8+ Int Modifier
+Bonus Feats: The epic rogue gains a bonus feat every four levels after 20th
+Special:
+Sneak Attack: this continues to improve by 1d6 at each odd-numbered level the epic rogue gains.
+
+Epic Rogue Bonus Feats List:
+Blinding Speed, Crippling Strike, Defensive Roll, Epic Skill Focus, Epic Dodge, Epic Reputation, Improved Evasion, Improved Sneak Attack, Opportunist, Self-Concealment, Skill Mastery, Slippery Mind, Superior Initiative.

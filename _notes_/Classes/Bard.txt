@@ -1,0 +1,45 @@
+The bard is a member of a bizarre class of entertainers and storytellers prized by the aristocratic city dwellers.  Freemen all, the bards tour through cities in groups or individually, then travel on, making a living with their wits and talents.  It is also widely accepted that many bards lead double lives as notorious blackmailers, thieves, spies and even assassins.  Bards are first and foremost entertainers.  Each has some skill as a singer, actor, poet, musicain and juggler.
+
+Among the nobility of the cities, bards are tools.  They are commonly hired by one house of nobles and sent to another as a gift.  The bards are sent to entertain, and usually perform some other subtle taks (such as robbery, assassination, espionage, etc) as well.  It is considered rude to turn down the gift of a bard or bard company.  However, when presented with a troop of bards from one's worst enemy, sometimes they are turned away.  To get around this, the hiring party sometimes disguises their approach by using a third party to send the bards - it can turn into a very complicated collage of intrigue and deceit.
+
+Standard Abilities:
+- Hit Die: d6.
+- Proficiencies: Proficient with simple weapons, bard’s friend, crossbow (any), whip and widow’s knife. Also proficient with light armor and shields.
+- Skill Points (*6 at 1st level): 4 + Int Modifier. 
+
+Class Abilities:
+Level
+1: Bardic Knowledge: Bonus to identifying items.
+    Bardic Music: Bards are able to sing a song that can bolster their allies.
+    Smuggler: Bards recieve a +1 insight bonus to Bluff & Pick Pocket checks for every two bard levels.
+2: Poison Use: Bards can poison weapons at no risk to themselves.
+    Streetsmart: Bards gain a +2 competence bonus to Sense Motive & Intimidate checks.
+4: Trade Secret: Choose from; Accurate, Agile, Alchemy Dealer, Poisonbane, Poison Dealer, Poison Resistance, Skilled and Smokestick Application.
+5: Mental Resistance: +2 morale bonus vs. telepathy, enchantments & charms.
+6: Quick Thinking I: The bard's reactions improve, they receive Blooded as a bonus feat.
+8: Trade Secret
+10: Slippery Mind: Bards failing their Will save versus mind-affecting spells get an automatic reroll.
+11: Quick Thinking II: The bard's reactions further improve, they receive Thug as a bonus feat.
+12: Trade Secret
+15: Defensive Roll: Avoid death with a Reflex save, once per day.
+16: Quick Thinking III: The bard's reactions further improve, they receive Improved Initiative as a bonus feat.
+     Trade Secret
+17: Awareness: Bard can't be caught flat-footed, gains Uncanny Dodge I
+18: Mind Blank: Bard gains immunity to mind spells.
+20: Trade Secret
+
+
+
+
+Epic Athasian bards are the terror of those with powerful and wealthy enemies. Poisonous and skilled, they are deadly, either speaking either silent, becoming the perfect spy or assassin.
+
+Rogue Illusionists: All bards & rogues gain the ability to cast spells from the illusionist school when they attain 21st level. They are essentially wizards, specifically preservers, with the usual restrictions for spell books and memorization. They are not specialist mages, so they do not gain the specialist advantages.
+
+All spellcasting rules that apply to wizards also apply to rogues. They use components, memorize new spells out of their own spell books, and so on.  Rogue illusionists are preservers. They do not cause defiling damage when they cast their spells.
+
+Hit Die: d6
+Skill Points at Each Additional Level: 6+ Int Modifier
+Bonus Feats: The epic bard gains a bonus feat every three levels after 20th
+
+Epic Bard Bonus Feats List:
+Curse Song, Epic Skill Focus, Epic Will, Great Charisma, Great Dexterity, Improved Combat Casting, Lasting Inspiration, Epic Spell Focus, Trade Secrets.
