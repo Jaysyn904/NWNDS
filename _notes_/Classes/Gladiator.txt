@@ -1,0 +1,50 @@
+Gladiators are the slave warriors of the city states, specially trained for brutal physical contests.  Disciplined in many diverse forms of hand-to-hand combat and skilled in the use of dozens of different weapons, gladiators are the most dangerous warriors on Athas.  The arena is the battlefield of the gladiator.  From hand-to-hand combat in the mud pits of small forts to the grand games of the city-states, the gladiator is a warrior who fights to the sounds of people cheering his name or cursing his presence.
+
+A master of crowd control and the art of prolonged combat, gladiators are trained to fight.  They train to best wild beasts in deadly games for the amusement of the masses.  They fight for glory, wealth, prestige and power.  They fight to survive.  Some are merely slaves, having to fight and perhaps hoping to win a chance to obtain freedom, while some fight willingly for the thrill of combat or the promise of riches and fame.
+
+Standard Abilities:
+Hit Die: d12
+Proficiencies: All simple and martial weapons, light and medium armor and shields.
+Skill Points (*4 at 1st level): 4 + Int Modifier.
+
+Class Abilities:
+Level
+1: Exotic Weapon I: Gain an exotic weapon proficiency or focus feat.
+    Gladiatorial Performances: Combat Stance, Martial Display
+2: Arena Guile, Improved Unarmed Strike
+3: Gladiatorial Performances: Taunt, Team Strike [WIP], Expertise
+4: Uncanny Dodge I
+5: Armor Optimization: Gladiator moves as if armor is one class lighter.
+    Exotic Weapon II
+6: Gladiatorial Performance: Shake-off, Improved Disarm
+8: Uncanny Dodge II
+9: Gladiatorial Performance: Trick 
+    Exotic Weapon III
+10: Armor Optimization: Gladiator gains +1 Armor AC with any armor they are proficient in.
+12: Gladiatorial Performance: Chant
+13: Exotic Weapon IV
+14: Improved Shield Bash
+15: Armor Optimization: Gladiator reduces Armor Check Penalty by 1 with any armor they are proficient in.
+     Gladiatorial Performance: Threatening Glare, Improved Expertise 
+17: Exotic Weapon V	 
+18: Gladiatorial Performance: Dragon's Fury  
+19: Shield Wall
+20: Armor Optimization: Gladiator increases Max Dexterity Bonus by 1 with any armor they are proficient in.
+	 
+
+
+`
+	 
+Epic Gladiator
+
+Few gladiators reach epic status, but those who survive the open combat and attain such level of power are the “owners” of the arena and too popular in their sorcerer-king’s eyes.
+
+Standard Abilities:
+Hit Die: d12
+Skill Points: 4 + Int Modifier.
+
+Exotic Weapon: You gain one Exotic Weapon Proficiency feat for every four levels after 17th (21st, 25th, 29th, and so on).
+
+Arena Guile: Your bonus increases by +1 every two levels higher than 20th.
+
+Bonus Feats: The epic gladiator gains a bonus feat every 4 levels after 20th.'
