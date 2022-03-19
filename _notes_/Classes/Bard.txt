@@ -17,10 +17,12 @@ Level
 4: Trade Secret: Choose from; Accurate, Agile, Alchemy Dealer, Poisonbane, Poison Dealer, Poison Resistance, Skilled and Smokestick Application.
 5: Mental Resistance: +2 morale bonus vs. telepathy, enchantments & charms.
 6: Quick Thinking I: The bard's reactions improve, they receive Blooded as a bonus feat.
+7: Chance I: Automatically re-roll one failed save per day.
 8: Trade Secret
 10: Slippery Mind: Bards failing their Will save versus mind-affecting spells get an automatic reroll.
 11: Quick Thinking II: The bard's reactions further improve, they receive Thug as a bonus feat.
 12: Trade Secret
+14: Chance II: Automatically re-roll two failed saves per day.
 15: Defensive Roll: Avoid death with a Reflex save, once per day.
 16: Quick Thinking III: The bard's reactions further improve, they receive Improved Initiative as a bonus feat.
      Trade Secret
