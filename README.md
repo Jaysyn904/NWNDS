@@ -1,19 +1,22 @@
 # Neverwinter Nights Dark Sun [NWNDS] Issues & Information
+
 This repo deals with project tracking, bugfixing & information for the NWN Dark Sun persistent world.
 
 ## Features
 
-DMFI + HCR2 + CEP 2.6 + PRC 4.1.5
+DMFI + HCR2 + CEP 2.6 + PRC 4.1.6
 
 [21 Base Classes & 44 Prestige Classes](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Availible-Class-List)
 
-3 Athasian 3.5e classes, with more to come.
+3 new Athasian 3.5e classes from the Dark Sun Campaign Setting, with more to come.
 
 [25 Athasian Player races including 6 dynamic kreen models](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Available-Race-List#base-races)
 
 [10 Athasian Prestige races.  Be the Belgoi!](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Availible-Class-List#prestige-classes)
 
 [15 Athasian animal companions, with more planned.](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Available-Animal-Companions)
+
+4 new 3.5e spells from the Dark Sun Campaign Setting, wih more to come.
 
 Custom Mount system.  Mounted combat from an erdlu?  Yes you can!
 
