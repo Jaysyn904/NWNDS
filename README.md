@@ -16,7 +16,7 @@ DMFI + HCR2 + CEP 2.6 + PRC 4.1.6
 
 [15 Athasian animal companions, with more planned.](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Available-Animal-Companions)
 
-4 new 3.5e spells from the Dark Sun Campaign Setting, wih more to come.
+9 new 3.5e spells from the Dark Sun Campaign Setting, wih more to come.
 
 Custom Mount system.  Mounted combat from an erdlu?  Yes you can!
 
