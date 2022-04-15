@@ -30,6 +30,8 @@ Draygoth, Acidchalk, Azimn, Tonden - Models & tilesets
 
 Dizzit_Gardan - Quests, scripting, tilesets & models.
 
+Ebonfowl - Scripting
+
 Draceran & Dromin - Wordsmithing
 
 Merricksdad - Granitelands 2, Red Desert & Deep Caverns Tilesets
