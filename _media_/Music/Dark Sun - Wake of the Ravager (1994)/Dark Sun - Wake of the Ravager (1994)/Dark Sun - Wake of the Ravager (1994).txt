@@ -1,0 +1,10 @@
+Game: Dark Sun: Wake of the Ravager
+Year: 1994
+Composed by: Ralph Thomas (Cooksey), George Alistair Sanger, Nada Lewis
+MIDI versions: GM
+Platform: DOS
+
+Additional info: Most of the xmi files were doubled, so I've deleted the doubles. There were also two files that weren't doubled at all, those ones I've kept, obviously.
+
+
+https://www.karlsitretro.com/game_midi
