@@ -1,0 +1,13 @@
+int SPELL_TARGETING_SHAPE_NONE                      = 0;
+int SPELL_TARGETING_SHAPE_SPHERE                    = 1;
+int SPELL_TARGETING_SHAPE_RECT                      = 2;
+int SPELL_TARGETING_SHAPE_CONE                      = 3;
+int SPELL_TARGETING_SHAPE_HSPHERE                   = 4;
+
+int SPELL_TARGETING_FLAGS_NONE                      = 0;
+int SPELL_TARGETING_FLAGS_HARMS_ENEMIES             = 1;
+int SPELL_TARGETING_FLAGS_HARMS_ALLIES              = 2;
+int SPELL_TARGETING_FLAGS_HELPS_ALLIES              = 4;
+int SPELL_TARGETING_FLAGS_IGNORES_SELF              = 8;
+int SPELL_TARGETING_FLAGS_ORIGIN_ON_SELF            = 16;
+int SPELL_TARGETING_FLAGS_SUPPRESS_WITH_TARGET      = 32;
