@@ -1,0 +1,8 @@
+FEAT_RED_DRAGON		=	Fire	=	Fire Immunity
+FEAT_BLACK_DRAGON	=	Earth	=	Acid Immunity
+FEAT_BLUE_DRAGON	=	Rain 	= 	Electricity Immunity
+FEAT_GREEN_DRAGON	=	Silt	=	Acid Immunity
+FEAT_WHITE_DRAGON	=	Water	=	Cold Immunity
+FEAT_GOLD_DRAGON	=	Magma	=	Fire Immunity
+FEAT_CRYSTAL_DRAGON	=	Sun		=	Cold Immunity
+FEAT_EMERALD_DRAGON	=	Air		=	Sonic Immunity

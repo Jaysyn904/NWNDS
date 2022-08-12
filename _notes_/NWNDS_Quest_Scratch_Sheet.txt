@@ -1,0 +1,165 @@
+A Queen's Touch
+
+jt_queenstouch = QST_QUEENSTOUCH
+
+
+Take Out
+
+jt_takeout = QST_TAKEOUT
+
+
+Unearthed
+
+jt_unearthed = QST_UNEARTHED
+
+
+Aristiphanales' Necklace
+
+jt_aristnecklace = QST_ARIS_NECKLACE
+
+POT_DECCAN
+
+
+Assassination!
+
+Assassination! = QST_ASSASSIN
+
+Hamanu's Templars
+
+UrikTemplars = QST_URIKTEMPLARS
+
+
+Brill's Hammer
+
+BrillsHammer
+
+
+Ibod the Scribe
+
+IbodTheScribe
+
+Magda's Spider Sac
+
+MSS
+
+Guute Needs a Longbow
+
+GL
+
+Trici's Fish
+
+TF
+
+Notuka and the Giant Skeleton Skulls
+
+GSS
+
+Esuta's Charge
+esutascharge
+
+Farreli's Quest
+Farreli
+
+
+Gaorg's Debt
+jt_gaorgsdebt
+
+Guard Captain's Advice
+GuardCaptain
+
+Hamanu's Templars
+UrikTemplars
+
+Hej-kin Raiders
+HejkinRaiders
+
+Ikka's Vision
+IkaasVision
+
+Justl's Challenge
+QST_JUSTIL
+
+The Prelude
+ThePrelude
+
+Forged Winter's Prelude = AR_WAXMGR_FORWIN
+Winter's Prelude = ar_waxmgr_winpre / Metal_WPrelude
+Ashen Drake Blood = QST_ASHENDRBLOOD
+Meteorite Ore = QST_METEORITEORE
+
+Lost Heirloom
+LostHeirloom
+
+Lost Souls
+LostSouls
+
+Morning Delivery
+MorningDelivery
+
+Olina's Assassins
+jt_olinasass
+
+Sage Advice
+SageAdvice
+
+The Bandit Leader
+jt_banditleader
+
+Trail of Breadcrumbs
+rottedparchment
+
+The Bloodletter
+jt_bloodletter
+
+The Circle
+jt_thecircle
+
+The Draqomen of Tyr
+TheDraqomen
+
+The Templars of Tyr
+TheTemplars
+
+The Forbidden Tome
+jt_forbiddentomb
+
+The Spyre Tower
+spyretower
+QST_EARTHRELIC
+QST_NADIEWARDSTN
+AR_ITMNCK_SAND01
+
+The Templars of Tyr
+TheTemplars
+&& (GetLevelByClass(187, oPC)==0))  //:: Dread Necro
+
+FAC_HELM_TYRTMP
+
+The Veiled Alliance of Urik
+urikva
+
+The Wonderfully Wonderful Wood Stew
+jt_woodstew
+
+To Face the Silt
+ToFacetheSilt
+
+Joining the Thieves Guild
+thievesquests
+
+Traabi's Lotus
+jt_traabislotus
+
+Water for Urik (remove)
+BlueRiver
+
+Xia's Orb
+ds_hermitquest
+
+Clockwork Island
+Clockwork
+
+Find Cloie
+FindCloie
+
+Jaryx's Ledger
