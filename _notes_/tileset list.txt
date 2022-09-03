@@ -6,9 +6,9 @@ tzs01 = Dwarven Halls
 
 tmr01 = *Natural Caves
 
-DLS10 = DLA Sewers
+DLS10 = DLA Sewers *
 
-DLS11 = DLA Sewers No Maps
+DLS11 = DLA Sewers No Maps *
 
 drw01 = Underground City
 
@@ -28,11 +28,11 @@ tbodc = bodangly's Desert City v2
 
 TCC01 = CC_Interior
 
-tced0 = CTP Babylon
+tced0 = CTP Babylon *
 
 Tcr01 = Crimson Tower
 
-TDD01 = Daggerdale Swamp
+TDD01 = Daggerdale Swamp *
 
 TDM01 = Mines and Caverns
 
@@ -44,7 +44,7 @@ wcc01 = WoRms_Outer_Limits
 
 WDP01 = WoRms_Desert_Plains
 
-wlf01 = WoRms_Scorched_Earth
+wlf01 = WoRms_Scorched_Earth *
 
 wut01 = WoRms_Undersea_Tileset
 
