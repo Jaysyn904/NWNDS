@@ -59,3 +59,5 @@ TMD19A = TMD19A Deep Caverns EE
 tjj01 = Worms_Jungle Mountains
 
 trd21 = TRD21 Red Sand (EE)
+
+TIN01 = City Interior 1
