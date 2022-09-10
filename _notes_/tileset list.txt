@@ -61,3 +61,53 @@ tjj01 = Worms_Jungle Mountains
 trd21 = TRD21 Red Sand (EE)
 
 TIN01 = City Interior 1
+
+TBW01 = Barrows
+
+TIB01 = Beholder Caves
+
+TIC01 = Castle Interior
+
+TDC01 = Crypt
+
+TDS01 = Sewer
+
+TTI01 = Frozen Wastes
+
+TTD01 = Desert
+
+TDE01 = Dungeon
+
+TII01 = Illithid Interior
+
+TDR01 = Ruins
+
+TDM01 = Mines & Caverns
+
+TTU01 = Underdark
+
+===========================================================
+
+
+
+
+castle exterior, rural (TNO) (1.69)
+
+castle interior 2 (TNI02) (1.69)
+city exterior (TCN)
+city interior (TIN)
+city interior 2 (TNI01) (1.69)
+
+
+drow interior (TID) (HotU)
+
+forest (TTF)
+fort interior (TWC) (1.69)
+
+microset (TMS)
+
+rural (TTR)
+rural winter (TTS) (SoU)
+sea caves (TDT) (1.67)
+steamworks (TSW) (1.69)
+tropical (TTZ) (1.67)
