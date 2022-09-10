@@ -6,6 +6,10 @@ Table 97 - Undead - CR 10-30
 
 Table 96 - Plains: All
 
+Table 94 - Desert: All / Night
+
+Table 93 - Desert: All / Daytime
+
 Table 27 - Great Spyre Defilers
 
 Table 26 - Elementals: All non-water & rain
