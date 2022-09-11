@@ -10,6 +10,10 @@ Table 94 - Desert: All / Night
 
 Table 93 - Desert: All / Daytime
 
+Table 92 - Mountain: All / Night
+
+Table 91 - Mountain: All / Daytime
+
 Table 27 - Great Spyre Defilers
 
 Table 26 - Elementals: All non-water & rain
