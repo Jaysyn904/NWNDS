@@ -31,5 +31,4 @@ Water_Genasi
 Lizardfolk
 YuanTi_Pure
 Githyanki
-Githzerai
 Illithid
