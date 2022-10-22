@@ -54,6 +54,9 @@ HCR2 - Hunger, Thirst & Fatigue
 
 Quevy - Trap Strength Icons
 
+#Music
+Francis Bonin - "Desert Sun Monk"
+
 
 ### Athas Reborn / Dark Sun Online Contributors
 
