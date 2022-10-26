@@ -60,6 +60,8 @@ Francis Bonin - "Desert Sun Monk"
 
 ### Athas Reborn / Dark Sun Online Contributors
 
+#### The PRC Team
+
 #### The CEP Team
 
 #### Athas Reborn & Dark Sun Online contributors:
