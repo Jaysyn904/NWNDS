@@ -36,6 +36,8 @@ Draceran & Dromin - Wordsmithing
 
 Merricksdad - Granitelands 2, Red Desert & Deep Caverns Tilesets
 
+Cervantes - Portraits
+
 LordofWorms - Jungle Mountain Tileset
 
 Pasilli (R.I.P) & CTP - CTP Babylon Tileset
