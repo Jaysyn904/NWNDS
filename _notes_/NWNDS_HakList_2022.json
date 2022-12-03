@@ -1,0 +1,582 @@
+  "Mod_HakList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "ds_2das"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "ds_scripts"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_icons"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "ds_newspellbook"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "ds_spells"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "ds_epicspells"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "ds_psionics"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "ds_race"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "ds_textures"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "ds_misc"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "ds_craft2das"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tdm01_pbr_fancy"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "ttd01_pbr_fancy"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tat22_info"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tat22_tiles02"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tat22_tiles01"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tat22_tex03"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tat22_tex02"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tat22_tex01"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "ctp_babylon"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "codi_ddswamp"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "dla_sewer_v12"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tds01_fancy"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_overland"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_pmh0_parts"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_pma0_parts"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_pmd0_parts"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_pme0_parts"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_pml0_parts"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_pmm0_parts"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_pmn0_parts"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_pmp0_parts"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_pmy0_parts"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_pm#0_parts"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_heads"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_anatomy1"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_anatomy2"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_robecloak"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_kreen"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_creature"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_audio"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_placeables"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_items"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_animalcomp"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_spells"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_loadscreen"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_tiles2"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_tiles1"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "pk_hut_fancy"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "wormjungle"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tde01_fancy"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "ttu01_fancy"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tti01_fancy"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tdc01_fancy"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tbw01_fancy"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tib01_fancy"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tcn01_fancy"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tdr01_fancy"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tid01_fancy"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tii01_fancy"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "trd21_reddes00"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "trd21_reddes01"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "tmd19a_deepcave"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "wrm_scorche"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_top_2_69"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_add_skies"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_build"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_ext_tiles"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_add_tiles2"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_add_tiles1"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_add_tiles"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_add_loads"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_add_doors"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "nwnds_add_sb_v1"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_core7"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_core6"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_core5"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_core4"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_core3"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_core2"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_core1"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_core0"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "cep2_crp"
