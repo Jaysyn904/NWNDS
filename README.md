@@ -4,7 +4,7 @@ This repo deals with project tracking, bugfixing & information for the NWN Dark 
 
 ## Features
 
-DMFI + HCR2 + CEP 2.67 + PRC 4.1.8a
+DMFI + HCR2 + CEP 2.69 + PRC 4.1.10a
 
 [21 Base Classes & 44 Prestige Classes](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Availible-Class-List)
 
@@ -34,9 +34,9 @@ Ebonfowl - Scripting
 
 Draceran & Dromin - Wordsmithing
 
-Merricksdad - Granitelands 2, Red Desert & Deep Caverns Tilesets
+Cervantes - Athas Desert Exterior Tileset
 
-Cervantes - Portraits
+Merricksdad - Granitelands 2, Red Desert & Deep Caverns Tilesets
 
 LordofWorms - Jungle Mountain Tileset
 
@@ -55,6 +55,8 @@ HCR2 - Hunger, Thirst & Fatigue
 69MEH69 - Module Builders Henchman Kit
 
 Quevy - Trap Strength Icons
+
+Lucky Day & Ana - Tumbleweed Creature
 
 ### Music
 Francis Bonin - "Desert Sun Monk"
