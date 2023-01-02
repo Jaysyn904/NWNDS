@@ -34,7 +34,7 @@ Ebonfowl - Scripting
 
 Draceran & Dromin - Wordsmithing
 
-Cervantes - Athas Desert Exterior Tileset
+Cervantes - Athas Desert Exterior Tileset & portraits
 
 Merricksdad - Granitelands 2, Red Desert & Deep Caverns Tilesets
 
