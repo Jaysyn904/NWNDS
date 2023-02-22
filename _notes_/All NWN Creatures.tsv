@@ -1,0 +1,648 @@
+STRREF	CR	FACTION	NAME	RESREF
+12380	11	Hostile	 Battle Devourer	nw_battdevour
+3058	13	Hostile	 Beholder	x2_beholder001
+90374	15	Hostile	 Beholder Mage	x2_beholder003
+3063	6	Hostile	 Drider	x2_drider001
+90380	10	Hostile	 Drider Chief	x2_drider002
+90380	17	Hostile	 Drider Chief	x2_drider003
+90380	23	Hostile	 Drider Chief	x2_drider004
+90380	28	Hostile	 Drider Chief	x2_drider005
+90389	7	Hostile	 Drider Cleric	x2_fdrider002
+90381	8	Hostile	 Drider Wizard	x2_driderw01
+12522	5	Hostile	 Ettercap	nw_ettercap
+84490	3	Hostile	 Eyeball	x2_beholder002
+90388	6	Hostile	 Female Drider	x2_fdrider001
+111435	18	Hostile	 G'Zhorb, the All-Seeing Eye	x3_gzhorb
+12616	5	Hostile	 Hook Horror	nw_horror
+12445	7	Hostile	 Intellect Devourer	nw_devour
+90403	9	Hostile	 Mind Flayer	x2_mindflayer001
+90402	16	Hostile	 Mind Flayer Darkener	x2_mindfdarkener
+90405	20	Hostile	 Mind Flayer Venerator	x2_mindfveneratr
+90404	19	Hostile	 Ulitharid	x2_mindflayer002
+12790	9	Hostile	 Umber Hulk	nw_umberhulk
+12814	8	Hostile	 Will-O'-Wisp	nw_willowisp
+56563	15	Hostile	 Ancient Dire Bear	nw_beardireboss
+12382	2	Hostile	 Black Bear	nw_bearblck
+12384	5	Hostile	 Brown Bear	nw_bearbrwn
+12386	9	Hostile	 Dire Bear	nw_beardire
+12387	6	Hostile	 Grizzly Bear	nw_bearkodiak
+12389	6	Hostile	 Polar Bear	nw_bearpolar
+12416	0	Commoner	 Chicken	nw_chicken
+12685	0	Defender	 Falcon	nw_raptor001
+110672	0	Commoner	 Parrot	nw_parrot
+40617	0	Commoner	 Penguin	x0_penguin001
+6008	0	Commoner	 Raven	nw_raven
+110684	2	Commoner	 Seagull	nw_seagullfly
+	1	Commoner	Crow - Walking 	tm_cr_crowwalk
+	2	Commoner	Deep Rothe 	tm_cr_rothe01
+	0	Commoner	Rat, Small 	tm_cr_rat_small
+	13	Hostile	Black Dragon, Small 	tm_cr_dragblksml
+	2	Hostile	Lizardfolk Scavenger 	lizardfolkscaven
+	5	Hostile	Tanarukk 	tanarukk
+	6	Hostile	Tanarukk Bonecruncher 	db_tanarukk02
+	6	Hostile	Tanarukk Shaman 	db_tanarukk_do
+	6	Hostile	Tanarukk Skewer 	db_tanarukk
+	7	Hostile	Tanarukk Sub-Chief 	db_tanarukklead1
+	8	Hostile	Tanarukk Leader 	db_tanarukleader
+	0	Hostile	Small Spider 	ks_small_spider
+	11	Hostile	Hezrou 	hezrou
+	6	Hostile	Kocrachon 	c_kocrachn
+	90	Hostile	Orcus 	tm_cr_orcus
+	14	Hostile	Render 	tm_cr_render
+	14	Hostile	Malaugrym 	tm_cr_malaugrym
+	0	Commoner	Half-Dragon - Red 	tm_cr_hlfdragred
+10526	5	Hostile	 Dire Wolf	nw_direwolf
+12457	1	Commoner	 Dog	nw_dog
+56578	11	Hostile	 Pack Leader	nw_wolfdireboss
+12818	5	Hostile	 Winter Wolf	nw_wolfwint
+12816	1	Hostile	 Wolf	nw_wolf
+12820	3	Hostile	 Worg	nw_worg
+12426	2	Hostile	 Cougar	nw_cougar
+57919	2	Hostile	 Crag Cat	nw_cragcat
+12448	11	Hostile	 Dire Tiger	nw_diretiger
+12623	3	Hostile	 Jaguar	nw_jaguar
+12414	2	Hostile	 Leopard	nw_cat
+12632	3	Hostile	 Lion	nw_lion
+2976	7	Hostile	 Malar Panther	nw_beastmalar001
+5991	2	Hostile	 Panther	nw_panther
+12366	0	Hostile	 Badger	nw_badger
+12376	0	Commoner	 Bat	nw_bat
+111368	2	Hostile	 Black Cormyrian Cobra	x3_blckcobra001
+12397	2	Hostile	 Boar	nw_boar
+110635	7	Hostile	 Bulette	nw_bulette
+12428	0	Commoner	 Cow	nw_cow
+12440	0	Commoner	 Deer	nw_deer
+12447	3	Hostile	 Dire Badger	nw_direbadg
+12399	5	Hostile	 Dire Boar	nw_boardire
+3105	0	Hostile	 Dire Rat	nw_ratdire001
+110730	2	Hostile	 Goblin Shark	nw_sharkgoblin
+111370	4	Hostile	 Gold Cormyrian Cobra	x3_goldcobra001
+111372	5	Hostile	 Great Cobra	x3_grtcobra001
+110729	2	Hostile	 Hammerhead Shark	nw_sharkhammer
+111458	3	Merchant	 Heavy War Horse	x3_hvywarhorse2
+111458	3	Merchant	 Heavy War Horse	x3_hvywarhorse3
+111458	3	Merchant	 Heavy War Horse	x3_hvywarhorse4
+111458	3	Merchant	 Heavy War Horse	x3_hvywarhorse
+111458	3	Merchant	 Heavy War Horse	x3_hvywarhorse5
+111458	3	Merchant	 Heavy War Horse	x3_hvywarhorse6
+111456	0	Commoner	 Horse	x3_horse001
+111456	0	Commoner	 Horse	x3_horse002
+111373	2	Hostile	 Hybrid Cormyrian Cobra	x3_hybcobra001
+111459	3	Merchant	 Jousting Horse	x3_jousthorse1
+111459	3	Merchant	 Jousting Horse	x3_jousthorse2
+111459	3	Merchant	 Jousting Horse	x3_jousthorse3
+111459	3	Merchant	 Jousting Horse	x3_jousthorse4
+111459	3	Merchant	 Jousting Horse	x3_jousthorse5
+110728	2	Hostile	 Mako Shark	nw_sharkmako
+12678	0	Commoner	 Ox	nw_ox
+3103	0	Hostile	 Rat	nw_rat001
+3103	0	Commoner	 Rat	nw_rat002
+111375	3	Hostile	 Spitting Cobra	x3_spitcobra001
+12441	0	Commoner	 White Stag	nw_deerstag
+90392	32	Hostile	 Adamantine Golem	x2_golem002
+12378	13	Hostile	 Battle Horror	nw_bathorror
+12570	11	Hostile	 Bone Golem	nw_golbone
+12572	10	Hostile	 Clay Golem	nw_golclay
+84195	25	Hostile	 Demonflesh Golem	nw_goldmflesh001
+111377	14	Hostile	 Diamond Golem	x3_diagolem001
+111379	12	Hostile	 Emerald Golem	x3_emgolem001
+12574	8	Hostile	 Flesh Golem	nw_golflesh
+12602	11	Hostile	 Helmed Horror	nw_helmhorr
+90393	21	Hostile	 Huge Iron Golem	x2_goliron_huge
+12576	16	Hostile	 Iron Golem	nw_goliron
+12647	8	Hostile	 Minogon	nw_minogon
+90391	35	Hostile	 Mithral Golem	x2_golem001
+111381	12	Hostile	 Ruby Golem	x3_rubygolem001
+12693	13	Hostile	 Shield Guardian	nw_shguard
+12578	12	Hostile	 Stone Golem	nw_golstone
+12461	13	Hostile	 Adult Black Dragon	nw_drgblack001
+12465	14	Hostile	 Adult Blue Dragon	nw_drgblue001
+12469	13	Commoner	 Adult Brass Dragon	nw_drgbrass001
+12473	15	Commoner	 Adult Bronze Dragon	nw_drgbrnz001
+12477	14	Commoner	 Adult Copper Dragon	nw_drgcopp001
+12481	16	Commoner	 Adult Gold Dragon	nw_drggold001
+12485	14	Hostile	 Adult Green Dragon	nw_drggreen001
+12489	15	Hostile	 Adult Red Dragon	nw_drgred001
+12493	16	Commoner	 Adult Silver Dragon	nw_drgsilv001
+12497	12	Hostile	 Adult White Dragon	nw_drgwhite001
+111389	8	Hostile	 Adult Wyvern	x3_wyvern002
+12463	21	Hostile	 Ancient Black Dragon	nw_drgblack003
+12467	23	Hostile	 Ancient Blue Dragon	nw_drgblue003
+12471	22	Commoner	 Ancient Brass Dragon	nw_drgbrass003
+12475	23	Commoner	 Ancient Bronze Dragon	nw_drgbrnz003
+12479	22	Commoner	 Ancient Copper Dragon	nw_drgcopp003
+12483	25	Commoner	 Ancient Gold Dragon	nw_drggold003
+12487	22	Hostile	 Ancient Green Dragon	nw_drggreen003
+12491	24	Hostile	 Ancient Red Dragon	nw_drgred003
+90379	22	Hostile	 Ancient Shadow Dragon	x2_dragonshad001
+12495	24	Commoner	 Ancient Silver Dragon	nw_drgsilv003
+12499	20	Hostile	 Ancient White Dragon	nw_drgwhite003
+9162	5	Commoner	 Faerie Dragon	x0_dragon_faerie
+111387	9	Hostile	 Great Wyvern	x3_wyvern001
+12594	8	Commoner	 Half-Dragon Cleric	nw_halfdra002
+12592	9	Hostile	 Half-Dragon Sorcerer	nw_halfdra001
+111390	6	Hostile	 Juvenile Wyvern	x3_wyvern003
+111393	14	Hostile	 Mist Dragon	x3_dragmist001
+12462	17	Hostile	 Old Black Dragon	nw_drgblack002
+12466	18	Hostile	 Old Blue Dragon	nw_drgblue002
+12470	17	Commoner	 Old Brass Dragon	nw_drgbrass002
+12474	19	Commoner	 Old Bronze Dragon	nw_drgbrnz002
+12478	18	Commoner	 Old Copper Dragon	nw_drgcopp002
+12482	21	Commoner	 Old Gold Dragon	nw_drggold002
+12486	18	Hostile	 Old Green Dragon	nw_drggreen002
+12490	19	Hostile	 Old Red Dragon	nw_drgred002
+12494	20	Commoner	 Old Silver Dragon	nw_drgsilv002
+12498	16	Hostile	 Old White Dragon	nw_drgwhite002
+90378	37	Hostile	 Prismatic Dragon	x2_dragonpris001
+9161	0	Commoner	 Pseudodragon	x0_dragon_pseudo
+40624	3	Hostile	 Wyrmling Black Dragon	x0_wyrmling_blk
+40626	5	Hostile	 Wyrmling Blue Dragon	x0_wyrmling_blu
+40628	4	Commoner	 Wyrmling Brass Dragon	x0_wyrmling_brs
+40630	5	Commoner	 Wyrmling Bronze Dragon	x0_wyrmling_brz
+40632	5	Commoner	 Wyrmling Copper Dragon	x0_wyrmling_cop
+40634	7	Commoner	 Wyrmling Gold Dragon	x0_wyrmling_gld
+40635	4	Hostile	 Wyrmling Green Dragon	x0_wyrmling_grn
+40637	5	Hostile	 Wyrmling Red Dragon	x0_wyrmling_red
+40638	6	Commoner	 Wyrmling Silver Dragon	x0_wyrmling_sil
+40640	3	Hostile	 Wyrmling White Dragon	x0_wyrmling_wht
+111391	4	Hostile	 Young Wyvern	x3_wyvern004
+12354	4	Hostile	 Air Elemental	nw_air
+12513	4	Hostile	 Earth Elemental	nw_earth
+12356	20	Hostile	 Elder Air Elemental	nw_airelder
+12515	17	Hostile	 Elder Earth Elemental	nw_eartheld
+12531	17	Hostile	 Elder Fire Elemental	nw_fireelder
+12800	16	Hostile	 Elder Water Elemental	nw_watelder
+12529	3	Hostile	 Fire Elemental	nw_fire
+12357	18	Hostile	 Greater Air Elemental	nw_airgreat
+12516	15	Hostile	 Greater Earth Elemental	nw_earthgreat
+12532	15	Hostile	 Greater Fire Elemental	nw_firegreat
+12803	14	Hostile	 Greater Water Elemental	nw_watergreat
+12358	13	Hostile	 Huge Air Elemental	nw_airhuge
+12517	11	Hostile	 Huge Earth Elemental	nw_earthhuge
+12533	12	Hostile	 Huge Fire Elemental	nw_firehuge
+12804	11	Hostile	 Huge Water Elemental	nw_waterhuge
+12621	6	Hostile	 Invisible Stalker	nw_invstalk
+12802	4	Hostile	 Water Elemental	nw_water
+12524	8	Hostile	 Ettin	nw_ettin
+12562	10	Hostile	 Hill Giant	nw_gnthill
+12564	10	Hostile	 Mountain Giant	nw_gntmount
+12558	12	Hostile	 Fire Giant	nw_gntfire
+12558	10	Hostile	 Fire Giant	x0_gntfirefem
+12560	10	Hostile	 Frost Giant	nw_gntfrost
+12560	9	Hostile	 Frost Giant	x0_gntfrostfem
+12664	3	Hostile	 Ogre	nw_ogre01
+12664	3	Hostile	 Ogre	nw_ogre02
+12665	6	Hostile	 Ogre Berserker	nw_ogrechief01
+12665	6	Hostile	 Ogre Berserker	nw_ogrechief02
+56571	9	Hostile	 Ogre Chieftain	nw_ogreboss
+56571	7	Hostile	 Ogre Chieftain	x3_ogrechief001
+56572	18	Hostile	 Ogre High Mage	nw_ogremageboss
+12666	5	Hostile	 Ogre Mage	nw_ogremage01
+12666	5	Hostile	 Ogre Mage	nw_ogremage02
+12786	5	Hostile	 Troll	nw_troll
+12787	7	Hostile	 Troll Berserker	nw_trollchief
+56577	9	Hostile	 Troll Chieftain	nw_trollboss
+12788	7	Hostile	 Troll Shaman	nw_trollwiz
+12411	2	Hostile	 Bugbear	nw_bugbeara
+12411	2	Hostile	 Bugbear	nw_bugbearb
+56565	10	Hostile	 Bugbear Chieftain	nw_bugbearboss
+12412	5	Hostile	 Bugbear Hero	nw_bugchiefa
+12412	5	Hostile	 Bugbear Hero	nw_bugchiefb
+12413	4	Hostile	 Bugbear Shaman	nw_bugwiza
+12413	4	Hostile	 Bugbear Shaman	nw_bugwizb
+12505	2	Commoner	 Dryad	nw_dryad
+12581	2	Hostile	 Grig	nw_grig
+12658	1	Commoner	 Nixie	nw_nixie
+12662	3	Commoner	 Nymph	nw_nymph
+6005	2	Hostile	 Pixie	nw_pixie
+110988	4	Defender	 Satyr	x3_satyr003
+111384	4	Defender	 Satyr Archer	x3_satyr002
+111386	4	Defender	 Satyr Warrior	x3_satyr001
+12567	0	Hostile	 Goblin	nw_goblina
+12567	0	Hostile	 Goblin	nw_goblinb
+56568	11	Hostile	 Goblin Chieftain	nw_goblinboss
+12566	4	Hostile	 Goblin Elite	nw_gobchiefa
+12566	3	Hostile	 Goblin Elite	nw_gobchiefb
+12568	3	Hostile	 Goblin Shaman	nw_gobwiza
+12568	3	Hostile	 Goblin Shaman	nw_gobwizb
+3100	0	Hostile	 Hobgoblin	nw_hobgoblin001
+3102	2	Hostile	 Hobgoblin Shaman	nw_hobgoblin002
+2901	6	Hostile	 Asabi Chieftain	x0_asabi_chief
+2902	5	Hostile	 Asabi Shaman	x0_asabi_shaman
+2900	2	Hostile	 Asabi Warrior	x0_asabi_warrior
+2924	0	Hostile	 Kobold	nw_kobold001
+2924	0	Hostile	 Kobold	nw_kobold002
+2933	2	Hostile	 Kobold Footpad	nw_kobold004
+2934	2	Hostile	 Kobold Healer	nw_kobold006
+2926	2	Hostile	 Kobold Shaman	nw_kobold005
+2925	2	Hostile	 Kobold Thug	nw_kobold003
+12668	4	Hostile	 Lizardfolk Chieftain	nw_oldchiefa
+12668	4	Hostile	 Lizardfolk Chieftain	nw_oldchiefb
+12669	4	Hostile	 Lizardfolk Shaman	nw_oldmagea
+12669	4	Hostile	 Lizardfolk Shaman	nw_oldmageb
+12671	2	Hostile	 Lizardfolk Warrior	nw_oldwarb
+12671	2	Hostile	 Lizardfolk Warrior	nw_oldwarra
+110752	2	Hostile	 Sahuagin	nw_sahuagin
+110753	2	Hostile	 Sahuagin Cleric	nw_sahuaginclr
+110754	3	Hostile	 Sahuagin Leader	nw_sahuaginldr
+110636	1	Hostile	 Troglodyte	nw_trog001
+110638	5	Hostile	 Troglodyte Cleric	nw_trog003
+110637	3	Hostile	 Troglodyte Warrior	nw_trog002
+12823	5	Hostile	 Yuan-ti	nw_yuan_ti001
+12825	6	Hostile	 Yuan-Ti Priest	nw_yuan_ti003
+12824	5	Hostile	 Yuan-Ti Sorcerer	nw_yuan_ti002
+12648	4	Hostile	 Minotaur	nw_minotaur
+12645	8	Hostile	 Minotaur Berserker	nw_minchief
+56569	13	Hostile	 Minotaur Chieftain	nw_minotaurboss
+12649	9	Hostile	 Minotaur Shaman	nw_minwiz
+12674	0	Hostile	 Orc	nw_orca
+12674	0	Hostile	 Orc	nw_orcb
+12675	3	Hostile	 Orc Champion	nw_orcchiefa
+12675	3	Hostile	 Orc Champion	nw_orcchiefb
+56573	10	Hostile	 Orc Chieftain	nw_orcboss
+12676	4	Hostile	 Orc Shaman	nw_orcwiza
+12676	4	Hostile	 Orc Shaman	nw_orcwizb
+3097	1	Hostile	 Gnoll	nw_gnoll001
+3099	3	Hostile	 Gnoll Shaman	nw_gnoll002
+2854	6	Hostile	 Medusa	x0_medusa
+110534	4	Hostile	 Sea Hag	nw_seahag
+2872	3	Hostile	 Stinger	x0_stinger
+2875	7	Hostile	 Stinger Chieftain	x0_stinger_chief
+2876	5	Hostile	 Stinger Mage	x0_stinger_mage
+2874	5	Hostile	 Stinger Warrior	x0_stinger_war
+12403	3	Hostile	 Bombardier Beetle	nw_btlbomb
+12405	0	Hostile	 Fire Beetle	nw_btlfire
+56564	16	Hostile	 Hive Mother	nw_beetleboss
+67546	3	Hostile	 Spitting Fire Beetle	nw_btlfire02
+12407	7	Hostile	 Stag Beetle	nw_btlstag
+12409	3	Hostile	 Stink Beetle	nw_btlstink
+12718	7	Hostile	 Dire Spider	nw_spiddire
+12720	3	Hostile	 Giant Spider	nw_spidgiant
+111448	28	Hostile	 Maggris, the Hive Mother	x3_maggris
+12722	3	Hostile	 Phase Spider	nw_spidphase
+56576	14	Hostile	 Queen Spider	nw_spiderboss
+12724	4	Hostile	 Sword Spider	nw_spidswrd
+12726	4	Hostile	 Wraith Spider	nw_spidwra
+40618	13	Commoner	 Androsphinx	x0_sphinx
+2861	5	Hostile	 Basilisk	x0_basilisk
+12395	3	Commoner	 Blink Dog	nw_blinkdog
+40596	5	Hostile	 Cockatrice	x0_cockatrice
+3073	1	Hostile	 Deep Rothe	x2_deeprothe001
+12550	3	Hostile	 Gargoyle	nw_gargoyle
+2856	7	Hostile	 Gorgon	x0_gorgon
+2869	8	Commoner	 Gynosphinx	x0_gynosphinx
+12625	2	Hostile	 Krenshar	nw_krenshar
+2865	6	Hostile	 Manticore	x0_manticore
+12727	0	Hostile	 Stirge	nw_stirge
+84439	3	Hostile	 Gelatinous Cube	x2_gelcube
+110742	3	Hostile	 Gray Ooze	nw_grayooze
+12579	8	Hostile	 Gray Render	nw_grayrend
+3076	5	Hostile	 Harpy	x2_harpy001
+110835	5	Hostile	 Ochre Jelly	nw_ochrejellylrg
+110835	3	Hostile	 Ochre Jelly	nw_ochrejellymed
+110835	1	Hostile	 Ochre Jelly	nw_ochrejellysml
+12431	11	Commoner	 Celestial Avenger	nw_ctrumpet
+12591	9	Commoner	 Half-Celestial Warrior	nw_halfcel001
+12418	6	Commoner	 Hound Archon	nw_chound01
+12421	5	Commoner	 Lantern Archon	nw_clantern
+12443	15	Hostile	 Balor	nw_demon
+56562	16	Hostile	 Balor Lord	nw_balorboss
+90432	12	Hostile	 Bebilith	x2_spiderdemo001
+90386	8	Hostile	 Erinyes	x2_erinyes
+12597	8	Hostile	 Half-Fiend Warrior	nw_halffnd001
+111462	10	Hostile	 Harat, Lord of Darkness	x3_harat
+111462	10	Hostile	 Harat, Lord of Darkness	x3_harat2
+5997	4	Hostile	 Hell Hound	nw_hellhound
+12391	5	Hostile	 Hound of Xvim	nw_beastxvim
+3095	15	Hostile	 Pit Fiend	nw_devil001
+3095	15	Hostile	 Pit Fiend	x2_pitfiend001
+12682	7	Hostile	 Rakshasa	nw_rakshasa
+12695	4	Hostile	 Shadow Mastiff	nw_shmastif
+12453	7	Hostile	 Succubus	nw_dmsucubus
+12455	10	Hostile	 Vrock	nw_dmvrock
+12636	3	Hostile	 Air Mephit	nw_mepair
+12637	3	Hostile	 Dust Mephit	nw_mepdust
+12638	3	Hostile	 Earth Mephit	nw_mepearth
+6001	3	Hostile	 Fire Mephit	nw_mepfire
+6003	3	Hostile	 Ice Mephit	nw_mepice
+5999	3	Hostile	 Imp	nw_imp
+12639	3	Hostile	 Magma Mephit	nw_mepmagma
+12640	3	Hostile	 Ooze Mephit	nw_mepooze
+12451	3	Hostile	 Quasit	nw_dmquasit
+12641	3	Hostile	 Salt Mephit	nw_mepsalt
+12642	3	Hostile	 Steam Mephit	nw_mepsteam
+12643	3	Hostile	 Water Mephit	nw_mepwater
+90373	2	Commoner	 Azer	x2_azer001
+90373	2	Commoner	 Azer	x2_azer002
+12527	4	Commoner	 Fenhound	nw_fenhound
+2889	11	Hostile	 Formian Myrmarch	x0_form_myrmarch
+2890	20	Hostile	 Formian Queen	x0_form_queen
+40603	7	Hostile	 Formian Taskmaster	x0_form_taskmast
+2888	4	Hostile	 Formian Warrior	x0_form_warrior
+2887	1	Hostile	 Formian Worker	x0_form_worker
+110968	8	Hostile	 Nightmare	x3_nightmare002
+110968	8	Commoner	 Nightmare	x3_nightmare001
+110968	8	Commoner	 Nightmare	x3_nightmare003
+12784	0	Hostile	 Tiefling	nw_tiefling02
+90430	30	Hostile	 Black Slaad	x2_slaadblack001
+12706	7	Hostile	 Blue Slaad	nw_slaadbl
+12708	15	Hostile	 Death Slaad	nw_slaaddeth
+56574	15	Hostile	 Death Slaad Lord	nw_slaaddthboss
+12710	10	Hostile	 Gray Slaad	nw_slaadgray
+56575	11	Hostile	 Gray Slaad Lord	nw_slaadgryboss
+12712	9	Hostile	 Green Slaad	nw_slaadgrn
+12714	6	Hostile	 Red Slaad	nw_slaadred
+90431	25	Hostile	 White Slaad	x2_slaadwhite001
+12362	3	Hostile	 Aranea	nw_aranea
+12367	0	Hostile	 Bandit	nw_werecat001
+12367	0	Hostile	 Bandit	nw_wererat001
+12367	0	Hostile	 Bandit	nw_werewolf001
+12367	0	Hostile	 Bandit	nw_bandit001
+111437	0	Hostile	 Lord Antoine Baccha, Visier de Guise	x3_antoine
+111014	9	Hostile	 Wereboar	x3_wereboar001
+12806	5	Hostile	 Werecat	nw_werecat
+12808	0	Hostile	 Wererat	nw_wererat
+12810	2	Hostile	 Werewolf	nw_werewolf
+12552	4	Hostile	 Ghast	nw_ghast
+12554	2	Hostile	 Ghoul	nw_ghoul
+12556	5	Hostile	 Ghoul Lord	nw_ghoullord
+56567	10	Hostile	 Ghoul Ravager	nw_ghoulboss
+5644	10	Hostile	 Greater Mummy	nw_mumcleric
+12656	5	Hostile	 Mummy	nw_mummy
+56570	11	Hostile	 Mummy Lord	nw_mummyboss
+12654	10	Hostile	 Warrior Mummy	nw_mumfight
+84506	18	Hostile	 Alhoon	x2_mindflayer003
+12630	18	Commoner	 Baelnorn	nw_lich002
+12401	9	Hostile	 Bodak	nw_bodak
+12438	6	Hostile	 Curst Monk	nw_curst004
+12437	5	Hostile	 Curst Ranger	nw_curst003
+12436	6	Hostile	 Curst Rogue	nw_curst002
+111431	6	Hostile	 Curst Swordsman	x3_curstsword
+12435	5	Hostile	 Curst Warrior	nw_curst001
+3087	24	Hostile	 Demilich	x2_demilich001
+12459	10	Hostile	 Doom Knight	nw_doomkght
+56566	15	Hostile	 Doom Knight Commander	nw_doomkghtboss
+3062	43	Hostile	 Dracolich	x2_dracolich001
+12629	28	Hostile	 Lich	nw_lich001
+12629	17	Hostile	 Lich	nw_lich003
+12629	21	Hostile	 Lich	nw_lichboss
+111451	32	Hostile	 Masterius, the Lich King	x3_masterius001
+111451	32	Hostile	 Masterius, the Lich King	x3_masterius002
+111451	32	Hostile	 Masterius, the Lich King	x3_masterius003
+12651	12	Hostile	 Mohrg	nw_mohrg
+5641	7	Hostile	 Revenant	nw_revenant001
+12700	13	Hostile	 Skeletal Devourer	nw_skeldevour
+5637	6	Hostile	 Vampire	nw_vampire
+12796	16	Hostile	 Vampire Mage	nw_vampire003
+12797	13	Hostile	 Vampire Priest	nw_vampire004
+12795	13	Hostile	 Vampire Rogue	nw_vampire002
+12794	12	Hostile	 Vampire Warrior	nw_vampire001
+111439	16	Hostile	 Widow Hagatha	x3_hagatha
+12812	4	Hostile	 Wight	nw_wight
+12798	3	Hostile	 Gaseous Form	nw_vampire_shad
+12689	3	Hostile	 Shadow	nw_shadow
+12691	7	Hostile	 Shadow Fiend	nw_shfiend
+12701	0	Hostile	 Skeleton	nw_skeleton
+12698	7	Hostile	 Skeleton Chieftain	nw_skelchief
+12702	4	Hostile	 Skeleton Mage	nw_skelmage
+12703	4	Hostile	 Skeleton Priest	nw_skelpriest
+12704	6	Hostile	 Skeleton Warrior	nw_skelwarr01
+12704	6	Hostile	 Skeleton Warrior	nw_skelwarr02
+12360	3	Hostile	 Allip	nw_allip
+12716	6	Hostile	 Spectre	nw_spectre
+12822	5	Hostile	 Wraith	nw_wraith
+12829	3	Hostile	 Tyrantfog Zombie	nw_zombtyrant
+12827	1	Hostile	 Zombie	nw_zombie01
+12827	1	Hostile	 Zombie	nw_zombie02
+56579	8	Hostile	 Zombie Lord	nw_zombieboss
+12830	4	Hostile	 Zombie Warrior	nw_zombwarr01
+12830	4	Hostile	 Zombie Warrior	nw_zombwarr02
+90385	4	Hostile	 Duergar Chief	x2_duergar002
+90385	8	Hostile	 Duergar Chief	x2_duergar003
+90385	10	Hostile	 Duergar Chief	x2_duergar004
+90385	13	Hostile	 Duergar Chief	x2_duergar005
+12507	1	Hostile	 Duergar Cleric	nw_duecler001
+12507	4	Hostile	 Duergar Cleric	nw_duecler005
+12507	8	Hostile	 Duergar Cleric	nw_duecler010
+12507	11	Hostile	 Duergar Cleric	nw_duecler015
+12507	15	Hostile	 Duergar Cleric	nw_duecler020
+12509	1	Hostile	 Duergar Mage	nw_duemage001
+12509	4	Hostile	 Duergar Mage	nw_duemage005
+12509	7	Hostile	 Duergar Mage	nw_duemage010
+12509	11	Hostile	 Duergar Mage	nw_duemage015
+12509	14	Hostile	 Duergar Mage	nw_duemage020
+90400	7	Hostile	 Duergar Mage	x2_mephduer007
+90400	12	Hostile	 Duergar Mage	x2_mephduer008
+90400	17	Hostile	 Duergar Mage	x2_mephduer009
+90401	8	Hostile	 Duergar Priestess	x2_mephduer010
+90401	13	Hostile	 Duergar Priestess	x2_mephduer011
+90401	18	Hostile	 Duergar Priestess	x2_mephduer012
+12510	1	Hostile	 Duergar Rogue	nw_duerogue001
+12510	4	Hostile	 Duergar Rogue	nw_duerogue005
+12510	7	Hostile	 Duergar Rogue	nw_duerogue010
+12510	10	Hostile	 Duergar Rogue	nw_duerogue015
+12510	13	Hostile	 Duergar Rogue	nw_duerogue020
+90399	7	Hostile	 Duergar Rogue	x2_mephduer004
+90399	12	Hostile	 Duergar Rogue	x2_mephduer005
+90399	17	Hostile	 Duergar Rogue	x2_mephduer006
+101022	0	Commoner	 Duergar Slaver	x2_duergar001
+12508	1	Hostile	 Duergar Warrior	nw_duefight001
+12508	4	Hostile	 Duergar Warrior	nw_duefight005
+12508	7	Hostile	 Duergar Warrior	nw_duefight010
+12508	11	Hostile	 Duergar Warrior	nw_duefight015
+12508	14	Hostile	 Duergar Warrior	nw_duefight020
+90398	8	Hostile	 Duergar Warrior	x2_mephduer001
+90398	12	Hostile	 Duergar Warrior	x2_mephduer002
+90398	17	Hostile	 Duergar Warrior	x2_mephduer003
+12511	0	Hostile	 Dwarf Mercenary	nw_dwarfmerc001
+12511	2	Hostile	 Dwarf Mercenary	nw_dwarfmerc002
+12511	4	Hostile	 Dwarf Mercenary	nw_dwarfmerc003
+12511	7	Hostile	 Dwarf Mercenary	nw_dwarfmerc004
+12511	9	Hostile	 Dwarf Mercenary	nw_dwarfmerc005
+12511	13	Hostile	 Dwarf Mercenary	nw_dwarfmerc006
+111453	1	Hostile	 Dwarf rider	x3_dwarfmount001
+40581	0	Commoner	 CHEATER	x0_cheater
+12503	1	Hostile	 Drow Assassin	nw_drowrogue001
+12503	3	Hostile	 Drow Assassin	nw_drowrogue005
+12503	7	Hostile	 Drow Assassin	nw_drowrogue010
+12503	10	Hostile	 Drow Assassin	nw_drowrogue015
+12503	13	Hostile	 Drow Assassin	nw_drowrogue020
+12502	1	Hostile	 Drow Mage	nw_drowmage001
+12502	4	Hostile	 Drow Mage	nw_drowmage005
+12502	7	Hostile	 Drow Mage	nw_drowmage010
+12502	11	Hostile	 Drow Mage	nw_drowmage015
+12502	14	Hostile	 Drow Mage	nw_drowmage020
+90396	7	Hostile	 Drow Mage	x2_mephdrow010
+90396	11	Hostile	 Drow Mage	x2_mephdrow011
+90396	14	Hostile	 Drow Mage	x2_mephdrow012
+12501	1	Hostile	 Drow Militia	nw_drowfight001
+12501	4	Hostile	 Drow Militia	nw_drowfight005
+12501	8	Hostile	 Drow Militia	nw_drowfight010
+12501	11	Hostile	 Drow Militia	nw_drowfight015
+12501	15	Hostile	 Drow Militia	nw_drowfight020
+12500	1	Hostile	 Drow Priestess	nw_drowcler001
+12500	4	Hostile	 Drow Priestess	nw_drowcler005
+12500	8	Hostile	 Drow Priestess	nw_drowcler010
+12500	11	Hostile	 Drow Priestess	nw_drowcler015
+12500	15	Hostile	 Drow Priestess	nw_drowcler020
+90397	8	Hostile	 Drow Priestess	x2_mephdrow013
+90397	13	Hostile	 Drow Priestess	x2_mephdrow014
+90397	18	Hostile	 Drow Priestess	x2_mephdrow015
+90394	7	Hostile	 Drow Rogue	x2_mephdrow001
+90394	11	Hostile	 Drow Rogue	x2_mephdrow002
+90394	18	Hostile	 Drow Rogue	x2_mephdrow003
+90382	0	Commoner	 Drow Slave	x2_drow001
+90395	8	Hostile	 Drow Warrior	x2_mephdrow004
+90395	13	Hostile	 Drow Warrior	x2_mephdrow005
+90395	20	Hostile	 Drow Warrior	x2_mephdrow006
+90395	8	Hostile	 Drow Warrior	x2_mephdrow007
+90395	13	Hostile	 Drow Warrior	x2_mephdrow008
+90395	20	Hostile	 Drow Warrior	x2_mephdrow009
+90383	4	Hostile	 Drow Wizard	x2_drow002
+90383	7	Hostile	 Drow Wizard	x2_drow003
+90383	11	Hostile	 Drow Wizard	x2_drow004
+90383	15	Hostile	 Drow Wizard	x2_drow005
+12518	0	Commoner	 Elf Mage	nw_elfmage001
+12518	4	Commoner	 Elf Mage	nw_elfmage005
+12518	11	Commoner	 Elf Mage	nw_elfmage015
+12519	2	Hostile	 Elf Mercenary	nw_elfmerc001
+12519	4	Hostile	 Elf Mercenary	nw_elfmerc002
+12519	6	Hostile	 Elf Mercenary	nw_elfmerc003
+12519	9	Hostile	 Elf Mercenary	nw_elfmerc004
+12519	11	Hostile	 Elf Mercenary	nw_elfmerc005
+12519	14	Hostile	 Elf Mercenary	nw_elfmerc006
+12520	0	Hostile	 Elf Ranger	nw_elfranger001
+12520	4	Hostile	 Elf Ranger	nw_elfranger005
+12520	11	Hostile	 Elf Ranger	nw_elfranger015
+111454	0	Hostile	 Elf rider	x3_elfmount001
+90433	0	Commoner	 Svirfneblin	x2_svirfneblin01
+90433	0	Commoner	 Svirfneblin	x2_svirfneblin02
+12598	0	Commoner	 Halfling	nw_halfling001
+12598	3	Commoner	 Halfling	nw_halfling005
+12598	10	Hostile	 Halfling	nw_halfling015
+12599	1	Hostile	 Halfling Mercenary	nw_halfmerc001
+12599	3	Hostile	 Halfling Mercenary	nw_halfmerc002
+12599	5	Hostile	 Halfling Mercenary	nw_halfmerc003
+12599	7	Hostile	 Halfling Mercenary	nw_halfmerc004
+12599	10	Hostile	 Halfling Mercenary	nw_halfmerc005
+12599	13	Hostile	 Halfling Mercenary	nw_halfmerc006
+12372	7	Hostile	 Half-Orc Bandit	nw_bandit006
+12368	0	Hostile	 Bandit Archer	nw_bandit002
+12373	11	Hostile	 Bandit Chief	nw_bandit007
+12370	3	Hostile	 Bandit Cleric	nw_bandit004
+12371	4	Hostile	 Bandit Mage	nw_bandit005
+12369	1	Hostile	 Bandit Rogue	nw_bandit003
+12374	0	Commoner	 Bartender	nw_bartender
+12393	0	Commoner	 Beggar	nw_beggmale
+12618	0	Commoner	 Bloodsailor	nw_humsailor
+12634	0	Commoner	 Boy	nw_malekid01
+111460	13	Commoner	 Caladnei	x3_caladnei
+12422	0	Commoner	 Commoner, Female	nw_comfemale
+12423	0	Commoner	 Commoner, Male	nw_commale
+12424	0	Commoner	 Convict	nw_convict
+12433	0	Commoner	 Cult Member	nw_cultmember
+12525	0	Commoner	 Girl	nw_femalekid01
+12589	11	Hostile	 Gypsy Chief	nw_gypsy006
+12588	8	Hostile	 Gypsy Healer	nw_gypsy005
+12587	4	Hostile	 Gypsy Mage	nw_gypsy004
+12587	10	Hostile	 Gypsy Mage	nw_gypsy007
+12586	0	Hostile	 Gypsy Rogue	nw_gypsy002
+12585	0	Hostile	 Gypsy Warrior	nw_gypsy001
+12585	4	Hostile	 Gypsy Warrior	nw_gypsy003
+12583	0	Hostile	 Gypsy, Female	nw_gypfemale
+12584	0	Hostile	 Gypsy, Male	nw_gypmale
+111441	229	Hostile	 Halaster	x3_halaster
+12582	0	Hostile	 House Guard	nw_guard
+12617	2	Hostile	 Human Mercenary	nw_humanmerc001
+12617	3	Hostile	 Human Mercenary	nw_humanmerc002
+12617	6	Hostile	 Human Mercenary	nw_humanmerc003
+12617	9	Hostile	 Human Mercenary	nw_humanmerc004
+12617	12	Hostile	 Human Mercenary	nw_humanmerc005
+12617	15	Hostile	 Human Mercenary	nw_humanmerc006
+111455	2	Hostile	 Human rider	x3_hummount001
+12619	0	Commoner	 Innkeeper	nw_innkeeper
+12626	0	Hostile	 Kurth's Soldier	nw_kurthsold
+12633	0	Hostile	 Luskan Guard	nw_luskanite
+12657	0	Commoner	 Neverwintan Militia	nw_nevmilitia
+12660	0	Hostile	 Nobleman	nw_noblmale
+12659	0	Hostile	 Noblewoman	nw_noblfemale
+12670	0	Commoner	 Old Man	nw_oldman
+12672	0	Commoner	 Old Woman	nw_oldwoman
+12680	0	Hostile	 Plague Victim	nw_plagmale
+12614	0	Commoner	 Prostitute	nw_hooker01
+12614	0	Commoner	 Prostitute	nw_hooker02
+111395	2	Defender	 Purple Dragon Archer	x3_pdkaf001
+111395	2	Defender	 Purple Dragon Archer	x3_pdkam001
+111397	2	Defender	 Purple Dragon Blade	x3_pdkbm001
+111397	2	Defender	 Purple Dragon Blade	x3_pdkbf001
+12696	0	Commoner	 Shop Keeper	nw_shopkeep
+12791	1	Hostile	 Uthgard Elk Tribesmen	nw_uthgard01
+12792	1	Hostile	 Uthgard Tiger Tribesmen	nw_uthgard02
+12799	0	Commoner	 Waitress	nw_waitress
+12603	3	Merchant	 Boddyknock	nw_hen_bod_01
+12603	4	Merchant	 Boddyknock	nw_hen_bod_02
+12603	5	Merchant	 Boddyknock	nw_hen_bod_03
+12603	5	Merchant	 Boddyknock	nw_hen_bod_04
+12603	6	Merchant	 Boddyknock	nw_hen_bod_05
+12603	7	Merchant	 Boddyknock	nw_hen_bod_06
+12603	7	Merchant	 Boddyknock	nw_hen_bod_07
+12603	8	Merchant	 Boddyknock	nw_hen_bod_08
+12603	9	Merchant	 Boddyknock	nw_hen_bod_09
+12603	10	Merchant	 Boddyknock	nw_hen_bod_10
+12603	10	Merchant	 Boddyknock	nw_hen_bod_11
+12605	4	Merchant	 Daelan	nw_hen_dae_01
+12607	4	Merchant	 Daelan	nw_hen_dae_02
+12607	5	Merchant	 Daelan	nw_hen_dae_03
+12607	6	Merchant	 Daelan	nw_hen_dae_04
+12607	7	Merchant	 Daelan	nw_hen_dae_05
+12607	7	Merchant	 Daelan	nw_hen_dae_06
+12607	8	Merchant	 Daelan	nw_hen_dae_07
+12607	9	Merchant	 Daelan	nw_hen_dae_08
+12607	10	Merchant	 Daelan	nw_hen_dae_09
+12607	11	Merchant	 Daelan	nw_hen_dae_10
+12607	12	Merchant	 Daelan	nw_hen_dae_11
+12610	3	Merchant	 Grimgnaw	nw_hen_gri_01
+12610	4	Merchant	 Grimgnaw	nw_hen_gri_02
+12610	5	Merchant	 Grimgnaw	nw_hen_gri_03
+12610	5	Merchant	 Grimgnaw	nw_hen_gri_04
+12610	6	Merchant	 Grimgnaw	nw_hen_gri_05
+12610	7	Merchant	 Grimgnaw	nw_hen_gri_06
+12610	7	Merchant	 Grimgnaw	nw_hen_gri_07
+12610	8	Merchant	 Grimgnaw	nw_hen_gri_08
+12610	9	Merchant	 Grimgnaw	nw_hen_gri_09
+12610	9	Merchant	 Grimgnaw	nw_hen_gri_10
+12610	10	Merchant	 Grimgnaw	nw_hen_gri_11
+12611	4	Merchant	 Linu	nw_hen_lin_01
+12611	5	Merchant	 Linu	nw_hen_lin_02
+12611	6	Merchant	 Linu	nw_hen_lin_03
+12611	7	Merchant	 Linu	nw_hen_lin_04
+12611	7	Merchant	 Linu	nw_hen_lin_05
+12611	8	Merchant	 Linu	nw_hen_lin_06
+12611	9	Merchant	 Linu	nw_hen_lin_07
+12611	10	Merchant	 Linu	nw_hen_lin_08
+12611	11	Merchant	 Linu	nw_hen_lin_09
+12611	12	Merchant	 Linu	nw_hen_lin_10
+12611	13	Merchant	 Linu	nw_hen_lin_11
+12613	4	Merchant	 Sharwyn	nw_hen_sha_01
+12613	5	Merchant	 Sharwyn	nw_hen_sha_02
+12613	6	Merchant	 Sharwyn	nw_hen_sha_03
+12613	7	Merchant	 Sharwyn	nw_hen_sha_04
+12613	8	Merchant	 Sharwyn	nw_hen_sha_05
+12613	9	Merchant	 Sharwyn	nw_hen_sha_06
+12613	10	Merchant	 Sharwyn	nw_hen_sha_07
+12613	10	Merchant	 Sharwyn	nw_hen_sha_08
+12613	11	Merchant	 Sharwyn	nw_hen_sha_09
+12613	13	Merchant	 Sharwyn	nw_hen_sha_10
+12613	14	Merchant	 Sharwyn	nw_hen_sha_11
+12608	3	Merchant	 Tomi	nw_hen_gal_01
+12608	4	Merchant	 Tomi	nw_hen_gal_02
+12608	5	Merchant	 Tomi	nw_hen_gal_03
+12608	6	Merchant	 Tomi	nw_hen_gal_04
+12608	6	Merchant	 Tomi	nw_hen_gal_05
+12608	7	Merchant	 Tomi	nw_hen_gal_06
+12608	8	Merchant	 Tomi	nw_hen_gal_07
+12608	9	Merchant	 Tomi	nw_hen_gal_08
+12608	10	Merchant	 Tomi	nw_hen_gal_09
+12608	10	Merchant	 Tomi	nw_hen_gal_10
+12608	11	Merchant	 Tomi	nw_hen_gal_11
+90375	71	Commoner	 Volkarion	x2_djinn
