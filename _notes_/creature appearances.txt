@@ -115,7 +115,13 @@
     <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_graysilthorror.png" alt="NWNDS Gray Silt Horror" style="width:100%"></td>
     <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_graysilthorror.png" alt="2e Gray Silt Horror" style="max-width:100%"></td>
     <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_graysilthorror.png" alt="3e Gray Silt Horror" style="max-width:100%"></td>
-  </tr>    
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Umber Hulk</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_umberhulk.png" alt="NWNDS Umber Hulk" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_umberhulk.png" alt="2e Umber Hulk" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_umberhulk.png" alt="3e Umber Hulk" style="max-width:100%"></td>
+  </tr>   
 </table>
 
 
