@@ -1,0 +1,100 @@
+<table style="width:100%">
+  <tr>
+    <td colspan="4" style="text-align:center; font-size: 24px; font-weight: bold;">Aberrations</td>
+  </tr>
+  <tr>
+      <th style="text-align:center; width: 25%;">Creature Name</th>
+	  <th style="text-align:center">Current Model</th>
+      <th style="text-align:center">2e Art</th>
+      <th style="text-align:center">3e Art</th>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Cistern Fiend</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_cisternfiend.png" alt="NWNDS Cistern Fiend" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_cisternfiend.gif" alt="2e Cistern Fiend" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_cisternfiend.jpg" alt="3e Cistern Fiend" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Cloaker</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_cloaker.png" alt="NWNDS Cloaker" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_cloaker.png" alt="2e Cloaker" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_cloaker.png" alt="3e Cloaker" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Dark Spider</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_darkspider.png" alt="NWNDS Dark Spider" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_darkspider.png" alt="2e Dark Spider" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_darkspider.png" alt="3e Dark Spider" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Dune Reaper</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_dunereaper.png" alt="NWNDS Dune Reaper" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_dunereaper.png" alt="2e Dune Reaper" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_dunereaper.png" alt="3e Dune Reaper" style="width:100%"></td>
+  </tr>  
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Dust Digger</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_dustdigger.png" alt="NWNDS Dust Digger" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_dustdigger.png" alt="2e Dust Digger" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_dustdigger.png" alt="3e Dust Digger" style="width:100%"></td>
+  </tr>   
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Ethereal Filcher</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_etherealfilcher.png" alt="NWNDS Ethereal Filcher" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_etherealfilcher.png" alt="2e Ethereal Filcher" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_etherealfilcher.png" alt="3e Ethereal Filcher" style="max-width:100%"></td>
+  </tr>  
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Ettercap</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_ettercap.png" alt="NWNDS Ettercap" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_ettercap.png" alt="2e Ettercap" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_ettercap.png" alt="3e Ettercap" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Fihyr</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_greaterfihyr.png" alt="NWNDS Fihyr" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_greaterfihyr.png" alt="2e Fihyr" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_greaterfihyr.png" alt="3e Fihyr" style="max-width:100%"></td>
+  </tr>   
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Floater</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_floater.png" alt="NWNDS Floater" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_floater.png" alt="2e Floater" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_floater.png" alt="3e Floater" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Gaj</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_gaj.png" alt="NWNDS Gaj" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_gaj.png" alt="2e Gaj" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_gaj.png" alt="3e Gaj" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Illithid</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_illithid.png" alt="NWNDS Illithid" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_illithid.png" alt="2e Illithid" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_illithid.png" alt="3e Illithid" style="max-width:100%"></td>
+  </tr>   
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Intellect Devourer</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_intdevourer.png" alt="NWNDS Intellect Devourer" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_intdevourer.png" alt="2e Intellect Devourer" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_intdevourer.png" alt="3e Intellect Devourer" style="max-width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Kalin</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_kalin.png" alt="NWNDS Kalin" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_kalin.png" alt="2e Kalin" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_kalin.png" alt="3e Kalin" style="max-width:100%"></td>
+  </tr>    
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Otyugh & Neo-Otyugh</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_otyugh.png" alt="NWNDS Otyugh" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_otyugh.png" alt="2e Otyugh" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_otyugh.png" alt="3e Otyugh" style="max-width:100%"></td>
+  </tr>   
+</table>
+
+
+
+
+
