@@ -104,6 +104,12 @@
     <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_psurlon.png" alt="2e Psurlon" style="max-width:100%"></td>
     <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_psurlon.png" alt="3e Psurlon" style="max-width:100%"></td>
   </tr>   
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Ruktoi</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_ruktoi.png" alt="NWNDS Ruktoi" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_ruktoi.png" alt="2e Ruktoi" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_ruktoi.png" alt="3e Ruktoi" style="max-width:100%"></td>
+  </tr>   
 </table>
 
 
