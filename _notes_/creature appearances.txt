@@ -51,7 +51,7 @@
     <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_ettercap.png" alt="3e Ettercap" style="max-width:100%"></td>
   </tr> 
   <tr>
-    <td style="text-align:center; font-weight: bold; width: 25%;">Fihyr</td>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Fihyr & Greater Fihyr</td>
     <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_greaterfihyr.png" alt="NWNDS Fihyr" style="width:100%"></td>
     <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_greaterfihyr.png" alt="2e Fihyr" style="max-width:100%"></td>
     <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_greaterfihyr.png" alt="3e Fihyr" style="max-width:100%"></td>
@@ -91,6 +91,18 @@
     <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_otyugh.png" alt="NWNDS Otyugh" style="width:100%"></td>
     <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_otyugh.png" alt="2e Otyugh" style="max-width:100%"></td>
     <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_otyugh.png" alt="3e Otyugh" style="max-width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Pakubrazi</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_pakubrazi.png" alt="NWNDS Pakubrazi" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_pakubrazi.png" alt="2e Pakubrazi" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_pakubrazi.png" alt="3e Pakubrazi" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Psurlon</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_psurlon.png" alt="NWNDS Psurlon" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_psurlon.png" alt="2e Psurlon" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_psurlon.png" alt="3e Psurlon" style="max-width:100%"></td>
   </tr>   
 </table>
 
