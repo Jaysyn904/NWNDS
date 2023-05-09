@@ -1,0 +1,74 @@
+<table style="width:100%">
+  <tr>
+      <th style="text-align:center; width: 25%;">Creature Name</th>
+	  <th style="text-align:center">Current Model</th>
+      <th style="text-align:center">2e Art</th>
+      <th style="text-align:center">3e Art</th>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Air Drake</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_airdrake.png" alt="NWNDS Air Drake" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_airdrake.png" alt="2e Air Drake" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_airdrake.png" alt="3e Air Drake" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Earth Drake</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_earthdrake.png" alt="NWNDS Earth Drake" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_earthdrake.png" alt="2e Earth Drake" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_earthdrake.png" alt="3e Earth Drake" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Fire Drake</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_firedrake.png" alt="NWNDS Fire Drake" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_firedrake.png" alt="2e Fire Drake" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_firedrake.png" alt="3e Fire Drake" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Magma Drake</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_magmadrake.png" alt="NWNDS Magma Drake" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_magmadrake.png" alt="2e Magma Drake" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_magmadrake.png" alt="3e Magma Drake" style="width:100%"></td>
+  </tr>  
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Rain Drake</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_raindrake.png" alt="NWNDS Rain Drake" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_raindrake.png" alt="2e Rain Drake" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_raindrake.png" alt="3e Rain Drake" style="width:100%"></td>
+  </tr>   
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Salt Drake</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_saltdrake.png" alt="NWNDS Salt Drake" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_saltdrake.png" alt="2e Salt Drake" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_saltdrake.png" alt="3e Salt Drake" style="max-width:100%"></td>
+  </tr>  
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Silt Drake</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_siltdrake.png" alt="NWNDS Silt Drake" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_siltdrake.png" alt="2e Silt Drake" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_siltdrake.png" alt="3e Silt Drake" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Sun Drake</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_sundrake.png" alt="NWNDS Sun Drake" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_sundrake.png" alt="2e Sun Drake" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_sundrake.png" alt="3e Sun Drake" style="max-width:100%"></td>
+  </tr>   
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Water Drake</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_waterdrake.png" alt="NWNDS Water Drake" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_waterdrake.png" alt="2e Water Drake" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_waterdrake.png" alt="3e Water Drake" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Pseudodragon</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_pseudodragon.png" alt="NWNDS Pseudodragon" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_pseudodragon.png" alt="2e Pseudodragon" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_pseudodragon.png" alt="3e Pseudodragon" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Wyvern</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_wyvern.png" alt="NWNDS Wyvern" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_wyvern.png" alt="2e Wyvern" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_wyvern.png" alt="3e Wyvern" style="max-width:100%"></td>
+  </tr>  
+</table>
