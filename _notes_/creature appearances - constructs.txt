@@ -1,0 +1,134 @@
+<table style="width:100%">
+  <tr>
+      <th style="text-align:center; width: 25%;">Creature Name</th>
+	  <th style="text-align:center">Current Model</th>
+      <th style="text-align:center">2e Art</th>
+      <th style="text-align:center">3e Art</th>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Stone Colossus</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_stonecolossus.png" alt="NWNDS Stone Colossus" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_stonecolossus.png" alt="2e Stone Colossus" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_stonecolossus.png" alt="3e Stone Colossus" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Ash Golem</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_ashgolem.png" alt="NWNDS Ash Golem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_ashgolem.png" alt="2e Ash Golem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_ashgolem.png" alt="3e Ash Golem" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Bone Golem</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_bonegolem.png" alt="NWNDS Bone Golem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_bonegolem.png" alt="2e Bone Golem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_bonegolem.png" alt="3e Bone Golem" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Clay Golem</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_claygolem.png" alt="NWNDS Clay Golem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_claygolem.png" alt="2e Clay Golem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_claygolem.png" alt="3e Clay Golem" style="width:100%"></td>
+  </tr>  
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Jade Golem</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_jadegolem.png" alt="NWNDS Jade GOlem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_jadegolem.png" alt="2e Jade GOlem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_jadegolem.png" alt="3e Jade GOlem" style="width:100%"></td>
+  </tr>   
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Magma Golem</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_magmagolem.png" alt="NWNDS Magma Golem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_magmagolem.png" alt="2e Magma Golem" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_magmagolem.png" alt="3e Magma Golem" style="max-width:100%"></td>
+  </tr>  
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Obsidian Golem</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_obsidiangolem.png" alt="NWNDS Obsidian Golem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_obsidiangolem.png" alt="2e Obsidian Golem" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_obsidiangolem.png" alt="3e Obsidian Golem" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Rock Golem</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_rockgolem.png" alt="NWNDS Rock Golem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_rockgolem.png" alt="2e Rock Golem" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_rockgolem.png" alt="3e Rock Golem" style="max-width:100%"></td>
+  </tr>   
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Salt Golem</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_saltgolem.png" alt="NWNDS Salt Golem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_saltgolem.png" alt="2e Salt Golem" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_saltgolem.png" alt="3e Salt Golem" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Salt Golem</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_saltgolem.png" alt="NWNDS Salt Golem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_saltgolem.png" alt="2e Salt Golem" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_saltgolem.png" alt="3e Salt Golem" style="max-width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Sand Golem</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_sandgolem.png" alt="NWNDS Sand Golem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_sandgolem.png" alt="2e Sand Golem" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_sandgolem.png" alt="3e Sand Golem" style="max-width:100%"></td>
+  </tr>  
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Stone Golem</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_stonegolem.png" alt="NWNDS Stone Golem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_stonegolem.png" alt="2e Stone Golem" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_stonegolem.png" alt="3e Stone Golem" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Alabaster Sentinel</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_alabastersent.png" alt="NWNDS Alabaster Sentinel" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_alabastersent.png" alt="2e Alabaster Sentinel" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_alabastersent.png" alt="3e Alabaster Sentinel" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Bloodstone Sentinel</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_bloodstonesent.png" alt="NWNDS Bloodstone Sentinel" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_bloodstonesent.png" alt="2e Bloodstone Sentinel" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_bloodstonesent.png" alt="3e Bloodstone Sentinel" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Ebon Sentinel</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_ebonsent.png" alt="NWNDS Ebon Sentinel" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_ebonsent.png" alt="2e Ebon Sentinel" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_ebonsent.png" alt="3e Ebon Sentinel" style="max-width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Onyx Sentinel</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_onyxsent.png" alt="NWNDS Onyx Sentinel" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_onyxsent.png" alt="2e Onyx Sentinel" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_onyxsent.png" alt="3e Onyx Sentinel" style="max-width:100%"></td>
+  </tr>    
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Skyros Sentinel</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_skyrossent.png" alt="NWNDS Skyros Sentinel" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_skyrossent.png" alt="2e Skyros Sentinel" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_skyrossent.png" alt="3e Skyros Sentinel" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Necrophidius</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_necrophidius.png" alt="NWNDS Necrophidius" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_necrophidius.png" alt="2e Necrophidius" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_necrophidius.png" alt="3e Necrophidius" style="max-width:100%"></td>
+  </tr>  
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Obsidian Minotaur</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_obsidianminotaur.png" alt="NWNDS Obsidian Minotaur" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_obsidianminotaur.png" alt="2e Obsidian Minotaur" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_obsidianminotaur.png" alt="3e Obsidian Minotaur" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Obsidian Retriever</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_obsidianret.png" alt="NWNDS Obsidian Retriever" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_obsidianret.png" alt="2e Obsidian Retriever" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_obsidianret.png" alt="3e Obsidian Retriever" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Psionocus</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_psionocus.png" alt="NWNDS Psionocus" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_psionocus.png" alt="2e Psionocus" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_psionocus.png" alt="3e Psionocus" style="max-width:100%"></td>
+  </tr>    
+</table>
