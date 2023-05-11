@@ -26,7 +26,7 @@ Custom Overworld Map System with over 240k square kilometers of Athasian terrain
 
 ### Contributions & Thanks
 
-Draygoth, Acidchalk, Azimn, Tonden - Models & tilesets
+Acidchalk, Azimn, Draygoth, Tonden - Models & tilesets
 
 Dizzit_Gardan - Quests, scripting, tilesets & models.
 
