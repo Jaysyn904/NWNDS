@@ -58,12 +58,6 @@
     <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_saltgolem.png" alt="NWNDS Salt Golem" style="width:100%"></td>
     <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_saltgolem.png" alt="2e Salt Golem" style="max-width:100%"></td>
     <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_saltgolem.png" alt="3e Salt Golem" style="max-width:100%"></td>
-  </tr> 
-  <tr>
-    <td style="text-align:center; font-weight: bold; width: 25%;">Salt Golem</td>
-    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_saltgolem.png" alt="NWNDS Salt Golem" style="width:100%"></td>
-    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_saltgolem.png" alt="2e Salt Golem" style="max-width:100%"></td>
-    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_saltgolem.png" alt="3e Salt Golem" style="max-width:100%"></td>
   </tr>
   <tr>
     <td style="text-align:center; font-weight: bold; width: 25%;">Sand Golem</td>
