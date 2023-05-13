@@ -1,0 +1,98 @@
+<table style="width:100%">
+  <tr>
+      <th style="text-align:center; width: 25%;">Creature Name</th>
+	  <th style="text-align:center">Current Model</th>
+      <th style="text-align:center">2e Art</th>
+      <th style="text-align:center">3e Art</th>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Algoid</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_algoid.png" alt="NWNDS Algoid" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_algoid.png" alt="2e Algoid" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_algoid.png" alt="3e Algoid" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Assassin Vine</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_assvines.png" alt="NWNDS Assassin Vine" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_assvine.png" alt="2e Assassin Vine" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_assvine.png" alt="3e Assassin Vine" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Plains Bloodgrass</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_bloodgrass.png" alt="NWNDS Plains Bloodgrass" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_bloodgrass.png" alt="2e Plains Bloodgrass" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_bloodgrass.png" alt="3e Plains Bloodgrass" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Blossomkiller</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_blossomkiller.png" alt="NWNDS Blossomkiller" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_blossomkiller.png" alt="2e Blossomkiller" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_blossomkiller.png" alt="3e Blossomkiller" style="width:100%"></td>
+  </tr>  
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Brain Seed</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_brainseed.png" alt="NWNDS Jade GOlem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_brainseed.png" alt="2e Jade GOlem" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_brainseed.png" alt="3e Jade GOlem" style="width:100%"></td>
+  </tr>   
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Burnflower</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_burnflower.png" alt="NWNDS Burnflower" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_burnflower.png" alt="2e Burnflower" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_burnflower.png" alt="3e Burnflower" style="max-width:100%"></td>
+  </tr>  
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Hunting Cactus</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_huntingcactus.png" alt="NWNDS Hunting Cactus" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_huntingcactus.png" alt="2e Hunting Cactus" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_huntingcactus.png" alt="3e Hunting Cactus" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Rock Cactus</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_rockcactus.png" alt="NWNDS Rock Cactus" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_rockcactus.png" alt="2e Rock Cactus" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_rockcactus.png" alt="3e Rock Cactus" style="max-width:100%"></td>
+  </tr>   
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Elven Rope</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_elvenrope.png" alt="NWNDS Elven Rope" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_elvenrope.png" alt="2e Elven Rope" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_elvenrope.png" alt="3e Elven Rope" style="max-width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Mandragora</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_mandragora.png" alt="NWNDS Mandragora" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_mandragora.png" alt="2e Mandragora" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_mandragora.png" alt="3e Mandragora" style="max-width:100%"></td>
+  </tr>  
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Sporebat</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_sporebat.png" alt="NWNDS Sporebat" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_sporebat.png" alt="2e Sporebat" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_sporebat.png" alt="3e Sporebat" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Athasian Treant</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_athasiantreant.png" alt="NWNDS Athasian Treant" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_athasiantreant.png" alt="2e Athasian Treant" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_athasiantreant.png" alt="3e Athasian Treant" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Carnivorus Tumbleweed</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_carntumbleweed.png" alt="NWNDS Carnivorus Tumbleweed" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_carntumbleweed.png" alt="2e Carnivorus Tumbleweed" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_carntumbleweed.png" alt="3e Carnivorus Tumbleweed" style="max-width:100%"></td>
+  </tr> 
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Twig Blight</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_twigblight.png" alt="NWNDS Twig Blight" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_twigblight.png" alt="2e Twig Blight" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_twigblight.png" alt="3e Twig Blight" style="max-width:100%"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; font-weight: bold; width: 25%;">Yellow Musk Creeper</td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/current_ymc.png" alt="NWNDS Yellow Musk Creeper" style="width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/2e_ymc.png" alt="2e Yellow Musk Creeper" style="max-width:100%"></td>
+    <td style="text-align:center"><img src="https://github.com/Jaysyn904/NWNDS/blob/main/_wiki_/images/3e_ymc.png" alt="3e Yellow Musk Creeper" style="max-width:100%"></td>
+  </tr>   
+</table>
