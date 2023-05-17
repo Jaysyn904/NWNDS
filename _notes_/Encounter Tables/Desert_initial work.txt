@@ -1,86 +1,37 @@
 From 2e Encounter Tables
 
-Aarokocra
-Anakore
 *Ant, Giant
-Antloid, Desert
-B'rohg
 *Basilisk, Dracolisk
 Bat, Large 
 Beetle, Agony
 *Brambletree
 *Brambleweed
-Bulette
-*Burnflower
 *Centipede, Giant (Monstrous Centipede)
 *Centipede, Megalo- (too big?)
 *Cha'thrang
 *Cloud ray (too big?)
-Crystal spider
-Desert Giant, Athasian
-Dragonne
-Drake, Earth
-Drake, Fire
-Drake, Water
 *Dune Runner
 *Dune Trapper (too big?)
-Dwarf
 *Dwarf banshee (make a "normal" banshee)
-Elves
-Gith
-Erdland
 *Fire scorpion
-Gaj
 *Genie, Djinn (Jann?)
-Heavy crodlu
 *Hornet (giant)
-Id Fiend
-Inix
-Insect Swarm, Athasian
-Jankz
-Jozhal
-Kank
-Kank, Wild
-Kes'trekel
-Earth Elemental, Lesser 
-Lizard, Giant
-Lizard, Minotaur
 *Megapede (too big?)
-Nightmare Beast
-Nikaal
-Razorwing
 *Red silt horror
 *Remorhaz
-Cactus, Rock
 *Sand Bride
 *Cactus, Sand
 *Sand Mother
 *Sandling
-Scorpion, Huge
-Scrab
 *Silt Runner
 *Sink Worm (too big?)
-Skeleton
 *Snake, Constrictor
 *Snake, Giant Constrictor
 *Snake, Spitting
-So-ut (needs advancing)
-*Cactus, Spider
-Spider, Large
-Spider, Phase
 Spirit of the Land (all unique)
 *Spotted Lion (Dire Lion?)
-T'chowb
-Tagster (Cat, Psionic)
-Thrax
-Thri-kreen
-Tohr-Kreen
 *Wasp (Giant)
 Wild mul
-Wyvern (Needs advancing?)
-Yuan-Ti
-Zhackal
-Zombie
 *Zombie, Ju Ju
 *Zombie, Monster
 
@@ -90,42 +41,19 @@ Zombie
 
 Sea of Silt
 
-Aarakocra
-Bat
-Beasthead Giant, Athasian
 Black Silt Horror
-Brain Seed
 Brown Silt Horror
-Burnflower
 Cloud Ray
-Demihumans
-Desert Giant
 Dune Runner
 Dwarf Banshee
-Earth Drake
-Erdland
-Fire Drake
-Floater
 Giant-Kin, Cyclops
 Gray Silt Horror
-Id Fiend
-Insect Swarm, Athasian
-Kes'trekel
-Plains Giant
 Pterrax
-Razorwing
 Red Silt Horror
 Roc, Athasian
-Rock Cactus
-Ruktoi
 Sand Vortex
-Silt Runner
 Silt Skimmer
 Sink Worm
 Spirit Of The Land
-Thrax
-Undead
-Villichi
-Water Drake
 White Silt Horror
-Zombie
+
