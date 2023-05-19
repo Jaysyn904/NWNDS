@@ -8,7 +8,7 @@ DMFI + HCR2 + CEP 2.69 + PRC 4.1.10a
 
 [21 Base Classes & 44 Prestige Classes](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Availible-Class-List)
 
-3 new Athasian 3.5e classes from the Dark Sun Campaign Setting, with more to come.
+3 new Athasian 3.5e classes from the Official Dark Sun Campaign Setting, with more to come.
 
 [25 Athasian Player races including 6 dynamic kreen models](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Available-Race-List#base-races)
 
@@ -25,6 +25,8 @@ Custom Mount system.  Mounted combat from an erdlu?  Yes you can!
 Custom Overworld Map System with over 240k square kilometers of Athasian terrain to explore.
 
 ### Contributions & Thanks
+
+Athas.org
 
 Acidchalk, Azimn, Draygoth, Tonden - Models & tilesets
 
