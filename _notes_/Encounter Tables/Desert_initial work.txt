@@ -1,12 +1,9 @@
 From 2e Encounter Tables
 
-*Ant, Giant
-*Basilisk, Dracolisk
-Bat, Large 
-Beetle, Agony
+
 *Brambletree
 *Brambleweed
-*Centipede, Giant (Monstrous Centipede)
+
 *Centipede, Megalo- (too big?)
 *Cha'thrang
 *Cloud ray (too big?)
@@ -15,7 +12,6 @@ Beetle, Agony
 *Dwarf banshee (make a "normal" banshee)
 *Fire scorpion
 *Genie, Djinn (Jann?)
-*Hornet (giant)
 *Megapede (too big?)
 *Red silt horror
 *Remorhaz
