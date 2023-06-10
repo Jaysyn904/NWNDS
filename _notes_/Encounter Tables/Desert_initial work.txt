@@ -1,33 +1,22 @@
 From 2e Encounter Tables
 
-
 *Brambletree
 *Brambleweed
-
 *Centipede, Megalo- (too big?)
+*Megapede (too big?)
 *Cloud ray (too big?)
 *Dune Runner
 *Dune Trapper (too big?)
-
-*Dwarf banshee (make a "normal" banshee)
-*Fire scorpion
-*Genie, Djinn (Jann?)
-*Megapede (too big?)
 *Red silt horror
 *Remorhaz
 *Sand Bride
 *Cactus, Sand
 *Sand Mother
-*Sandling
-*Silt Runner
 *Sink Worm (too big?)
 *Snake, Constrictor
 *Snake, Giant Constrictor
-*Snake, Spitting
 Spirit of the Land (all unique)
 *Spotted Lion (Dire Lion?)
-*Wasp (Giant)
-Wild mul
 *Zombie, Ju Ju
 *Zombie, Monster
 
@@ -41,8 +30,6 @@ Black Silt Horror
 Brown Silt Horror
 Cloud Ray
 Dune Runner
-Dwarf Banshee
-Giant-Kin, Cyclops
 Gray Silt Horror
 Pterrax
 Red Silt Horror
