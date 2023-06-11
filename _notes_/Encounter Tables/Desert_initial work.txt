@@ -1,33 +1,24 @@
 From 2e Encounter Tables
 
-*Brambletree
-*Brambleweed
-*Centipede, Megalo- (too big?)
-*Megapede (too big?)
-*Cloud ray (too big?)
-*Dune Runner
-*Dune Trapper (too big?)
-*Red silt horror
-*Remorhaz
-*Sand Bride
-*Cactus, Sand
-*Sand Mother
-*Sink Worm (too big?)
-*Snake, Constrictor
-*Snake, Giant Constrictor
+Brambletree / Brambleweed (needs scripted encounter area)
+Centipede, Megalo- (too big?)
+Megapede (too big?)
+Cloud ray (too big?)
+Dune Runner (needs scripted encounter)
+Dune Trapper (too big?)
+Sand Bride / Sand Mother (needs scripted encounter area)
+Cactus, Sand (placeable w/ aura?)
+Sink Worm (too big?)
 Spirit of the Land (all unique)
-*Spotted Lion (Dire Lion?)
-*Zombie, Ju Ju
-*Zombie, Monster
-
-
-
+Zombie, Ju Ju
+Zombie, Monster
 
 
 Sea of Silt
 
 Black Silt Horror
 Brown Silt Horror
+Red silt horror
 Cloud Ray
 Dune Runner
 Gray Silt Horror
