@@ -4,7 +4,7 @@ This repo deals with project tracking, bugfixing & information for the NWN Dark 
 
 ## Features
 
-DMFI + HCR2 + CEP 2.69 + PRC 4.1.10a
+DMFI + HCR2 + CEP 2.69 + PRC8
 
 [21 Base Classes & 44 Prestige Classes](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Availible-Class-List)
 
@@ -17,6 +17,8 @@ DMFI + HCR2 + CEP 2.69 + PRC 4.1.10a
 [15 Athasian animal companions, with more planned.](https://github.com/Jaysyn904/NWNDS/wiki/NWN-Dark-Sun-Available-Animal-Companions)
 
 18 new 3.5e spells from the Dark Sun Campaign Setting, wih more to come.
+
+Dark Sun Mechanics: Defiling Razes, Favored Terrain, Gladitorial Performaces, Arcane Terrain Modifiers and more.
 
 Custom Mount system.  Mounted combat from an erdlu?  Yes you can!
 
@@ -66,9 +68,9 @@ Francis Bonin - "Desert Sun Monk"
 
 ### Athas Reborn / Dark Sun Online Contributors
 
-#### The PRC Team
+#### The PRC8 Team
 
-#### The CEP Team
+#### The CEP2 Team
 
 #### Athas Reborn & Dark Sun Online contributors:
 Acidchalk, Andrak the Mad, Antoneagle, Aserath, Dante, Danule, Deek, Dom, Dreaderick, Dred, Drohgan, Elanthis Seldavius, Hellfire, Ihsaan, Jaysyn, Josten, Kenquinn, Klonapin, Kyriana Agrivar, Lorack, Magnus, Master Pain, Natana, NiteCap, Noob Punchingbag, Ranulf Majere, Rashod81100, Shadara, Sirna, Squirrel, Sutered, The Deadheart, The Inquisitor, The Obsidian Oracle, Tik, Trump, Wayne & Wrains
